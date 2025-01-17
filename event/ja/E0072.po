@@ -1,0 +1,379 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0072\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nで、どうすんの？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n佐々木を捕まえるにしたって、\nあの機械ぶっ壊すにしたって、\nあんなに人がいちゃ巻き添えにしちゃうよ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "あんなに人がいちゃ巻き添えにしちゃうよ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2_Choice1
+
+msgid "どうしよう…？"
+msgstr ""
+
+#. msg_2_Choice2
+
+msgid "火つけちゃおう！"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nこいつを利用するか…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n火災報知器…？\n引っぺがしてぶつけるの？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nいや…そうじゃなくて…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n冗談よ冗談。\n上タンじゃないわよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n阿呆…\nお前が言うと、冗談に聞こえねぇんだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nムカッ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＰａｎｉｃを起こすんですのね？\nそれなら、あのＤｕｃｔで煙りを焚いてはいかが？\nきっと効果ありますわ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nじゃあ、煙りを焚いてそのまま突入する組と、\n警報を鳴らす２組にわかれよう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nねぇマーヤ…\n皆ひょっとして、私がバカだと思ってる？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nこの殺伐とした雰囲気を和ませようとしてるの、\nわかんないのかねぇ…あの二人は？\n冗談と上タンよ？笑えるじゃない。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n二人ともお堅いですからね。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]克哉の笑い声\[color(white)\]\nクスッ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]舞耶うららエリー\[color(white)\]\n………\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n思い出し笑い…かしら…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nこいつを利用するか…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n火災報知器…？\n引っぺがしてぶつけるの？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nいや…そうじゃなくて…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n冗談よ冗談。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n阿呆…\nお前が言うと、冗談に聞こえねぇんだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nムカッ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n火事だという状況認識さえさせれば、いいからな。\nついでにダクトでゴミでも燃やしたらどうです？\n単に警報を鳴らすより効果的だ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nじゃあ、煙りを焚いてそのまま突入する組と、\n警報を鳴らす２組にわかれよう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nねぇマーヤ…\n皆ひょっとして、私がバカだと思ってる？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nこの殺伐とした雰囲気を和ませようとしてるの、\nわかんないのかねぇ…あの二人は？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n二人とも堅いからな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]舞耶うらら\[color(white)\]\n………\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n何か？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]舞耶うらら\[color(white)\]\nいえ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあんた、刑事さんの前でよくそんな事言えるわね…\n放火って罪重いのよ？\n死刑よ、死刑！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nいや…いいんじゃないか？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nうっそ、超信じらんない…！\nあんだけ犯罪犯罪騒いどいて、\nマーヤならなんでも許すわけ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nいや…そうじゃなくて…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nふ～ん、ほぉ～、こりゃビックリだわ。\n警察がこんなんじゃ、日本も終わりだね。\nへぇ～\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n阿呆…上見ろ、上。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n火災報知器ですわね…\nＰａｎｉｃさえ起こしてしまえば、\n燃やす必要ありませんものね。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n少し見てみたい気はしますけど。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nついでにダクトでゴミでも燃やしゃいい。\n警報だけよりマシだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n煙りを焚いてそのまま突入する組と、\n警報を鳴らす２組にわかれよう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nねぇマーヤ…\n皆ひょっとして、私がバカだと思ってる？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n私に言わせりゃ、こんな状況で頭の働くあんた達\nの方が、よっぽどどうかしてると思うんだけど…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n考え過ぎですわ。\nなんて言うか…Ｎａｔｕｒａｌで羨ましいですもの。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nそれに女性は、少しくらいおマヌケな方が\n可愛いって聞きますわ♥\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあのぉ～\nフォローになってないんですけど…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあんた、刑事さんの前でよくそんな事言えるわね…\n放火って罪重いのよ？\n死刑よ、死刑！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nいや…いいんじゃないか？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nうっそ、超信じらんない…！\nあんだけ犯罪犯罪騒いどいて、\nマーヤならなんでも許すわけ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nいや…そうじゃなくて…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nふ～ん、ほぉ～、こりゃビックリだわ。\n警察がこんなんじゃ、日本も終わりだね。\nへぇ～\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n阿呆…上見ろ、上。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n火災報知器か…\n火事だという状況認識さえさせれば、\n実際に火を付ける必要はないからな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nついでにダクトでゴミでも燃やしたらどうです？\n多少煙りでも送り込んでやれば、\n単に警報を鳴らすより効果的だ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n煙りを焚いてそのまま突入する組と、\n警報を鳴らす２組にわかれよう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nねぇマーヤ…\n皆ひょっとして、私がバカだと思ってる？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n私に言わせりゃ、こんな状況で頭の働くあんた達\nの方が、よっぽどどうかしてると思うんだけど…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n貴方の反応が普通なんですよ。\n皆、こういう状況に慣れてるからな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nただ、わからないのはＭｓ．天野だ…\n貴方のデジャ・ヴュは、一体どこから来るんです？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nにしてもパオのヤツ、ムカツクわね…\n阿呆阿呆って私ゃ鳥か！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＬｅｔ’ｓｇｏ♥\n男性陣がお待ちですわ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nさぁ、行きましょう。\n巡査部長たちが待ってる。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]トイレ\[color(green)\]\n誰もいない。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]トイレ\[color(green)\]\n誰もいない。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(yellow)\]トイレ\[color(green)\]\n誰もいない。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65
+
+msgid "\[color(yellow)\]トイレ\[color(green)\]\n誰もいない。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66
+
+msgid "\[color(yellow)\]トイレ\[color(green)\]\n誰もいない。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]トイレ\[color(green)\]\n誰もいない。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_68
+
+msgid "\[color(yellow)\]トイレ\[color(green)\]\n誰もいない。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_69
+
+msgid "\[color(yellow)\]トイレ\[color(green)\]\n誰もいない。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_70
+
+msgid "\[color(yellow)\]トイレ\[color(green)\]\n誰もいない。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_71
+
+msgid "\[color(yellow)\]清掃用具室\[color(green)\]\nここは開かない。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

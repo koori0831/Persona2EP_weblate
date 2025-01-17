@@ -1,0 +1,54 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00A0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n驚いたねどうも…\nなんてぇでかさだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n街を乗せて飛ぶくらいだからな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nこれさ、神様だか宇宙人だかの船って噂じゃん…？\nなんか、凄い罠とかあったりするんじゃ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n「向こう側」でシバルバーと呼ばれたこの船では、\n悪い思考が現実になる…\n下手な事は考えないほうがいい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nなぜそんな事が…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n人々の怖れ…不安…期待…\nそれが噂の形を借りて作り出したこいつは、\n無意識の世界の現身なんだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nフィレモンは、\n無意識の世界では思考が現実になると言った…\nたぶんそのせいだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nじゃあ、楽しい事考えればいいわけね。\n楽勝じゃ～ん？じゃんじゃ～ん。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nいや…ここはヤツの独壇場だ…\n何も考えるな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

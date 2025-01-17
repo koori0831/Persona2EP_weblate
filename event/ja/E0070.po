@@ -1,0 +1,24 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0070\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nじゃあ、男共呼んで来るから。\nフタ外しといて。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nビンゴビンゴ。\nあったよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nよし行こう。\nここは居心地が悪くてかなわない…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

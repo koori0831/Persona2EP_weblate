@@ -1,0 +1,89 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00A7\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n刃物は柄を持てと教えたはずだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n済まない…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n何も言うな。\n\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "弟は、これくらいで頭を下げたりしない…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nいや…\n\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "俺の中で眠ってる「こちら側」の俺も…\n同じように感じてるみたいだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nそうか…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nほんと、不器用な兄弟だこと…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n私は一人っ子だから経験ないけどさ、\n兄弟っていいもんね…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n克哉さんがボソって話してくれたんだけど、\n\[tatsuya\]君、お父さんの事でグレてたらしいよ…\n尊敬、してたんじゃないのかな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n克哉さんはそれをどうにかしたくて刑事になった。\n弟の性格を知ってるから、本当の事は言えない、\n自分がお父さんの汚名を晴らすってね…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nなぜ、もっと早く気づいてやれなかった…\n「こちら側」の事…「向こう側」の事…\n不甲斐ない…！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nお前さん、\nアイツを止めようなんて気ぃ起こしなさんなよ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nあの歳で、こんな下らねぇ世の中一つ背負って\n命張ろうってんだ…\nやりたい様にやらしてやんな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nそんで失敗したら抱いてやれ。\nそれでいい…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n済まない舞耶姉…迷惑をかけた…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

@@ -1,0 +1,14 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0026\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]受付嬢\[color(white)\]\nあ、舞耶！\nあなたの編集部のお局様が、探してたわよ。\n凄い剣幕だったから、急いだ方がいいと思う。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

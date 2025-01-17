@@ -1,0 +1,759 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0052\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "パーティの人数が四人を超えています。\nこのままじゃハングします。\n金田・片岡に連絡してください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nな、何なのあのコ！？\nちょっと怖すぎぃ～\[delay(30)\]\n…！！\[delay(30)\]…もしかして！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nなんかカレ、すっごいノンキね。\n普通風紀委員っていったらさぁ、もっとこう\nきちっ、きちっ、としてそうじゃない？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n…やっぱりここにいたコも\nＪＯＫＥＲ呪いしてたのかなぁ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nなんかカレ、すっごいノンキね。\n普通風紀委員っていったらさぁ、もっとこう\nきちっ、きちっ、としてそうじゃない？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nおーおー、風紀委員の彼ってば、\nなんか立派なこと言ってるよ。\n…クソ真面目くんってカンジだね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nマーヤー、ここじゃないでしょ？\n目的地は違う場所よ～？\nあんた、わかってんの～？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nマーヤにあんな過去があったなんてねぇ。\n全然知らなかっ…ん？過去じゃないのか。\n「向こう側」の世界の…過去の話？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n風紀委員の彼、一度も外に出てないのかな？\nまさか…そんな事ないよ…ねぇ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nなんか盛り上がっちゃってるねぇ。\n頑張るから…\[delay(30)\]私も混ぜてー！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nなに、あの子達ってば\n何におびえてんの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nあそこの彼、危ない事を口走っているな。\nあのような一部の生徒の存在が、\nこの学校の評判を落としているという訳か。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n呪われた防空壕と、多くの女性に恨まれる事。\n僕は…女性に恨まれる方が怖いよ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nう～む、確かに彼からは危ない感じを受けるが、\n今はノリコ君の事を優先すべきだろうな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nう～む、確かに彼からは危ない感じを受けるが、\n今は事件の真相究明を優先すべきだろうな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n恐らく、既に多くの人々がＪＯＫＥＲ使いと\nなってしまっただろう。\n…流行に敏感な、多くの未成年者まで……\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n高校生にあるまじき行為とは一体…\n事件だ！…事件の匂いがするぞ！\n…天野君はどんな行為だったと思う？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n組織に属する者が皆、自分の役割を認識し、\n行動すれば誰も苦労はしない筈だが、\n現実にそれが実現される事はまず無いな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nあ、…天野君？\nここが\[tatsuya\]の言った場所なのかい？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n「向こう側」での事、僕にはあまり関係無いな。\n僕にとっての天野君とは、\n「こちら側」の天野君、そのものの事だからな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n仕事熱心というか、危機感が無いというか。\n今更とは思うが、彼に外の状況を教えるべきかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n人々の顔をこれ以上曇らせる訳にはいかない。\n…当然、天野君も含まれてるよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n彼等が何に怯えているか知らないが、\n今の我々には関係無い事なのでは？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nフン、サイコ野郎か…\n実際に行動に出るヤツは少ないって話だが、\nコイツの場合はどうなんだ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n…恨んだ女が化けて出る。\n最悪のシチュエーションだよなぁ。\n一発で酔いも醒めるってもんだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n…ま、犯罪を犯しそうなヤツと、\n犯したヤツでは比較にならねぇからなぁ。\nノリコってコの拉致の件を優先すべきか。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n…ま、犯罪を犯しそうなヤツと、\n犯したヤツでは比較にならねぇからなぁ。\n事件の手がかりを見付ける方が先だな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n他人を呪ったんだ。\nそれ相応の罰を受けるのは当然だろぉ？\n…とは言いきれないよな、この現代社会じゃ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n春日祭で不祥事ねぇ。大体、祭りっていうのは\n特別な日だろ？ハメを外す為にあるんだよ。\n…お前ら、ハレとケって知らないのか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nああいう事言うヤツと一緒にいると、\n異常に肩がこるんだよなぁ。\n…\[suou\]とかさぁ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nここに来た目的は何だ？\n防空壕に用はねぇはずだぞ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nはぁ～芹沢はホントに阿呆だな。\n普通の時間感覚で語れる話じゃねぇのによ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nあの坊主、黙ってここにいさせた方がいいぞ。\n今は外の方がよっぽど危険だろう。\n…俺達も面倒見てやれないしな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nへへ、どうしたんだ\[tatsuya\]？\nビビったのか？だらしねぇなぁ。\nそんなんじゃ舞耶ねぇちゃんに嫌われちゃうぜ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n…くだん？あの体が牛で顔が人間の妖怪か？\nフン、どうせまた噂が噂を呼んで…\nってヤツじゃねぇのか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n因果応報…では済まされませんね。\n誰もが単なる噂と思っていた訳ですから。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n俺達の、あの高校時代。\nあれは高校生にあるまじき生活だったのでは？\n…う～む。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n組織を構成する者が真面目であればある程に、\nトップの能力が重要となる。\nだからこそ、１番には特別な意味があるのだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nここは…春日山高校ですよ！？\nあなたを信じた事…後悔させないでください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n予想出来なかった訳ではありませんが、\n占いなどのＣａｓｕａｌ化が\nこのような状況を生むとは…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n私達の、あのＨｉｇｈｓｃｈｏｏｌｌｉｆｅ…\nあれは高校生にあるまじき生活だったのでは？\nＨｍｍ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n責任感が強いのは結構ですが、\n緊張の持続は体に良くありませんわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n私、Ｒｅｌａｘｔｉｍｅには\nＡｒｏｍａｔｈｅｒａｐｙを\nお薦めします。…いかがです？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nここは…\nＫａｓｕｇａｙａｍａｈｉｇｈｓｃｈｏｏｌ\nではないですか、Ｍｓ．Ａｍａｎｏ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n…何故、ここへ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n…ここで話す訳にはいかない。\nあんたになら、わかるはずだが？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n同じ時間軸にあると仮定するならば、\nあそこで見たのは全て過去の出来事。\n…グランドクロスよりも前に起きた事だ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nパオフゥさんの言う通りだ。\n舞耶姉、彼はここにいた方が安全だと思う。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n竜蔵が消え、天誅軍も混乱している。\nもうここは…彼の事は心配いらないな。\n…俺達がニャルラトホテプを倒せたらの話だが…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n…くだん？\n知ってるような…知らないような？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nここ、あれだろ？呪われた防空壕があるって\n言われてるとこだろ？な、何の用があるんだよ。\nオ、オレ、こういうの苦手なんだよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]杉本\[color(white)\]\nヘッヘッヘ、ブッ殺してやる！\n中坊ン時の恨みを晴らすんだぁ！！\nヒャーッハッハッハッ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]杉本浩樹（すぎもとひろき）\[color(green)\]\n春日山高校に通う、評判の不良生徒。\n中学時代に番長に負け、渋々子分となっていたが、\n密かに反逆の機会をうかがってるらしい。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(yellow)\]杉本浩樹（すぎもとひろき）\[color(green)\]\n春日山高校に通う、評判の不良生徒。\n中学時代に栄吉に負け、渋々子分となっていたが、\n密かに反逆の機会をうかがってるらしい。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]杉本\[color(white)\]\nあぁ～何だお前らは！？\n勝手に話しかけんじゃねー！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "\[color(yellow)\]杉本\[color(white)\]\nあぁ、何だお前ら！？\n勝手に話しかけんじゃねーって\n言ってんだろう！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]杉本\[color(white)\]\nＪＯＫＥＲ呪い？ンなもん知るかよ。\n…知らねーつってんだろ！？\nサッサと失せろぉ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]杉本\[color(white)\]\n…ヒャーッハッハッハッ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\nふぅ、今日は何事も無く終わりそうだな。\n何かあったら見張っている意味は無いけど、\n何にも無いのは…ヒマだなぁ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\nおっと、この先は立ち入り禁止ですよ？\n風紀委員の僕の目が黒いうちは、そう簡単に通す\nワケには…え、なんですか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "え、なんですか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60_Choice1
+
+msgid "名前を言い当てる"
+msgstr ""
+
+#. msg_60_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_60_Choice3
+
+msgid "用はない"
+msgstr ""
+
+#. msg_61
+
+msgid "キノシタジュンジ\n\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\nそれ、誰のことですか？\nその人、何かしたんですか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]キノシタジュンジ\[color(white)\]\nえ、僕の名前をどうして？\n…はぁ？ウチの母さんが僕を捜してる！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(yellow)\]キノシタジュンジ\[color(white)\]\n何で？僕は学校に来てるだけですよ？\n母さんにもそう言ってあるのに…\nわかりました。連絡しときます。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65
+
+msgid "\[color(yellow)\]キノシタジュンジ\[color(white)\]\nもう、母さんは心配性だからなぁ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n…え、彼ですか？\nシッ！…もっと小さい声で。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n…もともと荒っぽいやつなんですけど、\n最近は、より暴力的になったんですよ。\n…シッ！…え、誰を恨んでるかって？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_68
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n…そんなの知りませんよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_69
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n…シッ！\n…あぁ、もう彼を刺激しないで下さい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_70
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n一緒にいる身にもなってください。\n…なんで一緒にいるのかって？\n僕は風紀委員でここを見張ってるんです。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_71
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n彼がここにいる理由なんか知りませんよ！\n…あぁ…シッ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_72
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\nはぁ～退屈だなぁ～\n…え、なんで僕がここにいるのか…ですか？\n僕はここの見張りを任された風紀委員です。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_73
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\nはぁ～気楽だな～\n…え、杉本君ですか？僕は知りませんよ。\nここにいるのが飽きたんじゃないですか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_74
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n…え、なんで僕がここにいるのか…ですか？\n僕はここの見張りを任された風紀委員です。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_75
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n実は…春日祭の当日、ここで高校生にあるまじき\n行いをした者がいましてね、それ以来風紀委員が\n常に見張っているんですよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_76
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_77
+
+msgid "\[color(yellow)\]キノシタジュンジ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_78
+
+msgid "外で何があろうと、\n僕は風紀委員としての役目を果たします。\nそれが組織に属する者の務めですから。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_79
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_80
+
+msgid "\[color(yellow)\]キノシタジュンジ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_81
+
+msgid "す、済みません！外はどうなってるんですか？\nこの間から、妙にフワフワと浮いた感じが\nするんですけど…なぜですかね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_82
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_83
+
+msgid "\[color(yellow)\]キノシタジュンジ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_84
+
+msgid "長い間ここにいたら、\n外の事が全くわからなくなっちゃいました。\n早く次の見張りが来ないかな～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_85
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_86
+
+msgid "\[color(yellow)\]キノシタジュンジ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_87
+
+msgid "康夫が見たそうですよ。\n…何を？くだんの化け物ですよ、化け物！\n噂になってたでしょう？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_88
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_89
+
+msgid "\[color(yellow)\]キノシタジュンジ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_90
+
+msgid "おっと、この先には行かないでください。\n…ここですか？ここは昔使われていた防空壕…\n呪われた防空壕って言われています。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_91
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_92
+
+msgid "\[color(yellow)\]キノシタジュンジ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_93
+
+msgid "古く危険な上に、怪物が出るとか噂されてます。\nまぁ、最近はウチの学校そのものが\nお化け屋敷みたく言われてますけど…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_94
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_95
+
+msgid "\[color(yellow)\]キノシタジュンジ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_96
+
+msgid "何にしても危険な場所なので、立ち入り禁止です。\n…マジな話、この防空壕の中に入ると\n自分のいる場所がわからなくなるんですよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_97
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_98
+
+msgid "\[color(yellow)\]キノシタジュンジ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_99
+
+msgid "地図が無いと迷って出られなくなるんです。\n僕は風紀委員として………え、地図をくれ？\nそれでも行くって言うんですかぁ！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_100
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_101
+
+msgid "\[color(yellow)\]キノシタジュンジ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_102
+
+msgid "まぁ、皆さん大人なので大丈夫でしょう。\nちなみに…地図はありませんよ。\n前に入ったヤツが中で落としたんでね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_103
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_104
+
+msgid "\[color(yellow)\]キノシタジュンジ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_105
+
+msgid "防空壕のどこかに落ちているはず…ですが、\n中で何かあっても僕は知りませんよ！？\n…僕は止めましたからね！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_106
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_107
+
+msgid "\[color(yellow)\]キノシタジュンジ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_108
+
+msgid "え、くだん？あぁ、例の怪物の話！！\nあれは康夫をからかっただけですよ。\nいやぁ、最近つまんなくてね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_109
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n…あ…あ…や…康夫さん…？\nさ…さっきの…\nあ、あれって、な、な、な、なんなんスか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_110
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\nた、確かに何かいた…ような…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_111
+
+msgid "\[color(yellow)\]井上康夫（いのうえやすお）\[color(green)\]\nごく平凡な春日山高校の生徒。\n生徒会長となって脚光を浴びることを夢見ているが\n行動に移す気はないようだ。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_112
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\nなんか牛みたいなのが…はっ！！\nうちの、じ、じいちゃんに聞いた事がある。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_113
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\nぼ、\[color(orange)\]防空壕\[color(white)\]の奥に…奥にいたのは…くだん…\nそうあれは、\[color(orange)\]くだん\[color(white)\]！！…ああ…恐ろしい！！\nダメだ、もう何も想像したくない。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_114
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\nぼ、防空壕の奥に…奥にいたのは…くだん…\nそうあれは、くだん！！…ああ…恐ろしい！！\nダメだ、もう何も想像したくない。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_115
+
+msgid "ＥＢＩＴＥ００３７\n「克哉帰還」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_116
+
+msgid "ＥＢＩＴＥ００３８\n「詐欺男を確保」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_117
+
+msgid "ＥＢＩＴＥ００３Ｅ\n「うらら編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_118
+
+msgid "ＥＢＩＴＥ００４３\n「クラブクリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_119
+
+msgid "ＥＢＩＴＥ００４６\n「南条ｏｒエリー編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_120
+
+msgid "ＥＢＩＴＥ００６Ｆ\n「研究施設・ＴＶ局クリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_121
+
+msgid "ＥＢＩＴＥ００７７\n「スマイル平坂クリア・克哉離脱」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_122
+
+msgid "ＥＢＩＴＥ００７Ａ\n「野音クリア・克哉編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_123
+
+msgid "ＥＢＩＴＥ００７Ｂ\n「竜蔵と殺し屋の電話を盗聴」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_124
+
+msgid "ＥＢＩＴＥ００７Ｆ\n「廃工場クリア・パオフゥ編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_125
+
+msgid "ＥＢＩＴＥ００８Ｃ\n「海底遺跡クリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_126
+
+msgid "ＥＢＩＴＥ００９Ｆ\n「岩戸山クリア・南条かエリー離脱・達哉編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_127
+
+msgid "ＥＢＩＴＥ００ＡＦ\n「アメノトリフネクリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_128
+
+msgid "ＥＢＩＴＥ００Ｂ８\n「珠「瑠城クリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_129
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_130
+
+msgid "\[color(yellow)\]キノシタジュンジ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_131
+
+msgid "おっと、この先には行かないでください。\n…ここですか？ここは昔使われていた防空壕…\n呪われた防空壕って言われています。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_132
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_133
+
+msgid "\[color(yellow)\]キノシタジュンジ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_134
+
+msgid "古く危険な上に、怪物が出るとか噂されてます。\nまぁ、最近はウチの学校そのものが\nお化け屋敷みたく言われてますけど…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_135
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_136
+
+msgid "\[color(yellow)\]キノシタジュンジ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_137
+
+msgid "何にしても危険な場所なので、立ち入り禁止です。\n…マジな話、この防空壕の中に入ると\n自分のいる場所がわからなくなるんですよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_138
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_139
+
+msgid "\[color(yellow)\]キノシタジュンジ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_140
+
+msgid "地図が無いと迷って出られなくなるんです。\n僕は風紀委員として………え、地図をくれ？\nそれでも行くって言うんですかぁ！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_141
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_142
+
+msgid "\[color(yellow)\]キノシタジュンジ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_143
+
+msgid "まぁ、皆さん大人なので大丈夫でしょう。\nちなみに…地図はありませんよ。\n前に入ったヤツが中で落としたんでね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_144
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_145
+
+msgid "\[color(yellow)\]キノシタジュンジ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_146
+
+msgid "防空壕のどこかに落ちているはず…ですが、\n中で何かあっても僕は知りませんよ！？\n…僕は止めましたからね！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

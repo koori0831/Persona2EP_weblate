@@ -1,0 +1,439 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M003A\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "パーティの人数が四人を超えています。\nこのままじゃハングします。\n金田・片岡に連絡してください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]新米警察官\[color(white)\]\nピ～～～～～～～～～～～～～～～～～～～！！\nそこから先は関係者以外、立ち入り禁止ッス！\n入っちゃダメダメッス！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nありゃ…ここは犬の人形？\n\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "あの探偵事務所といい、\nこの街は妙なオブジェ多いねえ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n実はね、牧村に騙されてたと気づいた時も、\n警察に通報はしてなかったんだ。\nなぜって…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n逮捕されちゃったら、鉄拳制裁できないからねぇ！\n私はそんなに甘くないっての！\n\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "……ま、今となっちゃ昔の話だけどね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nマーヤって…指名手配された事ある？\n…ある訳無いよね…\nどうしちゃったんだろ私。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nここが僕の勤務地だ。\n皆気の良い連中だが、今は勤務時間だ。\n迷惑はかけないように頼む。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n既に新たなＪＯＫＥＲ事件が数件発生している！\n状況が変わったんだ！\nマニュアル捜査ではこれに対処できん。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n肝心な時に動けんのでは刑事になった意味が無い。\n例え時代と共に警察のあり方が変わろうと、\n僕の、親父から学んだ信念は変わらん。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n上の情報はここまで回っていないようだな。\nやはり上層部が情報を操作して…\n…あってはならん事だ…このままでは…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n僕はあのスニークを信じたい。\n全てを疑うのは簡単だが、それだけでは、\nいつまで経っても真実に辿りつけんからな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nふん…変わらねぇな…\nこの雰囲気は…\n所詮は、お役所仕事か…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nやれやれ…あの甘ちゃんも、\nやっと現実ってもんが分かってきたようだな。\n今の警察は、どこぞの企業と変わりねえのさ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n署長の部屋に盗聴機の一つでも仕掛けられれば\n話は早いんだがな…曲がりなりにもさすが警察署。\nとてもそこまで辿り着けそうにねえな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n盗聴機は素人相手にしか効果が無い。\n見抜かれたら逆にこっちが危ねえからな。\n敵さんも俺がいると知っててそれはせんだろう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n簡単な消去法だぜ。\n今まで俺達が接触してきた人間は誰だ？\nそして唯一、その正体が分からねぇままの奴は？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nこのままじゃ何もかも奴等に先を越される。\nどこから情報が漏れているのか…\nそれを突き止めねえとな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nやはり警察全体が、\n新世塾の傘下という訳ではなさそうですね。\n内部でも多少の混乱が起きているようだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n俺達は確実にセキュリティを外していた。\n神取は我々が来ることを知っていたんだ。\n…情報が漏洩しているのか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nここの方々は、新世塾との癒着については、\n何も御存じないようですわ。\nやはり、一番怪しいのは署長さんでしょうか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n奇門遁甲の陣を張るには、時間がかかります。\nＷａｎｇｌｏｎｇ千鶴は、私達が来ることを\n前もって知っていたのでしょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nあ…あれ！？あれ！？\nま、まさか、警察に突き出すつもりじゃ…\nだってＧＯＬＤでうららが待ってるんだろ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]婦警さん\[color(white)\]\nねえ聞いて聞いて！\nあの克哉さんがね！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]婦警さん\[color(white)\]\nちょ…ちょっと、ここじゃダメよ…\n\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "そ、そうねえ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]婦警さん\[color(white)\]\n後であの裏で聞かせて。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]婦警さん\[color(white)\]\nＯＫ♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]婦警さん\[color(white)\]\nう～\n早く喋りたい！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]婦警さん\[color(white)\]\nう～\n早く聞きたい！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\nひそひそ…\nねえ、あなたバレンタインどうしたの？\n克哉さんにチョコ渡したの？ひそひそ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\nひそひそ…うん。\nチョコレートケーキ作ってプレゼントしたの…\nひそひそ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\nひそひそ…え？ケーキ？手作りケーキ？\nあんたやるわねぇ…男はその手のヤツに弱いのよ。\nで？どうだった？ひそひそ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\nそれが…\n食べてはくれたんだけど…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\nどうだったのよ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\nバターは無塩バター、\nチョコはスイートチョコを使え。\nそれとココアを入れれば味に深みが出るぞ。\n\[wait\]\[clear\]\[color(yellow)\]婦警さんの声\[color(white)\]\n次はラム酒も少し入れてみるといいだろう。\n食べた時の印象が大きく変わる。\nそれからマジパンの使いすぎだ。…だって。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\nひそひそ…\n…なによそれ？\nホントに克哉さんがそう言ったの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\n最後に、誕生日でもないのにケーキとは、\nキミも面白いな…だって…\n私もう立ち直れない…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\n……\nな…なんか…慰めにくいわね…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\nひそひそ…\nねぇ、克哉さんって何が好きなのかな？\nひそひそ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\nひそひそ…基本的に辛いのダメみたい。\nだけどカレーは好きらしいよ。\nひそひそ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\nひそひそ…\nカレーは辛いでしょ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\nひそひそ…\nだから甘口頼んでるらしいの。\nそれがこの前、大失敗しちゃったみたいで…\n\[wait\]\[clear\]\[color(yellow)\]婦警さんの声\[color(white)\]\nひそひそ…\nカレー食べ終わった後、\nコーヒー飲んじゃったんだって。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\nひそひそ…\n…それって大変なの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\nひそひそ…\nカレー食べた後にコーヒー飲むと、\n余計に辛く感じちゃうのよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\nひそひそ…\nへぇ…そうなんだ…\n…で？克哉さんどうなったの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\nひそひそ…\nそれなりに悲惨だったらしいよ…\nひそひそ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\nひそひそ…\n克哉さんって、婦警に人気だけど、\nいっつも厳しい顔してるよね。鉄仮面って感じ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\nひそひそ…\nふふふ。でも私見ちゃったんだぁ。\nその鉄仮面が崩れる瞬間を♥\n\[wait\]\[clear\]\[color(yellow)\]婦警さんの声\[color(white)\]\nひそひそ…\nあの克哉さんがね、\n道端で子猫を抱いてニコニコしてたの！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\nきゃーーっ！！まじまじ？\nあれ…だけど、克哉さんって、\nアレルギーなんじゃ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\nひそひそ…うん。\nその後大変だったみたい。\n例の鉄仮面で表には出てなかったけど…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]婦警さんの声\[color(white)\]\nネコ好きなのに、アレルギーなんだ…\nなんか大変ね…それも…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(yellow)\]生真面目な警察官\[color(white)\]\nああ、克哉さんのお知り合いの方ですか。\n克哉さんほど、真面目で正義感のある人は、\nこの署内にもいませんよ。少し心配性ですが…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]生真面目な警察官\[color(white)\]\n科学館で何があったんですか？\n克哉さんはびしょ濡れで戻ってくるし…\nなんで自分達は待機のままなのでしょう？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "\[color(yellow)\]生真面目な警察官\[color(white)\]\nさっきから電話が鳴りっぱなしですよ！\nどれもこれも、突然人が暴れ出したって！\nこれじゃいくら警官がいたって足りませんよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]生真面目な警察官\[color(white)\]\n最近街で、暴行事件が多発しているのですが、\nまだ被疑者は一人も捕まっておりません。\nその…何とも妙でして…\n\[wait\]\[clear\]\[color(yellow)\]生真面目な警察官\[color(white)\]\n通報を受け現場に駆けつけたときには、\nもう騒ぎは収まってて、被疑者も消えてるんです。\n目撃者の話では誰かが連れ去ったようなのですが\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]色白な警察官\[color(white)\]\n最近は気味の悪い事件が多くて嫌になります。\n特に殺人事件など、目を背けたくなるような\n残忍な手口で…あ、いや、失礼しました。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "\[color(yellow)\]色白な警察官\[color(white)\]\nしかし…あれが人間の仕業でしょうか？\n少し前までは、例え法を犯していても、\n相手は人間であると、認識できたのに…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]色白な警察官\[color(white)\]\n克哉さん、戻ってくるなり、\n署長室に走って行きましたよ。\nあの様子じゃまた衝突しそうだ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "\[color(yellow)\]色白な警察官\[color(white)\]\n無闇に外出しないで下さい。\n今、あちこちでＪＯＫＥＲ事件が発生しています。\nいつ何時犯人が現れるとも限りませんから！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61
+
+msgid "\[color(yellow)\]色白な警察官\[color(white)\]\n最近は誘拐事件まで多発しているようですよ。\n目撃者の話では、黒服の男達が連れ去ったとか…\n組織的な犯行でしょうか。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]ベテラン警察官\[color(white)\]\n克哉は、ああ見えてもまだ若いんだ。\nなのに不出来な弟の為に、限られた給金から\n学費を捻出し、生活の面倒まで見てやってる。\n\[wait\]\[clear\]\[color(yellow)\]ベテラン警察官\[color(white)\]\n敏腕だの、堅物だのと言われているが、\n結局アイツは、自分を犠牲にして、\n何かを必死に守ってる。一番人間臭いヤツさ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]ベテラン警察官\[color(white)\]\n現外務大臣の須藤竜蔵は知っているな？\n何かと黒い噂の絶えない御仁だ。\n最近克哉は、その尻尾を押さえようと必死でな。\n\[wait\]\[clear\]\[color(yellow)\]ベテラン警察官\[color(white)\]\nいつもは冷静沈着を売りにしてるようなヤツが、\n竜蔵の事となると目の色変えて奔走する…\n正義感が強いってだけで、ああなれるもんかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(yellow)\]ベテラン警察官\[color(white)\]\nちっ、管理官のやつ、捜査本部しきっときながら、\nこっちにゃまるで情報まわしやがらねえ！\n俺ら所轄じゃアテにならないってのか！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65
+
+msgid "\[color(yellow)\]ベテラン警察官\[color(white)\]\nどうも捜査本部の動きがヘンだな…\n的外れな捜査を繰り返して、\nわざとここら一帯を手薄にしているような…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66
+
+msgid "\[color(yellow)\]新米警察官\[color(white)\]\nくふぅ…自分も頑張って早く刑事になりたいッス！\nそして克哉さんのように、バリバリ働いて、\n婦警にモテモテになりたいッス。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]新米警察官\[color(white)\]\nだけど克哉さんって彼女とかいないんスよね。\nやっぱ、仕事が恋人なんスかね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_68
+
+msgid "\[color(yellow)\]新米警察官\[color(white)\]\n不思議ッス。科学館が燃えること、\n前に夢で見た気がするッス。\nまさか正夢というヤツじゃ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_69
+
+msgid "\[color(yellow)\]新米警察官\[color(white)\]\nい、いや、だとしたら、\nこの警察署も燃えているはずッス。\nや…やっぱ、何かの勘違いッス。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_70
+
+msgid "\[color(yellow)\]新米警察官\[color(white)\]\nそ…そりゃ、自分達はノンキャリですけど、\n少しは捜査に参加したいッスよ！\nあ…あの管理官じゃ、やっぱダメッス！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_71
+
+msgid "\[color(yellow)\]新米警察官\[color(white)\]\nさっき署長がコソコソと外に出て行くの見たッス。\n顔を隠してたけど…あれは間違い無いッス。\nいったいドコに、何しに行ったんでしょうね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_72
+
+msgid "\[color(yellow)\]新米警察官\[color(white)\]\n署長…\nさっきまでどこに行ってたんスかね？\n後ろ姿が寂しげだったッス。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_73
+
+msgid "\[color(yellow)\]ポーピーくん\[color(white)\]\n百円入れてワーン♥\n百円入れてワーン♥\n百円入れてワーン♥\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_74
+
+msgid "ここに百円入れて欲しいワーン♥\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_74_Choice1
+
+msgid "入れる"
+msgstr ""
+
+#. msg_74_Choice2
+
+msgid "入れない"
+msgstr ""
+
+#. msg_75
+
+msgid "\[color(yellow)\]ポーピーくん\[color(white)\]\nあっ、持ってないワーン♥\nうそつきは泥棒の始まりワーン♥\n姉ちゃん、出直してきな。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_76
+
+msgid "\[color(yellow)\]ポーピーくん\[color(white)\]\nワン！\[delay(15)\]\nもう５０００円溜まったワン！\[delay(15)\]\nワーンダフル！！\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_77
+
+msgid "\[color(yellow)\]ポーピーくん\[color(white)\]\nワン！\[delay(10)\]\nついに１００００円も募金が集まったワン！\[delay(15)\]\nこれもひとえに、お姉さんのおかげワン！！\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_78
+
+msgid "\[color(yellow)\]ポーピーくん\[color(white)\]\nこれはそのお礼ワン！\n\[color(green)\]\[var(msg_var_0)\]\[color(white)\]。\nどど～んとプレゼントワン♥\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_79
+
+msgid "\[color(green)\]舞耶達は、\n\[item_with_type(item_ffff)\]を手に入れた。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_80
+
+msgid "\[color(yellow)\]ポーピーくん\[color(white)\]\nありがとワーン♥\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_81
+
+msgid "\[color(yellow)\]ポーピーくん\[color(white)\]\n…\[delay(15)\]ケチ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_82
+
+msgid "\[color(yellow)\]ご案内\[color(white)\]\nＢ１Ｆ総合相談センター、外国人困りごと相談\n１Ｆ遺失物管理所、免許更新受付、相談コーナー\n２Ｆ犯罪被害者相談、災害対策課、交通捜査課\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_83
+
+msgid "\[color(yellow)\]ご案内\[color(white)\]\n３Ｆ捜査二課聴訴室、防犯総務課、家事相談室\n４Ｆ鑑識課身元不明相談室、少年第一課\n５Ｆ家出人相談室、特捜第一課\[wait\]\[clear\]\[end\]"
+msgstr ""
+

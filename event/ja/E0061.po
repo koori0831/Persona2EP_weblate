@@ -1,0 +1,64 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0061\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nだいじょぶだって！\nホ～ラ、誰もいない…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nって…ぎゃぁぁぁぁ！？\nう、う、う、うでうでうでうで…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]ストーカー\[color(white)\]\nうひ、うひ、うひ、うひぃ～\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＮｏ…Ｎｏ…ＮｏＮｏＮｏ！！\n\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "Ｉ’ｍｆｅｄｕｐ！！\n一方的な好意は迷惑なだけですわ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]ストーカー\[color(white)\]\nこんなに好きなのにかい…？\nこんなに想ってるのにかい…？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＹｅｓ！Ｙｅｓ！！Ｙｅｓ！！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]ストーカー\[color(white)\]\nそんなにアイツがいいのかぁぁぁ！？\n迷惑だとぉぉぉ！？\nてめぇも俺と同じじゃねぇぇかぁぁぁ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n私が…同じ…？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]ストーカー\[color(white)\]\nおめぇと俺は同じだよぉぉ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nうるせぇー！\nこんのドちくしょーーーーーぅ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

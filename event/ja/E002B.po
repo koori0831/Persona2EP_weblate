@@ -1,0 +1,49 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E002B\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "ＧＯＬＤボクシングジム\n\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n私にゃ関係ないわよ…\[delay(30)\]\n\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "責任だって果たしたじゃない…\[delay(30)\]\n\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "後はどうなろうと、知ったこっちゃないわ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]ＧＯＬＤの会員\[color(white)\]\nさっきのワイドショー見た？\nワンロン千鶴が言ってたんだけどさ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]ＧＯＬＤの会員\[color(white)\]\nＪＯＫＥＲ呪いをした人は、自分もＪＯＫＥＲに\nなっちゃうってヤツでしょ。\n\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "でも、本当だと思う？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

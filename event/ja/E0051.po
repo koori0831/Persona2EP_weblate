@@ -1,0 +1,44 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0051\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nだあぁー！！\n早く早く！！\nみんなもう車に乗ってるぜ！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nとっとと車に乗れ、坊主！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nうぎゃあああ！\n追いつかれたぁー！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]悪魔化した杉本\[color(white)\]\nゴアアアアアアア！！\nえいぎぢぃ～！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nす、杉本！？\n杉本なのか…？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n許せ…少年…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nや、やめろぉぉぉ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

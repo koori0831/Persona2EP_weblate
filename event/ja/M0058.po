@@ -1,0 +1,444 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0058\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "ヒットＩＤがみつかりません。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nこんな所でアイテム売ってるんだぁ…\nだけどそんな物、\nどこから調達してくるんだろ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nこ…この部屋はなんだ？\nあのフィレモンの空間と似た気配を感じるが…\nここも異世界なのか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n事件の起きた場所には、\n何故か独特の雰囲気が漂う。\nそのせいか、薄気味悪い話もよく聞くんだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n先日起きた猟奇殺人の現場にも、\nその手の怖い話があってな…まったく、\n冗談でも、ああいう話は止めてほしいものだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n回復料金もそうだが、\nアイテムの価格も街とは随分違うな…\n妖精のする事とは思えん。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n俺もこの部屋の事はよく知らねぇんだ。\nあのチロチロ飛んでる奴がここの主だろ？\n話を聞いてみたらどうだ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n守銭奴妖精に、お喋り悪魔…\nこんな連中ばかり見ていると、\n世の怪談話も嘘臭く思えてこねぇか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nだがな、マジに怖い話ってのがあってな、\n俺も、それを聞いた時は、さすがにブルッたぜ。\nま、そのうち気が向いたら話してやらぁ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nあの妖精、\nサトミタダシとグルなんじゃねぇのか？\nそのうち、ＢＧＭも歌になったりしてな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n…また奴か…\nどうしてこう行く先々に泉が用意できるんだ？\n我々以上の機動力だな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n法外な回復料金に、高値のアイテム売買か。\n亀の歳を鶴がうらやむと言うが、\n奴の欲も底無しだな。守銭奴世にはばかるか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n見かけに騙されてはダメですわ。\nカワイイ顔して、とんでもない守銭奴なんです。\n\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "まさかまた会う事になるなんて…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nまえまえから気になっていたのですが…\nＴｒｉｓｈの言う回復相場って何なのでしょう？\n料金は上がる一方ですけど…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n傷薬が５００円ということは、\nサトミタダシの５倍の価格で\nアイテムを売っているのか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\nＨｉ！Ｗｅｌｃｏｍｅ！！\nようこそ、トリッシュアイテムショップへ♥\nうっふふッ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\n実はね、アイテムも売ることにしたんだ。\n回復稼業だけじゃ儲からないんだもん。\nボクも全国制覇を目指すのだ～！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\n渡る世間はＧｉｖｅａｎｄｔａｋｅ！\nお金次第で何でもＲｅｃｏｖｅｒ！\nご用はなぁに？\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\nご用はなぁに？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19_Choice1
+
+msgid "回復してもらう"
+msgstr ""
+
+#. msg_19_Choice2
+
+msgid "消費物を買う"
+msgstr ""
+
+#. msg_19_Choice3
+
+msgid "アイテムを売る"
+msgstr ""
+
+#. msg_19_Choice4
+
+msgid "\[if_all(EBIT_SINARIOFF)\]アイテムの確認"
+msgstr ""
+
+#. msg_19_Choice5
+
+msgid "話をする"
+msgstr ""
+
+#. msg_19_Choice6
+
+msgid "用はない"
+msgstr ""
+
+#. msg_19_Choice7
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\n何を売ってくれるの？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20_Choice1
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_20_Choice2
+
+msgid "\[dbl_tab\]消費物を売る"
+msgstr ""
+
+#. msg_20_Choice3
+
+msgid "\[dbl_tab\]武器を売る"
+msgstr ""
+
+#. msg_20_Choice4
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]頭防具を売る"
+msgstr ""
+
+#. msg_20_Choice5
+
+msgid "\[dbl_tab\]防具を売る"
+msgstr ""
+
+#. msg_20_Choice6
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]脚防具を売る"
+msgstr ""
+
+#. msg_20_Choice7
+
+msgid "\[dbl_tab\]アクセサリーを売る"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\n何について聞きたいの？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_21_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\n他に何かある？\n何でも言って、言って♥\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22_Choice1
+
+msgid "回復してもらう"
+msgstr ""
+
+#. msg_22_Choice2
+
+msgid "消費物を買う"
+msgstr ""
+
+#. msg_22_Choice3
+
+msgid "アイテムを売る"
+msgstr ""
+
+#. msg_22_Choice4
+
+msgid "\[if_all(EBIT_SINARIOFF)\]アイテムの確認"
+msgstr ""
+
+#. msg_22_Choice5
+
+msgid "話をする"
+msgstr ""
+
+#. msg_22_Choice6
+
+msgid "用はない"
+msgstr ""
+
+#. msg_22_Choice7
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\n何を売ってくれるの？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23_Choice1
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_23_Choice2
+
+msgid "\[dbl_tab\]消費物を売る"
+msgstr ""
+
+#. msg_23_Choice3
+
+msgid "\[dbl_tab\]武器を売る"
+msgstr ""
+
+#. msg_23_Choice4
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]頭防具を売る"
+msgstr ""
+
+#. msg_23_Choice5
+
+msgid "\[dbl_tab\]防具を売る"
+msgstr ""
+
+#. msg_23_Choice6
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]脚防具を売る"
+msgstr ""
+
+#. msg_23_Choice7
+
+msgid "\[dbl_tab\]アクセサリーを売る"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\n何について聞きたいの？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_24_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\n扉の外はＤａｎｇｅｒｏｕｓ！\n注意一秒怪我一生。だからボクがここにいる。\nケチケチしないでどんどんＲｅｃｏｖｅｒ！\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\nよーし、じゃあ痛いの痛いのォ～𝅘𝅥𝅮\n…って、みんな元気じゃん！\nこれじゃ回復できないよォ～！！\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\nＯＫ！！\nじゃあ、今の回復相場だと…\n料金は\[var(msg_var_5)\]円だネ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\n回復するでしょ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_28_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\nチェッ、やせ我慢しちゃって、\n死んじゃってもしらないよ。\nっていうか、死んじゃえケチ！\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(green)\]舞耶達は回復した。\[color(white)\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\nよーし、じゃあ痛いの痛いのォ～𝅘𝅥𝅮\n…って、お金足りないじゃん！\n出直してきな！！\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\nじゃあ、いくよォ～！\n痛いの痛いの飛んでけェ～！\nピロロロロ～𝅘𝅥𝅮\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\nじゃあ、また来てね！\n待ってるから。\nＢｙｅ‐ｂｙｅ！\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\n何について聞きたいの？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34_Choice1
+
+msgid "回復"
+msgstr ""
+
+#. msg_34_Choice2
+
+msgid "購入"
+msgstr ""
+
+#. msg_34_Choice3
+
+msgid "売却"
+msgstr ""
+
+#. msg_34_Choice4
+
+msgid "やめる"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\n「回復」の説明だね、ＯＫ！\nうちで「回復してもらう」を選んでくれれば\nボクが「ＨＰ」と「ＳＰ」を回復してあげるよ♪\n\[wait\]\[clear\]\[color(yellow)\]トリッシュ\[color(white)\]\nオマケで「猛毒」とかのステータス異常も治しちゃうよ！\nちなみにお値段は回復相場で変動するよ。\nボクのせいで値上がりしてる訳じゃないからね♥\n\[wait\]\[clear\]\[color(yellow)\]トリッシュ\[color(white)\]\nこんなもんかな～♪\n説明させたんだから、回復してけよォ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\n「購入」の説明だね、ＯＫ！\nうちで「消費物を買う」を選んでくれれば\n便利なアイテムを超特価で提供するよ！\n\[wait\]\[clear\]\[color(yellow)\]トリッシュ\[color(white)\]\nこんなヘンピな所でアイテムが買えるのは\nう・ち・だ・け・だ・よ！\n品切れも無いからどんどん買ってけェ～！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\n「売却」の説明だね、ＯＫ！\nうちで「アイテムを売る」を選んでくれれば\nアイテムや装備品を買い取っちゃうよ！\n\[wait\]\[clear\]\[color(yellow)\]トリッシュ\[color(white)\]\nなんでも買い取れるわけじゃないし、\nっていうか装備してるのは買い取れないし、\nあんまり高くは買い取れないけど、勘弁してね♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "ヒットＩＤがみつかりません。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\nそのＩｃｅなら\[var(msg_var_0)\]円で\nご馳走しちゃうけど、食べる？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_39_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\nあれ！？\n買い取れるものがＮｏｔｈｉｎｇだよ！？\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\nえーと、アイテム相場と照らしあわせて…と、\n\[var(msg_var_0)\]円になるけど、買う？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_41_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\nそれは、\[var(msg_var_0)\]円なら買い取っても\nいいかなぁ…売る？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_42_Choice2
+
+msgid "いいえ"
+msgstr ""
+

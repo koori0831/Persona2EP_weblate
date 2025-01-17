@@ -1,0 +1,24 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E001A\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]うららの声\[color(white)\]\nちょっとマーヤ、何やってんのさ！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nえ！？\n女の子の声がしなかったかって！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nなんも聞こえなかったわよぅ！！\n早く来なさいって！\n熱っちぃじゃないさ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

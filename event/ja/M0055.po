@@ -1,0 +1,14 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0055\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]フィレモン\[color(white)\]\nよくぞここまで来た。\n諸君は私の認める最強のペルソナ使い。\nさぁ、諸君のもてる全てを見せてくれたまえ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

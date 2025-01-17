@@ -1,0 +1,34 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0065\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nおや…\nこんな所に、どなたかの記憶のカケラが…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nこれは…どうやら、\[suou\]\[tatsuya\]様の\n物のようでございますな。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n\[tatsuya\]様は、あなたの知らないことを\nたくさん知っていらっしゃるご様子。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nこの記憶のカケラを覗き見ることで、\nそれを知ることができましょう。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nしかしその中には、あなたがまだ知るべきではないことが\nあるやもしれません。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n覚悟を持って、覗き見ることをお奨めいたしますぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n…どうやら、記憶に嫌われたようでございますな。\nこれは私が預かっておきますゆえ、またいつでも\n試してみるのがよろしいでしょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nおかえりなさいませ。\n身を持って感じたかと思いますが、\n夢幻郷は危険な場所…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n詩織様は心配ではございますが、\nあなたがたがやられてしまっては元も子もありません。\n力をつけてから、再び挑まれるのが良いでしょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nおかえりなさいませ。いかがでございましたか？\n…\[suou\]\[tatsuya\]様の苦悩が、多少なりとも\n理解していただけたでしょうか。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n記憶のカケラは私が預かっておきますゆえ、\n再び見たくなった場合は、お声がけくださいませ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nおかえりなさいませ。\n這い寄る混沌の罠を見事くぐり抜けたご様子で…\nひとまず、おめでとうございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nしかし、これは所詮、前哨戦に過ぎません…\n本当の罠はこの先に控えていることでしょう。\nお気をつけなされませ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

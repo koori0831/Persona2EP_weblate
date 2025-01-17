@@ -1,0 +1,44 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00f8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nみんなで中に隠れてろ、栄吉。\nドアは全部閉めるなよ。\n酸欠で死ぬぞ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nああ…なぁ、\[suou\]。\nさっきから俺たちすげー自然に話してっけど、\nなんで俺の名前知ってんだ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n…カス校のパンツ番長の名前を、知らない奴が\nいるのか？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nパンツ番長？なんだそりゃ。\nなんか、すげー懐かしいっつーか、腹立つっつーか…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "失敗した。\nこいつは、こちら側ではそんな通り名じゃないらしい。\nもうこれ以上は無理だ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nいいから、そいつらを見張ってろ。\nすぐ、舞…天野さんたちも戻ってくる。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nおい、お前はどうすんだよ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

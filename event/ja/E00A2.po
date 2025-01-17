@@ -1,0 +1,339 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00A2\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]システム\[color(white)\]\nエフェクトのテストを開始します。\n\[choice(8)\]はじめから\nＡから\n１０から\n１Ａから\n２０から\n２Ａから\n３０から\n３Ａから\n\[end_choice\]\[clear\]\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "エフェクト００\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "エフェクト０１\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "エフェクト０２\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "エフェクト０３\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "エフェクト０４\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "エフェクト０５\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "エフェクト０６\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "エフェクト０７\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "エフェクト０８\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "エフェクト０９\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "エフェクト０Ａ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "エフェクト０Ｂ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "エフェクト０Ｃ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "エフェクト０Ｄ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "エフェクト０Ｅ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "エフェクト０Ｆ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "エフェクト１０\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "エフェクト１１\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "エフェクト１２\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "エフェクト１３\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "エフェクト１４\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "エフェクト１５\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "エフェクト１６\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "エフェクト１７\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "エフェクト１８\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "エフェクト１９\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "エフェクト１Ａ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "エフェクト１Ｂ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "エフェクト１Ｃ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "エフェクト１Ｄ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "エフェクト１Ｅ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "エフェクト１Ｆ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "エフェクト２０\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "エフェクト２１\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "エフェクト２２\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "エフェクト２３\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "エフェクト２４\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "エフェクト２５\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "エフェクト２６\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "エフェクト２７\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "エフェクト２８\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "エフェクト２９\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "エフェクト２Ａ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "エフェクト２Ｂ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "エフェクト２Ｃ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "エフェクト２Ｄ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "エフェクト２Ｅ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "エフェクト２Ｆ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "エフェクト３０\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "エフェクト３１\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "エフェクト３２\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "エフェクト３３\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "エフェクト３４\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "エフェクト３５\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "エフェクト３６\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "エフェクト３７\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "エフェクト３８\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "エフェクト３９\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "エフェクト３Ａ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "エフェクト３Ｂ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61
+
+msgid "エフェクト３Ｃ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "エフェクト３Ｄ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "エフェクト３Ｅ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "エフェクト３Ｆ\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65
+
+msgid "\[color(yellow)\]システム\[color(white)\]\nエフェクトのテストを終了します\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

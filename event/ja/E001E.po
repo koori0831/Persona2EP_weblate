@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E001E\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nハイ、良い子のみんな、注目。\nお巡りさんが来たから、もう安心だ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nハンカチを口に当てて、姿勢を低くして。\n煙を吸わないように、屋上まで逃げるんだ。\nいいね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

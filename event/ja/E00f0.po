@@ -1,0 +1,14 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00f0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n中村、通常配置。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

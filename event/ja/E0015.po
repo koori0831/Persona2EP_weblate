@@ -1,0 +1,14 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0015\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]頬に傷のある男\[color(white)\]\nン…？\nあいつは…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

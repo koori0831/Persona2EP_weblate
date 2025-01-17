@@ -1,0 +1,34 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0029\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "パオフゥのアジト\n\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]盗聴器からの声\[color(white)\]\n私だ。\[delay(30)\]\n…………\[delay(60)\]\nそうか…アレがな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]盗聴器からの声\[color(white)\]\n…構うな…生きているだけ無駄な男だ。\[delay(60)\]\n…うむ………案ずるな、計画に支障はない。\[delay(60)\]\n…うむ………処理はまかせたぞ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n須藤…竜蔵…\n誰だ、一体誰と話してる…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

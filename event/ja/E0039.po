@@ -1,0 +1,189 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0039\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nう…ご、ごめん…マーヤ…\nまさか…本当だなんて…思ってなかったから…\n酔った勢いで…マーヤ相手に呪いしちゃったの…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n私さ…何やっても…上手くいかないじゃん…？\n習い事したり…資格取ったりしてみても…\n結局…やりたいこと…見つからなくて…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nマーヤが…私に無いもの…全部持ってるようで…\nごめん…私…大バカだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nな、なんて女だ！\n\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "こんな化け物女、早く殺した方がいい！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nも、元はと言えば、\n全部こいつの依存心が原因じゃないか！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\n俺だってそれを一時的に満たしてやっただけだ！\n揚げ句に逆恨みして友達殺そうとするなんて、\n\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "あんたもヒドイ女だと思うだろ！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "あんたもヒドイ女だと思うだろ！？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8_Choice1
+
+msgid "そう言われればそうかも…"
+msgstr ""
+
+#. msg_8_Choice2
+
+msgid "だまって！私だって、うららが羨ましいわ…"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n乗せられんなよ。\nコイツの魂胆はみえみえだぜ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n芹沢が死ねば、詐欺の証拠も無くなる。\n自供だけじゃ起訴できねぇからな…\n\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "阿呆が…そういうのを浅知恵ってんだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nマーヤ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n残念だったなぁ。\nてめぇの魂胆はみえみえなんだよ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n芹沢が死ねば、詐欺の証拠も無くなる。\n自供だけじゃ起訴できねぇからな…\n\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "阿呆が…そういうのを浅知恵ってんだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n貴様…！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n止めとけ…\n服務規定違反になるだろうが。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nヒィ…お、俺の顔が…！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nぼ、暴行を見て見ぬふりするのか？\n\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "あ、あんた刑事だろう！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nゆ…許してやって…\n\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "そいつが言ってる事…もっともだから…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n芹沢君に感謝するんだな…\nだがな、もう一度同じ事をしてみろ…\n\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "僕がとことん追い詰める。どこへ逃げてもだ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nわ、わかった、金は誠意をもって返すよ！\n\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "もう、詐欺もしない！本当だ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n気絶したのか…？\n\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "早く病院に運ぼう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n待ちな…ようやくわかったぜ。\n\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "ＪＯＫＥＲってな、ペルソナと同じなんだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n病院じゃどうにもできねぇ。\n祓うんなら、うってつけのヤツらがいるだろが…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nベルベットルームか…\[delay(30)\]\n\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "わかった。急ごう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

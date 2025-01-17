@@ -1,0 +1,139 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E004C\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n…それで塀乗り越えて、ＪＯＫＥＲ使いになって\nさらわれた友達を追っかけてきたってわけ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nしっかしアンタ、無茶するわ…\n大体、そいつがＪＯＫＥＲ呪いした相手って、\nアンタなんでしょ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nそりゃアイツのせいで、どエライ目に会ったけど、\nほっとけないっしょ。\n俺は番長すからね。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nセキュリティはカットしました。\nこれで警報装置の類はしばらくごまかせるはずだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n栄吉君、友達のことは我々にまかせて帰りたまえ。\nここは子供の来るところじゃない。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\n冗談じゃねぇ！\nこのまますっこんでられっか！\n俺も連れて行ってくれよ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nじゃねぇと、騒ぐぜ！？\n「だーれーかぁー！！」\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n仕方ない…連れて行きましょう。\n気持ちは理解できる。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nその代わり…\n少年、我々の邪魔はするなよ。\n途中で戻れと言ったら戻るんだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nがってん承知でぃ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n友人を助けたいという心根は見上げたものだ…\n大事にしてやるべきですよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nやれやれ…とんだお荷物が増えたもんだぜ。\n俺は知らねぇぞ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n人体実験か…\n略取誘拐、逮捕監禁致死傷…罪は重いぞ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nもっとも、僕達も不法侵入以上の罪を犯している\n事になるんだがね…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nマーヤもお人好しだけどさ、コイツも相当だね…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nよっしゃ、ここはお姉さん達で、\nその頭の悪いダチ公を助けてやろうじゃん？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\n姐さん…前にどっかで会ったことねぇすか？\nなーんか知ってる気がするんだよなぁ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "なーんか知ってる気がするんだよなぁ。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17_Choice1
+
+msgid "私も…"
+msgstr ""
+
+#. msg_17_Choice2
+
+msgid "前に駅前で見たかな？"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\n姐さんも…？\nどこだっけかなぁ…\nひょっとして、カニ缶好き？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nやっぱり…\nなんで俺、そんなこと知ってんだぁ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nああ、思い出した！\nセブンスの\[suou\]と派手にぶつかってた…\nそれでか…？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nいや…なんか、もっと前から知ってるような気が\nするんだよなぁ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\n邪魔にはならねぇようにするからさ、\nここはひとつ頼んますぜ、姐さん！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nどこへ行く気です？\nもう引き返している時間はない。\n前進あるのみだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

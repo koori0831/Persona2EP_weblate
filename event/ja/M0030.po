@@ -1,0 +1,959 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0030\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "パーティの人数が四人を超えています。\nこのままじゃハングします。\n金田・片岡に連絡してください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあれ？マーヤ占い受けたいの？\nだったらワンロンにしときなよ。\nあっちの方が絶対によく当たるんだから。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nこれって私の勘なんだけど、\nアイツが言ってた「あのガキ」って…\nひょっとしてデジャ・ヴュの少年の事じゃない？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nそう言えば、\n牧村の居場所を占って貰った事もあったっけ…\nそれももう、必要なくなっちゃったねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあのノリコって子は助けられたけど…\n運が良かったんだよね。\n他にも攫われてる人はいるだろうけど…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nなんかあの南条君って、\n私らより年上に見えない？\n出来すぎてる…というか、ちゃんとしすぎててさ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nワンロン占いまで新世塾の企みだったなんて…\nハァ…なんで私はこう騙され易いんだろ…\n男運だけじゃなく占い運まで無いなんて…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nなんだかんだ言って、\nマーヤ達と一緒に行動してて正解だったかもね。\n前の私なら喜んで講演会に行ってただろうし。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n竜也の言っていた「あのガキ」とは誰のことだ？\n奴の口ぶりから言って、\n天野君とも関係があるようだが…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nあの後、部下に海岸を探させたんだが、\n\[tatsuya\]は見つからなかったそうだ…\nあいつ、どこに隠れてるんだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n多勢に無勢。\n僕達だけで全ての誘拐を防ぐことは不可能だ。\nせめて、捕まっている場所がわかれば…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nあの南条君はあれで二十歳か。\n\[tatsuya\]は十八だから…二つ違い…\nそれにしては雲泥の差だな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nペントハウスの一件…\nスニークの仕業なのか…\n…しかし…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n結局奴は、街の誰かがＪＯＫＥＲ呪いをするたびに\n病室を抜け出し出張していた訳か…\nご苦労なこったぜ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n占いだの神さんだの、\n何かに頼らなきゃ何もできねぇのか、この連中は？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nあん？ペルソナはいいのかだと？\n前にも言わなかったか？\nペルソナなんざ道具だ。道具はいいんだよ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nあ？２５人殺したというのは本当かって？\n２５匹の間違いじゃねぇか？\n俺は人を殺めたつもりはねえぜ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n女って奴は、怒り出すと手がつけられんな…\nそれとも芹沢が特別なのか？\nったく…二度とあんな役は御免だからな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nもしかしたら、あのスニークって野郎は、\n坊ちゃんやお嬢ちゃんの居所をつきとめる為に、\n俺達に情報を流したのかもなぁ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n所詮、運は天にあり…\nどのような手法を用いて占おうと、\nその理は変わりません。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n我々のやり方に、疑問を抱く事もあるでしょう。\nだが、全ては故あっての事と理解して欲しい。\nこちらにも守らねばならぬ物がある。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＴａｒｏｔと水晶を同時に使うなんて、\n変わった占い師さんですわね。\n到底…当たるとは思えませんけど…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nあら…\n確かここは、Ｔａｒｏｔ占いだったんじゃ…\n路線、変えたんでしょうか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＪＯＫＥＲという恐ろしい存在を背景に出し、\n救いの道として、ある行動を提示する\n彼女のお告げは、脅迫と同じですわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nけれど人々は、先の占いを通して、\nＷａｎｇｌｏｎｇ千鶴に絶対の信頼を持ってる…\nこのままでは、全てが新世塾の思うがままです。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nあの占い師の声…\nどこかで聞いたことがあるような気が…\n何か、それで酷い目にあったような…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]気の小さな男\[color(white)\]\nボクってネ…\n気が小さいもんだから…ダメなんだよネ…\n何がダメかって…決断するの苦手なんだよネ…\n\[wait\]\[clear\]\[color(yellow)\]気の小さな男\[color(white)\]\nだからいつもこうして、\n占ってもらうのよネ…\n誰だって失敗は怖いもんネ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]気の小さな男\[color(white)\]\nあの…何なのかな？\nボクに何か用なのかな？\nだったらサッサと言ってほしいのネ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "んで…何の用かな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28_Choice1
+
+msgid "名前を言い当てる"
+msgstr ""
+
+#. msg_28_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_28_Choice3
+
+msgid "用はない"
+msgstr ""
+
+#. msg_29
+
+msgid "イケナカユウタ\n\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]気の小さな男\[color(white)\]\nそれって誰かな？\nボクの知らない名前だけれど…\n誰かと勘違いしてるんでない？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]気の小さな男\[color(white)\]\nドキッ！？\nどうしてボクの名前しってるのかな？\nもしかしてキミ、超能力な人？\n\[wait\]\[clear\]\[color(yellow)\]イケナカユウタ\[color(white)\]\nなになに、人捜し？\nボクの捜索願が出てたの？\nこりゃまたビックリなのネ。\n\[wait\]\[clear\]\[color(yellow)\]イケナカユウタ\[color(white)\]\nまあ事情はわかったから、了解なのネ。\nしらいしさんにはボクから連絡しておくし、\nとりあえずありがとサンネ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]気の小さな男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]イケナカユウタ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "最近ここでワンロン占いを始めたらしいんだよネ。\nしかも良く当たるって、既に評判なんだよネ。\nだから来てみたんだけど…やっぱドキドキするネ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]気の小さな男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]イケナカユウタ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "あの占い師さん、何でもやっちゃうんだネ。\n今度は相性占いを始めたんだってネ。\nだけど、男と相性良くなってもボクは悲しいネ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]気の小さな男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]イケナカユウタ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "ここでは相性占いもよく当たると評判だよネ。\n店主さんと相性良くしておくと、\nホントにオマケしてもらえたりするもんネ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]気の小さな男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]イケナカユウタ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "だけどネ、\n相性が良くなったからって、\n必ず見返りがあるとは限らないのよネ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]気の小さな男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]イケナカユウタ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "相性なんて気にしない人だっているし、\n例えそれを感じていても、\n表に出さない人もいるもんネ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]気の小さな男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]イケナカユウタ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "占い師さんがパワーアップしたみたいだネ。\nどうパワーアップしたかって、相性占いだネ。\n答えで出てくる人が増えたらしいんだよネ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]気の小さな男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]イケナカユウタ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "サトミタダシのおばちゃんが出てきたという人…\n今がチャンスなのネ。\n意外な人と会えるかもネ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(yellow)\]気の小さな男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]イケナカユウタ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "ボクは１２月生まれだから、\nワンロン占いで言うと紫龍になるんだよネ。\nとっても直感的なタイプらしいんだよネ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]気の小さな男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]イケナカユウタ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "ワンロン占いはネ、元は望龍術らしいんだよネ。\n望龍術って言うのはネ…よく分からないのよネ。\nまあ、当たるなら何でもいいんだけどネ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]気の小さな男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "\[color(yellow)\]イケナカユウタ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_61
+
+msgid "ぼ…ボクはＪＯＫＥＲ呪いなんかしてないのネ。\nいや…したいと思ったことはあるけど、\nやっぱり止めといたのネ。正解だったネ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]気の小さな男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]イケナカユウタ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "望龍術によると、\n地脈は全て、龍に例えられるようなのネ。\nその龍は１２匹もいるらしいんだよネ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\n噂聞いて来たんだけどさ、\nここもワンロン占い始めたんだって？\nつーか、占いってそんなコロコロ変えられんの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\nワンロン占いってあんな呪文だったっけな？\nなんか違う気がする…\nもしかして、ワンロンって言ってるだけか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\n俺見ちまったよ！\n何をって、飛んでたんだよ飛行船が！\nい…いや、飛行船は飛ぶモノだけど…つまり…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_68
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\nあのテレビ見てから、知り合い大慌てでさ。\nなんでも恋敵にＪＯＫＥＲ呪いしたらしいんだ。\nだからって、ＪＯＫＥＲになる訳無いだろっての。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_69
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\nやべぇよ。俺の知り合いが警察に捕まっちまった。\nなんでも、暴行の現行犯だって…\n大人しいヤツだったのに、どうして…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_70
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n他にご用はあるかな？\n何なりと打ち明けるが良い。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_71
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nここは人生という迷宮に迷った者が訪れる場所。\n暗澹たる未来に一筋の光明を放ち、進むべき道筋を\n指し示す場所。妾はその番人、珠閒瑠ジニー。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_72
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(green)\]\nハスキーボイスが、美人を連想させる占い師。\n最近は、あまり当たらないと人気も低迷気味。\n夜の街で、よく似た後姿を見かけたという噂も…\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_73
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nほう、汝、ここを訪れるは初めてか？\nならば安心してその胸中、打ち明けるがよい。\nこの水晶とカードが必ずや光明を齎そうぞ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_74
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nおお、先日の客人じゃな。\n実は最近、妾がワンロン占いを始めたらしいと、\nどこからともなく噂が流れてな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_75
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n仕方ないからそれに合わせてたら、\n本当に占いが当たるようになったのじゃ！！\nこれぞ神の思し召し！超ラッキー！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_76
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nこれからは妾の齎す答え全てが現実となろう！\nささ、今度は大丈夫じゃ。\n安心してその胸中、打ち明けるがよい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_77
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nうーむ…\n妾は相性占いもしておったのか？\nいや…していたような気もするが…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_78
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nま…まあ、何事も挑戦じゃ。\nワンロン占いもそれで始めたようなものじゃしな。\nでは、気を取りなおして…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_79
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n新たに相性占いを始めたぞよ。\n汝が望むならば、汝と相性がピタリと合う人物を、\nこの水晶に映し出してみせよう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_80
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n最近、妾に関して妙な噂ばかり流れて困る。\n今度は、妾がパワーアップしたそうじゃ…\nパワーアップって…つまりどうすれば良いのじゃ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_81
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nまぁ…やってやれない事はなし…\nワンロン占いもそうだったしな。\nここは開き直るしかないか。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_82
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n新たに始めた相性占い。日頃の修行が実を結び、\n更に多くの相性を感じ取れるようになったぞ。\n百聞は一見にしかず。まずは試してみるがよい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_83
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nよく来たな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_84
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nして、本日はいかなる用件じゃ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_84_Choice1
+
+msgid "占い"
+msgstr ""
+
+#. msg_84_Choice2
+
+msgid "話を聞く"
+msgstr ""
+
+#. msg_84_Choice3
+
+msgid "用は無い"
+msgstr ""
+
+#. msg_84_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_85
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n妾に何を聞きたいのだ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_85_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_85_Choice2
+
+msgid "\[if_all(LBIT_0003)\]施設の説明を聞く"
+msgstr ""
+
+#. msg_85_Choice3
+
+msgid "\[if_all(LBIT_0004)\]やめる"
+msgstr ""
+
+#. msg_86
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nして、本日はいかなる用件じゃ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_86_Choice1
+
+msgid "占い"
+msgstr ""
+
+#. msg_86_Choice2
+
+msgid "相性占い"
+msgstr ""
+
+#. msg_86_Choice3
+
+msgid "話を聞く"
+msgstr ""
+
+#. msg_86_Choice4
+
+msgid "用は無い"
+msgstr ""
+
+#. msg_86_Choice5
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_87
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n妾に何を聞きたいのだ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_87_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_87_Choice2
+
+msgid "\[if_all(LBIT_0003)\]施設の説明を聞く"
+msgstr ""
+
+#. msg_87_Choice3
+
+msgid "\[if_all(LBIT_0004)\]やめる"
+msgstr ""
+
+#. msg_88
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n他にご用はあるかな？\n何なりと打ち明けるが良い。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_89
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nぶつぶつ…やはりこれからはワンロン占いかしら…\nあれの方がよく当たるって噂なのよね…ぶつぶつ。\n占い、変えようかしら…ぶつぶつ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_90
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nまた占いが当たるようになってなによりじゃ。\nこれを機に新しい占いに挑戦してみるか…\nうーむ…やはり占いと言えば…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_91
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n…占いのしすぎで少々疲れたか…\nあの科学館の火災事故…前にも起きたような…\nい、いや、そんなはずは無い。しっかりせねば。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_92
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nテレビでワンロン千鶴なる人物を拝見したが…\n妾もああいう服装に変えた方が良いかな？\n呪文だけ変えてもどうも雰囲気に欠ける…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_93
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n最近、街で神隠しが起きておるようじゃ。\n被害者に共通点は無く、無差別誘拐とも聞く。\n汝もか弱き乙女なれば、気をつけよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_94
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n済まんな…実はワンロン占いが流行り出してから、\nなぜか妾の占いは\n当たらなくなってしまったのじゃ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_95
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n鳴かず飛ばずの占い師…\nこれでは閑古鳥さえ近づかん…\nなんとかせねば…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_96
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n己が道を見失いし時は、\nいつでも来るが良い。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_97
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nちなみに妾の相性占いはコンタクトとは無関係。\nコマンドが変化したりはせんぞ。\n誤解せぬようにな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_98
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nちなみにパワーアップしても、\n妾の相性占いはコンタクトとは無関係じゃ。\nコマンドが変化したりはせんぞ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_99
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nでは、占ってしんぜよう。\nアムアムアム…ロイスキャロルプレミアム…\n水晶よ、この者の未来を映し出すがよい…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_100
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n…なんと、実はソナタ男じゃな？\nその服装も髪型も全てはカモフラージュ、\nもてぬ腹癒せに、他の男を騙して……\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_101
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n……\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_102
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n……違うわよね…\nそんな訳無いわよね…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_103
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nなるほどな。\nソナタには二人の子供がいるな。\n一人は元気溌剌、小学一年生！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_104
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n……\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_105
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n……いないのね…\n…独身なのよねきっと…\n……分かってるわよそんなの…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_106
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nなるほど…どうやらソナタ、異国の民か？\nアメリカ…いや、フランス…\nそう、フランス人じゃ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_107
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n……\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_108
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n…日本人よね。\n…日本人なんでしょ？やっぱり。\n……分かってるわよそんなの…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_109
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nむむっ、ソナタ…\n実は胸にパットを入れておるな！！\n偽ナイスバデーで、男の視線を我が物に…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_110
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n……\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_111
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nじょ…冗談じゃ。\nホンキにするでない。\nほ…本物じゃな…やっぱり。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_112
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nほう…ソナタ、教師を生業としているな？\n…たぶん、英語の教師じゃろう。\nそう顔に書いてある。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_113
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n……\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_114
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n…ちがう？…ちがってた？\n…え？雑誌記者…\nハハ…全然違うわね…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_115
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nよかろう。\nでは代金として３０００円頂くが…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_116
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nそれでも、かまわぬか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_116_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_116_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_117
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nむむ…だが、代金が足らぬようじゃぞ。\n阿弥陀の光も金次第。地獄の沙汰も金次第。\n出直して来るがよい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_118
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nいや待て。まだ汝は\[end\]"
+msgstr ""
+
+#. msg_119
+
+msgid "光龍\[end\]"
+msgstr ""
+
+#. msg_120
+
+msgid "黒龍\[end\]"
+msgstr ""
+
+#. msg_121
+
+msgid "黄龍\[end\]"
+msgstr ""
+
+#. msg_122
+
+msgid "青龍\[end\]"
+msgstr ""
+
+#. msg_123
+
+msgid "赤龍\[end\]"
+msgstr ""
+
+#. msg_124
+
+msgid "銀龍\[end\]"
+msgstr ""
+
+#. msg_125
+
+msgid "の呪縛から逃れておらぬ。\nまずはその因果から抜け出し、\n真の己を取り戻すことが肝要じゃ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_126
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nでは、占ってしんぜよう。\nワンロン、ワンロン、ワンローン！！\n\[end\]"
+msgstr ""
+
+#. msg_127
+
+msgid "ローン、ローーーーン！！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_128
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nおお…光り輝く息吹を感じる…光龍じゃ…\n汝しばしの間、多くの経験を積むことができようが\n金運は下がりぎみ。節約を心がけよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_129
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nおお…地の底を駆け巡る黒き気配…黒龍か…\n汝しばしの間、金銭面では裕福となれようが、\n大した経験は積めぬようじゃ。自重いたせ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_130
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nおお…この活発な龍は…黄龍か…\n汝、しばし幸運に恵まれ、ラッキー続きじゃ。\n今のうちに賭け事に走るのも良いじゃろう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_131
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nうむ…この潮流の如き静かな流動…青龍か…\n汝しばしの間、他者の意外な面を見る事となろう。\n弱気は強気へ、皆性格が対極へ流れるはずじゃ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_132
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nうむ…情熱に染まった真紅の奔流…赤龍…\n汝とその仲間、しばしの間、興奮ぎみとなり、\n勝利した後には、快哉を叫ぶ事となろう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_133
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nうむ…真意を込めた白き輝き…銀龍…\n汝しばしの間、口下手となり、\n他者との交渉事も梃子摺る事となろう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_134
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nさて…他にご用はあるかな？\n何なりと打ち明けるが良い。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_134_Choice1
+
+msgid "占い"
+msgstr ""
+
+#. msg_134_Choice2
+
+msgid "話を聞く"
+msgstr ""
+
+#. msg_134_Choice3
+
+msgid "用は無い"
+msgstr ""
+
+#. msg_134_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_135
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n妾に何を聞きたいのだ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_135_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_135_Choice2
+
+msgid "\[if_all(LBIT_0003)\]施設の説明を聞く"
+msgstr ""
+
+#. msg_135_Choice3
+
+msgid "\[if_all(LBIT_0004)\]やめる"
+msgstr ""
+
+#. msg_136
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nして、本日はいかなる用件じゃ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_136_Choice1
+
+msgid "占い"
+msgstr ""
+
+#. msg_136_Choice2
+
+msgid "相性占い"
+msgstr ""
+
+#. msg_136_Choice3
+
+msgid "話を聞く"
+msgstr ""
+
+#. msg_136_Choice4
+
+msgid "用は無い"
+msgstr ""
+
+#. msg_136_Choice5
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_137
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n妾に何を聞きたいのだ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_137_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_137_Choice2
+
+msgid "\[if_all(LBIT_0003)\]施設の説明を聞く"
+msgstr ""
+
+#. msg_137_Choice3
+
+msgid "\[if_all(LBIT_0004)\]やめる"
+msgstr ""
+
+#. msg_138
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nよかろう。\nでは代金として５０００円頂くが…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_139
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nそれでも、かまわぬか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_139_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_139_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_140
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nむむ…だが、代金が足らぬようじゃぞ。\n阿弥陀の光も金次第。地獄の沙汰も金次第。\n出直して来るがよい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_141
+
+msgid "えらんで\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_141_Choice1
+
+msgid "\[color(pink)\]ワンロン始めた\[color(white)\]"
+msgstr ""
+
+#. msg_141_Choice2
+
+msgid "\[color(blue)\]相性占い広めた\[color(white)\]"
+msgstr ""
+
+#. msg_141_Choice3
+
+msgid "\[color(green)\]パワーアップ\[color(white)\]"
+msgstr ""
+
+#. msg_141_Choice4
+
+msgid "\[color(orange)\]お金\[color(white)\]"
+msgstr ""
+
+#. msg_141_Choice5
+
+msgid "\[color(gray)\]終了\[color(white)\]"
+msgstr ""
+
+#. msg_142
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n妾に何を聞きたいのだ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_142_Choice1
+
+msgid "占い"
+msgstr ""
+
+#. msg_142_Choice2
+
+msgid "\[if_all(MBIT_HI_GYPAISHO1)\]相性占い"
+msgstr ""
+
+#. msg_142_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_143
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n「占い」についての説明じゃな。\n\[wait\]\[clear\]\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n当店で「占い」を選択すれば\n妾が汝らの未来を占ってしんぜよう。\n\[wait\]\[clear\]\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n占いの結果は、良い効果を得ることもあれば、\n逆に悪い効果が出る場合もある。\n\[wait\]\[clear\]\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nなお、一度占うと、その効果が切れるまで、\n再度未来を占うことはできんぞ。\n\[wait\]\[clear\]\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n未来を知るかの選択は汝ら次第だ。\n何が見えても妾は責任は負わんからな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_144
+
+msgid "\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n「相性占い」の説明じゃな。\n\[wait\]\[clear\]\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n当店で「相性占い」を選択すると\n妾の水晶がいくつか汝に質問を投げかける。\n汝はそれに正直に答えるのじゃ。\n\[wait\]\[clear\]\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\nさすれば、汝と相性がぴったりの人物を\nこの水晶が示してくれるぞよ。\n\[wait\]\[clear\]\[color(yellow)\]珠閒瑠ジニー\[color(white)\]\n…その後、示された相手に会えば\n何か良いことがあるかも知れぬな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

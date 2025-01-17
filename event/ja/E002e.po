@@ -1,0 +1,74 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E002e\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]老刑事\[color(white)\]\nまた、ガイシャ周辺の聞き込みだとよ…\n現場の俺達に任しときゃいいものを…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]若い刑事\[color(white)\]\nまた？\n本当にそれで、ババ挙げられると思ってるのかねぇ\nあの管理官殿は…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nおい…とんでもないことになってるぞ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nやっぱりな…\nＴＶで流れた占いが噂になって、呪いした連中が\nＪＯＫＥＲになっちまったに違いねぇ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n警察はアテにならない…\n今の捜査方針では、被害が増すだけだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nへへ…随分弱気じゃねぇか…\nまぁ、大人しく謹慎してな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nそうは行くか…\n見て見ぬふりをするぐらいなら、手帳を県に返す。\n僕も行く。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n勝手にしな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]うららの声\[color(white)\]\nマーヤ…早く…逃げて！\n私が…変わっちゃう前に…！！\nは…やく…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nなんだとぉ…？\nまさかあいつ…ＪＯＫＥＲ呪いをしてたんじゃ\nあるめぇな！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nそうだとしたら、芹沢君が殺人犯になるぞ…\n狙われる相手の心当たりはないのか！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n結婚詐欺か…詐欺に本名を使うはずもないしな…\n会ったことは！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nなんでもいいから思い出してみな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

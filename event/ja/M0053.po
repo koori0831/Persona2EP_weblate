@@ -1,0 +1,549 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0053\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "パーティの人数が四人を超えています。\nこのままじゃハングします。\n金田・片岡に連絡してください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nこれが春日山高校…パッとしない学校ねぇ？\nこりゃカス校って呼ばれるわけだ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあのコ達、やっぱカス校生よねぇ。\n南条君やエリーちゃんと比べると…\nはぁ～サエナイ君だわ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nここの生徒って、\nみんなあんな感じなのかな？\n…ビジュアル系とかはいないの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nいま気付いたんだけど、栄吉君もカス校生よね？\nあの独特の雰囲気って、\nここじゃかなり異質なんじゃない？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nねぇマーヤ、\[tatsuya\]君がどんな高校生活を\n送ってんのか気にならない？\n…その前に、ちゃんと学校行ってんのかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n高校生の時って、大人に憧れたよね！\n…っていうか酒とタバコに憧れたのよ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nそんな私も、今や酒の達人！\n時の流れってーのは恐ろしいよね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n…マーヤ、…聞いた？\n学校の屋上は特別な空間なんだって！\n知ってた！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n四次元人とか現れちゃったら、\nどうしよう！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n…はぁ？…テキーラサンライズぅ？\nそれってカクテルの名前じゃない。\nパオってホント酒好きねぇ。…負けるわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nさぁ行こうか、マーヤ！\n大丈夫、私がついてるってばさぁ！！\n大船にのったつもりでゴー！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nニャルラトホテプ…\n名前だけ聞くとカワイイってカンジだな。\n…な～んて。アハハハハ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n署の少年係の者がこの学校を悪く言っていたが…\n僕は極めて標準的ではないかと思う。\n…男子校としての話だけどね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n………う～む。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nここの生徒は七姉妹学園を目の敵に\nしているらしいが…\n過去に何かあったのかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n彼らはまだまだ成長途中だ。\nこれからどう成長するかもわからないのに…\n芹沢君、あんな事言っていいのかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n…\[tatsuya\]のやつ、\nいつからあんな格好をする様になったんだ？\n私服だけ？まさか制服まで…？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n三科君の服装もすごいが…\n\[tatsuya\]のやつ、いつからあんな格好をする様に\nなったんだ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n…\[tatsuya\]は、いつからか家にも戻らなくなった。\n今になって思うと、その頃から\n一人で戦っていたのかも知れないな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n何かと問題の多いとされる春日山高校の生徒だが、\n喫煙で補導される率は非常に低いんだ。\n…三科君の指導が行き届いていたんだな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n申し訳無い、天野君。\nしかし、\[tatsuya\]にも何か思う所があるようだ。\n今はそっとしてやってくれ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n「向こう側」では君達の力になれなかったのか…\nでも、ここでは違う！\[tatsuya\]の兄として、\n正義を守る者として、協力させてもらうよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n戦いである以上、負ける事もあるだろう。\nしかし、これは負けるわけにはいかない戦いだ。\n…頑張ろう、天野君。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nあの３人も君の大事な仲間なんだろう？\nさぁ、急ごう天野君。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n男子校の生徒ってだけで\nみんな特別視するんだよな。\n…おっ、女子校もそうだな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nおい\[suou\]？\nこいつ連れ歩くの面倒だからよぉ、\nいっそこっから落とすか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nおいおい、アンタはともかく、\nあちらの方は刑事さんだよ？\nそんな事出来るわけ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n僕もそう思ってたところだ。\nなに、ＪＯＫＥＲの仕業とでもしとけば\n別に問題無いだろう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\n…そんな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n同じ地域に二つの学校があったら、比較されるのは\n当然だろぉ？過去に因縁があったなんて話、\n全然聞いた事ねぇぞ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nパッとしないからカス校と呼ばれるのか、\nカス校と呼ばれるからパッとしないのか？\n昔はともかく、…今は後者だろうなぁ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n個性…独創性…\n制服に包まれている限り、表には出ねぇもんだろ？\nま、昔の不良はかなり独創的だったがな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n栄吉ねぇ…へへへ。\nあの番長くんならどこ行っても異質だろ？\n…しかし異質ってのはかわいそうだな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n独創的…とでも言ってやるか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n命を懸けて戦っている高校生もいれば、\nあんな風にくっだらねぇ時間を過ごしている\nヤツらもいる。どっちも不幸なもんだよな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nガキのくせに酒の事をわかったフリしやがって。\n酒ってぇのはな、ただのアルコールじゃねぇんだ！\nガキはてめぇの甘～い考えでもしゃぶってろ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nクールを気取るのもいいが…\nアイツの場合は背伸びし過ぎじゃねぇか？\nお前も甘えて欲しいのになぁ？…へへへ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n重なる筈のない二つの世界…\nあいまいになりつつある境界…かぁ。\nふん、テキーラサンライズみたいなもんだな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nあんなんが大船かぁ？\nどっちかっつーと芹沢は泥の船だろう？\nへへへ、沈没するぞー！逃げろー！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nニャルラトホテプ…\n他者の人生をもてあそんでるって感じだな。\nったく何様のつもりだ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n彼らはこんな所で何をしているのだ？\n貴重な時間を無駄に過ごすようでは、\n決して一番にはなれん！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n多くの高校生は制服に縛られている。\nそれなりの教育効果がある事もわかっているが、\n個性の育成を妨げている部分もあるな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n学生の本分は勉強だ。\nしかし、言葉を記憶する事が勉強なのではない。\nそれを理解していない者が多過ぎるな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n酒に対するこだわりを語る人がいますが…\n過ぎると口うるさいだけですね。\n己のダンディズムを押し付けないで欲しい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n学生の頃、学校の屋上は何か特別な空間だった。\n\[suou\]にとってもそれは同じなのかもな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nああいう風にどうでもいい事で\n盛り上がれるって、いいですわね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nくだらないって言う人もいるでしょうけど、\nきっと当人達にとって、\nとても大事な時間のはずですわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n…え、Ｋｅｉの制服の着こなし…ですか？\n特に変なところはありませんでしたわ。\n…１って付いてる以外はね？ウフフフ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＨｉｇｈｓｃｈｏｏｌの時を振り返ると、\n思い出すのはやっぱりＦｒｉｅｎｄの事ですわ。\n…あの時の事や、…あの人の事とか。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n…お酒ですか？\n私はたしなむ程度ですわ。\nあ、Ｂｅｅｒは苦いので苦手ですの。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＨｉｇｈｓｃｈｏｏｌの頃の私にとって、\n屋上とは何か特別な空間でしたわ。\n彼にとっても、それは同じみたいですね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n………放っておいてくれ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n本当は…誰も巻き込みたくなかった…\n特にあんた…舞耶姉だけは…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nフッ…皆、大人とは思えないな。\n「向こう側」の…俺の仲間達と変わらないよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n負けるわけにはいかない。\n…ニャルラトホテプにも…自分にも。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\n学校の屋上かぁ～授業サボってオンナのコと\nイチャイチャしたよなぁ。\nう～ん、懐かしいねぇ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n康夫さ～ん、ちょっと聞きたいんスけど、\n春日祭の日に救急車が来たじゃないッスか？\nあれって何があったんスかね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\nお前、今まで知らなかったの？\n他校から来た女生徒が、地下用具室で\n倒れてたんだってよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\n春日山高校の地下に呪われた防空壕があるとか、\n校舎の暗闇に化け物を見たとか何とか言って\n錯乱してたらしいよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\nそれが変な風に伝わって、\n今じゃ呪われた学校扱いだよ。\n…いい迷惑だよな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\n僕が生徒会長だったら…\n春日祭のメインは…マスカレード！\nどうだ？結構良くない？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\nマスカレードって仮面舞踏会の事ッスよね？\n顔隠してオンナのコと踊れる…いいッスね！\nでも仮面はどうするんスか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\n参加者持参だと、参加者が少なそうだなぁ。\n生徒会役員で仮面作って、街の人に配るか。\n宣伝にもなるし…うん、これだな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\n１日のノルマは仮面５個…かな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\nあの番長がいなくなったんだってさぁ。\nあんな外見のくせに…結構人望あるんだよな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\nそりゃあ目立つし、ケンカは強いし、でも\n弱い者イジメしない、いいヤツらしいッスよ？\n…何か康夫さんと正反対ッスね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\nうるさい！\n僕は体が弱いからこうなんだよ！\n健康な体だったら僕だってそうなってるよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_68
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\nＭＵＳＥＳの真ん中のコ、カワイイよな～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_69
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\nあれ！？康夫さん、知らないんスか？\nあのコ、リサ・シルバーマンって言うんスよ！\nセブンスに通う有名人じゃないッスか！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_70
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\n知ってるよそんな事！！\nあ～あんなコが彼女だったらなぁ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_71
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n康夫さん、ＴＶ見ました？\nなんか望龍術で、\nポールシフトが新世塾らしいッスよ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_72
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n…どうしましょう？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_73
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\nお前、何にも分かってないだろ？\n第一何だ「ＴＶ見ました？」って？\nＴＶでニュース見ましたか？…だろ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_74
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\nまぁ、外で何があろうと関係無いよ。\n学校だけが僕らの世界だし。\nここで僕達人間の価値が決まるんだから…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_75
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\nあ、康夫さん！！\nあそこ、鳴海区だった所、見て下さいよ！\nメチャメチャにブッ壊れてるッスよ！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_76
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\nここから見ると、みんなちっぽけだよな。\nあ～あ、もっと早く気付いてたら\n少しは人生違ったのになぁ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_77
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\n一体…僕は何がしたいんだろ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_78
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\nやっぱり、この間の会長選、\n立候補すればよかったなぁ。\n…ま、過ぎた事を悔やんでもしょうがないな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_79
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\nこれからは何にでも挑戦してみよう。\n～してたら、～してればの空想はもういいや。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_80
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\nあれ、康夫さんなんかスッキリしてるッスね？\n何かあったんスか？\nさては…何かやる気ッスね！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_81
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\n春日祭、盛り上がんなかったなぁ。\nいつも通りだけど…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_82
+
+msgid "\[color(yellow)\]井上康夫（いのうえやすお）\[color(green)\]\nごく平凡な春日山高校の生徒。\n生徒会長となって脚光を浴びることを夢見ているが\n行動に移す気はないようだ。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_83
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\nはぁー僕が生徒会長だったらなぁー\nもっと派手なものにして、\nお客をいっぱい呼べたのになぁ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_84
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\nそんなこと言ったって、康夫さん立候補もしてない\nじゃないッスか。立候補しなきゃ絶対無理ッスよ？\n馬鹿だなぁ、康夫さん。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_85
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\n馬鹿って言うなぁ！\n僕は天才だぞ！\nそんなこと分かってるよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_86
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\nはぁ～くだんの化け物かぁ。\nくだん…いつものきまり、とか、\n例の…って意味の「件」の事だったなんて。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_87
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n…康夫さん、\n見事にだまされましたね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_88
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\n奥の方に何かいた…なんてワザとらしい事言って！\nでも、くだんがいないと決まった訳じゃないぞ？\n最近は色んな所で話題になってるし。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_89
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\n…本当にいたら、あいつも驚くだろうな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_90
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\nあの、僕達に何か用ですか………！？\nそ、それはくだんの首じゃないですか！？\n僕に…くれるって言うんですか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_91
+
+msgid "\[color(yellow)\]康夫\[color(white)\]\nありがとうございます！！\nこれであの風紀委員を驚かすことが…\nあ、かわりにコレ、受けとって下さい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_92
+
+msgid "\[color(green)\]ペルソナギア３点セットを手に入れた。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_93
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n良かったっスね、康夫さん！\n…でもソレ、強烈に生臭いっスね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_94
+
+msgid "ＥＢＩＴＥ００３７\n「克哉帰還」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_95
+
+msgid "ＥＢＩＴＥ００３８\n「詐欺男を確保」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_96
+
+msgid "ＥＢＩＴＥ００３Ｅ\n「うらら編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_97
+
+msgid "ＥＢＩＴＥ００４６\n「南条ｏｒエリー編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_98
+
+msgid "ＥＢＩＴＥ００６Ｆ\n「研究施設・ＴＶ局クリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_99
+
+msgid "ＥＢＩＴＥ００７７\n「スマイル平坂クリア・克哉離脱」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_100
+
+msgid "ＥＢＩＴＥ００７Ａ\n「野音クリア・克哉編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_101
+
+msgid "ＥＢＩＴＥ００７Ｂ\n「竜蔵と殺し屋の電話を盗聴」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_102
+
+msgid "ＥＢＩＴＥ００７Ｆ\n「廃工場クリア・パオフゥ編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_103
+
+msgid "ＥＢＩＴＥ００８Ｃ\n「海底遺跡クリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_104
+
+msgid "ＥＢＩＴＥ００９Ｆ\n「岩戸山クリア・南条かエリー離脱・達哉編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_105
+
+msgid "ＥＢＩＴＥ００ＡＦ\n「アメノトリフネクリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_106
+
+msgid "ＭＢＩＴＫＥＤＥＶＩＬ１０\n「くだん出現の噂：決定ＢＩＴ」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_107
+
+msgid "ＩＢＩＴＲＵＭＯＲＫＵＤＡＮ\n「くだんの首」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

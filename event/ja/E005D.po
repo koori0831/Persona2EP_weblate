@@ -1,0 +1,34 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E005D\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nハァ…ハァ…\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n思い知ったか、こんのゲス野郎！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nしかし、こんな所まで追いかけて来るなんざ、\n根性だけは見上げたもんだな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nこいつは後で出してやればいいだろう。\n\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "今は急を要する。先を急ごう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

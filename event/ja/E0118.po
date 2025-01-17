@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0118\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(green)\]舞耶達は、\[var(msg_var_0)\]のカードを５０枚\n手に入れた。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(green)\]舞耶達は、倫理のトラペゾヘドロンを手に入れ、\n倫理の塔を後にした。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

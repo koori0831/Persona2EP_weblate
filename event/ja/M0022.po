@@ -1,0 +1,864 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0022\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "パーティの人数が四人を超えています。\nこのままじゃハングします。\n金田・片岡に連絡してください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n８月にグランドクロスって起きたでしょ。\nあれって占星術的に不吉な配列なのよ～\nマーヤは知ってた？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n噂が現実になるなんてねぇ…ってちょっとぉ！\nみんなが無責任に口にしている噂って\nマズイんじゃないの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nこんないい雰囲気の店に連れてこられたら、\nグラッときちゃうわよね？ね、マーヤ？\nちょっとー、マ～ヤ～？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nやっぱこういう店は、口数少ない人が似合うねぇ。\nなんとゆーか、大人の色気を感じちゃうワケよ。\n…影のある男の人って、ちょっとイイよね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nそう言えばウチの父さん、お酒弱かったなぁ～\n\[suou\]さんとパオフゥ、二人とも体が大きいから、\nスッゴイ量飲みそうだよね！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nフン、確かに私には関係無いコトですよ！\n聞いた私がバカでした！\nパオフゥの過去なんてどーでもイイです！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n太陽系の惑星が地球を中心に巨大な十字を描く。\nそれがグランドクロスと呼ばれる現象…か。\nオカルト好きは大騒ぎしたが…何も無かったな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n確かに、世間は怪しい噂を面白がる傾向があるな。\nそれが全て現実化するとしたら…\n警察だけでは手が足りなくなるぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nな、何の話だ？自分にはわからない話だな。\nたとえ知っていたとしても、民間の者に\n警察の内情を知らせるわけにはいかん！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nおい、パオフゥ！\n芹沢君の身が危ないというのに、\n君はよくそんな事を言ってられるな！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nやっぱり天野君も雰囲気は大事にする方かい？\n僕は味を第一に考える方だな。うん。\n…喫茶店ならケーキのおいしいお店に限る！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n天野君、芹沢君は大丈夫なのか？\n何かまた気になる事を言い出したぞ。\n今度は大丈夫だろうね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n酒か…あまり得意ではないが、\nリキュール類なら良く使っているな。\nいや、別に飲むわけじゃないよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nせ、芹沢く…ん…？\n彼女、怒ってるみたいだけど、\n何かあったのか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n噂が現実になるとはな…\nこりゃあ気を付けねぇと、\n腹黒い連中に悪用されちまうぞ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nおい天野、こんな所に何の用だ？\nとっとと\[suou\]の所へ行こうぜ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n\[suou\]、国から支給されてる拳銃あるだろ？\n今も正式拳銃はニューナンブか？\nいや、そろそろＰ２３０に変更される頃か？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n芹沢も馬鹿だね～\nあんな男に騙されるなんて、男を見る目無し！\n占いなんかに頼ってるから駄目なんだよなぁ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nいるねぇ、ラベルのデザインでワインを買うヤツ。\nまぁ、雰囲気に酔うってのも悪かねぇが、\n大事なのは味だろ？違うか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n…はぁ、何を言い出すかと思えば。\n恋をしてなければ、不安でたまらないってのか？\nほんっと、幸せなヤツだな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n酒に別腸あり…って言ってな、\n体の大きさと酒を飲める量は関係ねぇんだよ。\n体内のアセトアルデヒドを…って事だ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nったく、芹沢もしょうがねぇ女だなぁ。\nいつまでも怒ってんじゃねぇぞ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nＭｒ．パオフゥとＭｓ．芹沢、仲が悪いんですか？\nこれから先、呉越同舟で大丈夫なんでしょうね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＭｓ．Ｕｒａｒａって、とってもＣｕｔｅですわ。\nあんなに感情豊かな方、あまりいませんもの。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]影のある女\[color(white)\]\n悪魔を従え人を殺める殺人鬼、ＪＯＫＥＲ様…\n噂では七姉妹学園の校長もその被害者とか。\n私にもそんな力があったら…ねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]影のある女\[color(white)\]\n男の人はいいですね。まるで子供の様。\n全てを捨てても、自分の夢を追い求める。\n…私は、あの人の夢になれなかったのね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]影のある女\[color(white)\]\n呪い…か。誰かを恨む事が出来れば楽よね。\nでも、私は誰も恨めなかったわ。誰も悪くないの。\nあの人が自分の心に正直だっただけ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]影のある女\[color(white)\]\nいつまでも忘れられない事ってあるでしょ？\n自分が未練がましい事ぐらいわかってる。\n…でもね、ついこの店に来てしまうの。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]影のある女\[color(white)\]\nマスターの武器も不景気の前では無力だったのね。\n異常な値上がり…裏に控える用心棒…\nこんなに素敵な店が、暴力バーになるなんて…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]影のある女\[color(white)\]\nここのマスター、本当に武器が好きなのね。\n用心棒が必要なほど強力な武器を仕入れるなんて…\nリスクを背負ってでも扱いたかったらしいわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]多くを語らない男\[color(white)\]\n愛し合う二人は、互いを強く束縛しようとする。\nそれは本当の愛なのか…誰にもわからないことだが\n独り身をフリーと呼ぶのは間違いじゃないな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]多くを語らない男\[color(white)\]\nま、俺のような男には関係無い話さ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]多くを語らない男\[color(white)\]\n…なんだい？\n俺に関係のある話かい？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "俺に関係のある話かい？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34_Choice1
+
+msgid "名前を言い当てる"
+msgstr ""
+
+#. msg_34_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_34_Choice3
+
+msgid "用はない"
+msgstr ""
+
+#. msg_35
+
+msgid "ハンフリー\n\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]多くを語らない男\[color(white)\]\n誰の事言っているのかわからないが、\nもし、それが俺の事だと言うのなら、\n…間違ってるよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]ハンフリーと名乗る男\[color(white)\]\nお、俺の愛称も有名になったもんだな。\n…昔の彼女が俺を捜してるって？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]ハンフリーと名乗る男\[color(white)\]\n…星の数なら数えたことはあるが、\n昔の女の数は数えてないからな。\n簡単には思い出せそうにないね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]ハンフリーと名乗る男\[color(white)\]\n俺ならいつもここにいる。\nそいつにそう伝えておいてくれ。\n…明日？そんな先の事はわからないな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]多くを語らない男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]ハンフリーと名乗る男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "この店のオリジナルカクテル、いけるだろ？\n名前がちょっとアレだが…\nま、俺のような男には関係無い話か。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]多くを語らない男\[color(white)\]\nマスターのガンマニア振りには呆れたもんだ。\n…銃の個人輸入って、密輸じゃないのか？\nま、俺のような男には関係無い話さ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]多くを語らない男\[color(white)\]\nＪＯＫＥＲって、あの連続殺人の容疑者か？\n皆が殺人鬼と化す…馬鹿な話だな。\nま、俺のような男には関係無い話よ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]多くを語らない男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]ハンフリーと名乗る男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "緩やかに流れる時間を、静かに楽しめる場所。\nま、俺のような男が入り浸るには丁度いい。\n…君のような若者には退屈な店だろ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]ハンフリーと名乗る男\[color(white)\]\n大人の社交場\[color(orange)\]パラベラム\[color(white)\]…\nそんな落ち着きのあるこの店だが、\n最近、マスターが\[color(orange)\]用心棒を雇った\[color(white)\]って話だ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]ハンフリーと名乗る男\[color(white)\]\nどうにも物騒な噂だが、\nま、俺には関係………あるんだよなぁ。\n酒ぐらい落ち付いて飲ませてほしいね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nこの店って、女のコに評判いいんだぜ。\nアンタもこの店なら、いいかな…って思うだろ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n…お客様、申し訳ありませんが\nこちらには入らないで頂けますか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n…いらっしゃいませ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n…いらっしゃいませ。\nこの特別な日に貴方に来ていただけるとは、\n真に…嬉しい限りです…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n…いらっしゃいませ。\nこの特別な日に貴方に来ていただけるとは、\n嬉しい限りです。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n実は新たに高性能な武器を扱う事になったのです。\n単に私の趣味が高じただけの事ではありますが、\nこの喜びを是非皆さんにもと思いまして…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n…いらっしゃい。\n嬉しいね。…また貴方の姿を見る事が出来た。\n今日はサービスさせてもらうよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n…いらっしゃい。\nこの特別な日に貴方に来ていただけるとは、\n今日は…出来る限りサービスしますよ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n…いらっしゃい。\nこの特別な日に貴方の姿を見る事が出来るなんて…\n嬉しいですね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n実は新たに高性能な武器を扱う事になったのです。\n単に私の趣味が高じただけの事ではありますが、\nこの喜びを是非皆さんにもと思いまして…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n今日は精一杯のサービスをさせてもらいますよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\nご注文は？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61_Choice1
+
+msgid "食事をする"
+msgstr ""
+
+#. msg_61_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_61_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_61_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n何について話しましょうか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_62_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_62_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\nご注文は？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63_Choice1
+
+msgid "武器を買う"
+msgstr ""
+
+#. msg_63_Choice2
+
+msgid "アイテムを売る"
+msgstr ""
+
+#. msg_63_Choice3
+
+msgid "食事をする"
+msgstr ""
+
+#. msg_63_Choice4
+
+msgid "話をする"
+msgstr ""
+
+#. msg_63_Choice5
+
+msgid "やめる"
+msgstr ""
+
+#. msg_63_Choice6
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\nどちらをお売りになりますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64_Choice1
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_64_Choice2
+
+msgid "消費物を売る"
+msgstr ""
+
+#. msg_64_Choice3
+
+msgid "武器を売る"
+msgstr ""
+
+#. msg_64_Choice4
+
+msgid "\[if_all(EBIT_SINARIOFF)\]頭防具を売る"
+msgstr ""
+
+#. msg_64_Choice5
+
+msgid "防具を売る"
+msgstr ""
+
+#. msg_64_Choice6
+
+msgid "\[if_all(EBIT_SINARIOFF)\]脚防具を売る"
+msgstr ""
+
+#. msg_64_Choice7
+
+msgid "アクセサリーを売る"
+msgstr ""
+
+#. msg_65
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n何について話しましょうか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_65_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_65_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_66
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n他には…\n何かございますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66_Choice1
+
+msgid "食事をする"
+msgstr ""
+
+#. msg_66_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_66_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_66_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n何について話しましょうか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_67_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_67_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_67_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_68
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n他には…\n何かございますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_68_Choice1
+
+msgid "武器を買う"
+msgstr ""
+
+#. msg_68_Choice2
+
+msgid "アイテムを売る"
+msgstr ""
+
+#. msg_68_Choice3
+
+msgid "食事をする"
+msgstr ""
+
+#. msg_68_Choice4
+
+msgid "話をする"
+msgstr ""
+
+#. msg_68_Choice5
+
+msgid "やめる"
+msgstr ""
+
+#. msg_68_Choice6
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_69
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\nどちらをお売りになりますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_69_Choice1
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_69_Choice2
+
+msgid "消費物を売る"
+msgstr ""
+
+#. msg_69_Choice3
+
+msgid "武器を売る"
+msgstr ""
+
+#. msg_69_Choice4
+
+msgid "\[if_all(EBIT_SINARIOFF)\]頭防具を売る"
+msgstr ""
+
+#. msg_69_Choice5
+
+msgid "防具を売る"
+msgstr ""
+
+#. msg_69_Choice6
+
+msgid "\[if_all(EBIT_SINARIOFF)\]脚防具を売る"
+msgstr ""
+
+#. msg_69_Choice7
+
+msgid "アクセサリーを売る"
+msgstr ""
+
+#. msg_70
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n何について話しましょうか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_70_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_70_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_70_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_71
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n…殺人事件ですか。\n凶器はなんだったのでしょう？\n銃をそんな事に使って欲しくないですね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_72
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n確かに当店では銃を扱っています。\n見てください、このスライド部分を…\nブルースチールの鈍い輝きを…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_73
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\nこの重量感、この機能美…素晴らしい…\nえ、銃刀法？\n…水をさすような事は言って欲しくないですね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_74
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n…ＪＯＫＥＲ呪いですか。\n何故そのような非科学的な事が信じられるのか？\n私には、わからないですね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_75
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n…都会の片隅にある、落ち着いた大人の為の店。\nそれこそ、私の求めるバーのあり方なのです。\nどうでしょう？私は上手くやれていますか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_76
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n…値段が高すぎる？当店も不景気でして。\n生き残るためにはねぇ。…わかってくれますよね？\nご理解頂けないとなると私も困るのですよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_77
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n店の裏にね、裏の稼業を営む男が控えていまして。\n私もお客様に乱暴はしたくないのですが、\n…どうですかねぇ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_78
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n強力な銃は世界中にありますが…\n所詮、それらは人や獣を対象としたもの。\n…そこが違う。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_79
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\nこの度当店が扱う事となった銃はそこが違う。\n攻撃対象を限定しない、非合理的な設計と破壊力。\n…さらに魔をも封ずるこの性能。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_80
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n素晴らしいでしょう？\nこれなら悪魔だって倒せますよ？\n…まぁ、この世に悪魔がいたらの話ですがね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_81
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\nさすがに、これ程のものを扱うとなると心配でね。\n最も屈強な同志に、裏で控えてもらっていますよ。\n用心棒のいるバーなんて洒落になりませんが…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_82
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\nさぁ、どうぞ御覧下さい。\nこれがその\[color(green)\]\[var(msg_var_1)\]\[color(white)\]です。\n２２００００円になりますが…いかがです？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_83
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\nさぁ、どうぞ御覧下さい。\nこれがその\[color(green)\]\[var(msg_var_1)\]\[color(white)\]です。\n１７６０００円になりますが…いかがです？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_84
+
+msgid "…いかがです？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_84_Choice1
+
+msgid "購入する"
+msgstr ""
+
+#. msg_84_Choice2
+
+msgid "遠慮する"
+msgstr ""
+
+#. msg_85
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n残念ですが、お手持ちが少ないようですね。\n日を改めた方がよろしいかと。\n…数に限りがありますので、お早めに。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_86
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n貴方にはこの素晴らしさが理解出来ないのですね。\n…そうですか、非常に残念です。\n…他の方に勧めてみますよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_87
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n…美しい女性と無骨な銃……\nう～ん素晴らしい。私がにらんだ通りだ。\nその銃、貴方に良くお似合いですよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_88
+
+msgid "\[color(green)\]\[item_with_type(item_fffe)\]を手に入れた。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_89
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\nありがとうございました。\n…お気をつけてお帰りください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_90
+
+msgid "ＭＢＩＴＫＥＢＡＲＡＲＭ\nＥＢＩＴＥ００１８（強制）\n武器販売の噂・決定\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_91
+
+msgid "ＭＢＩＴＫＥＢＡＲＨＥＮＮＩ\n変異噂・決定\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_92
+
+msgid "ＭＢＩＴＡＩＳ１７\n相性占いの\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_93
+
+msgid "ＥＢＩＴＥ００１５\n七姉妹学園クリア\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_94
+
+msgid "ＥＢＩＴＥ００１８\nバー終了・パオフゥ初参加\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_95
+
+msgid "ＥＢＩＴＥ００３３\n「パオフゥ編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_96
+
+msgid "ＥＢＩＴＥ００３７\n警察署\[half_tab\]受付、終了\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_97
+
+msgid "ＥＢＩＴＥ００３８\n「詐欺男を確保」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_98
+
+msgid "ＥＢＩＴＥ００３Ｅ\n「ゴールドクリア」「うらら編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_99
+
+msgid "ＥＢＩＴＥ００４３\n「クラブクリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_100
+
+msgid "ＥＢＩＴＥ００４４\n「青葉公園クリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_101
+
+msgid "ＥＢＩＴＥ００４６\n「南条ｏｒエリー編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_102
+
+msgid "ＥＢＩＴＥ００６Ｆ\n「研究施設・ＴＶ局クリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_103
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n何について話しましょうか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_103_Choice1
+
+msgid "\[if_all(EBIT_E0018)\]売買"
+msgstr ""
+
+#. msg_103_Choice2
+
+msgid "食事"
+msgstr ""
+
+#. msg_103_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_104
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n「売買」についてですね、かしこまりました。\nまず、購入についてです。\n\[wait\]\[clear\]\[color(yellow)\]マスター\[color(white)\]\n当店で「武器を買う」を選んでいただければ\n武器を購入していただけます。\n\[wait\]\[clear\]\[color(yellow)\]マスター\[color(white)\]\nただし、武器は誰もが扱えるという物ではございません。\nお買い上げの前に、よくご確認下さい。\n\[wait\]\[clear\]\[color(yellow)\]マスター\[color(white)\]\nそれから、ここで買ったという事はくれぐれもご内密に。\n次に、売却についてです。\n\[wait\]\[clear\]\[color(yellow)\]マスター\[color(white)\]\n「アイテムを売る」を選んでいただき、売りたい物の\n種類、品物と順に選んでいただければ買取いたします。\nその際の価格は、元値の約半額となります。\n\[wait\]\[clear\]\[color(yellow)\]マスター\[color(white)\]\nまた、身に着けていらっしゃる物や、一部特殊な\n品物は買い取りできませんので、ご了承下さい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_105
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\n「食事」についてですね、かしこまりました。\n「食事をする」を選んでいただければ、当店自慢の\nカクテルを召し上がっていただけます。\n\[wait\]\[clear\]\[color(yellow)\]マスター\[color(white)\]\nこのカクテルには、一時的に能力を高める効果が\nございますが、効果の種類はさまざまです。\n色々試していただくのがよろしいかと。\n\[wait\]\[clear\]\[color(yellow)\]マスター\[color(white)\]\nまた、その効果が切れるまで\n次のご飲食をすることはできませんのでご注意下さい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_106
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\nそちらは\[var(msg_var_0)\]円になりますが\nよろしいですか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_106_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_106_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_107
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\nどうやら、当店で買い取れるアイテムを\nお持ちでないようですね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_108
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\nそちらは\[var(msg_var_0)\]円になりますが、\nお買い上げになられますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_108_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_108_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_109
+
+msgid "\[color(yellow)\]マスター\[color(white)\]\nそちらの買取価格は\[var(msg_var_0)\]円になりますが、\nお売りになられますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_109_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_109_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_110
+
+msgid "\[color(green)\]未成年は飲酒できません。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

@@ -1,0 +1,214 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0006\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]本庁の刑事\[color(white)\]\nじゃあ、吉栄杏奈さんは、\n金田にひき逃げされてから素行不良になったと…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]冴子先生\[color(white)\]\nそうは言ってません！\nただ、少しナーバスになってるだけです。\n人殺しなんて、できる子じゃないわ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]所轄の若い刑事\[color(white)\]\n落ち着いてください、先生。\n我々も、その生徒が被疑者と思っているわけでは\nありません。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]所轄の若い刑事\[color(white)\]\n大体、あんな殺し方は、大の男でも…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]本庁の刑事\[color(white)\]\n\[suou\]巡査部長。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]本庁の刑事\[color(white)\]\nまあ、そういうことなんですわ。\n念のためです。\nじゃあ、ご協力どうも。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]冴子先生\[color(white)\]\nあの…克哉さん、でしたよね？\n\[suou\]は…\n\[tatsuya\]君は、家に戻りました？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n…いえ。まだ帰ってないそうです。\nまったくどこで何をしているやら…\nあのバカ者が…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]\[suou\]克哉（\[suou\]かつや）\[color(white)\]\n\[color(green)\]港南警察署、刑事一課強行犯係の若手刑事。\n階級は巡査部長。\n\[tatsuya\]という弟がいるらしい。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n先生にも、ご心配おかけして申し訳ありません。\nでは、失礼します。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n今の人たち…刑事さん？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]冴子先生\[color(white)\]\nええ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]冴子先生\[color(white)\]\nえーと、キスメット出版の方？\n黛から話は聞いてます。\nうちの生徒たちに、取材したいんですって？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]高見冴子（たかみさえこ）\[color(white)\]\n\[color(green)\]七姉妹学園、通称セブンスの３－Ｂ担任。\n男っぽくさっぱりとした性格と、\n生徒の自主性を重んじる教育方針で慕われている。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nちゃちゃっと済ませて帰りますから！\nお願いできます？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]冴子先生\[color(white)\]\n構わないと思うけど…\nあんまり生徒たちを刺激しないでね。\n例の猟奇殺人で、皆落ち着かないみたいだから…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nまさか…何かあったとか？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]冴子先生\[color(white)\]\n生徒をひき逃げした男が、殺されたらしいの。\nそれが、猟奇殺人と関係あるらしくてね…\n何もなきゃいいんだけど…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]冴子先生\[color(white)\]\nＪＯＫＥＲ様の噂？\nああ、生徒たちが騒いでるやつね。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]冴子先生\[color(white)\]\n自分の携帯から自分の携帯に電話して\nＪＯＫＥＲ様にお願いすると、\n気に入らない人を殺してくれるってアレでしょ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]冴子先生\[color(white)\]\n誰が言い出したんだか知らないけど、嫌な噂だね。\nまだ、占いで騒いでる方が可愛げあるわ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]冴子先生\[color(white)\]\nとりあえず生徒達には、\n教室に隠れておくよう伝えました。\n早く警察の応援が来てくれるといいけど…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nそう言や、デジャ・ヴュの少年も、\nここの生徒みたいだって、アンタ言ってたわね。\nひょっとしたら会えるかもよ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nＪＯＫＥＲなんて、ただの噂だと思ってたから…\nだから…私…\nまさか噂が現実になるなんて…\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\nいや～どうも。\n私、貴方の会社のオカルト雑誌のファンなんです。\nほら、月刊「メー」ってあるでしょう？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]橿原明成（かしはらあきなり）\[color(white)\]\n\[color(green)\]３年生の学年主任を務める世界史教諭。\n風変わりだが、優しい先生として慕われている。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\n私も昔は、古代文明のＵＦＯが街の地下にある！\nなんて本を書いたりしたもんですが、ああいうのは\nエンターテイメントとして楽しむのが一番ですね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\nあの校長先生が殺されてしまうなんて…\nも、もしや、ラストバタリオンが…\nい…いや、そんな訳ありませんよね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]橿原明成（かしはらあきなり）\[color(white)\]\n\[color(green)\]３年生の学年主任を務める世界史教諭。\n風変わりだが、優しい先生として慕われている。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\nいや～どうも。\n私、貴方の会社のオカルト雑誌のファンなんです。\nほら、月刊「メー」ってあるでしょう？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\n私も昔は、古代文明のＵＦＯが街の地下にある！\nなんて本を書いたりしたもんですが、ああいうのは\nエンターテイメントとして楽しむのが一番ですね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\nあの校長先生が殺されてしまうなんて…\nも、もしや、ラストバタリオンが…\nい…いや、そんな訳ありませんよね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]麻生先生\[color(white)\]\nあーそう。当校の生徒を取材しに来たと。\nだけどもう下校時間を過ぎてるので、\nあまり生徒は残っておらんよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]麻生先生\[color(white)\]\nあーそう、校長先生が殺されたの？あーそう。\n……ってことはもしかして、殺人鬼がまだ\n校舎の中に居るかもしれないの？あーそう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]草加先生\[color(white)\]\nそうかー、また猟奇殺人が起きたかー、そうかー！\nしかも殺されたのは前に杏奈を轢いた男かー！\nそうかー！それで警察が来てるのかー！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]草加先生\[color(white)\]\nそうかー！\n校長室で殺人事件が起きてしまったかー！\nそうかー！これは一大事だー！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]草加先生\[color(white)\]\n…というわけで手を貸してくれー！\nそうかー！引きうけてくれるかー！\nこれはありがたいー！\n\[wait\]\[clear\]\[color(yellow)\]草加先生\[color(white)\]\n私は各教室を見まわらなくてはならないー！\nそこで君達には四階の時計台をお願いしたいー！\nこれが\[color(green)\]\[var(msg_var_0)\]\[color(white)\]だー！よろしくー！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]草加先生\[color(white)\]\nところでどうかしましたかー？\nえー？校務員室から\n時計台の鍵が無くなっているー？\n\[wait\]\[clear\]\[color(yellow)\]草加先生\[color(white)\]\nむー！？誰かが持ち出したのかー？\nとりあえずこれが予備の\[color(green)\]\[var(msg_var_0)\]\[color(white)\]ですー！\n使ってくださいー！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(green)\]舞耶達は、\n\[item_with_type(item_ffff)\]を手に入れた。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]草加先生\[color(white)\]\nまだ犯人がどこかにいるかもしれんー！！\nそれはそれで怖いー！\n生徒達は大丈夫だろうかー！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nヘリオス…あれがもう一人の僕だと言うのか…\n自分の知らないもう一人の自分…か。\nしかし、よりによってそれが猫とは皮肉な話だ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

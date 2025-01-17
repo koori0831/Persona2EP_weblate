@@ -1,0 +1,44 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0010\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]やる気のないボーイ\[color(white)\]\nいらっしゃい。\nラビットさん、ね。ああ、聞いてるよ。\nそこの赤いマシン使ってよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nどうして生き延びたかわかった。\nペルソナ使いが３人とは驚いたな。＞ラビット\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nちょ…\nどうしてわかっちゃったわけ！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nこれは…ペルソナ…！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nおたくら、ペルソナ使いに成りたてだな…\n気の使い方が、なっちゃいねぇ。\nまる分かりだぜ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n\[color(green)\]盗聴バスターを営むかたわら、噂ホームページを\n開設し、何やら街の影で情報を集める男。\n台湾人だということだが…\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nついて来な…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

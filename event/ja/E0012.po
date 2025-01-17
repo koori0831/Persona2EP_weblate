@@ -1,0 +1,114 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0012\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nぎゃぁぁぁぁぁぁ！\nま、また人が死んでるぅ～！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nでけぇ声で騒ぐな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nカタギじゃないな…全員帯銃してる。\n「黒星」…全弾発砲済みか。\n裂傷、刺傷、全身打撲、頭蓋損傷…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n襲撃に来たが、悪魔に返り討ちにされた…\nそんなところか。\n日本人じゃない。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n天道連（ティエンタオリェン）だ…\n台湾のマフィアだよ。\n知った顔がいる…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nお仲間か…？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nもう一度言ってみな…顔に穴開くぜ…？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "もう一度言ってみな…顔に穴開くぜ…？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7_Choice1
+
+msgid "や、止めてよ克哉さん。"
+msgstr ""
+
+#. msg_7_Choice2
+
+msgid "や、止めてよパオフゥ…"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nチッ…こいつらは、竜蔵の犬だ。\n野郎は、５年前、法務大臣だった頃から\nこいつらとねんごろなのさ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n…ちょっと待て。\n竜蔵とつながってるマフィアが、\nなぜ、奴の息子がいる病院を襲う？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n知るか、んなこたぁ。\nそいつを調べに来たんだろうが。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nチッ…こいつらは、竜蔵の犬だ。\n野郎は、５年前、法務大臣だった頃から\nこいつらとねんごろなのさ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n…ちょっと待て。\n竜蔵とつながってるマフィアが、\nなぜ、奴の息子がいる病院を襲う？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n知るか、んなこたぁ。\nそいつを調べに来たんだろうが。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]壊れた扉\[color(green)\]\nここには入れない。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nここんとこ、私腰ぬかしてばっかだわ…\nなんでこんな事に付き合わなきゃなんないわけ？\nなんで噂がほんとになんかなんのよぉ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nこんな有り様じゃ、この先何があるかわからねぇ…\n準備はいいか？\n戻るんなら今のうちだぜ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n悪魔に殺人鬼、その次はマフィアか…\nまったく、ここは日本だぞ？\nわからん事だらけだよ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]台湾マフィアの死体\[color(green)\]\n凄惨な殺され方をしている…\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

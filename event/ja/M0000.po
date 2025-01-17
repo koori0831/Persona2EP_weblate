@@ -1,0 +1,864 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "パーティの人数が四人を超えています。\nこのままじゃハングします。\n金田・片岡に連絡してください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nハァ…マーヤに関わるとろくな事が無いんだから…\n私のお見合いパーティどうしてくれんのよ！\n…って、マーヤのせいでもないしねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nハァ～これでも色々と考えてたのよ？\n私ゃ、ワンロン占いだと皎龍だから、\n相性の良い相手は光龍かなぁ…とか。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nやっぱどう考えても探偵事務所に来た少年って、\n例のデジャ・ヴュの子よねぇ？\nなんで私達の行く先々にチラチラと…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nＪＯＫＥＲがペルソナだとしても、\n私達のペルソナとはまるで違ってる。\nんー…正反対って感じ…どう言えばいいかなぁ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nマーヤ、あそこのオジサンの話聞いた？\nここにいた女の人が黒服の連中に攫われたって…\nきっとＪＯＫＥＲ狩りされたんだよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nふふ～ん。噂操作を使う作戦、大成功よね！\n…でもあの時、男と女、反対の方を広めたら\nどうなってたんだろ？マーヤ気にならない？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあれ？新世塾はＪＯＫＥＲを集めてたのよねえ？\nだからＪＯＫＥＲ狩りまでして…\nだけど講演会に行くのは普通の人達でしょ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあ、そうか、穢れが集まればいいんだもんね。\nあれ？じゃあＪＯＫＥＲは？\nありゃりゃ…よく分からんわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n確か…冴子先生だったか。\n最近では珍しい熱血教師のようだな。\n女性でありながら、実に立派なものだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nそれに比べて\[tatsuya\]は…\nまったく、あんな先生の元にいながら、\nどうしてグレるんだ？身内ながら理解できん！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nん…\nこんな店が珠閒瑠市にあったのか…\n今まで気づかなかったが…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nパオフゥはただの義侠心と言っていたが…\nとてもそうは思えんな。\n奴には犯罪者に似た独特の殺気がある。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nしかしあのＴＶ放送…タイミングが良すぎるな…\n噂が現実になることを知らないならともかく、\nもしも知っていてあの放送を流したなら…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n残念だが、攫われた女性を探している時間は無い。\nこうしている間にも、ＪＯＫＥＲ化した人間が\n次々と狩られているはずだ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nスニークが何者なのかは分からないが…\nこれで次の手がかりを掴むことは出来た。\nも…もちろん、芹沢君のお陰でもあるが。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n天野君達の病気が移ったか…\n僕も最近デジャ・ヴュを感じることがある。\nスマイル平坂でも何かあった気がしてならん。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nアンティークとは言っても\n見渡す限り時計ばかりか…\nいい趣味とは言えねぇな、ここは。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nあそこの女どうしたんだ？\nどうも様子がおかしいぜ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nアジトの一つや二つ押さえたところで、\n焼け石に水って事だ。\n元を断つしかねえのさ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nしかし…\n俺達以外にも、竜蔵に牙を剥く奴がいたとはな。\nそれだけでも驚嘆に値するぜ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n毎回情報操作にマスコミ使われちゃ、\n太刀打ちできねぇな…\nメディアの力ってのは厄介だぜ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n先ほどＭｓ．芹沢に聞きました。\nイゴールならＪＯＫＥＲ化した人間を\n元に戻せると。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nこれから行く研究施設には、\n多数の被害者が監禁されているはず。\n場合によっては…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nところでイゴールを初めて見た時どう思いました？\nやはり鼻ですか？鼻が気になりましたか？\nうむ…さもありなん。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n３年…あのセベクスキャンダルから３年経った。\nだが、奴の時間は止まったままだった。\nそして…この俺も。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＪＯＫＥＲ呪いは、読んで字のごとく呪いの一つ。\n普通、例え嫌な相手がいても、\n呪いを使う人など、そうはいませんわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nおそらく人の幸、不幸を明確に差別化する\nワンロン占いの性質が、人々の妬みを強め、\nこの呪いをここまで流行らせたのでしょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n人は他者と己を比較することによって、\n社会での自分の地位、あり方を模索します。\n妬みは…あって当たり前なんです。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nおそらく、\nあのＧｉｎｊｉというＰｒｏｄｕｃｅｒも\n望龍術の信者だったのでしょうね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nあれ？ここって何も無かったはずじゃあ…\nいつの間にこんな店できたんだろ？\nふ～ん…珠閒瑠の七不思議かなぁ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\nなるほど…運命を受け入れず、\n今一度、時の歯車を戻したか…\nどこまでも人間とは哀れな生き物だな…\n\[wait\]\[clear\]\[color(yellow)\]伯爵\[color(white)\]\nしかし、私にはまだ演ずるべき役が無いようだ。\n早く決めて欲しいものだな…\nこの世界での私の存在意義を。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\nなるほど…運命を受け入れず、\n今一度、時の歯車を戻したか…\nどこまでも人間とは哀れな生き物だな…\n\[wait\]\[clear\]\[color(yellow)\]伯爵\[color(white)\]\nしかし、私にはまだ演ずるべき役が無いようだ。\n早く決めて欲しいものだな…\nこの世界での私の存在意義を。\n\[wait\]\[clear\]\[color(yellow)\]伯爵\[color(white)\]\nいくら相性が良くなろうとも、\n役目が無ければ、どうしようもあるまい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\n何度訪れようと同じ事だ。\n今の私では君達の役には立たん。\nさっさと噂操作でもしたらどうだ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\n何度訪れようと同じ事だ。\n今の私では君達の役には立たん。\nさっさと噂操作でもしたらどうだ？\n\[wait\]\[clear\]\[color(yellow)\]伯爵\[color(white)\]\n相性も何も、\n全てはそれからだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\nふふふ…なるほど。\nどうやら私の役目が決まったようだな。\n…今一度…私は時の傀儡となるのか…\n\[wait\]\[clear\]\[color(yellow)\]伯爵\[color(white)\]\nようこそ時の城へ。\nここでは、魔性のカードを多数扱っている。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\nふふふ…なるほど。\nどうやら私の役目が決まったようだな。\n…今一度…私は時の傀儡となるのか…\n\[wait\]\[clear\]\[color(yellow)\]伯爵\[color(white)\]\nようこそ時の城へ。\nここでは、魔性のカードを多数扱っている。\nさあ、ご用件を…\n\[wait\]\[clear\]\[color(yellow)\]伯爵\[color(white)\]\n…ふふ…そうか…相性占いとは抜け目が無い。\nよかろう。確かに君とは只ならぬ縁があるようだ。\n特別に二割引で取引させてもらおう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\nようこそ時の城へ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\nこの私と相性が良いと？\nふふ…まあ、そう言えなくもないか…\nよかろう。通常の二割引で取引させてもらおう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\nふふふ…今度はカードの複製か…\nなかなか楽しませてくれる。\n\[wait\]\[clear\]\[color(yellow)\]伯爵\[color(white)\]\nついに我が城にてカードの複製が可能となった。\nレアカードを手に入れたなら持ってくるがよい。\n何枚にでも増やし、販売してやろう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\nふふふ…今度はカードの複製か…\nなかなか楽しませてくれる。\n\[wait\]\[clear\]\[color(yellow)\]伯爵\[color(white)\]\nついに我が城にてカードの複製が可能となった。\nレアカードを手に入れたなら持ってくるがよい。\n何枚にでも増やし、販売してやろう。\n\[wait\]\[clear\]\[color(yellow)\]伯爵\[color(white)\]\nもちろん…二割引で取引しよう。\n相性の良い君へ、\n心ばかりのサービスだ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\nさあ、ご用件を伺おうか。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41_Choice1
+
+msgid "カードを買う"
+msgstr ""
+
+#. msg_41_Choice2
+
+msgid "アイテムを売る"
+msgstr ""
+
+#. msg_41_Choice3
+
+msgid "話をする"
+msgstr ""
+
+#. msg_41_Choice4
+
+msgid "\[if_all(EBIT_SINARIOFF)\]アイテムの確認"
+msgstr ""
+
+#. msg_41_Choice5
+
+msgid "やめる"
+msgstr ""
+
+#. msg_41_Choice6
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\n何を売るのかね？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42_Choice1
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_42_Choice2
+
+msgid "\[dbl_tab\]消費物を売る"
+msgstr ""
+
+#. msg_42_Choice3
+
+msgid "\[dbl_tab\]武器を売る"
+msgstr ""
+
+#. msg_42_Choice4
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]頭防具を売る"
+msgstr ""
+
+#. msg_42_Choice5
+
+msgid "\[dbl_tab\]防具を売る"
+msgstr ""
+
+#. msg_42_Choice6
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]脚防具を売る"
+msgstr ""
+
+#. msg_42_Choice7
+
+msgid "\[dbl_tab\]アクセサリーを売る"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\n何について話したいのかね？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_43_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_43_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\nさあ、ご用件を伺おうか。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44_Choice1
+
+msgid "カードを買う"
+msgstr ""
+
+#. msg_44_Choice2
+
+msgid "カードを登録"
+msgstr ""
+
+#. msg_44_Choice3
+
+msgid "アイテムを売る"
+msgstr ""
+
+#. msg_44_Choice4
+
+msgid "話をする"
+msgstr ""
+
+#. msg_44_Choice5
+
+msgid "\[if_all(EBIT_SINARIOFF)\]アイテムの確認"
+msgstr ""
+
+#. msg_44_Choice6
+
+msgid "やめる"
+msgstr ""
+
+#. msg_44_Choice7
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\n何を売るのかね？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45_Choice1
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_45_Choice2
+
+msgid "\[dbl_tab\]消費物を売る"
+msgstr ""
+
+#. msg_45_Choice3
+
+msgid "\[dbl_tab\]武器を売る"
+msgstr ""
+
+#. msg_45_Choice4
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]頭防具を売る"
+msgstr ""
+
+#. msg_45_Choice5
+
+msgid "\[dbl_tab\]防具を売る"
+msgstr ""
+
+#. msg_45_Choice6
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]脚防具を売る"
+msgstr ""
+
+#. msg_45_Choice7
+
+msgid "\[dbl_tab\]アクセサリーを売る"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\n何について話したいのかね？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_46_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_46_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\n他に用はあるかね？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47_Choice1
+
+msgid "カードを買う"
+msgstr ""
+
+#. msg_47_Choice2
+
+msgid "アイテムを売る"
+msgstr ""
+
+#. msg_47_Choice3
+
+msgid "話をする"
+msgstr ""
+
+#. msg_47_Choice4
+
+msgid "\[if_all(EBIT_SINARIOFF)\]アイテムの確認"
+msgstr ""
+
+#. msg_47_Choice5
+
+msgid "やめる"
+msgstr ""
+
+#. msg_47_Choice6
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\n何を売るのかね？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48_Choice1
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_48_Choice2
+
+msgid "\[dbl_tab\]消費物を売る"
+msgstr ""
+
+#. msg_48_Choice3
+
+msgid "\[dbl_tab\]武器を売る"
+msgstr ""
+
+#. msg_48_Choice4
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]頭防具を売る"
+msgstr ""
+
+#. msg_48_Choice5
+
+msgid "\[dbl_tab\]防具を売る"
+msgstr ""
+
+#. msg_48_Choice6
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]脚防具を売る"
+msgstr ""
+
+#. msg_48_Choice7
+
+msgid "\[dbl_tab\]アクセサリーを売る"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\n何について話したいのかね？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_49_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_49_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\n他に用はあるかね？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50_Choice1
+
+msgid "カードを買う"
+msgstr ""
+
+#. msg_50_Choice2
+
+msgid "カードを登録"
+msgstr ""
+
+#. msg_50_Choice3
+
+msgid "アイテムを売る"
+msgstr ""
+
+#. msg_50_Choice4
+
+msgid "話をする"
+msgstr ""
+
+#. msg_50_Choice5
+
+msgid "\[if_all(EBIT_SINARIOFF)\]アイテムの確認"
+msgstr ""
+
+#. msg_50_Choice6
+
+msgid "やめる"
+msgstr ""
+
+#. msg_50_Choice7
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\n何を売るのかね？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51_Choice1
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_51_Choice2
+
+msgid "\[dbl_tab\]消費物を売る"
+msgstr ""
+
+#. msg_51_Choice3
+
+msgid "\[dbl_tab\]武器を売る"
+msgstr ""
+
+#. msg_51_Choice4
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]頭防具を売る"
+msgstr ""
+
+#. msg_51_Choice5
+
+msgid "\[dbl_tab\]防具を売る"
+msgstr ""
+
+#. msg_51_Choice6
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]脚防具を売る"
+msgstr ""
+
+#. msg_51_Choice7
+
+msgid "\[dbl_tab\]アクセサリーを売る"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\n何について話したいのかね？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_52_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_52_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\nワンロン占いか…\nいつの頃も人は道標が無くては歩くこともできぬ。\nだがそれでは時の定めには逆らえん。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\n過ぎた時間は決して取り戻せない。\nそれが時の秩序だ。\nあの若者はそれを破ろうというのか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\n幾度時が巡ろうと、人の行きつく先は変わらぬ。\n同じ罪を犯し、同じ悲しみを生み出す。\nそれは既に歴史の示す、人の理なのだよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\n巨大なダムも亀裂一つで崩壊に至る…\nＪＯＫＥＲが残した社会の亀裂…\n君達はそれを塞ぐ事ができるのかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\n今再び、時の円環は動き出した。\n過ぎ去った時を追う咎人よ…\nまた会おう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "\[color(yellow)\]物静かな紳士\[color(white)\]\nサラリーマンになって８年…\n元々控えめだった私にとって、\n社会はあまりにも厳しく…冷たかった。\n\[wait\]\[clear\]\[color(yellow)\]物静かな紳士\[color(white)\]\n最近はこうして、物静かにアンティークを\n眺めることが唯一の楽しみなのです…\n妹は心配しているかも知れませんが…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]物静かな紳士\[color(white)\]\nあの…\n私にまだ何かご用ですか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "何の用でしょう？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60_Choice1
+
+msgid "名前を言い当てる"
+msgstr ""
+
+#. msg_60_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_60_Choice3
+
+msgid "用はない"
+msgstr ""
+
+#. msg_61
+
+msgid "ホンダリョウイチ\n\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]物静かな紳士\[color(white)\]\nは？\nい…いえ、私はそんな名前では…\n人違いではありませんか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]ホンダリョウイチ\[color(white)\]\nえ！？\nどうして私の名前をご存知なんですか？\nえ！？私の捜索願が出ていたのですか？\n\[wait\]\[clear\]\[color(yellow)\]ホンダリョウイチ\[color(white)\]\nそ…そうですか…\nきっと妹が出したのでしょう…\n心配をかけてしまったな。\n\[wait\]\[clear\]\[color(yellow)\]ホンダリョウイチ\[color(white)\]\n分かりました。妹と、しらいしさんには、\n私から連絡しておきましょう。\nわざわざ済みませんでした。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(yellow)\]物静かな紳士\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_65
+
+msgid "\[color(yellow)\]ホンダリョウイチ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_66
+
+msgid "ここは、アンティークショップなんですが、\n実際に扱っているのは時計ばかりなんです。\nまあ、私はそこが気に入っているんですが。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]物静かな紳士\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_68
+
+msgid "\[color(yellow)\]ホンダリョウイチ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_69
+
+msgid "過ぎてしまえば、みな良き思い出となる…\n不思議なものですね。\n時間は人の心さえ変えてしまう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_70
+
+msgid "\[color(yellow)\]物静かな紳士\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_71
+
+msgid "\[color(yellow)\]ホンダリョウイチ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_72
+
+msgid "あそこのご婦人はどうしたんですか？\n急に苦しみだして…\nま、まさかあれがＴＶで言っていた…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_73
+
+msgid "\[color(yellow)\]物静かな紳士\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_74
+
+msgid "\[color(yellow)\]ホンダリョウイチ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_75
+
+msgid "さ、さっき妙な黒服の連中が来て、\nあそこにいたご婦人をさらって行ったんです！\nい、いったい、何がどうなっているのやら…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_76
+
+msgid "\[color(yellow)\]物静かな紳士\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_77
+
+msgid "\[color(yellow)\]ホンダリョウイチ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_78
+
+msgid "この時間城では、\n魔法のカードまで販売してたんですね。\nいやあ、噂を聞いたときは驚きましたよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_79
+
+msgid "\[color(yellow)\]物静かな紳士\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_80
+
+msgid "\[color(yellow)\]ホンダリョウイチ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_81
+
+msgid "あの伯爵は、魔法のカードの\n複製までしてしまうそうですよ。\nやはり只者ではありませんねえ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_82
+
+msgid "\[color(yellow)\]オバサン\[color(white)\]\nね、ねぇあなた、ＪＯＫＥＲ呪いって知ってる？\nあの、自分の携帯に電話をかけたら…\n\[end\]"
+msgstr ""
+
+#. msg_83
+
+msgid "その…い、いえ、なんでもないの。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_84
+
+msgid "\[color(yellow)\]オバサン\[color(white)\]\nじ、実は私も…ＪＯＫＥＲ呪いってしてみたの。\nどうしても許せない相手がいて…\nその…憂さ晴らしのつもりだったんだけど…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_85
+
+msgid "\[color(yellow)\]オバサン\[color(white)\]\nぐぐっ…グッ…ち、違う…アイツが悪いんだ…\nこ、殺したって私は少しも…\n殺したって…私は悪くないッ…わたしはぁぁ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_86
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\n何を聞きたいのかね？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_86_Choice1
+
+msgid "売買"
+msgstr ""
+
+#. msg_86_Choice2
+
+msgid "\[if_all(MBIT_HI_JIKANDUP)\]カードを登録"
+msgstr ""
+
+#. msg_86_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_87
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\nふむ、「売買」についてだな。\nまず初めに、購入の説明をしよう。\nこの時の城で「カードを買う」を選ぶと\n\[wait\]\[clear\]\[color(yellow)\]伯爵\[color(white)\]\n特殊なカードを購入できる。\n有用なカードほど値段が高い。\n…当然のことではあるが。\n\[wait\]\[clear\]\[color(yellow)\]伯爵\[color(white)\]\n金を無駄にしないよう、よく検討してから買いたまえ。\nつぎは、売却の説明だ。\n「アイテムを売る」を選択すると、種類の選択になる。\n\[wait\]\[clear\]\[color(yellow)\]伯爵\[color(white)\]\n売却する物の種類を選択し、その後に物を選択するのだ。\n買い取り価格は元値の約半額ほどになる。\n装備中のものと一部の物は売却することができない。\n\[wait\]\[clear\]\[color(yellow)\]伯爵\[color(white)\]\n…こんなところかね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_88
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\nふむ、「カードを登録」についてだな。\nこの時の城で扱っているカードの種類には限りがある…\nしかし、その種類を増やす方法があるのだよ。\n\[wait\]\[clear\]\[color(yellow)\]伯爵\[color(white)\]\nそれがこの「カードを登録」というわけだ。\nまず「カードを登録」を選び、\n我が店に置いてほしいカードを一枚差し出すのだ。\n\[wait\]\[clear\]\[color(yellow)\]伯爵\[color(white)\]\n…犠牲なくして得られるものは何も無い、当然だな。\nさすれば、私がそのカードを無限に複製し、\n購入リストに並べさせていただく。\n\[wait\]\[clear\]\[color(yellow)\]伯爵\[color(white)\]\nその後、必要なだけ思う存分買うがいい。\n私は取り扱う商品が増える。\n君達は有用なカードをいくらでも手に入れられる。\n\[wait\]\[clear\]\[color(yellow)\]伯爵\[color(white)\]\n…お互いに有意義な行為だと思わんかね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_89
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\n残念ながら、私が買い取れるものを持っていないようだ。\n出なおしてきたまえ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_90
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\n\[var(msg_var_0)\]円いただくことになるが、\nよろしいかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_90_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_90_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_91
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\n\[var(msg_var_0)\]円で買い取ることになるが、\nよろしいかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_91_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_91_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_92
+
+msgid "\[color(yellow)\]伯爵\[color(white)\]\nでは、登録の代償として、\nそのカードを一枚いただくことになる。\nよろしいかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_92_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_92_Choice2
+
+msgid "いいえ"
+msgstr ""
+

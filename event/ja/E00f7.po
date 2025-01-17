@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00f7\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "俺は、駐車場にだれもいない事を確認すると、\n栄吉に声をかけた。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nいいぞ、栄吉。\n急げ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

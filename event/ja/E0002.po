@@ -1,0 +1,64 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0002\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]ゆきの\[color(white)\]\n取材、お疲れさま。\n舞耶さんに、手紙届いてますよ。\n差出人とか、書いてないけど…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "差出人とか、書いてないけど…\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1_Choice1
+
+msgid "サンクス、ユッキー！"
+msgstr ""
+
+#. msg_1_Choice2
+
+msgid "ありがとう。でも、誰だろう…？"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]天野舞耶（あまのまや）\[color(white)\]\n\[color(green)\]キスメット出版の高校生向け情報誌、\n「クーレスト」編集部に在籍する女性編集者。\n今回の主人公。\n\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]天野舞耶（あまのまや）\[color(white)\]\n\[color(green)\]キスメット出版の高校生向け情報誌、\n「クーレスト」編集部に在籍する女性編集者。\n今回の主人公。\n\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]手紙\[color(white)\]\n次ハ、オ前ダ。\nＪＯＫＥＲ\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]舞耶\[color(white)\]\n………？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]新人\[color(white)\]\n天野先輩、編集長が呼んでますよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]新人\[color(white)\]\nいっつも面倒な仕事ばっか押しつけられて、\n先輩も大変すね…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]新人\[color(white)\]\nあくせく働いても、大していい事あるわけじゃなし\nやっぱ夢と現実って、こんなもんなんすかね…\nはぁ…会社辞めよかなぁ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

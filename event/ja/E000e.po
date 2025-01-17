@@ -1,0 +1,119 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E000e\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]谷刑事\[color(white)\]\n科研のプロファイルも当てにならんなぁ。\nババ引いたの、またおやじなんだって？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]島津管理官\[color(white)\]\nそこにいる二人が、第一発見者か？\n参考人の生徒とやらはどうした。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]島津管理官（しまづかんりかん）\[color(white)\]\n\[color(green)\]連続猟奇殺人事件特別捜査本部の指揮を執る、\n県警捜査一課のエリート管理官。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n警察病院に搬送しました。\n参考人は、ババに狙われています。\n護衛を付けて下さい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]島津管理官\[color(white)\]\n５０１号と接触したそうだな…報告しろ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]谷刑事\[color(white)\]\n\[suou\]…お前、休め。\nババが出てからこっち、働きづめだからな。\nたまにゃ、親父さんを温泉でも連れてってやれよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n谷さん…！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]島津管理官\[color(white)\]\n\[suou\]巡査部長、\n本日付をもって君を捜査本部から外す。\n所轄の優秀な刑事と聞いていたが、残念だよ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]島津管理官\[color(white)\]\n「カエルの子はカエル」\[delay(20)\]か…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nだーから止めたのにさ…\nで、どうすんの？\n本当に、温泉行っちゃうんじゃないでしょうね？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nバカな…\nヤツを見た警官は僕だけだ。\n必ず逮捕する。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nじゃあさ…\nデジャ・ヴュの少年が言ったっていう、\nＪＯＫＥＲ除けの噂、広げてみない？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nバカな、科学的じゃない。\n確かに噂が現実になることもあるが、\nそれはあくまで…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nバカバカ言わないでくれる？\n今まで見てきた事が、科学で説明できるわけ！？\nも～この石頭！モミアゲ男！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nモミ…わかった、好きにしてくれ。\n確かに、天野君を助けた少年の事もある。\nその探偵とやらに話を聞こう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nババの奴、異常者には間違いないだろうが、\n言ってる事がどうも引っかかる…\n「向こう側」と「こちら側」か…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nトホホ…\n結局お見合いパーティ行けないでやんの…\nまぁ、しゃーないわな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]島津管理官\[color(white)\]\n第一発見者のお嬢さんか…\n調書を取るので、後日捜査員を迎えに行かせます。\n所在を明らかにしておきなさい。\n\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]ノリコ\[color(white)\]\n校長、死んだんですね…？\nでも、お姉様がＪＯＫＥＲ様にお願いしたんじゃ\nありません…私にはわかるんです…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]冴子先生\[color(white)\]\n片山がいないっていうんで探しに来たんだけど…\nなんでアタシがいる学校には、\nこんな事件ばかり起きるのかしらねぇ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]谷刑事\[color(white)\]\n\[suou\]のヤツ、いい刑事なんだがね。\n親父さんの事で、やたらと肩張ってんのかねぇ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]警官\[color(white)\]\nこれより先は、鑑識中のため立ち入り禁止です。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

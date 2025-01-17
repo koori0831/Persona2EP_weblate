@@ -1,0 +1,119 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0035\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]二枚目の男\[color(white)\]\n君にこの前お願いしていたことだけど…\nどうだろう、都合ついたかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]若い女\[color(white)\]\nうん…\n３００万くらいならなんとか用意できるけど…\n信じていいのよね…？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]二枚目の男\[color(white)\]\nあたりまえじゃないか…\n君のおかげで今の研究も上手く行く。\nそうすれば僕は副院長だ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]二枚目の男\[color(white)\]\n君も副院長婦人だよ。\n愛してる…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nなぁにが副院長だ…\nあの阿呆も、あんな手でコロっといったのかねぇ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n牧村洋一さんですね？\n芹沢うららさんをご存知でしょう。\n詐欺容疑でご同行願いたい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nな、何を言ってるんだアンタ…？\nそんな女知らないな。\n人違いでしょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]牧村洋一（まきむらよういち）\[color(white)\]\n\[color(green)\]うららを騙して貯金を奪った結婚詐欺師。\n牧村という名はその時の偽名。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nそうですか…\n\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "詐欺にあった女性がＪＯＫＥＲに復讐を依頼した\n疑いがありましてね…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n保護したかったのですが、人違いでしたか…\n\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "失礼しました。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nえ…？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nやれやれ…また死体が一つ増えるのか…\n\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "もう、手後れかもしれねぇなぁ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]若い女\[color(white)\]\nねぇ！詐欺ってどういうこと…！？\nうららって誰なの！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nヒ…\nい、いや…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nま、待ってくれ…！！\nＪＯＫＥＲって、本当なのか！？\nた、助けてくれ！死にたくない！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n自供成立だな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n姉ちゃん、もっと男見る目磨きなよ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n天野君、芹沢君が行きそうな所は？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nＧＯＬＤ…？\nフィットネスクラブか…\nよし、行ってみよう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

@@ -1,0 +1,59 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M004A\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nうっふふー！！\nお見合いパーティ、お見合いパーティ♥\nたーのしみよねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]残念そうな女子生徒\[color(white)\]\nやだ、前に誕生日教えたじゃん、１月って。\n忘れちゃったの？\n\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "なんかショックゥ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]占い好きな女子生徒\[color(white)\]\n１月って事は、あなたの龍は「黄龍」ねぇ。\n安定的で保守的な気質。\n\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "私は「青龍」だから…あちゃ、相性悪いみたい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]嬉しそうな男子生徒\[color(white)\]\n当たるんデスよ、ワンロン占いは。\n僕なんか、それに従ってるだけで、\n素敵な彼女ができてしまったのデス。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]嬉しそうな男子生徒\[color(white)\]\nぐふ。\nもうワンロン占い無しじゃ生きて行けませんね。\nいやいやマジで。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]おびえた男子生徒\[color(white)\]\nあの…警察が来てるみたいなんスけど…\nこの学校で何かあったんスか？\nまさかＪＯＫＥＲ事件じゃないでしょうね！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]おびえた男子生徒\[color(white)\]\nそうだ…きっとそうなんだ！！\n\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "さっき３―Ｂで見た人も、きっと刑事ッス！\nやばい！この学校、やばいッスよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

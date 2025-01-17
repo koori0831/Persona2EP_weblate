@@ -1,0 +1,39 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0083\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあれあれ！\nまだ一隻残ってるじゃん！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nチッ…！\n竜蔵の野郎…船ごと沈める気か！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]\[tatsuya\]の声\[color(white)\]\n早くそれに乗って脱出しろ…！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n\[tatsuya\]か！？\n中免しか持っていないくせに、\nそんなものに乗ったら危ないだろう！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n阿呆！なにトボケた事言ってる！\n早く来い！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n阿呆とはなんだ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

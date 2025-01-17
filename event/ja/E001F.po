@@ -1,0 +1,14 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E001F\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nおらおら、泣いてるだけじゃ死んじまうぞ？\n早く屋上に逃げな。\n友達とはぐれるんじゃねーぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

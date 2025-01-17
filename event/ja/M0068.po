@@ -1,0 +1,39 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0068\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nようこそ、ベルベットルームへ。\nここは、人の心の様々なる形を呼び覚ます部屋…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n我らが主、フィレモン様の命により、\n貴方がたをお待ちしておりました。\n我が名は、イゴールと申します。\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]ベラドンナ\[color(white)\]\n私はベラドンナ～𝅘𝅥𝅮\[delay(30)\]\n己という魔物に挑む、もののふ称える歌歌い～𝅘𝅥𝅮\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]ナナシ\[color(white)\]\n俺はナナシ…\[delay(30)\]\n閉ざされし、心の扉を開くピアノ弾き…\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\n僕は悪魔絵師。\[delay(30)\]\n人の内に住まう、神と悪魔を描く絵師。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n我ら４人、貴方がたの新たな心、\n新たなペルソナの目覚めをお助けするよう、\n仰せつかっております。以後、お見知りおきを…\[wait\]\[clear\]\[end\]"
+msgstr ""
+

@@ -1,0 +1,144 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E010b\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "ベルベットルーム\n現在\n\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nはぁ～、なるほどねぇ。\n\[tatsuya\]君、一人でそんなことしてたんだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nまさか、宮代君の家に転がり込んでいたとはな。\n以前から、避けられているような雰囲気があったから、\nあまり話したこともなかったんだが。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nまさか、父や僕たちとそんな関係があったとは…\n須藤のことで、相当苦しんでいたんだな。\n我々と同じように。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nで、その人…？\nが、チャントシタナンプラーさん？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]チャンドラプトラ\[color(white)\]\nオ初ニオ目ニカカル…\n印度デ神秘ノ探求ヲシテオル\nすわーみ・ちゃんどらぷとらト申シマス\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]チャンドラプトラ\[color(white)\]\n少々見苦シキ病ヲ患ッテイマシテナ…\nコノ様ナ出立デマカリ越シタコト\nゴ容赦頂キタイ\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n俺は詩織さんに借りがある。\n舞耶姉、悪いけどちょっと行って来る。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nお前という奴は…\nどうしてそう、\n何もかも一人で片付けようとする！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n全くだ。\nこっちの方もケリつけなきゃいけねぇってのに、\n一人で行って戻れなくなったらどうする気だ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n…負けるつもりはない。\n必ず戻ってくる。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n責任感って奴か？\n自惚れんな。\nしくじったって、責任なんか取れやしねぇ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n………\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nもう、お前一人の問題じゃない。\n僕も行くぞ。\nいいね、天野君？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(green)\]舞耶は、当然！とばかりに頷いた。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nそういうことなんで、ナンプラーさん、\nちゃちゃっと私たち、送ってくれちゃいます？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]チャンドラプトラ\[color(white)\]\nワカリマシタ\nシカシ代ワリニ私カラモ\n一ツオ頼ミシタイ事ガアリマス\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]チャンドラプトラ\[color(white)\]\n這イ寄ル混沌ニ奪ワレタ\n我ガ弟子らんどるふ・かーたーノ\n心ノ欠片モ探シ出シテ頂キタイノデス\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]チャンドラプトラ\[color(white)\]\nオ願イデキマスカナ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(green)\]舞耶は、まかせといて！とばかりに頷いた。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]チャンドラプトラ\[color(white)\]\nデハ「カダス」ヘノ窮極ノ門ヲ\n開イテサシアゲマショウ\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(green)\]チャンドラプトラ師は、懐から１５センチ程の\nアラベスク模様に覆われた銀の鍵を取り出した。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(green)\]師が奇怪な呪文を唱えながら鍵を９回回すと、\n闇に銀色の色彩が渦巻く穴が現れた。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]チャンドラプトラ\[color(white)\]\nサァオ行キナサイ\nコノ窮極ノ門ヲ抜ケレバ\n「カダス」ヘ至リマス\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]チャンドラプトラ\[color(white)\]\n私ハ故アッテ同道デキマセンガ\n我ガ友ガ水先案内人トナッテクレルデショウ\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(green)\]舞耶達は、窮極の門を抜けて「カダス」ヘ旅立った。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

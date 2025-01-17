@@ -1,0 +1,679 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0069\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nここっていつ来ても快適よねー。\nどっかに空調でも付いてんのかしら？\n…って、そもそも電気が来てるのかしら？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nペルソナ…心の中のもう一人の自分を具現化したもの…\nこの力を持つ人間は、この世にどれだけいるんだろうか。\nこの力は、どれだけ犯罪に使われているんだろうか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n芹沢の奴、馴染み過ぎだな…緊張感を無くすと死ぬぜ。\n後でお前からなんか言ってやれ。\n…周防みたいに悩みすぎるのも、良かぁねぇけどな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nイここの風景はいつ来ても変わらない…\nそのせいか、ふと昔の苦労を思い出す事があります。\n悪魔に演説し、時には物で釣り…本当に苦労しました。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nこちらの方々、お食事はどうなさってるのでしょうか。\nＢｉｓｓｉｎｅｓの関係で、お菓子をいただくのですが、\n持ってきたら喜んでいただけるかしら。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nいつかもし、償いを済ませることがあったら、\n俺は、ペルソナを…どうするのか…\nこの部屋を訪れることはあるんだろうか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nおや？\n新しい姿に生まれ変わろうとしている\nペルソナがいるようですな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nおっと、説明するのを忘れていましたが…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n合体スキルというものを、ご存じですかな？\nこれを使うと、たまにペルソナが突然変異を\n起こすことがあります。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nそれは基本能力の上昇であったり、新しい\nスキルの取得であったりするのですが、中には\n別のペルソナに生まれ変わる場合もあります。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nただ、この場合は、私の手助けが\n必要となりますので、ペルソナにこのような変化が\n起こった場合は私の所へおいでください。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nもちろん、\n必ず変異させねばならないわけでは\nありません。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n変異後のペルソナはランク１に\n戻ってしまいますから、変異させるかどうかは、\nあなた方自身で判断してください。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nそうそう、\[delay(15)\]変異後のペルソナと同じペルソナが\n既にいるような場合、変異させられないことも\nありますので、注意が必要ですぞ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nようこそ、ベルベットルームへ。\nここは、人の心の様々なる形を呼び覚ます部屋…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n我らが主、フィレモン様の命により、\n貴方がたをお待ちしておりました。\n我が名は、イゴールと申します。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n我ら４人、貴方がたの新たな心、\n新たなペルソナの目覚めをお助けするよう、\n仰せつかっております。以後、お見知りおきを…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nようこそベルベットルームへ。\n今日は、どんな御用ですかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15_Choice1
+
+msgid "ペルソナを召喚する"
+msgstr ""
+
+#. msg_15_Choice2
+
+msgid "ペルソナを降魔する"
+msgstr ""
+
+#. msg_15_Choice3
+
+msgid "ペルソナの帰還"
+msgstr ""
+
+#. msg_15_Choice4
+
+msgid "\[if_all(VBIT_MUTATION_ON)\]ペルソナの変異"
+msgstr ""
+
+#. msg_15_Choice5
+
+msgid "話をする"
+msgstr ""
+
+#. msg_15_Choice6
+
+msgid "\[if_all(EBIT_SINARIOFF)\]アディショナルシナリオ"
+msgstr ""
+
+#. msg_15_Choice7
+
+msgid "やめる"
+msgstr ""
+
+#. msg_15_Choice8
+
+msgid "ベルベットルームから出る"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n他に御用はありますかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16_Choice1
+
+msgid "ペルソナを召喚する"
+msgstr ""
+
+#. msg_16_Choice2
+
+msgid "ペルソナを降魔する"
+msgstr ""
+
+#. msg_16_Choice3
+
+msgid "ペルソナの帰還"
+msgstr ""
+
+#. msg_16_Choice4
+
+msgid "\[if_all(VBIT_MUTATION_ON)\]ペルソナの変異"
+msgstr ""
+
+#. msg_16_Choice5
+
+msgid "話をする"
+msgstr ""
+
+#. msg_16_Choice6
+
+msgid "\[if_all(EBIT_SINARIOFF)\]アディショナルシナリオ"
+msgstr ""
+
+#. msg_16_Choice7
+
+msgid "やめる"
+msgstr ""
+
+#. msg_16_Choice8
+
+msgid "ベルベットルームから出る"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n何か、聞きたいことがおありのようですな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17_Choice1
+
+msgid "世間話を聞く"
+msgstr ""
+
+#. msg_17_Choice2
+
+msgid "説明を聞く"
+msgstr ""
+
+#. msg_17_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nペルソナは、いつでもあなた方の中に存在しております。\nたとえその力を行使する機会を失っても、\nあなた方を導き、護ってくれることでしょう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n何なりと御質問を。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19_Choice1
+
+msgid "ペルソナについて"
+msgstr ""
+
+#. msg_19_Choice2
+
+msgid "降魔と発動について"
+msgstr ""
+
+#. msg_19_Choice3
+
+msgid "アルカナについて"
+msgstr ""
+
+#. msg_19_Choice4
+
+msgid "ペルソナの成長について"
+msgstr ""
+
+#. msg_19_Choice5
+
+msgid "ペルソナとの相性について"
+msgstr ""
+
+#. msg_19_Choice6
+
+msgid "次のページへ"
+msgstr ""
+
+#. msg_19_Choice7
+
+msgid "\[if(EBIT_SINARIOFF)\]非表示項目・戻る"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n何なりと御質問を。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20_Choice1
+
+msgid "タロットカードについて"
+msgstr ""
+
+#. msg_20_Choice2
+
+msgid "マテリアルカードについて"
+msgstr ""
+
+#. msg_20_Choice3
+
+msgid "スキルカードについて"
+msgstr ""
+
+#. msg_20_Choice4
+
+msgid "インセンスカードについて"
+msgstr ""
+
+#. msg_20_Choice5
+
+msgid "ペルソナカードについて"
+msgstr ""
+
+#. msg_20_Choice6
+
+msgid "次のページへ"
+msgstr ""
+
+#. msg_20_Choice7
+
+msgid "前のページへ"
+msgstr ""
+
+#. msg_20_Choice8
+
+msgid "\[if(EBIT_SINARIOFF)\]非表示項目・戻る"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n何なりと御質問を。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21_Choice1
+
+msgid "召喚の基本について"
+msgstr ""
+
+#. msg_21_Choice2
+
+msgid "魔晶変化について"
+msgstr ""
+
+#. msg_21_Choice3
+
+msgid "ミューテーションについて"
+msgstr ""
+
+#. msg_21_Choice4
+
+msgid "コンタクトについて"
+msgstr ""
+
+#. msg_21_Choice5
+
+msgid "悪魔の個性について"
+msgstr ""
+
+#. msg_21_Choice6
+
+msgid "前のページへ"
+msgstr ""
+
+#. msg_21_Choice7
+
+msgid "\[if(EBIT_SINARIOFF)\]非表示項目・戻る"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n神の様に慈愛に満ちた自分…、悪魔の如き残酷な自分…\n人は、様々な仮面を着けて生きております。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n今の貴方の姿も無数の仮面の１つに過ぎません。\n「ペルソナ」は、心の奥底に潜む\n貴方の姿の１つになります。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそして、「ペルソナ」を形ある姿で召喚し\nその力を行使する者の事を「ペルソナ使い」と\n申します。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n召喚されたペルソナを「発動」…\nすなわち、ペルソナを呼び出しその力を行使するには\n「降魔」することが必要です。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n「降魔」とは、召喚したペルソナを貴方のような\nペルソナ使いの体に降ろすことです。\n「ペルソナカード」を所持しているだけではダメですぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nペルソナを「降魔」すると、ペルソナ使い自身の\nステータスにも変化が生じます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nペルソナは貴方の隠れた一面…\nそれに相応しい状態に変化するというわけですな。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n「降魔」は１度に１体しか出来ません。\nですが、「ペルソナカード」があれば、\nいつでも別のペルソナを降魔する事が出来ます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nその場合、それまで降魔していたペルソナは、\n「ペルソナカード」の状態に戻ります。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nペルソナは、その種類によって持っている能力が違い\nメリットだけではなく、デメリットもありますぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそれぞれのペルソナの能力を良く理解し、\n状況に応じて使い分けることが、戦闘で生き延び、\n勝利を収める鍵ですな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nペルソナも悪魔と同じように種族がございます。\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n種族は「魔術師」や「皇帝」、「戦車」など…\nタロットのアルカナで表され、２６種類に\n分類されております。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nアルカナによっては、私の召喚では出会えないものも\nございまして…それらのアルカナに出会う為には、\nご自身の手で色々と試されるのが宜しいでしょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nペルソナが人の隠れた一面であるとはいえ、\n意識していなかった、もう１人の自分に触れるのは、\n驚きもあるでしょう。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n誰でも初めのうちは、ペルソナの力を十二分に\n出し切ることは出来ません。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそれは新しく召喚したペルソナほど、\nその傾向が顕著に現れます…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそのため最初の内は、ペルソナが持つ本来の能力の\n一部しか発揮することが出来ないでしょう。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nしかし、ペルソナを発動させればさせる程、\n次第に使いこなせるようになります。\n能力が増え、より強力な攻撃も可能になります。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nもちろんそれは、ペルソナを使いこなせるようになった\n結果なので、発動に必要なＳＰに変わりはありません。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n多少ニュアンスは違いますが、この貴方自身の慣れを\n「ペルソナの成長」と考えてもいいでしょう。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nペルソナの成長には８段階の節目があります。\nその節目毎に、ペルソナに変化が現れるでしょう。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nまた、ペルソナは貴方自身の成長にも、\nわずかながら影響を与えます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n貴方の能力のどの部分に影響を与えるかは、\n降魔しているペルソナの種類によって異なります。\nその点も考慮すると良いでしょうな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nペルソナは貴方の半身…\n全てのペルソナは、貴方と繋がっております…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nとはいえ、貴方に近い存在もあれば、\n遠い存在もおりますでしょう。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n繋がりが希薄なペルソナの場合、貴方には扱えないかも\nしれません。\nそう、中には降魔すら出来ない場合もあります。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n逆に近い存在である場合、楽に扱えることも\nあるでしょう。\nこれらの影響は、特にＳＰの消費に現れます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n本来より少ないＳＰでスキルを発動出来ることもあれば\nより多くのＳＰを消費する場合もあります。\nそれらの事柄は誰でも同じ条件とは限りませんぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n…色々試されて確認されると良いでしょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n私が新たにペルソナを召喚するのに必要な媒体として\n「タロットカード」が必要でございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nペルソナは、タロットのアルカナ、\n「魔術師」や「皇帝」などに種別されておりまして…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nアルカナ「太陽」に属するペルソナを召喚したければ、\n同じアルカナのカードでなければなりません。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nまた、集めるタロットの枚数も、\nそのペルソナのレベルに見合った分だけ\n必要となりますぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそう、レベルが高いペルソナほど、\n必要なタロットの枚数も増えるわけですな。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nタロットカードの多くは悪魔が所持してまして…\n彼らが持つカードは、その悪魔の種族と同じアルカナの\nタロットになっております。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nつまり、召喚したいペルソナと同じ種族の悪魔から、\nタロットを手に入れればよいわけですな。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n但し、同じ悪魔とだけ交渉していてもダメですぞ。\nレベルの高い悪魔ほど、所持しているタロットの枚数も\n多いのです。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n高レベルのペルソナを召喚したいのであれば、\n同じく高レベルの悪魔と交渉することが必要です。\nそれが、効率よくタロットを集めるコツですな。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nまた、一部のタロットは悪魔からは手に入れることは\n出来ません。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n「フリータロット」と呼ばれるカードを入手したら\nそちらの「悪魔絵師」に相談されると良いでしょう。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそうそう、たとえカードを所持されていても、\n貴方達の「最高レベル＋５」を超えるレベルのペルソナは\n召喚出来ませんぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそれをお忘れなく…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n私がペルソナを召喚する際に追加出来るカードに\n「マテリアルカード」というものがございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nマテリアルカードは１度の召喚で１枚だけ使用出来まして\n特定のマテリアルカードを追加することで\n特殊なペルソナを召喚する事が可能となります。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nまた、マテリアルカードを所持していると、\nがい当するペルソナが青色で召喚リストに表示されます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n「マテリアルカード」は、強力なペルソナを\n作り出すためにも欠かすことのできない物なので\nございます…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n私がペルソナを召喚する際に追加出来るカードに\n「スキルカード」というものがございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nスキルカードは１度の召喚で１枚だけ使用出来まして、\nカードに封じられたスキルを新たに召喚する\nペルソナに覚えさせる事が出来ます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそう…「アギカード」を新たなペルソナの\n召喚時に加えれば、そのペルソナは「アギ」を\n覚えるということです…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n普通の成長では覚えることがないスキルであっても\nカードで習得させられますぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nただし、スキルカードとペルソナの間には\n相性が存在しておりまして、相性が悪いと\nそのスキルカードを加えることは出来ません。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nなお、スキルカードの多くは悪魔が所持しております。\n悪魔と遭遇した時にコンタクトなどを行って\n入手されるのが良いでしょうな…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n珍しいスキルカードは入手手段が異なるようです\n…色々試されると良いでしょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n私がペルソナを召喚する際に追加出来るカードに\n「インセンスカード」というものがございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nインセンスカードは１度の召喚で１枚だけ使用出来まして\nカードに関連したペルソナの能力を伸ばす事が出来ます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nあくまでも、新たに召喚するペルソナにしか\n使用出来ませんので、よく考えて追加されると\n良いでしょうな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n召喚されたペルソナで降魔していないものは、\n通常、カードの姿をとって待機しておりまして\nそのカードを「ペルソナカード」と申します。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n貴方は、ペルソナカードを複数所持出来ますが、\n所持できる枚数には限りがございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n所持するカードには、降魔中のペルソナも含まれますので\n注意が必要ですぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nペルソナの力は、冒険に欠く事のできぬもの。\n必要に応じて、ペルソナカードを入れ替えるのが\n宜しいでしょう。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nまた、こちらで新たに召喚したペルソナは、\n私が大切に預かっております。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nお預かりできる数には限りがございますが、\n新しく召喚したペルソナだけでなく、\nそれまで貴方が所持していたペルソナも預りますぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nお預かりできる最大数のカードをお預かりしている時は\n新たにペルソナを召喚する事は出来ませんぞ。\nお忘れ無きよう…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n私の役目は、新たなペルソナを召喚すること…\nお持ちのタロットカードを媒体にして、\n心の奥底に眠るペルソナを召喚する事でございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nタロットカードを多く用えば、レベルの高いペルソナが\n召喚されるでしょう。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nですが、タロットカードさえ集めれば、\n全てのペルソナを召喚出来る…というわけでは\nありません。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n中には特別な条件が必要な場合もあります。\nそれらの一部は、無意識の奥底に眠っており…\n召喚する為には、何かしらのきっかけが必要になります。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそのきっかけの１つは、「マテリアルカード」を合わせた\n召喚になります。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nその他にも、きっかけはペルソナの成長などに\n潜んでおります…\nご自身の手で色々と試されるのが宜しいでしょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nランクが上がりきり、ランクが８となったペルソナは\nそれ以上に育つことはありません。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n非常に強力なペルソナではありますが、\nそのようなペルソナをこのベルベットルームで\n無意識の海に帰還いたしますと…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそれまで共に戦ったペルソナの力は解放され、\n代わりに、戦いの証として、何がしかのアイテムを\n残していってくれるのでございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそれは、時に武器であり、防具であり、消耗品であり\n非常に珍しい、ここでしか手に入らない物もございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nどのような不思議な物を手に入れる事が出来るかは\nご自分の目でお確かめ下さいませ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n戦闘で合体スキルを多用いたしておりますと\n稀にペルソナがミューテーション…\nつまりは「変異」する事がございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n変異が発生する確率はペルソナとの相性が\n深く関わっておりまして…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n相性が良いペルソナほど変異する確率は\n高くなっております。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n変異の内容はペルソナのランクで異なりまして、\nランクが低い時は、「ランクの２ランクアップ」や\n「基礎能力強化」などですが…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n高ランクになりますと、「スキルの習得」や\nペルソナによっては「別ペルソナへの変身」が\n可能となります。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nなお、ペルソナによっては、私の召喚では呼び出せない\nアルカナのペルソナに変身する場合もございます。\n色々試されると良いでしょう。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n悪魔は、貴方達と同じで「喜び」や「怒り」など\n様々な感情を持っておりまして…\n話しかけることでコンタクトを取る事が出来ます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n悪魔達は気持ちを「言葉」「音」「動作」\nそれから「光」で表現いたしまして、視覚で判断出来る\n感情の光は次のようになっております。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nまず初めに「喜び」は「緑の光」で表されます。\nこの感情が最大になりますと\n悪魔と「契約」をする事が出来ますぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n悪魔と「契約」を行いますと、\n貴方に様々なメリットがございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそれは、悪魔から「珍しいタロットカード」を頂いたり\n「面白い話」を聞かせて頂けます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nですが、それらは契約中とはいえ、\nただでは頂く事は出来ません。\nほしい時は、再度コンタクトをお取り下さい。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n次に「怒り」は「赤い光」で表されます。\nこの感情が最大になりますと\nすぐに悪魔との会話は打ち切られてしまいます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nこうなりますと悪魔はもう聞く耳を持ちません。\nヘタをすると、攻撃されてしまいます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそれは「契約」を行っている悪魔でも同じでして、\n良い事はありません…\n怒らせない様に気をつけた方がいいですな。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n次に「恐怖」は「青い光」で表されます。\nこの感情が最大になりますと\n悪魔は怯えて逃げ出してしまいます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n最後に「興味」は「黄色い光」で表されます。\nこの感情を最大に高める事はとても意味がありますぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n私の召喚で必要な媒体であるタロットカードを\n頂ける場合があるのです。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n強力なペルソナを召喚される場合、\n数多くのタロットカードが必要となりますので\n悪魔と頻繁にコンタクトを行い集めると良いでしょう…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそれから…「喜び」「怒り」「恐怖」の３つは\n「興味」が同時に上がる事がございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nたとえば…「喜び」と「興味」が同時に最大になった場合\n「契約」を行う事は出来ません。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n「怒り」と「恐怖」も「興味」と同時に最大になった時、\n普段とは異なる結果になります。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nこれら４つの感情は、普通３段階で最大になります。\n私からのアドバイスとしては、普段はなるべく１つの\n感情を上げる事をお奨めいたします。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n基本的な事はこれくらいですな。\nこの他にも、貴方達に対して悪魔が質問してきたり\n遭遇直後に話しかけてきたりする場合もございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nまぁそれらは、数多くコンタクトをすれば\nわかってくるでしょうな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nそれでは、悪魔の「個性」について説明しますかな…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n人間でもそうですが、悪魔にもいろいろな者が\nおりまして…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n賢い者、短気な者、弱気な者…\nそれぞれ好き嫌いがございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n貴方達は、それらを見抜いて\n悪魔とコンタクトを行うのです。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n悪魔の「個性」は全部で８種類に分類されます。\n賢い愚か陽気陰気\n強気弱気短気高慢…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n各悪魔が、この中のいずれか１個、又は複数\n持っております。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n持っている「個性」の組み合わせによって、\nコンタクトの時の反応が全然異なりますぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nコンタクトを行った事が無い悪魔の「個性」は\n知ることは出来ませんが、\n一度でもコンタクトすれば判るようになります。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n色々試されてご自分の目でお確かめ下さいませ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nでは、更なるタロットを手に入れるまで、\nしばしのお別れですな。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]ベラドンナ\[color(white)\]\n人の心は振り子のようなもの～𝅘𝅥𝅮\n強い想いをぶつけると～𝅘𝅥𝅮相手の気持ちが揺れ動き～𝅘𝅥𝅮\nこちらへ想いを返すこともあるというものです～𝅘𝅥𝅮\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]ナナシ\[color(white)\]\n自分が「感じた」ことを疑う必要はない。\n目に見えた、耳で聞こえたという出来事に嘘はない。\n\[wait\]\[clear\]\[color(yellow)\]ナナシ\[color(white)\]\nだが、その存在が本物かどうかはわからない。\nお前が聞いているピアノの音は、\nこの俺が弾いた物という確たる証拠はないだろう？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\n僕は悪魔絵師。\n人の内に住まう、神と悪魔を描く絵師。\nどうぞよろしく。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\nタロットは心の雛形だ。心が人の運命を回す。\nさて、何か描いて欲しいのかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41_Choice1
+
+msgid "タロット作成依頼"
+msgstr ""
+
+#. msg_41_Choice2
+
+msgid "話す"
+msgstr ""
+
+#. msg_41_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_41_Choice4
+
+msgid "ベルベットルームから出る"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\n他に、何かあるかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42_Choice1
+
+msgid "タロット作成依頼"
+msgstr ""
+
+#. msg_42_Choice2
+
+msgid "話す"
+msgstr ""
+
+#. msg_42_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_42_Choice4
+
+msgid "ベルベットルームから出る"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\nさて、何について語ろうか。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43_Choice1
+
+msgid "世間話を聞く"
+msgstr ""
+
+#. msg_43_Choice2
+
+msgid "カード作成について聞く"
+msgstr ""
+
+#. msg_43_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\n僕は、己が心情を絵で語る。\nあまり喋りは得意じゃないんだが…\n君となら気が合いそうだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\n僕は時たま考える。\n現実…いわゆる僕らにとっての世界というやつは、\n本当に一つしかないのか、否かとね。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\n自分の中には、もう一人別な自分が存在する。\nその人格は、この僕を見て、何と言うだろう…\nフフ…きっと、腹を抱えて笑うんだろうな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\n同じ、普遍的無意識から生じたペルソナであっても\n扱える者と、扱えない者が存在する。\n所詮、人の心はままならないか…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\nここにいる連中は死を知らない。\n僕も、そんな物は、とうに忘れてしまった。\nいつか、それを後悔する日が来るのだろうか…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\nここに来て、一番良かったと思えるのは、\n現世の人々の心が、手に取るように分かる事だ。\nそれが荒んでいく様子も…実に良く分かる。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\n現世で何かあったのか？\n人の心の乱れは、このキャンバスさえ乱すんだ。\n結局…僕は現世の住人なのかも知れないな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\n色々と、飛び回っているようだな。\n…その力でしか解決できないこともあるだろう。\n\[wait\]\[clear\]\[color(yellow)\]悪魔絵師\[color(white)\]\n情けは人の為ならず…その内良い事になって帰ってくるさ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\nそれで、何が聞きたいのかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52_Choice1
+
+msgid "フリータロット"
+msgstr ""
+
+#. msg_52_Choice2
+
+msgid "入手するには"
+msgstr ""
+
+#. msg_52_Choice3
+
+msgid "効率の良い使い方"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\nフリータロットは、何も描かれていない特殊な\nタロットカードなんだ。\n\[wait\]\[clear\]\[color(yellow)\]悪魔絵師\[color(white)\]\nどんなタロットカードにも変化させることが\nできる不思議なカードさ。\n\[wait\]\[clear\]\[color(yellow)\]悪魔絵師\[color(white)\]\n僕なら、フリータロットに絵を描き、\nいろんなタロットカードを作ることができる。\n\[wait\]\[clear\]\[color(yellow)\]悪魔絵師\[color(white)\]\nフリータロットを手に入れたら、\n僕の所へ持ってくるといい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\nどんな悪魔も、必ずフリータロットを持っている。\nでも、普通の交渉ではもらえないんだ。\nフリータロットは、悪魔にとっても貴重なものだからね。\n\[wait\]\[clear\]\[color(yellow)\]悪魔絵師\[color(white)\]\nフリータロットをもらうには、\n悪魔から特別な信頼を得なければならない。\nま、そんなところは人間も悪魔も同じなのさ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\nペルソナを召喚するには、同じ種族の悪魔から\nタロットカードを手に入れればいいのだけど…\n\[wait\]\[clear\]\[color(yellow)\]悪魔絵師\[color(white)\]\n困ったことに、悪魔として出現しない種族の\nペルソナもいるんだ。\n\[wait\]\[clear\]\[color(yellow)\]悪魔絵師\[color(white)\]\nこういう特別な種族のペルソナを召喚するには\nどうしたらいいか？\nこんな時に役に立つのがフリータロットさ。\n\[wait\]\[clear\]\[color(yellow)\]悪魔絵師\[color(white)\]\n枚数の補助、といった使い方もあるけど、\nできるだけよく考えて使ってほしい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\n僕はいつでもここにいる。\nまた気が向いたら立ち寄るといい。\nここでは、時間は意味を成さないからな。\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\nこれで良いかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_57_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_58
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nこのペルソナでよろしいですかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_58_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n降魔しているペルソナの変異はできませんぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nこのペルソナでよろしいですかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_60_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_61
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nおや、既に同じペルソナがいるようですな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nこのペルソナを本当に消してよろしいですかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_62_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n呼び覚まされたる古き心のカタチ、\n\[color(gray_inv)\]\[var(msg_var_0)\]\[color(white)\]を解き放つ時が来ましたか…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nならば共に戦いしその別なる心\n\[color(green)\]\[var(msg_var_1)\]\[color(white)\]に替えて、\nあなたに返しましょうかな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(green)\]舞耶達は、\[var(msg_var_1)\]\[var(msg_var_2)\]を\n手に入れた。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nこのペルソナを呼び出すには、\nまだ貴方方のレベルが足りないようですな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n同じペルソナを既にお持ちですぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n同じペルソナをお預かりしておりますぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_68
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nこれ以上ペルソナを預かれませんな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_69
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nこのペルソナを呼び出す為に必要な\n「タロットカード」が足りませんな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_70
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nこのペルソナを呼び出す為に必要な\n「マテリアルカード」が足りませんな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

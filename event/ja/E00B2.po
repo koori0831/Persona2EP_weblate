@@ -1,0 +1,99 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00B2\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]竜蔵\[color(white)\]\n血迷う…？\n\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "血迷うておるのは、この世の中よ！\n\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "今この国に渦巻くものは何か、言うてみよ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]竜蔵\[color(white)\]\n建前、倦怠、無関心、そして数々の矛盾…\n\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "誰一人として、全体のことを考えようともせん！！\nだから罰を与えやり直すのだ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]竜蔵\[color(white)\]\nこの世界は腐っている…\n法も、制度も、それに寄生する人間全てもだ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n…そして貴様もな！！\n\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "もっともらしい事をほざいてくれたが、\n貴様がやっている事は三流のペテン師と同じだ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nまったくだぜ…\nくだらねぇ呪いで人を惑わしやがって…\n\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "もうろくしたじじぃの考えそうなこった！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]竜蔵\[color(white)\]\n馬鹿者が…お前達は人の本質がわかっていない。\n呪いも占いも、全てお前達が求めたものだ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]竜蔵\[color(white)\]\n見下ろしてみよ！\n\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "今でも人は日々の吉凶を占い、ジンクスを気にし、\nツキと共にあることを願う。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]竜蔵\[color(white)\]\n無意識に呪力を求める心は止められん！\nそこに渦巻く力もだ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]竜蔵\[color(white)\]\nさあ、御前！\nもっとも罪深き、我が同胞の穢れを捧げましたぞ！\n\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "今こそ、民草が発せし言霊の成就を！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n須藤…！？貴様…！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nとうとう血迷いやがったな…竜蔵！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

@@ -1,0 +1,24 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0084\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nそろそろ…\[delay(10)\]みたいだな…\[delay(90)\]\n\[sync\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]舞耶\[color(white)\]\n………！\[delay(60)\]\n\[sync\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nこいつがその、海底遺跡ってやつか…\[delay(90)\]\n\[sync\]\[clear\]\[end\]"
+msgstr ""
+

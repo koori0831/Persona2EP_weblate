@@ -1,0 +1,74 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E011e\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(green)\]塔の中央に、忌まわしくもおぞましい\n大いなる旧支配者が座している。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nぎゃあああぁぁぁ！！\n名状し難いぃぃぃ！！！！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]クトゥルフ\[color(white)\]\nＰｈ’ｎｇｌｕｉｍｇｌｗ’ｎａｆｈ\nＣｔｈｕｌｈｕＲ’ｌｙｅｈ\nｍｇａｈ’ｎａｇｌｆｈｔａｇｎ・・・\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]猫中将ズーラ\[color(white)\]\n「ルルイエの館にて\n死せるクトゥルフ\n夢見るままに待ちいたり」\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]猫中将ズーラ\[color(white)\]\nこの旧支配者は、かつて古のものと地球の覇権を争い、\n彼のものたちの都市をことごとく破壊し、\n全ての海洋とムー大陸を支配した大いなるもの。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]猫中将ズーラ\[color(white)\]\n今もなお、太平洋に沈んだ狂気の都、\nルルイエに封じられているが\n死んではいない。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]猫中将ズーラ\[color(white)\]\n「そは永久に伏する死者にあらず\n旺遠なる時を経て\n死すらも死ぬるものなれば」\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]猫中将ズーラ\[color(white)\]\n深海の底から人々に悪夢を送り、狂える信徒どもを\n増やし彼らの精神を貪り、再び地上に君臨する日を\n待っているのだ。その日は必ずやってくる。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]猫中将ズーラ\[color(white)\]\n星辰が再び正しき道を示す時、\n旧支配者たちは無数の眷属を連れて復活し、\n宇宙は再び彼らのものとなるのだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(green)\]大いなる旧支配者の、冒寺的な粘液滴る触手に、\n光輝く意志のトラペゾヘドロンが握られている。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n心を貪り粋らうだと…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n生憎、もう地上はクソみてぇな人間様で満員御礼でな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nずっと、寝ていてもらおうか！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

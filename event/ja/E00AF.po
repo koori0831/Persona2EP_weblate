@@ -1,0 +1,29 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00AF\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n街の人々から集めた穢れだな…\nどこかへ…送っているようだが…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nうかつに壊すわけにもいかねぇしな…\n厄介なもん、溜め込みやがって…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n一体、どんくらいあるわけ…？\n奥は霞んで見えないけどさ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nこんな簡単に…\n犯した罪から逃げられるわけはない…\n罪は…自分で償わなければいけないんだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

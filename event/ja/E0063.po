@@ -1,0 +1,69 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0063\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n大丈夫だ。\n黒猫もあの男もいない。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nねぇ、エリーちゃん…\nあのストーカーが言ってた「アイツ」って、誰…？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nもしなんか悩んでるなら、話してみ。\n相談に乗るからさ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n申し訳有りません、ご心配をおかけして…\nあの男が言っていたのは、\nきっと「彼」の事ですわ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＨｉｇｈｓｃｈｏｏｌ時代のＣｌａｓｓｍａｔｅ…\n私、「彼」と約束しましたの…\n夢を掴んだらまた会いましょうって…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nそっか…その彼の事…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nでも、あの男がどうして「彼」の事を…\nもう、気が狂いそうですわ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nなるほどな…大体読めてきたぜ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n次にあの男か黒猫が出てきた時が勝負だな…\n猫をいたぶるのは気が進まないが…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n健気だねぇ…\n私はエリーちゃんを全面的に応援するわ。\n女は恋に生きてこそ華なのよぅ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n「彼」とは、３年前に共に戦った仲間ですの…\n約束通り、モデルになってはみましたけれど…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]モニター室のドア\[color(green)\]\nここには入れない。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

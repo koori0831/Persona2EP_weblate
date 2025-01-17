@@ -1,0 +1,279 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0043\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\n天野！\nそのトンデモ男を追い出して頂戴！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\n同期の「メー」編集長がどうしてもって言うから\n会ったら、単なる厄介ばらいだったのよ！\n今はそれどころじゃないっていうのに！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\n何だったの、あの男は…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\n天野…\n仕事仕事の私の人生って、何だったのかしらね…？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\n街が飛んで、わけがわからない事件が起きて、\n何が現実かわからなくなって…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\n私にとっての現実を考えてみたら…\n何一つ大した事ない事に気がついたのよ…\n目的も夢もなく、ただ働いていたんだ、ってね…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\n昔はこうじゃなかったわ…私にも夢があった…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "昔はこうじゃなかったわ…私にも夢があった…\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7_Choice1
+
+msgid "夢、取り戻しましょう…編集長！！"
+msgstr ""
+
+#. msg_7_Choice2
+
+msgid "………"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\n天野…\nそうね…！若い連中に負けてられないものね。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\nさ…もう行きなさい。\n詳しくは知らないけど、やる事があるんでしょう？\nあの色つき眼鏡の男性によろしくね。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\n…悪かったわね、つまらない話して。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\nさ…もう行きなさい。\n詳しくは知らないけど、やる事があるんでしょう？\nあの色つき眼鏡の男性によろしくね。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\n天野…あなた、パラベラムの前にいたわよね？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "天野…あなた、パラベラムの前にいたわよね？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13_Choice1
+
+msgid "いいえ～何のことでしょぉ？"
+msgstr ""
+
+#. msg_13_Choice2
+
+msgid "疲れてるんですよ編集長。"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\n…嘘ついてないでしょうね？\nもし嘘をついて男とチャラチャラしてたのなら、\n承知しないわよ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\nいい、女は仕事に命を捧げてこそ華なのよ！\nちょっとくらいイイ男だからって、\n尻尾を振っちゃダメなのよ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\n男は魔物よ！\n甘い顔で近づいて、お金とか騙し取っていくのよ！\nわかったら取材を続けなさいっ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\nやっぱりあなたもそう思う？\n私ほどのキャリアになると、\n疲れ方も尋常じゃないのよね…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\n最近いいこともないし、ちょっと休もうかしらね…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\n天野、ＪＯＫＥＲ呪いの取材はどうなってるの！？\n街中、ＪＯＫＥＲだらけになってるって\nいうじゃない！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\nワンロン千鶴の占い通りってこと…？\nいえ、そんな非科学的なことがあって\nたまるもんですか…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\nもう、あなただけには任せておけないわ。\n私も調べてみるけど、ネタを押さえたら\nちゃんと報告するのよ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\n七姉妹学園の取材はどうだったの？\n報告なさい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\nええっ！？ＪＯＫＥＲに会ったですって！？\nペルソナ…？悪魔…？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\n何寝ぼけたこと言ってるの！？\nちゃんと取材してきなさい！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\n…何しているの？\n早く仕事に戻りなさい！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]水野編集長\[color(white)\]\nさ…もう行きなさい。\n詳しくは知らないけど、やる事があるんでしょう？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\nいや～どうも。\n私、今回の事件について伝説を調べてみたんです。\nそうしたら凄い事がわかりましてね！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]橿原明成（かしはらあきなり）\[color(green)\]\n七姉妹学園の世界史教諭であり、橿原淳の父。\n同学園３年生の学年主任も務める。\n風変わりだが、優しい先生として慕われている。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\nこれはぜひとも、「メー」編集部に知らせねば！\nと思いまして。\n少し長い話ですけど、聞いてくださいますか？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "少し長い話ですけど、聞いてくださいますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30_Choice1
+
+msgid "お伺いします！"
+msgstr ""
+
+#. msg_30_Choice2
+
+msgid "こ、ここは「メー」編集部じゃないですよ。"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\nえ、そうなんですか？\nいや～失礼しました。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\n貴方も、清忠とトリフネの伝説はご存知ですよね？\n遠い昔、トリフネに乗り飛来した神々が、\n我々人類に文明を与えた…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\nそれを知った澄丸清忠は、そのトリフネが眠る地\nつまりこの珠閒瑠市に城を建てた…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\n実はこの一連の伝説自体、戦国の昔、\n清忠がトリフネを言霊で創造しようとしたがために\n生まれたものだったんですよ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\n清忠は、陰陽を基調とする区画整理を行い、\n現在の珠閒瑠市の姿を作った張本人です。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\n史実では、単なる暴君のように語られるだけだが、\n伝説では、言霊や望龍術などの呪術を操ったと、\nがぜん精彩を帯びてくる！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\n裏望龍術の邪術で天下統一を目指した清忠は、\n分家の\[suou\]の謀反で誅殺され、\n悪行を償わされるため即身仏にされたんです！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\n病没したという正史の方が誤りだったんですよ！\n伝説は、\[suou\]の謀反の時、トリフネが浮上し、\n一夜にして不気味な城が建ったと伝えています。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\nね、今の状況にピッタリ一致するでしょう！？\nいや～１０年前に知ってればなぁ…\n伝説は真実を語っていたんですよ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "伝説は真実を語っていたんですよ！\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40_Choice1
+
+msgid "謀反の首謀者の名前は、なんていうんですか？"
+msgstr ""
+
+#. msg_40_Choice2
+
+msgid "そ、そうですか…"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\n清忠を討ったのは、\[color(orange)\]\[suou\]辰之進\[color(white)\]という若武者\nです。他に、家臣とお姫様がいたらしいですが…\nそこまではわかりません。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\n辰之進が復活でもして、この混乱を治めてくれれば\nいいんですがね…\nでは、失礼しました。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\nそれでは、ぜひとも「メー」に載せてくださいね！\n失礼しました。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]クーレストの売り上げ表\[color(white)\]\n\[color(green)\]販売部数が落ち込んでいる。\n編集長のイライラの原因らしい。\n\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]マガジンラック\[color(white)\]\n\[color(green)\]クーレストのバックナンバーがある。\n\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

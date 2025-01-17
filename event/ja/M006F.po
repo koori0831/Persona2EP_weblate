@@ -1,0 +1,154 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M006F\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nようこそ、ベルベットルームへ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n他に御用はありますかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n会話データ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n別れメッセージ\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\nタロットは心の雛形だ。心が人の運命を回す。\nさて、何か描いて欲しいのかな？\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\n会話データ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\n別れメッセージ\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "どの説明を読みますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7_Choice1
+
+msgid "召喚"
+msgstr ""
+
+#. msg_7_Choice2
+
+msgid "入れ替え・帰還"
+msgstr ""
+
+#. msg_7_Choice3
+
+msgid "\[if_all(VBIT_MUTATION_ON)\]変異"
+msgstr ""
+
+#. msg_7_Choice4
+
+msgid "やめる"
+msgstr ""
+
+#. msg_8
+
+msgid "作成中です\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "作成中です\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "作成中です\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "どの説明を読みますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11_Choice1
+
+msgid "依頼"
+msgstr ""
+
+#. msg_11_Choice2
+
+msgid "フリータロット"
+msgstr ""
+
+#. msg_11_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_12
+
+msgid "作成中です\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "作成中です\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "作成中です\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "ＢＩＴのＯＮ、ＯＦＦを行います。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15_Choice1
+
+msgid "噂全聞き"
+msgstr ""
+
+#. msg_15_Choice2
+
+msgid "噂、少し聞き"
+msgstr ""
+
+#. msg_15_Choice3
+
+msgid "尋ね人表示"
+msgstr ""
+
+#. msg_15_Choice4
+
+msgid "お金沢山"
+msgstr ""
+
+#. msg_15_Choice5
+
+msgid "やめる"
+msgstr ""
+
+#. msg_16
+
+msgid "会話データ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

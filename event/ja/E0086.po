@@ -1,0 +1,134 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0086\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＭｒ．神取…！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n神取…！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]神取\[color(white)\]\n少し遅かったな…\n丁度今、封印を解き終えたところだよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]神取\[color(white)\]\nこの要石は、龍の活動を制御する封印だ。\n世界中にこれと同じものが、あと１１ある。\n\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "もっとも、全て開封済みだがね…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]千鶴\[color(white)\]\n龍は、地中を流れる膨大なエネルギー…\n\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "後は、操龍の神事で穢れを解放するだけで、\nこの世界を未曾有の破滅が襲うわ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]千鶴\[color(white)\]\n今頃、御前と竜蔵様はトリフネに向かっている…\n\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "貴方たちの負けよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]神取\[color(white)\]\n追いかけ給えと言いたいところだが、\n\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "今は使われる身…このまま返すわけにもいかん。\n\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "お相手願おう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n神取…\nお前は、昔の戦いで己の弱さを認めたはずだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n狂言回しの真似事など止めろ。\nそんな落ちぶれた姿は、見たくない…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]神取\[color(white)\]\nまたも君に同情されようとはな…\n光には光の…影には影の役割がある…\nそういうことだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nそうか…ならば、二度地に這わすまでだ！\n\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "少年…女はまかせる！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]神取\[color(white)\]\n追いかけ給えと言いたいところだが、\n\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "今は使われる身…このまま返すわけにもいかん。\n\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "お相手願おう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]千鶴\[color(white)\]\n鷹久様…彼らは私に。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]神取\[color(white)\]\nわかった…\nでは私の相手は、特異点の少年に頼もうか。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]千鶴\[color(white)\]\nこの前の借り、返させてもらうわよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n哀しい目…貴方…\n\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "わかりました…正々堂々お相手いたしますわ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

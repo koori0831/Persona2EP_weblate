@@ -1,0 +1,19 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M006B\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(green)\]タイトルメニューに「ＲＥＳＴＡＲＴ」\nが追加されました。\[color(white)\]\n\[wait\]\[clear\]\[color(green)\]「ＲＥＳＴＡＲＴ」を選ぶと、アナライズデータや\nタロットカードなどを引き継いだ状態で\n本編を最初からプレイが可能です。\[color(white)\]\n\[half_tab\]\[half_tab\]\[half_tab\]\[half_tab\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(green)\]ＧＡＬＬＥＲＹにサウンド\nが追加されました。\[color(white)\]\n\[wait\]\[clear\]\[color(green)\]「サウンド」では、本編中のＢＧＭを再生できます。\n前作「ペルソナ２罪」のＢＧＭの一部も\n収録しています。\[color(white)\]\n\[half_tab\]\[half_tab\]\[half_tab\]\[half_tab\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

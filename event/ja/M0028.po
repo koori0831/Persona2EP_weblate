@@ -1,0 +1,744 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0028\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "パーティの人数が四人を超えています。\nこのままじゃハングします。\n金田・片岡に連絡してください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n殺されたセブンスの校長って、\nワンロン占いに凝ってたらしいじゃない？\n…あの結果もわかってたのかな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n私の守護龍はねぇ、神秘的な皎龍ぅ！\nマーヤの守護龍は？え、知らないの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nマーヤって何で原稿書いてるの？\nワープロ？パソコン？\n私、ブラインドタッチ出来ないのよね～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n\[suou\]さんも、パオも…\nみんな目的を持って生きてるんだよねぇ。\nやっぱ男と女って違うのかなぁ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n今気付いたけどさぁ、私、高校時代からマーヤに\n振りまわされっぱなしじゃない？\n高三の時のＷデートだってさぁ、マーヤが……\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nやっぱワンロン占いって当たるよね。\nこんな状況でも気になっちゃうのは…\n女のコだモン！仕方ないよね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nワンロン占いの影響力は異常だな。\nあの杏奈って子も悪い結果に振りまわされて…\n噂の件と関係があるのか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n僕の守護龍？あぁ、ワンロン占いか。\n占いによると直感的な紫龍らしいが…\n僕はあまり信じてないな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nあの占い師がＪＯＫＥＲを語ったのは偶然か？\nそれとも…事件に関係しているのか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n天野君、彼を…牧村君を黙らせてくれないか？\nちょっとね、彼の言動を見ていたらね、\n怒りを抑えきれそうになくってね！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n警察だってネットワーク化は進んでいる。\n事務処理の効率化は当然として、\nネットワーク犯罪への対応が主な目的だ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n生きて行く目的か。…考えた事も無かったな。\n僕は自分の思うままに生きているだけだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nふっくらとキメ細かく焼くコツ。\nツノが立つまで泡立て…手早く軽く混ぜ合わせる。\nあ、気にしないでくれ、独り言だ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n珠閒瑠警察でも、事件捜査にワンロン占いを\n導入する予定があったな。\nそれも、今になって思うと…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nワンロン占い？\n芹沢がぎゃーぎゃー言ってるヤツか？\n開放的な紺龍がどうとかいってたぜ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nコンピューターを使えるヤツが偉いわけじゃねぇ。\nでもなぁ、今の社会では重要視されんだよ。\n…時代の流れには逆らえねぇもんなぁ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n女媧とＪＯＫＥＲねぇ。\n確かに怪しいが…\n言葉遊びで話題に便乗しただけかもな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n結婚詐欺ってのは、女を騙す為なら\n何でも利用するんだな。\n節操ねぇなぁ…色んな意味で。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nパソコンと酒の事なら任せろ。何を知りてぇんだ？\n…はぁ？入力は…かな入力か？…だとぉ？\nはぁー、俺はローマ字入力だよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n生きて行くのになぁ、男も女も関係ねぇだろ？\n他人を特別視して、逃げ道を確保しようなんて\n甘いんだよ。…ホントは気付いてんだろ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n天野が人を振りまわす存在ねぇ。\nへへへ、当たってんじゃねぇのか、それ？\nじゃあ俺は、軽～くステアする程度にしとくか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nおいおい、この状況でワンロン占いかぁ？\n…あんたものんきだねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n俺の守護龍なら中庸的な銀龍だ。\nもっとも、人を１２種に分けられるとは思わんが、\nとりあえず、銀龍だそうだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n守護龍…ですか？\n知的なＢｌａｃｋＤｒａｇｏｎらしいですわ。\n…あってます？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]中年サラリーマン\[color(white)\]\nわ、分かる…分かるようになった。くーッ！\nワシにもパソコンが使えるようになったんだぁ。\nこれが熱心に勉強した成果なんだぁー！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]中年サラリーマン\[color(white)\]\nハハハ、これで会社の若僧どもに偉そうな顔を\nされる事は無い。アナクロと虐げられる事も無い！\nワシにだってパソコンくらい使えるんだぁ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]中年サラリーマン\[color(white)\]\n武器販売をするお店ねぇ。\n以前のワシなら…危なかったなぁ。\n即購入し、馬鹿にした連中を殺っちゃったかも？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]中年サラリーマン\[color(white)\]\nやらなくて良かったー、ＪＯＫＥＲ呪い！！\n人を呪っても、パソコンがわかる訳じゃないから\nやめたけど…何度かやろうと思ったんだよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]中年サラリーマン\[color(white)\]\nネット上には色んな掲示板があるんだけど、\n最近は尋ね人の掲示板がホットだね。\n…行方不明者急増中って知ってた？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]太った男\[color(white)\]\nやっぱネットって面白いよねェ。\n特にオススメは、パオフゥって人のホームページ。\n巷の噂を色々と集めてんだァ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]太った男\[color(white)\]\nネットで見たんだけどね、\nどっかのバーで本物の武器を売ってるらしいネェ。\nだけど武器なんて売っちゃっていいのかなァ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]太った男\[color(white)\]\nパオフゥって人、オフではどんな生活してんだろ？\nホームページの更新がないと思ったら、\n閉鎖しちゃったし。…なんかあったのかなァ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]太った男\[color(white)\]\nちょっと、邪魔しないでよ！\n今、インターネットのＪＯＫＥＲ目撃ページに\n書き込みをしてるんだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]太った男\[color(white)\]\nえ～と…\nわたし、テレビきょくでみました♥ウフッ♥\n…っと。へへ…禁断の女性モードで入力だ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\n女のコって占い好きだよな。\n当然、利用させてもらったよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]パソコン\[color(white)\]\n当ほーむぺーじハ、管理人ノ都合ニヨリ、\n現在閉鎖中トナッテオリマス。\nナオ、噂掲示板ハ従来通リ運営中デス。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "めにゅーヲ選択シテクダサイ。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37_Choice1
+
+msgid "噂掲示板を見る"
+msgstr ""
+
+#. msg_37_Choice2
+
+msgid "終了"
+msgstr ""
+
+#. msg_38
+
+msgid "めにゅーヲ選択シテクダサイ。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38_Choice1
+
+msgid "噂掲示板を見る"
+msgstr ""
+
+#. msg_38_Choice2
+
+msgid "終了"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]投稿者：スマルキング\[color(white)\]\nセブンスの校長が、あのＪＯＫＥＲに殺されたそう\nです。（セブンスに通う従兄弟に聞きました）\nケーサツが来て大変だったそうです。では！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]投稿者：（不明）\[color(white)\]\nパラベラムで武器が売られていました。\nあそこの店長、その筋では有名なガンマニアらしく\nずっと前から噂にはなっていたようです。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]投稿者：ホントだ！\[color(white)\]\n＞パラベラムで武器が売られていました。\nこの書き込み、本当でした。早速購入しました。\n…店名が既に怪しかったのね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]投稿者：スマルキング\[color(white)\]\n前に、地下鉄の工事現場から遺跡が出たとの報道が\nありましたが、あれは工事の遅れを隠すためのデマ\nだったそうです。（叔父に聞きました）では！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]投稿者：コレもホント！\[color(white)\]\nこの秋、\[color(orange)\]ロサカンディータ\[color(white)\]では\[color(orange)\]本物の防具\[color(white)\]を売り始\nめるそうです。あの店らしく、ぶっ飛んだセンスの\n鎧がラインナップに入っているそうです。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]投稿者：（不明）\[color(white)\]\n\[color(orange)\]月刊バトルマスター\[color(white)\]って知ってます？\nあの本の懸賞で\[color(orange)\]本物の防具\[color(white)\]が当たるそうなんですが\n詳しい事を知ってる方、レスお願いします。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]投稿者：スマルキング\[color(white)\]\nゲームセンターの\[color(orange)\]ムー大陸\[color(white)\]、実は\[color(orange)\]カジノ\[color(white)\]だったって\n噂です。（メル友から聞きました）\n\[color(orange)\]スロットが揃いやすい\[color(white)\]そうです。では！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]投稿者：ＫＡＹ\[color(white)\]\n\[color(orange)\]特殊なアイテム\[color(white)\]がもらえると噂の雑誌を発見！\n雑誌の名前は\[color(orange)\]ファンタジーワールド\[color(white)\]です。\nただし、懸賞に応募・当選しないと駄目です。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]投稿者：コレはホント？\[color(white)\]\nあの\[color(orange)\]ロサカンディータ\[color(white)\]の名物マヌカンが、旅行先で\n\[color(orange)\]波にのまれた\[color(white)\]らしいです。真相は謎のままですが、\nマヌカンに何かあった事だけは確実です！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]パソコン\[color(white)\]\n終了シマス。\nソノママ、オ待チクダサイ。\n\[delay(15)\]…\[delay(15)\]…\[delay(15)\]…\[delay(15)\]終了。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\nねぇねぇ、お姉さんは何龍の人ぉ？\n…え、わからない！？だってワンロン占いだよ？\nお姉さんヤバ過ぎぃ、遅れ過ぎぃ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\nいたしかたない…既にワンロン占いを極め、\nその源流、望龍術にも迫る私が占ってしんぜよう！\nあ～おほん！！お主は何月生まれかね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\nあ、お姉さん！なに？私に占ってほしいの？\nう～ん…万物流転、ワンロン占いまた然り！\n前と結果が違っちゃうかも？それでもいい？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n…あ、そう。ならば…既にワンロン占いを極め、\nその源流、望龍術にも迫る私が占ってしんぜよう！\nあ～おほん！！お主は何月生まれかね？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "１\nイチ\nイチガツ\n１ガツ\nＪＡＮ\n２\nニ\nニガツ\n２ガツ\nＦＥＢ\n３\nサン\nサンガツ\n３ガツ\nＭＡＲ\n４\nシ\nシガツ\nヨン\nヨンガツ\n４ガツ\nＡＰＲ\n５\nゴ\nゴガツ\n５ガツ\nＭＡＹ\n６\nロク\nロクガツ\n６ガツ\nＪＵＮ\n７\nシチ\nシチガツ\nナナ\nナナガツ\n７ガツ\nＪＵＬ\n８\nハチ\nハチガツ\n８ガツ\nＡＵＧ\n９\nク\nクガツ\nキュウ\nキュウガツ\n９ガツ\nＳＥＰ\n１０\nジュウ\nジュウガツ\n１０ガツ\nＯＣＴ\n１１\nジュウイチ\nジュウイチガツ\n１１ガツ\nＮＯＶ\n１２\nジュウニ\nジュウニガツ\n１２ガツ\nＤＥＣ\nイアイアハスタア\n\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\nえ？…何？\nちゃんと教えてくれなきゃ占えないよ？\nでは改めて。…お主は何月生まれかね？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\nうむ、１月生まれのあなたの守護龍は、\n十二の龍において安定を守る「黄龍」じゃな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n責任感があり、辛抱強いあなた。\nそんなあなたの今日の運勢は…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\nうむ、２月生まれのあなたの守護龍は、\n十二の龍において変革を好む「青龍」じゃな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n理知的で、物静かなあなた。\nそんなあなたの今日の運勢は…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\nうむ、３月生まれのあなたの守護龍は、\n十二の龍において情緒を司る「白龍」じゃな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n人情に厚く、涙もろいあなた。\nそんなあなたの今日の運勢は…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\nうむ、４月生まれのあなたの守護龍は、\n十二の龍において戦いを導く「緋龍」じゃな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n向こう見ずで性急、強情なあなた。\nそんなあなたの今日の運勢は…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\nうむ、５月生まれのあなたの守護龍は、\n十二の龍において現世を守る「金龍」じゃな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n現実的で、無理を好まぬあなた。\nそんなあなたの今日の運勢は…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\nうむ、６月生まれのあなたの守護龍は、\n十二の龍において開放を生む「紺龍」じゃな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n活発で、頭の回転が早いあなた。\nそんなあなたの今日の運勢は…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\nうむ、７月生まれのあなたの守護龍は、\n十二の龍において道義を尊ぶ「光龍」じゃな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_68
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n感受性が鋭く、同情心のあるあなた。\nそんなあなたの今日の運勢は…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_69
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\nうむ、８月生まれのあなたの守護龍は、\n十二の龍において情熱を司る「赤龍」じゃな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_70
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n自信にあふれ、冒険を好むあなた。\nそんなあなたの今日の運勢は…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_71
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\nうむ、９月生まれのあなたの守護龍は、\n十二の龍において知を授ける「黒龍」じゃな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_72
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n真面目で、何事にも熱心なあなた。\nそんなあなたの今日の運勢は…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_73
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\nうむ、１０月生まれのあなたの守護龍は、\n十二の龍において中庸を守る「銀龍」じゃな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_74
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n芸術家肌で、争いを好まぬあなた。\nそんなあなたの今日の運勢は…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_75
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\nうむ、１１月生まれのあなたの守護龍は、\n十二の龍において神秘を生む「皎龍」じゃな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_76
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n心の中に情熱を秘めるあなた。\nそんなあなたの今日の運勢は…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_77
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\nうむ、１２月生まれのあなたの守護龍は、\n十二の龍において正義を尊ぶ「紫龍」じゃな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_78
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n正直で、常に自由を求めるあなた。\nそんなあなたの今日の運勢は…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_79
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n…！！！！！！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_80
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n幸運の活龍、伏羲の加護も得て最高の１日じゃ。\n失敗を恐れず何事にもチャレンジすべし！\n黒龍の男性がより強い運気を運んでくるぞよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_81
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n活龍に愛され、健やかなる１日を送れるようじゃ。\nただし、健康にだけは注意が必要だぞ！\n勉強や仕事は、皎龍の異性と協力するのが吉。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_82
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n活龍の支援を得て、幸福を実感できる１日となる。\nしかし、真の幸福を得るには努力が不可欠。\n学校や職場で、異属龍の攻撃に会うかもよ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_83
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n同属三龍の協力により、運気が上昇する１日じゃ。\nここは一つ、積極的に動いて見るべき！\nガイコツのキーホルダーが出会いのきっかけに。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_84
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n活龍の吐息に包まれ、穏やかな１日となるぞ。\nただし、青龍の友達には注意が必要じゃな。\n好き嫌いをハッキリと言えると吉！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_85
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n同属龍の囁きに惑わされ、混乱の１日となるぞ。\nあまり外には出ずに、家でコツコツとやるべき。\nレモングラスの香りが平穏のカギじゃ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_86
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n逆属龍の企みに巻き込まれ、イマイチな１日に。\nスポーツ＆ギャンブルで活龍を呼び込めたら、\n一転して最高の日に！爪は切っておく事！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_87
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n死龍の影がちらつく、困った１日となるようじゃ。\n異属龍の協力があれば少しはマシに。\n学校の近くは要注意。走って通りぬけろ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_88
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n逆属龍の恨みを買い、かなりヤバイ１日。\n全てが裏目に出そうじゃが、金龍の異性からの\n電話が運気逆転のチャンスかも？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_89
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n死龍の怒りに触れ、悲しい１日になりそうじゃ。\n逆属龍の助けも役に立ちそうになく処置無し。\n嫉妬が状況を悪化させる原因に！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_90
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n死龍に愛される困った１日となるぞ。\n全ての事柄が希望の逆となる。何もしないのが吉。\n何もしなくていい分、ある意味幸せかも？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_91
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n穢れの死龍、女媧の呪いを受け最悪の１日じゃ。\n十二龍全てがあなたの敵となる。\n何も言わん…家で寝ていろ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_92
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n…ってカンジかしら？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_93
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\nクックックッ…\nその言葉を口にした事、悔いる時が訪れるぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_94
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n深入りするのは止めておけ。\n…わかるか？これは忠告だぞ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_95
+
+msgid "\[color(yellow)\]ワンロン占いマニア\[color(white)\]\n…忠告した筈だ……\nふざけるな！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_96
+
+msgid "\[color(yellow)\]やる気のないボーイ\[color(white)\]\nいらっしゃい。\nつーか、こんな昼間からインターネット？\nお客さんって結構ヒマなの？まぁいいけど。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_96_Choice1
+
+msgid "食事をする"
+msgstr ""
+
+#. msg_96_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_96_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_96_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_97
+
+msgid "\[color(yellow)\]やる気のないボーイ\[color(white)\]\nあぁ、いらっしゃい。\nつーかお客さんって、ほんとヒマなんだね。\n…なんかこっちが哀しくなるよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_98
+
+msgid "\[color(yellow)\]やる気のないボーイ\[color(white)\]\n自分ちでインターネット出来るようにすれば？\n…えー、簡単じゃん！？それマズイよ～\n…哀しいから、今日は少し安くしたげるよ。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_98_Choice1
+
+msgid "食事をする"
+msgstr ""
+
+#. msg_98_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_98_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_98_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_99
+
+msgid "\[color(yellow)\]やる気のないボーイ\[color(white)\]\nそんで、何が聞きたいんだ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_99_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_99_Choice2
+
+msgid "食事の説明を聞く"
+msgstr ""
+
+#. msg_99_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_100
+
+msgid "\[color(yellow)\]やる気のないボーイ\[color(white)\]\nはい…\nんで、まだなんかあんの？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_100_Choice1
+
+msgid "食事をする"
+msgstr ""
+
+#. msg_100_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_100_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_100_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_101
+
+msgid "\[color(yellow)\]やる気のないボーイ\[color(white)\]\nそんで、何が聞きたいんだ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_101_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_101_Choice2
+
+msgid "食事の説明を聞く"
+msgstr ""
+
+#. msg_101_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_102
+
+msgid "\[color(yellow)\]やる気のないボーイ\[color(white)\]\nセブンスの校長が死んだんだって。知ってた？\nまあ、生きてる事自体、意味なんて無いからね。\nいつ死んでも同じだし。違うかな～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_103
+
+msgid "\[color(yellow)\]やる気のないボーイ\[color(white)\]\nどこかのＨＰにあったんだけど、なんかさぁ、\nこの青葉区に武器を売るショップがあるんだって。\n店名までは出てなかったけど、バカな噂だよね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_104
+
+msgid "\[color(yellow)\]やる気のないボーイ\[color(white)\]\nまぁ話の種にはなったけど、つまんないね。\n…ていうか、つまんな過ぎて死んだ方がマシ。\n俺ってかなり前向きでしょ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_105
+
+msgid "\[color(yellow)\]やる気のないボーイ\[color(white)\]\nあ～ＪＯＫＥＲのやつ、ココに来てくんないかな。\nなんか来たら楽そうじゃん？刺されたりして。\n…ていうか、俺前向きだよね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_106
+
+msgid "\[color(yellow)\]やる気のないボーイ\[color(white)\]\nなんかさぁ、今度はＭＵＳＥＳだっけ？\n佐々木銀次プロデュースってだけで人気だよね。\n今売れてんの、あいつの曲ばっかじゃん。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_107
+
+msgid "\[color(yellow)\]やる気のないボーイ\[color(white)\]\nとりあえずこっちもヒマだし、また来てよ。\nなんだったら、ごちそう出すからさ。\nまぁ冗談だけどね…いいんだよ、そんなこたぁ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_108
+
+msgid "ＭＢＩＴＡＩＳ１２\n相性占いの\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_109
+
+msgid "ＥＢＩＴＥ００１５\n七姉妹学園クリア\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_110
+
+msgid "ＥＢＩＴＥ００１８\nバー終了・パオフゥ初参加\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_111
+
+msgid "ＥＢＩＴＥ００１Ｆ\n病院クリア\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_112
+
+msgid "ＥＢＩＴＥ００３３\n「パオフゥ編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_113
+
+msgid "ＥＢＩＴＥ００３７\n警察署\[half_tab\]受付、終了\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_114
+
+msgid "ＥＢＩＴＥ００３８\n「詐欺男を確保」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_115
+
+msgid "ＥＢＩＴＥ００３Ｅ\n「ゴールドクリア」「うらら編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_116
+
+msgid "ＥＢＩＴＥ００４３\n「クラブクリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_117
+
+msgid "ＥＢＩＴＥ００４４\n「青葉公園クリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_118
+
+msgid "ＥＢＩＴＥ００４５\n「事件の情報を握る男ｏｒ女の噂を拡散」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_119
+
+msgid "ＥＢＩＴＥ００４６\n「南条ｏｒエリー編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_120
+
+msgid "ＥＢＩＴＥ００６Ｆ\n「研究施設・ＴＶ局クリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_121
+
+msgid "\[color(yellow)\]やる気のないボーイ\[color(white)\]\nああ、「食事」の説明ね…\nうちで、「食事をする」を選ぶと食事ができるよ。\n…全部レトルトとインスタントだけど。\n\[wait\]\[clear\]\[color(yellow)\]やる気のないボーイ\[color(white)\]\nでも一応、なんか食べたり飲んだりすると\nしばらく能力をあげることができるそうだぜ。\nで、物によって効果が違うらしいよ、よく知らんけど。\n\[wait\]\[clear\]\[color(yellow)\]やる気のないボーイ\[color(white)\]\nああそれから、一度飲み食いしたら、\nその効果が切れるまで次の食事はできないからな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_122
+
+msgid "\[color(yellow)\]やる気のないボーイ\[color(white)\]\n\[var(msg_var_0)\]円だけど、いいかぁ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_122_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_122_Choice2
+
+msgid "いいえ"
+msgstr ""
+

@@ -1,0 +1,59 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00aa\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nまだ息がある…！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]天誅軍兵士\[color(white)\]\nた…助けて…\n死にたく…ない…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n…大丈夫だ…君は死なない…\n何があったんだ…？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]天誅軍兵士\[color(white)\]\n…陸将が…化け物に…皆…殺された…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]天誅軍兵士\[color(white)\]\n娘に…伝えて…夢を…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]舞耶克哉\[color(white)\]\n………\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]地を這うような声\[color(white)\]\nＩ……ＴＡＡＡＡＩｅｅｅｅ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nな、なに…！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n………！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]菅原だったもの\[color(white)\]\nＩ……ＴＡＡＡＡＩｅｅｅｅ～！！\nＩＴＡＩｅｅｅｅ～！！\[delay(200)\]\n\[sync\]\[clear\]\[end\]"
+msgstr ""
+

@@ -1,0 +1,34 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E001C\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nみっけ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "みっけ！\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1_Choice1
+
+msgid "もう大丈夫。みんな、早く屋上に逃げて！！"
+msgstr ""
+
+#. msg_1_Choice2
+
+msgid "みんな、ケツまくって屋上まで逃げるのよ！！"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n天野君…\[delay(30)\]\nケツまくってって…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

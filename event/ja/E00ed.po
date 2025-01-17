@@ -1,0 +1,84 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00ed\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "またこの夢だ…私はうんざりした。\n最近、仕事が終わってからずっと\n５０１号のことを調べ回っていたので、\nろくに寝ていなかったからだろう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "ＶＩＰフロアの入り口脇の壁に背中を預け、\n私は立ったまま夢と現の狭間を彷徨っていた。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "柱に囲まれた円形の部屋を、金色の蝶々が舞っている。\n飛び方はいつもより弱弱しかったが、この先どうなるかは\n知っていた。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "どうせ、蝶が仮面をつけた人間になり、いつも通り\n私の名を尋ねてくるだけだ。\n昔、弟にせがまれて変な呪いをしてから何度も見ている。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "案の定、蝶が消え仮面の人が現れた。\n変わった点といえば、男とも女ともつかない声が\n聞き取りづらくなり、姿が薄くなっていた。\n向こう側が透けて見える。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "そういえば、柱の間もいつもより\n赤味がかってぼんやりしていた。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n何度聞かれても、あんたには教えない。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "どうせ本当のことを言っても、誰も信じやしない。\n私は見たのだ。\n弟を解体していたあいつを。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "私が知りたいのは、あいつの名前だ。\n私の名が知りたければ、先にあいつの名前を教えろ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "いや、大人になった今は違う。\n知りたいのは、ＪＯＫＥＲがあいつ…\n須藤竜也だという噂の真偽だ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "とうとう捕まることのなかった１０年前の連続殺人鬼。\nその犯人が、現職外務大臣須藤竜蔵の息子、\n須藤竜也だったということは、自分が警官となることで\n突き止めた。だが証拠がない。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "ならば、ＪＯＫＥＲが街で噂される通り\n１０年前の犯人と同一人物であることを証明し、\n居場所を突き止めるまでだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "ここまでくるのに、１０年かかった。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "夢と記憶がごちゃ混ぜになっていた。\nドアの鍵が解かれ、ノブが回る音がした。\n私はバックサイドホルスターからＰ２３０ＪＰを抜き、\n撃鉄を起こしてマニュアルセイフティを解除した。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "この方が、ただセイフティを解除してダブルアクションで\n撃つより、引き金は軽くて済む。\n５０１号の捜査本部ができてから、拳銃携帯命令は\n協力する所轄の少年課にも発令済みだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

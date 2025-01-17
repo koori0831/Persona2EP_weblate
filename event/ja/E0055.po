@@ -1,0 +1,44 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0055\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]黒須純子\[color(white)\]\nあら、ここは私の楽屋よ、お嬢さん。\n道に迷ったのなら、人を呼んであげましょうか？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]黒須純子（くろすじゅんこ）\[color(white)\]\n\[color(green)\]本名は橿原純子。\n大女優であり橿原淳の母。\nなんとなく知っている気がする…\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]黒須純子\[color(white)\]\nあら、ここは私の楽屋よ、お嬢さん。\n道に迷ったのなら、人を呼んであげましょうか？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n黒須…純子か…\n大人の女ってないいねぇ～\n芹沢なんかにゃねぇ、色気ってのがある。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nほう…あの淳君のお母さんなのか？\nなるほど…彼はお母さん似というわけか。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nぎゃ～黒須純子よ！\nマーヤ、サインサイン！\nおじさん連中に高く売れるわよぅ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nさすが大女優の貫禄ですわね。\nご迷惑をおかけしないうちに、おいとましましょう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

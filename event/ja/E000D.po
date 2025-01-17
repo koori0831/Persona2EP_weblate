@@ -1,0 +1,54 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E000D\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]ＪＯＫＥＲ\[color(white)\]\nやるじゃねぇか。\n\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "しようがねぇ、ちょっと寝てろや。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nクッ…！？\nしま…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]ＪＯＫＥＲの声\[color(white)\]\nて、てめぇは…！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]デジャ・ヴュの少年\[color(white)\]\nヤツは逃げた…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]デジャ・ヴュの少年（デジャ・ヴュのしょうねん）\[color(white)\]\n\[color(green)\]以前駅前でぶつかった大人びた少年。\nなぜか、それよりもずっと前から\n知っているような気がする…\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]デジャ・ヴュの少年\[color(white)\]\n青葉区の、葛葉という探偵事務所に行け…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]デジャ・ヴュの少年\[color(white)\]\nその紋章を持っていれば、ヤツに狙われても\n安全だという噂を広げてもらうんだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]デジャ・ヴュの少年\[color(white)\]\nそれを最後に、もうこの件には関わるな…\n全部…忘れるんだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

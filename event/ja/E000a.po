@@ -1,0 +1,79 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E000a\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n私ら、死んじゃったわけ…？\n何だったのよぅ、私の人生…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]何者かの声\[color(white)\]\nそうでは…ない…\n私が…諸君を…招いた…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]フィレモン\[color(white)\]\n私の名は…フィレモン…\[delay(30)\]\n意識と無意識の狭間に…住まう者…\n諸君に…ペルソナを与えた…者だ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]フィレモン\[color(white)\]\n\[color(green)\]絶えず人の自我を見守り啓示を与えていると言う、\n普遍的無意識の創造性を象徴する元型。\n何やら弱っている様子だが…\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n５０１号も同じ言葉を口にした…\nこれが夢だと受け入れて尋ねるが、\nそのペルソナとは、一体何だ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]フィレモン\[color(white)\]\n諸君が得た力は…\n人の心の奥底に潜む…\n神や悪魔の如き…もう１人の己を呼び出す力…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]フィレモン\[color(white)\]\n神の様に…慈愛に満ちた自分…\n悪魔の如き…残酷な自分…\n人は、様々な仮面を着けて…生きるもの…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]フィレモン\[color(white)\]\n今の諸君の姿も…無数の仮面の一つに過ぎん…\nペルソナもまた…数多ある君の姿の一つ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n物理的干渉力を持った、別自我…\n元型のようなものだと言うことか…？\nそれを僕達に与えた目的は？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nか、会話が成立してる…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]フィレモン\[color(white)\]\n諸君に…頼み…ある…\n私の…読み…甘かっ…\n彼奴…仕組ん…因果の糸…あまり…深い…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]フィレモン\[color(white)\]\n彼ら…血涙を流し…創…た「こちら側」……\n救え……諸君しか…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nどうした？\nよく聞き取れない。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]フィレモン\[color(white)\]\n注意……噂が現実になる………\n人…心に……光を………\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

@@ -1,0 +1,64 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0048\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 03:54\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nねえマーヤ。あそこの子、\nＪＯＫＥＲからカードが届いたんだって。\n\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "どうせ誰かのいたずらに決まってるわよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n大体、どこの世界に、\n予告カード送ってから殺しに来る奴がいるのよ。\n漫画じゃないんだからねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]真っ青な女子生徒\[color(white)\]\nどうしよう…昨日自宅にカードが届いてたの…\n噂のＪＯＫＥＲカードよ…\n届いた人はＪＯＫＥＲに殺されちゃうんでしょ？\n\[wait\]\[clear\]\[color(yellow)\]真っ青な女子生徒\[color(white)\]\nわ…私…どうしたら良いの？\nいや…死にたくないよぉ…\nううっ…ううう…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]戸惑う女子生徒\[color(white)\]\nだ…大丈夫よ！\nそんなの誰かのいたずらに決まってるじゃない！\n気にしちゃダメよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]恋焦がれる男子生徒\[color(white)\]\nはぁ…\nノリコ先輩…カワイイよなぁ…\n思いきって告白しようかなオレ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]現実的な男子生徒\[color(white)\]\nあ、あのさぁ…多分ダメだと思うぜ。\nだってあの先輩、杏奈って人の事しか\n頭に無いだろ？他の奴なんか眼中に無いよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]恋焦がれる男子生徒\[color(white)\]\nだ、だけどノリコ先輩と杏奈先輩は同じ女だぜ？\n尊敬するって事と、恋愛感情は別だろ？\n男に興味無いって事は無いんじゃ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]現実的な男子生徒\[color(white)\]\n理屈じゃないぜ？女心ってヤツは。\n恋愛も尊敬も友情も、根幹は同じだよ。\n要はそれらしく言い方を変えてるだけさ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]目つきの怖い女子生徒\[color(white)\]\nふふふ、いい気味だわ。\n私の彼氏にチョッカイ出した罰よ…\n思う存分、怖がるがいいわ…ふふふ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]目つきの怖い女子生徒\[color(white)\]\n自分の携帯に電話するだけで、\n殺しを引き受けてくれるＪＯＫＥＲ様…\n…まさか本当だったなんて…ふふふ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
