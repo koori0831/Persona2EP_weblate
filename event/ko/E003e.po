@@ -1,0 +1,83 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E003e\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nその子は大丈夫か？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n気を失ってるだけみたいね…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n奴は逃げたか…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nクソッタレ…！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nおい…\n奴が言った事…事実なのか？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n本当だったらどうだってんだ…？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n台湾じゃ「一清専案」であいつらは狩られてんだよ。\n\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "悪党を何人殺ろうが、感謝されこそすれ、\n文句言われる筋合いはねぇな！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nそれとも、国際指名手配でもされてるってぇのか？\n\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "どの道、所轄の強行犯係の管轄じゃねぇだろが！\n\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "引っ込んでな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n随分、警察やマフィアの内情に詳しいじゃないか…\nお前、何者なんだ…？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nやめてよ…\n\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "早くこの子、ベルベットルームに連れてかなきゃ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

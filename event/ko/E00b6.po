@@ -1,0 +1,153 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00b6\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nなんなのさ…ここ…！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]ニャルラトホテプ\[color(white)\]\n普遍的無意識の私の領域…私の世界だ。\nよくぞ来た。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]克哉舞耶パオフゥ\[color(white)\]\n\[tatsuya\]…！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nおおおおおおおっ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]ニャルラトホテプ\[color(white)\]\nクックッ…そう熱くなるなよ。\n私はお前が気に入ったんだ。\nどうだ、似合ってるだろうが？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n黙れ…っ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]ニャルラトホテプ\[color(white)\]\n嫌われたものだな。\n会いたいというから出てきたものを…\nお前、矛盾しているぞ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]ニャルラトホテプ\[color(white)\]\nところでお前達は、\n人生における「三毒」とやらを知っているか？\n曰く、「怒り」「無知」「執着」…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]ニャルラトホテプ\[color(white)\]\n他にも色々言い方はあるがな。\nそれら、お前達が当たり前に持っているものが\n私の力の源だ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]ニャルラトホテプ\[color(white)\]\nわかるか？\nそのちっぽけな脳味噌でよく考えろ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n僕達人間の影…そのものだと言いたいのか！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]ニャルラトホテプ\[color(white)\]\nご名答だ、優等生。\nここでは、それらがそのままお前達に跳ね返る。\n一つ、最後のゲームと行こうじゃないか。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n淳…栄吉…ギンコ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n淳…栄吉…リサ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]ニャルラトホテプ\[color(white)\]\n教えてやったことは憶えているな？\nこいつらが「向こう側」を思い出せば、\nリセットは帳消しだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]ニャルラトホテプ\[color(white)\]\nなぜかは、お前が一番よくわかっているはずだ。\nなぁ、特異点の\[tatsuya\]君？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nクッ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]ニャルラトホテプ\[color(white)\]\nお前達がこの世界を回り、影を抑える力を\n見せるなら、一人ずつ玩具を返してやろう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]ニャルラトホテプ\[color(white)\]\nだがそれが出来ぬなら…\n一人ずつその記憶を呼び覚まし、\nお前達の世界を無に返す。全てご破算だ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]ニャルラトホテプ\[color(white)\]\nせいぜい、力一杯足掻くことだ。\nそして、絶望に狂う顔を見せてくれ。\nクックックッ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nマーヤー…感じた…？\nあのでっかい気…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nとてつもなく深くて…\n色んな暗い感情が混ざってて…\nあんなのに…勝てるの…？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n\[tatsuya\]の奴…\nずっとあんな化け物と戦ってきたのか…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nいや…\nあの嘲笑…あの傲慢さ…\nまさしくあれは…人間そのものだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nクソッ…\nこの俺が…ブルッてるだと…？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n落ち着け…おめぇは嵯峨薫だ…\n出来ねぇことなんてねぇ…\n落ち着け…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n済まない…淳…栄吉…ギンコ…\n必ず…助ける…必ず…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n済まない…淳…栄吉…リサ…\n必ず…助ける…必ず…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

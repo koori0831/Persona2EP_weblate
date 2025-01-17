@@ -1,0 +1,183 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0105\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "神取のいる方に扉が開くと同時に、銃弾か何かが\n扉にぶち当たるような音がした。\n神取の姿は扉に隠れ見えない。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "アドレナリンが分泌され、周りの状況がひどく\nゆっくりに流れていた。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "全身がセンサーと化し、知覚が研ぎ澄まされ、\nあらゆる動きがはっきり見え、\n全ての音が明確に聞こえた。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "俺のすぐ横、右目の視界の隅には、腰を浮かしかけている\n栄吉と、その後ろで栄吉の頭に銃を突きつけている\n警備員の姿が映った。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "目の前の広大な空間には、リボルバーのシリンダーを\n模したでかい機械があり、その周囲に不気味な黒い粘液が\n詰められた試験管のようなタンクが無数に並んでいた。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "その機械の前で、舞耶姉や兄さんたちが、\n一段高い踊り場から銃を向ける\n警備員たちに包囲されている。\n言わんこっちゃない！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "全体の位置関係から、舞耶姉たちは３階、俺と栄吉、\n神取と警備員たちは、吹き抜けになっている４階の\n踊り場にいることがわかった。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "後は考えるより先に身体が動いた。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "俺は栄吉の横を駆け抜けざま、奴の腰を後ろから\n思い切り蹴飛ばし、ドアの方に押しやった。\n栄吉は顔からドアにぶち当たり、俺が来た通路の中へ\n転がり込んでいく。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "その勢いで跳ね返った扉が閉まっていくのを視界の隅に\n捉えながら、栄吉を蹴った反動を利用して身を捻り、\n後ろにいた警備員を下から斬り上げた。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "いきなり複数の標的が視界に飛び込むと、どちらを先に\n撃てばいいのか一瞬混乱すると聞いたことがある。\nそいつも結論を出せないまま絶命した。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "即座に体勢を立て直し扉の向こうを振り向くと、\n顔に派手な傷のあるグラサンの男が、まだ銃口から\n薄く硝煙を上げる拳銃をこちらに向けていた。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "動揺するどころか、口元に薄い笑みすら浮かべている。\n皮肉と倦怠、伊達と酔狂、有り余る才能と虚無主義を\nブレンドすると、こんな男ができあがるのだろう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "こいつが神取だ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n\[tatsuya\]！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "下から兄さんが俺の名を呼んだ。\n今の一言の間に二人は倒せる。\n仕方なく、ひどく月並みな台詞で背中を押した。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n早く逃げろ…！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "全員、自分が何をすべきか思い出したようだ。\n舞耶姉たちは慌てて逃げ出し、警備員たちも一斉に\n銃を撃ち始めた。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]神取\[color(white)\]\nフッ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]神取\[color(white)\]\nどのみち彼らも君も、\n運命から逃れることはできんぞ？\n「特異点」の少年よ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "特異点。\n今の一言で、俺とこの男の因縁を理解した。\n俺にもやることがあった。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nそうか…\nお前も魅入られたんだな、【奴】に。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nなら【奴】に伝えろ…\n舞耶姉や皆は、俺が守ってみせる！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "この男は、須藤より深く俺と【奴】のことを知っている。\n「特異点」。\nその忌まわしい言葉が、どんな結末を意味するかも。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]神取\[color(white)\]\n伝えるまでもない。\n聞いているよ、この通りな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "神取が宿したペルソナは、明らかに【奴】の化身だった。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "俺と同じく、極限までペルソナの気配を消していたのだ。\n目の当たりにするまで気づかなかった。\n怒りが血管を拡張し、憎しみが全身を駆け巡る。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]神取\[color(white)\]\n君が求めてやまぬ月が、\nどうしてあれほど美しく輝くのか、\n考えたことはあるかね？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "熱い。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]神取\[color(white)\]\n日の光を反射しているからではない。\n闇に包まれているからだ。\n闇が深ければ深いほど、光は輝きを増すのだよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "視界が狭まる。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]神取\[color(white)\]\nいずれ、天野舞耶も闇に堕ちる。\n君も黒い太陽となりたまえ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nオオオオオオオオオオオッ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

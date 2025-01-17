@@ -1,0 +1,198 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00b8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]シャドウ克哉\[color(white)\]\nフン…\n後悔ここに極まれり、だな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nふざけるな！\n僕は後悔などしていない！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]シャドウ克哉\[color(white)\]\nフッ…嘘つきは泥棒の始まりだぞ？\n本当は、父や弟を疎ましく思っているはずだ。\n父や弟がいなければ違う道を選べたのに、とな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]シャドウ克哉\[color(white)\]\n良き長男を演じるのも疲れたろう…\nお前の家族への愛情は、ただの役割だ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n断じて…違…う…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nどうした、\[suou\]！？\nシャキっとしろ…！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]シャドウ克哉\[color(white)\]\nまた…お前はその女に惚れている。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]舞耶\[tatsuya\]\[color(white)\]\n………！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]シャドウ克哉\[color(white)\]\n弟の手前、自分の気持ちを偽っているだけだ。\n欲しいものは手に入れろよ。\n\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "これ以上、あんな弟に何を譲ってやる必要がある。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nちょ…ちょっと、\[suou\]兄！？\n正気に戻んなさいよ！！\n\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "マーヤ、止めて！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n………\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "………\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13_Choice1
+
+msgid "止めて…克哉さん！！"
+msgstr ""
+
+#. msg_13_Choice2
+
+msgid "信じるわ…克哉さん…"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nハッ…！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]シャドウ克哉\[color(white)\]\nフッ…執着、残したぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n怪我はないか、\[tatsuya\]！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n兄さん…俺は…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n悪かった…\n確かに奴の言ったように、お前や父さんを\n疎ましく思ったこともあった…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nだが、これだけは信じてくれ…\n僕がお前を愛しているのは…\n決して役割なんかじゃあない！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nああ…信じるよ…\n謝るのは…俺の方だ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n\[tatsuya\]…教えてやる…\nこいつが言っている事は…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n半分当たりで半分外れだ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nお前は一つミスを犯した…\nその顔で、僕達兄弟の間を否定したことだ！！\n\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "目障りだ…消えろ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]シャドウ克哉\[color(white)\]\nフッ…残念だよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n兄さん…俺は…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nそんな顔をするな…\nお前は、僕の弟なんだぞ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n皆にも迷惑をかけたね…もう大丈夫だ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n兄さんなら…舞耶姉をずっと守ってくれる…\nこれで…安心できる…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nあのブラコンが、可愛い弟を殺れるわけねぇだろ…\nったく…見てる方が小恥ずかしいぜ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n天野君…その…\nあれは半分当たりで…半分は外れなんだが…\nなんだ…その…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nありがとう。君のおかげだよ…\n\[tatsuya\]を…頼む。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n天野君…その…奴の言った事だが…\n好きとか嫌いとか…そういうのは色々でだね…\nあの…気にしないでくれないか…うん…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nさあ～どうすんのマーヤ？\n兄か弟か、難しい選択ねぇ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

@@ -1,0 +1,108 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E008F\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＭａｋｉ、ＢｒｏｗｎやＭａｒｋたちは\nまだですの？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]麻希\[color(white)\]\nうん、まだ冴子先生のところ。\n\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "優香が泣き出しちゃって大変みたい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n俺のことはいい。\n\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "今日で最後だからな…\n時間はいくらあっても足りんだろう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nたくさん、思い出が詰まった校舎ですものね…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]麻希\[color(white)\]\nでも、イギリス留学かぁ…\n\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "遠いね…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nそうそう、会うことはできんな。\n\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "だが…俺たちの間の距離はどこにいても変わらん…\n\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "違うか？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]ピアスの少年\[color(white)\]\n…そうだな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]松岡\[color(white)\]\nお迎えにあがりました。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]麻希\[color(white)\]\nねぇ、みんなで約束しよ！\n\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "みんなが夢を掴んだら、また全員で会うの！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nフッ…いい提案だ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n俺は、必ず日本一の男になる。\n\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "お前も、俺に恥じぬ夢を掴め。約束だ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]ピアスの少年\[color(white)\]\nああ…約束だ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

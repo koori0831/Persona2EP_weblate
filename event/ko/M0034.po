@@ -1,0 +1,653 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0034\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(pink)\]このままじゃハングする\[color(white)\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nサイコセラピーって…マーヤ、悩みでもあんの？\nたぁー…っく水臭いなぁ。\nそういう時は私に一言相談してくれれば…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nえ？違うの？ハ…ハハハ…そうだよねぇ。\nアンタは何でもレッツ・ポジティブシンキング…\nだもんねぇ。心配するだけ野暮か。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n私…何のために今まで拳を鍛えてきたのかな…\nあの牧村に恨みの鉄拳を食らわす事だけ考えて、\n必死にサンドバッグ叩いてたけど…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n結局それはマーヤに向いちゃって、\n肝心の牧村は…顔見たら気が抜けちゃって…\nホント、私は馬鹿だ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nところでマーヤ、私、前にもＧＯＬＤの中で\n牧村に会ったことあるんじゃないかな？\nなんかそんな気がすんのよ。初めての筈だけど…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nなんかこの内装…\n落ち着くって言うより、照れくさいなぁ…\n私も大人になっちゃったってことか。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあれ？そういえば麻希ちゃんは？\nどこ行ったんだろ…今日はお休み？\n\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "ハッ、まさかＪＯＫＥＲ狩りにあって！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n…って、んな訳ないか。\n私じゃあるまいし。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nなんか南条君達は、\n私達とは違う世界で戦ってる気がするんだ。\n昔の因縁…かな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nん…？共鳴…\nペルソナの共鳴がする。\nここに僕達以外のペルソナ使いがいるぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n将来の為に今からカウンセラーの勉強か…\nあの若さで確固たる志を持ち邁進できるとは、\n実に素晴らしい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nアイツにも少しは見習って欲しいものだ。\n爪のアカでも貰って帰るか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n既に警察にも、ＪＯＫＥＲ事件と思われる通報が\n多数寄せられているようだ。\n呪いの波紋は確実に、この街に広がりつつある。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nカウンセリングか…\n思い切ってここに\[tatsuya\]を連れてくるか。\n少しは何を考えているか分かるかもしれん。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nこれほど大々的に講演会を開けば、\n当然そこに我々が来ることも予想しているはずだ。\n佐々木銀次は捨て駒かも知れんな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nあの女がそうなのか…\nフッ…やはり人間、見かけじゃ分からねえもんだ。\nあの華奢な体で、とんでもねぇ力を秘めてやがる。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nペルソナって奴は気まぐれでな。\n強い味方ともなれば、最悪の敵にもなる。\n…よく似てないか？自分自身のそれとよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n…にしてもペルソナ使いの多い街だな、ここは。\nペルソナ嫌いの俺としちゃ、たまんねぇぜ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n竜蔵の行方は一向に掴めないままだ。\n講演会に出てくるとも思えんしな…\n今ごろどこで何の準備をしているやら…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nそうか…園村は今ここで働いているのか…\n…良くも悪くも、あいつらしい選択かもしれん。\n強くなったものだ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nん？\nそう言えば、桐島はこの事を知っていたのか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nここで昔の学友が働いているはずなんだが…\n今日は休みのようだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n奴は本気で栄吉を殺すつもりだったのか…\n確かに、\[tatsuya\]という少年が割って入らねば、\n栄吉は殺されていた…しかし…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n…Ｍａｋｉ…もう行ったようですわね…\nＫｅｉには申し訳ないけど、\nやはりこのままではいけない。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n本当の決着は、彼女たち自身でつけないと。\nそれは…ＫｅｉがＭｒ．神取を追う理由と同じ。\nでもＭｒ．神取は本当に生きているのかしら。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nやはりＭｒ．神取は生きていたのですね。\nだけど、彼が同じ過ちを犯すとは私には思えない。\nもうセベクスキャンダルは終わったのだから…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nおや…あのショートヘアーの娘、いいなぁ…\nこんな所に、あんなイケた娘がいたなんて！\nよし、次はあの娘に…\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\n…生きて戻れたらの話だけど…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\nこんにちは。柊サイコセラピーへようこそ。\n私は、ここのカウンセラーで黎子といいます。\nよろしくお願いします。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\nところで…どこかでお会いした事がありませんか？\nこんなに親近感を覚えるなんて…\nきっと余程相性が良いのでしょうね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\nあら、こんにちは。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\nあなたって、私の友人か誰かに似ているのかしら…\nこんなに親近感を覚える相手は初めて…\nフフ、きっと余程相性がいいのね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\n今日はどうしたのかしら？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34_Choice1
+
+msgid "回復してもらう"
+msgstr ""
+
+#. msg_34_Choice2
+
+msgid "話をしたい"
+msgstr ""
+
+#. msg_34_Choice3
+
+msgid "悩みはない"
+msgstr ""
+
+#. msg_34_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\n何について聞きたいのかしら？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_35_Choice2
+
+msgid "回復の説明を聞く"
+msgstr ""
+
+#. msg_35_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\n他には何かないかしら？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\n麻希さんは本当に良く手伝ってくれてるわ。\nあれだけ献身的に患者さんと接する事ができるなら\nプロのカウンセラーとして十分やっていける。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\nもしかしたら、患者さん達に\n昔の自分を重ね見ているのかも知れないわね。\n優しすぎるのよ、彼女は。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\nあなたもＪＯＫＥＲ呪いは知ってるでしょ？\n最初はふざけ半分だったかも知れないけど、\n今は明らかにそれと関係する殺人が起きている。\n\[wait\]\[clear\]\[color(yellow)\]黎子さん\[color(white)\]\nそれでも、呪いをする人は減らない。\nむしろ確信を持って使う人まで出てきた。\n悲しいことね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\nワンロン千鶴…どこか危険な感じがします。\n決して間違った事を言っているとは思わないけど、\nあれほど脅迫的な暗示をしなくても…\n\[wait\]\[clear\]\[color(yellow)\]黎子さん\[color(white)\]\n人間なら誰でも妬みや嫉みを持っているわ。\nＪＯＫＥＲ呪いをした人だってきっと沢山いる。\nその人達が、今どんな気持ちでいるか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\n最近街中で、普通の人が突然暴れ出す、\n奇妙な事件が起きているようです。\nストレスの影響も考えられるけど…\n\[wait\]\[clear\]\[color(yellow)\]黎子さん\[color(white)\]\nでもこれほど頻繁に起きるのはへんね…\n何か、外的要因が関係しているとしか…\nでもそうなら、もっと被害は出ているはずだし…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\n今日は、アルバイトの子が、急用でお休みなの。\nだけどこんなこと珍しいわね…\n何かあったのかしら。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\n園村さんなら、今日はお休みですよ。\nなんでも大切な用事ができたからって。\nごめんなさい、詳しい事は聞いていないの。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\n園村さん…どうしたのかしら。\nなんだか思いつめた顔をして。\n私が相談に乗ってあげられると良いのだけど…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\n誰しも自分の心が一番分からないものなの。\nだから、困った時はいつでもいらっしゃい。\n相談にのるわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]麻希\[color(white)\]\nこんにちは。\n柊サイコセラピーへ、ようこ…\n\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "…あれ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]麻希\[color(white)\]\nあの…もしかしてペルソナが使えるんじゃ…\nそれに、この共鳴…ゆきの？\nあの…ゆきの知ってるんですか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "黛ゆきの…知ってますよね？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_49_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]麻希\[color(white)\]\nやっぱり！あなたの共鳴の中に、\nゆきのの気配があったの！\nだからもしかして、と思って。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]麻希\[color(white)\]\nふふふっ、嘘ついてもダーメ。\nあなたの共鳴の中には、彼女の気配があるもの。\n…う～ん、もしかして職場の同僚とか。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]麻希\[color(white)\]\nあ、ゴメンなさい、一方的に喋っちゃって。\n\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "わたしは園村麻希。ゆきのは大親友なの。\nしかも！あなたと同じ、ペルソナ使いよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]園村麻希（そのむらまき）\[color(green)\]\nカウンセラーを目指す、ゆきのの親友。\nどうやら、過去に罪の意識を感じているらしい。\n高校時代に、ペルソナ使いとして覚醒している。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "\[color(yellow)\]麻希\[color(white)\]\n天野…舞耶…さん？天野さんね、うん、覚えた！\n\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "ゆきのの友達なら、わたしにとっても友達よ。\nどうぞよろしく！\n\[wait\]\[clear\]\[color(yellow)\]麻希\[color(white)\]\nわたしはここで、カウンセリングの勉強も兼ねて\n黎子先生の手伝いをしてるの。\n\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "今度はわたしが、みんなの力になりたいから…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "\[color(yellow)\]麻希\[color(white)\]\nだから、いつでもここにいるわ。\n何か困った事があったら、何でも相談して。\n力になるからね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]麻希\[color(white)\]\n黎子先生はその道では有名なカウンセラーなの。\n先生にかかれば、怪我や病気もすぐ治るって\n噂まで流れたんだから。\n\[wait\]\[clear\]\[color(yellow)\]麻希\[color(white)\]\nもちろん、怪我の治療まではしてないんだけど、\nきっとそう思える程、心が楽になったって事よね。\nやっぱり黎子先生ってスゴイわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "\[color(yellow)\]麻希\[color(white)\]\n最近、街でペルソナの共鳴を感じることが多いの。\nどれも狂暴で危険な気配を出していた…\nこの街で何かが起ころうとしている…\n\[wait\]\[clear\]\[color(yellow)\]麻希\[color(white)\]\nなんでだろう？\n前にもこんな事があったような気がする…\nだから分かるの。これが何かの前兆だって。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61
+
+msgid "\[color(yellow)\]麻希\[color(white)\]\nＪＯＫＥＲ事件が頻発するにつれて、\n街で感じるペルソナの共鳴も多くなってきた。\nもしかしてＪＯＫＥＲってペルソナなんじゃ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]麻希\[color(white)\]\n神取さんは生きていた…でも何で新世塾の幹部に…\nまさか…あの人も操られて…\nそれとも…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\nアンタ、自分の記憶を消したいと思った事ないか？\n誰だって思い出したくない嫌な記憶ってあるだろ？\nそれを消したいとは思わないか？\n\[wait\]\[clear\]\[color(yellow)\]若い男\[color(white)\]\n過ぎてしまった事はどうしようも無い。\nなのに…心に残った傷はいつまでも俺を苦しめる…\nそんなの辛いじゃないか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\nまだ俺に用なのか？\n放っておいてくれよ…\n人と関わると、ろくな事はないんだ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65
+
+msgid "俺なんかに何の用だよ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65_Choice1
+
+msgid "名前を言い当てる"
+msgstr ""
+
+#. msg_65_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_65_Choice3
+
+msgid "用はない"
+msgstr ""
+
+#. msg_66
+
+msgid "サイトウジュン\n\[end\]"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\nえ？そりゃ誰の事だい？\n俺はそんな名前じゃない。\nまぁ…名前なんざどうでもいいけどな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_68
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\n…っ！？俺の事を知っているのか？\n俺はアンタなんか知らないぜ？\nアンタ、何者なんだ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_69
+
+msgid "\[color(yellow)\]サイトウジュン\[color(white)\]\n俺の…捜索願が…\nそうか…アイツが出したんだな…\n余計なことしやがって…\n\[wait\]\[clear\]\[color(yellow)\]サイトウジュン\[color(white)\]\n取り敢えず礼は言っとくよ。\nそのマンサーチャーとやらにも連絡しておく。\nだからもう、放っておいてくれ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_70
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_71
+
+msgid "\[color(yellow)\]サイトウジュン\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_72
+
+msgid "ここの内装、かわってるだろ？\n童話には大人の心を和ませる効果があるとかで、\nそれを取り入れてこうなったそうだ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_73
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_74
+
+msgid "\[color(yellow)\]サイトウジュン\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_75
+
+msgid "ま、あまり俺には効果が無いようだけど…\n…ああ、誰か俺の記憶を消してくれないかな…\nこの胸につかえた罪悪感…消してくれないかな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_76
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_77
+
+msgid "\[color(yellow)\]サイトウジュン\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_78
+
+msgid "誰にでも失敗はある。だけど…\n誰もがその失敗から立ち直れるとは限らないだろ？\n俺がそうさ…いつまでも過去の失敗を悔んでる…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_79
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_80
+
+msgid "\[color(yellow)\]サイトウジュン\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_81
+
+msgid "情けないだろ？カッコ悪いよな…\nだけど駄目なんだよ…\nいつも突然…たまらなく辛くなるんだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_82
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_83
+
+msgid "\[color(yellow)\]サイトウジュン\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_84
+
+msgid "それが怖くて…そうなるのが嫌で…\n俺はここに逃げ込んだんだ。\n藁をも縋る思いで…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_85
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_86
+
+msgid "\[color(yellow)\]サイトウジュン\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_87
+
+msgid "俺の願いはただ一つ。\n過去の記憶を消すことだ…\nそれが無ければ…またやり直せる。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_88
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_89
+
+msgid "\[color(yellow)\]サイトウジュン\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_90
+
+msgid "あのテレビ見たか？\n俺はＪＯＫＥＲ呪いなんてしてないけど…\n誰よりも汚れている…いつかは俺も…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_91
+
+msgid "\[color(yellow)\]やつれた男\[color(white)\]\nブツブツブツ…俺…見たんだ…\nブツブツ…目の前で人が…\nあれが…ＪＯＫＥＲなのか…ブツブツ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_92
+
+msgid "\[color(yellow)\]やつれた男\[color(white)\]\nブツブツブツ…ＪＯＫＥＲだ…\nみんなＪＯＫＥＲになってしまう…ブツブツ…\nブツブツ…ＪＯＫＥＲが…殺しに来る…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_93
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\nふふ…でもあなたは心身ともに健康みたいよ。\nまた、辛くなったらいつでもいらっしゃい。\n私はずっと、ここで待ってるから…\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_94
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\n分かったわ。\nでも、カウンセリングの料金として、\n３０００円ほどかかるんだけど…\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_95
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\n一応、治療代は３０００円なんだけど…\nフフ…そうね。\nあなたなら１５００円でいいわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_96
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\nどうかしら？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_96_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_96_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_97
+
+msgid "\[color(green)\]舞耶達は回復した。\[color(white)\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_98
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\nあら…でもお金が足りないみたいね…\nごめんなさい。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_99
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\n他には何かないかしら？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_99_Choice1
+
+msgid "回復してもらう"
+msgstr ""
+
+#. msg_99_Choice2
+
+msgid "話をしたい"
+msgstr ""
+
+#. msg_99_Choice3
+
+msgid "悩みはない"
+msgstr ""
+
+#. msg_99_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_100
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\n何について聞きたいのかしら？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_100_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_100_Choice2
+
+msgid "回復の説明を聞く"
+msgstr ""
+
+#. msg_100_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_101
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\nあなたは他人の目を気にしすぎてないかしら？\nだけど相手も、あなたの目を気にしているのよ。\nだから…プレッシャーを感じる必要は無いわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_102
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\n人は誰でも、自分の事が一番分からないの。\nだから、あなたが自分に抱いているイメージが\nあなたの全てでは決してないのよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_103
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\n他人を受け入れるのは難しいものね。\nだけど、自分の良さを受け入れるのは、\nもっと難しいものなのよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_104
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\n今あなたを追い込んでいる物は何なのかしら？\n外の事象に、あなたを傷つける力はないわ。\nあなたを傷つけられるのは、あなただけなのよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_105
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\n人は大人になるにつれ、\nプライドという名の心の壁を作ってしまう。\n人に助けを求めることも、勇気なのよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_106
+
+msgid "\[color(yellow)\]黎子さん\[color(white)\]\n「回復」についてね。\n\[wait\]\[clear\]\[color(yellow)\]黎子さん\[color(white)\]\n当店で「回復してもらう」を選んでくれれば\n貴方たちの心をケアすることで「ＨＰ」と「ＳＰ」そして\n「猛毒」などのステータス異常も回復してあげるわ。\n\[wait\]\[clear\]\[color(yellow)\]黎子さん\[color(white)\]\n当然料金はいただくけど、全員まとめて診てあげるし\n薬に頼るよりはお安いと思うわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

@@ -1,0 +1,138 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00f5\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\n\[suou\]！？\nセブンスの\[suou\]…だよな？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n栄吉！？\nお、お前何やってんだこんな所で！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "死ぬほど驚いた。\nなんでこいつがここにいるんだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nな、なにったてよ…\nお前こそ、なんでこんな所にいんだ？\n天野さんたちと一緒に来たのか？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "やはり舞耶姉たちが来ている…\n今の口ぶりからすると、こいつは舞耶姉たちと\nこの研究所で鉢合わせでもしたようだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "なんてこった…またやることが増えた。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n…ああ。\n舞耶…天野さんたちはどこへ行った？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nなんかよく知らねぇけど、\nこの建物の奥の方を調べに行ったぜ。\nったく、とんでもねぇとこだぜ、ここはよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n後ろのは、ここに収容されてた連中だな。\nそれで全部か？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "詩織さんの姿は見当たらない。\n別の場所にいるのか…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nああ、ここにいたのはこの人らだけだ。\n俺も杉本って奴を探しに来たんだけどよ、\n人体実験されてたみてぇだ…ひでぇことしやがるぜ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\n南条って人が病院で面倒見るから、\n駐車場のトレーラーまで連れてけってよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "南条？ゆきのさんの知り合いのか？\nここは元々南条グループの施設のはずだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "南条って人が舞耶姉と一緒に行動しているということは、\n会社全体が【奴】の手駒の組織に加担している、\nというわけではないのかもしれない。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nなぁ、杉本見なかったか？\n憎ったらしい顔した、うちの学校の奴なんだけど。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n…知らないな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "向こう側でならよく知っていた、とは言えない。\nこいつには、何もかも忘れていてもらわないと困る。\nだが栄吉がここにいる理由はピンときた。\n向こう側でも、杉本とこいつは犬猿の仲だった。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nお前を狙って、ＪＯＫＥＲ呪いをしたそいつを探しに\nここに来たってわけか。\n相変わらず、お人よしだな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\n…お前、よくわかったな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nこいつを持ってろ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "俺はセブンスの校章が描かれたバッヂを投げた。\n受け取った栄吉は、きょとんとしている。\nまだＪＯＫＥＲ使い相手には効果があるはずだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nなんだこりゃ。\nお前まで、あんな噂を信じてんのかよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nいいから持ってろ。\n行くぞ、駐車場まで付き合ってやる。\nついて来い。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "こちら側の栄吉とシンクロした栄吉は\n向こう側を思い出しでもしない限り、もうペルソナを\n使えないはずだ。放っておけない。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nお、悪いな。\n恩に着るぜ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

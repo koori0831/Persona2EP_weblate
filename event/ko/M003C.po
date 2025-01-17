@@ -1,0 +1,643 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M003C\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "パーティの人数が四人を超えています。\nこのままじゃハングします。\n金田・片岡に連絡してください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n南条君とエリーちゃんもペルソナ使い！\nはぁ～この世の中にそんなに大勢いるもんなのぉ？\nちょっとがっかりよねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nオヤ？あそこにいる化粧の濃いおばさん、\nポジティブシンキングとか言ってるよ。\nあれって、マーヤの影響？…それとも！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n年齢はともかく、ペルソナに関しては\n南条君と桐島君の方が先輩だな。\n…勉強させてもらうよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nこのままでは新世塾の思うままだ！\n我々に、連中を抑える術は無いのか。\n…まさか、我々の行動も全て…計算の内？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nちょっと待て\[suou\]！\nペルソナに関しては俺の方が先輩なんだぜ？\n学ぶべきは、俺の戦い方なんじゃねぇか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nマスコミを抱き込んで悪事を行うたぁ、\n新世塾の連中も結構やるねぇ。\n…大衆を敵に回すと怖いからな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n…ミ、Ｍｒ．パオフゥ？\nこの件に関して、あまり先輩後輩は関係無いと…\nそんな鬼の首を取ったように言わなくても？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n自重自戒は大事な事だが、\n自分を誤魔化す為のプラス思考は愚の骨頂。\nそうは思いませんか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＭｓ．Ｕｒａｒａに悪いお知らせがありますの。\n私の友人…Ｋｅｉを含む９人の友人達も\nＰＥＲＳＯＮＡ使いですわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＰｏｓｉｔｉｖｅＴｈｉｎｋｉｎｇって\n誰にでも上手く作用するものではありませんわ。\n結局、その人の性格が根底にありますから。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]化粧の濃いおばさん\[color(white)\]\nあら、バレちゃった？\nはいはい、わかったわよ。サインでしょ？\n\[delay(30)\]…えーっ違うの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]化粧の濃いおばさん\[color(white)\]\nそりゃそうよね。\n私はもう、過去の人間なのよね…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]化粧の濃いおばさん\[color(white)\]\nアハハッ、過去に囚われてちゃいけないのよ！\nアイドルだった昔なんて忘れるの！\nそう、芸能人だった過去なんてイミ無いもの！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]化粧の濃いおばさん\[color(white)\]\n私には使命がある…皆の為にすべき事があるのよ！\nそうだわ、私はその為に生まれて来たのね！？\n\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "レーッツ、ポジティブシンキング！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]キザな男\[color(white)\]\nあのギャルソン、元フランス外人部隊らしくてね、\n巷じゃ地獄のギャルソンなんて呼ばれてるのさ。\n…ここで軍備品を売ってる事は内緒だよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]ＯＬ\[color(white)\]\nここで軍備品を売ってる？何が内緒よ！\nメニューにも普通の料理しかなかったじゃない。\n…もしかして私を誘う口実だったの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]ＯＬ\[color(white)\]\nあら、ホントだわぁ。\nあなたもたまにはホントの事言うのね。\n…私を誘う口実にしては上出来じゃない？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]キザな男\[color(white)\]\nどうだいハニー？\nこの間のＴＶ番組、見学に行かなくて正解だろ？\n僕だけが持つ予知能力…のおかげなんだぜ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]ＯＬ\[color(white)\]\n…予知能力って、突然お腹の調子が悪くなった事？\nその前に、あの番組のディレクターと親友って\n本当の話だったの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]ＯＬ\[color(white)\]\n…またウソ言ってるでしょ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]キザな男\[color(white)\]\nね、ここで軍備品を売ってるって話は\nホントだっただろ？\nど～～だい、ハニー？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]ＯＬ\[color(white)\]\nあら、ホントだわぁ。\nあなたもたまにはホントの事言うのね。\n…私を誘う口実にしては上出来じゃない？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nボンジュール、マドモアゼル。\nクレール・ド・リュンヌへようこそ。\n本日はこちらのコースなどいかがでしょうか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nボンジュール、マドモアゼル。\n生まれ変わったクレール・ド・リュンヌへ\nようこそ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nこの度、当店ではお客様のニーズにお答えすべく、\n最高の料理とトレビア～ンな防具を用意しました。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nボンジュール、マドモアゼル。\n生まれ変わったクレール・ド・リュンヌへ\nようこそ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nこの度、当店ではお客様のニーズにお答えすべく、\n最高の料理とトレビア～ンな武器を用意しました。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nクレール・ド・リュンヌへようこそ。\n今日は何を？\[delay(30)\]…オォ、トレビア～ン！！\n私もお薦めしようと思っていたところです。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\n…ギャルソンとして、とても幸せな気分です。\nせっかくですから、今日は特別料金にて\nお持て成しさせていただきましょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nボンジュール、マドモアゼル。\n生まれ変わったクレール・ド・リュンヌへ\nようこそ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nこの度、当店ではお客様のニーズにお答えすべく、\n最高の料理とトレビア～ンな防具を用意しました。\n…いえいえ、ギャルソンとして当然の仕事です。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nせっかくですから、今日は特別料金にて\nお持て成しさせていただきましょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nボンジュール、マドモアゼル。\n生まれ変わったクレール・ド・リュンヌへ\nようこそ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nこの度、当店ではお客様のニーズにお答えすべく、\n最高の料理とトレビア～ンな武器を用意しました。\n…いえいえ、ギャルソンとして当然の仕事です。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nせっかくですから、今日は特別料金にて\nお持て成しさせていただきましょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nどうぞ、ゆっくりとご覧になって下さい。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37_Choice1
+
+msgid "食事をする"
+msgstr ""
+
+#. msg_37_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_37_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_37_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\n何をお聞きになりますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_38_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_38_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nどうぞ、ゆっくりとご覧になって下さい。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39_Choice1
+
+msgid "\[if_none(MBIT_HI_CLEARM)\]防具を買う"
+msgstr ""
+
+#. msg_39_Choice2
+
+msgid "\[if_all(MBIT_HI_CLEARM)\]武器を買う"
+msgstr ""
+
+#. msg_39_Choice3
+
+msgid "アイテムを売る"
+msgstr ""
+
+#. msg_39_Choice4
+
+msgid "食事をする"
+msgstr ""
+
+#. msg_39_Choice5
+
+msgid "話をする"
+msgstr ""
+
+#. msg_39_Choice6
+
+msgid "やめる"
+msgstr ""
+
+#. msg_39_Choice7
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nどちらをお売りになられますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40_Choice1
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_40_Choice2
+
+msgid "消費物を売る"
+msgstr ""
+
+#. msg_40_Choice3
+
+msgid "武器を売る"
+msgstr ""
+
+#. msg_40_Choice4
+
+msgid "\[if_all(EBIT_SINARIOFF)\]頭防具を売る"
+msgstr ""
+
+#. msg_40_Choice5
+
+msgid "防具を売る"
+msgstr ""
+
+#. msg_40_Choice6
+
+msgid "\[if_all(EBIT_SINARIOFF)\]脚防具を売る"
+msgstr ""
+
+#. msg_40_Choice7
+
+msgid "アクセサリーを売る"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\n何をお聞きになりますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_41_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_41_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\n他に御用はございませんか？\nなんなりとお申しつけ下さい。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42_Choice1
+
+msgid "食事をする"
+msgstr ""
+
+#. msg_42_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_42_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_42_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\n何をお聞きになりますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_43_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_43_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\n他に御用はございませんか？\nなんなりとお申しつけ下さい。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44_Choice1
+
+msgid "\[if_none(MBIT_HI_CLEARM)\]防具を買う"
+msgstr ""
+
+#. msg_44_Choice2
+
+msgid "\[if_all(MBIT_HI_CLEARM)\]武器を買う"
+msgstr ""
+
+#. msg_44_Choice3
+
+msgid "アイテムを売る"
+msgstr ""
+
+#. msg_44_Choice4
+
+msgid "食事をする"
+msgstr ""
+
+#. msg_44_Choice5
+
+msgid "話をする"
+msgstr ""
+
+#. msg_44_Choice6
+
+msgid "やめる"
+msgstr ""
+
+#. msg_44_Choice7
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nどちらをお売りになられますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45_Choice1
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_45_Choice2
+
+msgid "消費物を売る"
+msgstr ""
+
+#. msg_45_Choice3
+
+msgid "武器を売る"
+msgstr ""
+
+#. msg_45_Choice4
+
+msgid "\[if_all(EBIT_SINARIOFF)\]頭防具を売る"
+msgstr ""
+
+#. msg_45_Choice5
+
+msgid "防具を売る"
+msgstr ""
+
+#. msg_45_Choice6
+
+msgid "\[if_all(EBIT_SINARIOFF)\]脚防具を売る"
+msgstr ""
+
+#. msg_45_Choice7
+
+msgid "アクセサリーを売る"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\n何をお聞きになりますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_46_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_46_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\n当店では無粋なお客様にお帰り願う事もあります。\nこのムードを守るのも、ギャルソンたる私の役目で\nございますから。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\n無闇に明るいお客様がいらっしゃいますね。\n当店のムードにはそぐわぬようですが…\nお帰り頂くべきか…？判断に悩むところです。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nそうですか、そのような噂が…\n私の過去を知る方がいらっしゃいましたか。\n実は…その噂の通りなのです。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\n任務遂行だけを生き甲斐とする外人部隊。\n私の戦いには目的など必要なかった。\n…全ては過去、…若かりし頃の話です。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nその頃の記憶は、はっきりしていませんが…\nまぁ、そのような過去を持つからこそ、\nお客様のご要望にお答えできたわけです。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nオールヴォワール…\[delay(15)\]\nまたのご来店を心よりお待ち申し上げております。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "噂による変化\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "魔法武器販売\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "ＭＢＩＴＫＥＣＬＥ\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "魔法防具販売\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "ＭＢＩＴＡＩＳ４８\n相性占いの\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "ＥＢＩＴＥ００４６\n「南条ｏｒエリー編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "ＥＢＩＴＥ００６Ｆ\n「研究施設・ＴＶ局クリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\n何をお聞きになりますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60_Choice1
+
+msgid "\[if_all(MBIT_KE_CLE)\]売買"
+msgstr ""
+
+#. msg_60_Choice2
+
+msgid "食事"
+msgstr ""
+
+#. msg_60_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_61
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nそれでは「売買」について説明させていただきます。\n\[wait\]\[clear\]\[color(yellow)\]ギャルソン副島\[color(white)\]\nまず初めに、購入の説明になります。\n当店で「防具を買う」を選択します事で\n防具を購入することができます。\n\[wait\]\[clear\]\[color(yellow)\]ギャルソン副島\[color(white)\]\n防具は、種類により装備できる対象が\n決まっておりますので、よく確認してから購入してください。\n\[wait\]\[clear\]\[color(yellow)\]ギャルソン副島\[color(white)\]\nつぎに、売却の説明になります。\n「アイテムを売る」を選択しますと、\n売却する種類の選択になります。\n\[wait\]\[clear\]\[color(yellow)\]ギャルソン副島\[color(white)\]\n種類を選択しまして、売却物を決定しますと\n元値の約半額くらいで買い取らせていただきます。\n\[wait\]\[clear\]\[color(yellow)\]ギャルソン副島\[color(white)\]\nなお、装備中の物の他、一部の特別な物は\n売却することができません。\nご了承下さい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nそれでは「売買」について説明させていただきます。\n\[wait\]\[clear\]\[color(yellow)\]ギャルソン副島\[color(white)\]\nまず初めに、購入の説明になります。\n当店で「武器を買う」を選択します事で\n武器を購入することができます。\n\[wait\]\[clear\]\[color(yellow)\]ギャルソン副島\[color(white)\]\n武器は、種類により装備できる対象が\n決まっておりますので、よく確認してから購入してください。\n\[wait\]\[clear\]\[color(yellow)\]ギャルソン副島\[color(white)\]\nつぎに、売却の説明になります。\n「アイテムを売る」を選択しますと、\n売却する種類の選択になります。\n\[wait\]\[clear\]\[color(yellow)\]ギャルソン副島\[color(white)\]\n種類を選択しまして、売却物を決定しますと\n元値の約半額くらいで買い取らせていただきます。\n\[wait\]\[clear\]\[color(yellow)\]ギャルソン副島\[color(white)\]\nなお、装備中の物の他、一部の特別な物は\n売却することができません。\nご了承下さい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nそれでは「食事」の説明をさせていただきます。\n当店で「食事をする」を選択しますと\n食事をとることができます。\n\[wait\]\[clear\]\[color(yellow)\]ギャルソン副島\[color(white)\]\n食事には、一時的に能力を高める効果がありまして、\n効果は、メニューによって異なります。\n色々食されて確認されると良いでしょう。\n\[wait\]\[clear\]\[color(yellow)\]ギャルソン副島\[color(white)\]\nそれと一度食事を取りますと、その効果が切れるまで\n次の食事をとる事はできません。\nご了承下さい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nそちらの料理は\[var(msg_var_0)\]円になりますが、\nご注文なさいますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_64_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_65
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nどうやら、当店で買い取れるアイテムを\nお持ちでないようですね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nそちらは\[var(msg_var_0)\]円になりますが、\nお買い上げになりますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_66_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]ギャルソン副島\[color(white)\]\nそちらの買取価格は\[var(msg_var_0)\]円になりますが、\nお売りになられますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_67_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_67_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_68
+
+msgid "\[color(green)\]未成年は飲酒できません。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

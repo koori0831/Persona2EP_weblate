@@ -1,0 +1,68 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E000C\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあ、あそこあそこ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]ＪＯＫＥＲ\[color(white)\]\nレイディ、お前は俺の仲間だ。\n\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "迎えに来たんだよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]杏奈\[color(white)\]\nあんたなんか知らない…\n\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "私は、ＪＯＫＥＲ呪いなんかしてない…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]ＪＯＫＥＲ\[color(white)\]\n心配するこたねぇ。\n\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "俺の事も「向こう側」の事も、すぐにわかる。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]ＪＯＫＥＲ\[color(white)\]\nそうすりゃお前も、\n「こっち側」が間違いだって気づく。\n\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "悪いようにはしねぇ、一緒に来い。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n５０１号、その子から離れろ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]ＪＯＫＥＲ\[color(white)\]\n邪魔すんじゃねぇ！！\nてめぇらはそいつらの相手でもしてろぉ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

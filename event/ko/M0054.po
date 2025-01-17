@@ -1,0 +1,1583 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0054\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nご理解いただけましたかな？\nこの迷宮は、あなたの知る世界でありながら、\n決して存在しない、もう一つの世界。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n現実と虚構が綯交ぜになった架空の世界なのです。\nしかしあなたは、これとよく似た世界を\nもう一つご存知のはず。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nあなた方が、\n眠りの中でのみ体験する世界。\nそう…「夢」です。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nフィレモン様が生み出されたこの世界は、\n正しく普遍的無意識の産物と言えましょう。\nそれが、あなた方の見る夢とよく似ている…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nこれが何を意味するのかは、\nあなたの判断にお任せいたしましょう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nしかし、夢に終わりがあるように\nこの世界にもまたゴールがある。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nさぁ、頑張ってください。\nここは迷宮の中間地点。\nあと半分ですぞ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nそうそう、最後に注意を一つ。一度外に出ると、\nしばらくの間、この部屋は使えません。\n心して、お出かけ下さい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nようこそベルベットルームへ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n今この部屋は、\n我等が主、フィレモン様の作られた、\n未開の迷宮へと通じております。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nフィレモン様は、この迷宮をもって、\n今一度あなた方の力量を\n確かめるおつもりなのです。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nまずは迷宮に隠された、\n光の渦をお探しなさい。\nそれがこの迷宮を攻略する鍵ですぞ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nどなたと行動を共にするかは、あなたの自由です。\nさぁ、お行きなさい。\n私も陰ながら応援しておりますぞ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nそうそう…私から、\nあなたに、ささやかな贈り物がございます。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nここは現世から離れた異世界。\nあなたも時には、元の世界の友人と、\nお話をしたいと思う事もあるでしょう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n私に言っていただければ、\nイビルホンにて、そうした方々に、\n電話をかけてさしあげます。ご利用下さい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nそれでは…\n健闘を祈りますぞ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nおっ！いよいよ私の出番かしらん♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "私の出番かしらん♥\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18_Choice1
+
+msgid "一緒に行きましょう。"
+msgstr ""
+
+#. msg_18_Choice2
+
+msgid "留守番ヨロシク。"
+msgstr ""
+
+#. msg_19
+
+msgid "んじゃあ、誰と交代すればいい？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19_Choice1
+
+msgid "\[if_all(LBIT_0001)\]克哉"
+msgstr ""
+
+#. msg_19_Choice2
+
+msgid "\[if_all(LBIT_0002)\]パオフゥ"
+msgstr ""
+
+#. msg_19_Choice3
+
+msgid "\[if_all(LBIT_0003)\]南条"
+msgstr ""
+
+#. msg_19_Choice4
+
+msgid "\[if_all(LBIT_0004)\]エリー"
+msgstr ""
+
+#. msg_19_Choice5
+
+msgid "\[if_all(LBIT_0005)\]\[tatsuya\]"
+msgstr ""
+
+#. msg_19_Choice6
+
+msgid "やめる"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nおおうっ、嬉しい事言ってくれるじゃ～ん𝅘𝅥𝅮\n私がいれば百人力よぉ。\nバーンと任せといてぇ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nガクッ。\nこんなトコにいつまでもいたら、\n鼻が伸びちゃうわよぉ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあ…嫌な予感する…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "嫌な予感する…\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23_Choice1
+
+msgid "留守番ヨロシク。"
+msgstr ""
+
+#. msg_23_Choice2
+
+msgid "用はない。"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nホッ…\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n僕も一緒に行こうか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "僕も一緒に行こうか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26_Choice1
+
+msgid "一緒に行きましょう。"
+msgstr ""
+
+#. msg_26_Choice2
+
+msgid "留守番ヨロシク。"
+msgstr ""
+
+#. msg_27
+
+msgid "だが定員オーバーだな。誰と交代すればいい？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27_Choice1
+
+msgid "\[if_all(LBIT_0000)\]うらら"
+msgstr ""
+
+#. msg_27_Choice2
+
+msgid "\[if_all(LBIT_0002)\]パオフゥ"
+msgstr ""
+
+#. msg_27_Choice3
+
+msgid "\[if_all(LBIT_0003)\]南条"
+msgstr ""
+
+#. msg_27_Choice4
+
+msgid "\[if_all(LBIT_0004)\]エリー"
+msgstr ""
+
+#. msg_27_Choice5
+
+msgid "\[if_all(LBIT_0005)\]\[tatsuya\]"
+msgstr ""
+
+#. msg_27_Choice6
+
+msgid "やめる"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n市民を守る事こそ僕の勤めだ！\n任せておきたまえ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nそうか…\nではここで待機していよう。\n無理はするなよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nん？\n何か用か？\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "何か用か？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31_Choice1
+
+msgid "留守番ヨロシク。"
+msgstr ""
+
+#. msg_31_Choice2
+
+msgid "用はない。"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nどうも頼りねぇなぁ。\n俺がいなくて大丈夫か？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "俺がいなくて大丈夫か？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33_Choice1
+
+msgid "一緒に行きましょう。"
+msgstr ""
+
+#. msg_33_Choice2
+
+msgid "留守番ヨロシク。"
+msgstr ""
+
+#. msg_34
+
+msgid "じゃあ、代わりの留守番を決めてくれや。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34_Choice1
+
+msgid "\[if_all(LBIT_0000)\]うらら"
+msgstr ""
+
+#. msg_34_Choice2
+
+msgid "\[if_all(LBIT_0001)\]克哉"
+msgstr ""
+
+#. msg_34_Choice3
+
+msgid "\[if_all(LBIT_0003)\]南条"
+msgstr ""
+
+#. msg_34_Choice4
+
+msgid "\[if_all(LBIT_0004)\]エリー"
+msgstr ""
+
+#. msg_34_Choice5
+
+msgid "\[if_all(LBIT_0005)\]\[tatsuya\]"
+msgstr ""
+
+#. msg_34_Choice6
+
+msgid "やめる"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nへっ、最初から素直にそう言えや。\nまぁ、任せときな。\n俺の指弾はチャカより速いんだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nチッ…留守番か…\n退屈で腕がなまっちまうぜ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nあん？何の用だ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "何の用だ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38_Choice1
+
+msgid "留守番ヨロシク。"
+msgstr ""
+
+#. msg_38_Choice2
+
+msgid "用はない。"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n和を以って貴しとなす。\n俺も行こう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "俺も行こう。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40_Choice1
+
+msgid "一緒に行きましょう。"
+msgstr ""
+
+#. msg_40_Choice2
+
+msgid "留守番ヨロシク。"
+msgstr ""
+
+#. msg_41
+
+msgid "では、誰と交代しようか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41_Choice1
+
+msgid "\[if_all(LBIT_0000)\]うらら"
+msgstr ""
+
+#. msg_41_Choice2
+
+msgid "\[if_all(LBIT_0001)\]克哉"
+msgstr ""
+
+#. msg_41_Choice3
+
+msgid "\[if_all(LBIT_0002)\]パオフゥ"
+msgstr ""
+
+#. msg_41_Choice4
+
+msgid "\[if_all(LBIT_0004)\]エリー"
+msgstr ""
+
+#. msg_41_Choice5
+
+msgid "\[if_all(LBIT_0005)\]\[tatsuya\]"
+msgstr ""
+
+#. msg_41_Choice6
+
+msgid "やめる"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n承知した。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n承知…した…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n駿足長阪を思う。\nで…何か？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "何か？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45_Choice1
+
+msgid "留守番ヨロシク。"
+msgstr ""
+
+#. msg_45_Choice2
+
+msgid "用はない。"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＨｉ！\n私の出番でしょうか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "私の出番でしょうか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47_Choice1
+
+msgid "一緒に行きましょう。"
+msgstr ""
+
+#. msg_47_Choice2
+
+msgid "留守番ヨロシク。"
+msgstr ""
+
+#. msg_48
+
+msgid "では、どなたとＣｈａｎｇｅしましょう？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48_Choice1
+
+msgid "\[if_all(LBIT_0000)\]うらら"
+msgstr ""
+
+#. msg_48_Choice2
+
+msgid "\[if_all(LBIT_0001)\]克哉"
+msgstr ""
+
+#. msg_48_Choice3
+
+msgid "\[if_all(LBIT_0002)\]パオフゥ"
+msgstr ""
+
+#. msg_48_Choice4
+
+msgid "\[if_all(LBIT_0003)\]南条"
+msgstr ""
+
+#. msg_48_Choice5
+
+msgid "\[if_all(LBIT_0005)\]\[tatsuya\]"
+msgstr ""
+
+#. msg_48_Choice6
+
+msgid "やめる"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＹｅｓ！\n退屈で、うずうずしてましたの。\n頑張らせていただきますわ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＯｈ…\n残念ですわ。\nでは、ここで待ってますわね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＨｅｌｌｏ．\n何かご用ですか？\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "何かご用ですか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52_Choice1
+
+msgid "留守番ヨロシク。"
+msgstr ""
+
+#. msg_52_Choice2
+
+msgid "用はない。"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nやはり心配だ。\n俺も行くよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "俺も行くよ。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54_Choice1
+
+msgid "一緒に行きましょう。"
+msgstr ""
+
+#. msg_54_Choice2
+
+msgid "留守番ヨロシク。"
+msgstr ""
+
+#. msg_55
+
+msgid "誰と交代すればいい？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55_Choice1
+
+msgid "\[if_all(LBIT_0000)\]うらら"
+msgstr ""
+
+#. msg_55_Choice2
+
+msgid "\[if_all(LBIT_0001)\]克哉"
+msgstr ""
+
+#. msg_55_Choice3
+
+msgid "\[if_all(LBIT_0002)\]パオフゥ"
+msgstr ""
+
+#. msg_55_Choice4
+
+msgid "\[if_all(LBIT_0003)\]南条"
+msgstr ""
+
+#. msg_55_Choice5
+
+msgid "\[if_all(LBIT_0004)\]エリー"
+msgstr ""
+
+#. msg_55_Choice6
+
+msgid "やめる"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nありがとう。\n仲間達と約束したんだ。\n舞耶姉を守るって…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n……\n分かった。\nここで待ってるよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nどうしたんだ…？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "どうしたんだ…？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59_Choice1
+
+msgid "留守番ヨロシク。"
+msgstr ""
+
+#. msg_59_Choice2
+
+msgid "用はない。"
+msgstr ""
+
+#. msg_60
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nおや？\n新しい姿に生まれ変わろうとしている\nペルソナがいるようですな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nおっと、説明するのを忘れていましたが…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n合体スキルというものを、ご存じですかな？\nこれを使うと、たまにペルソナが突然変異を\n起こすことがあります。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nそれは基本能力の上昇であったり、新しい\nスキルの取得であったりするのですが、中には\n別のペルソナに生まれ変わる場合もあります。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nただ、この場合は、私の手助けが\n必要となりますので、ペルソナにこのような変化が\n起こった場合は私の所へおいでください。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nもちろん、\n必ず変異させねばならないわけでは\nありません。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n変異後のペルソナはランク１に\n戻ってしまいますから、変異させるかどうかは、\nあなた方自身で判断してください。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nそうそう、\[delay(15)\]変異後のペルソナと同じペルソナが\n既にいるような場合、変異させられないことも\nありますので、注意が必要ですぞ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_68
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nようこそベルベットルームへ。\n今日は、どんな御用ですかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_68_Choice1
+
+msgid "ペルソナを召喚する"
+msgstr ""
+
+#. msg_68_Choice2
+
+msgid "ペルソナを降魔する"
+msgstr ""
+
+#. msg_68_Choice3
+
+msgid "ペルソナの帰還"
+msgstr ""
+
+#. msg_68_Choice4
+
+msgid "\[if_all(VBIT_MUTATION_ON)\]ペルソナの変異"
+msgstr ""
+
+#. msg_68_Choice5
+
+msgid "話をする"
+msgstr ""
+
+#. msg_68_Choice6
+
+msgid "\[if_all(EBIT_SINARIOFF)\]アディショナルシナリオ"
+msgstr ""
+
+#. msg_68_Choice7
+
+msgid "やめる"
+msgstr ""
+
+#. msg_68_Choice8
+
+msgid "ベルベットルームから出る"
+msgstr ""
+
+#. msg_69
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n他に御用はありますかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_69_Choice1
+
+msgid "ペルソナを召喚する"
+msgstr ""
+
+#. msg_69_Choice2
+
+msgid "ペルソナを降魔する"
+msgstr ""
+
+#. msg_69_Choice3
+
+msgid "ペルソナの帰還"
+msgstr ""
+
+#. msg_69_Choice4
+
+msgid "\[if_all(VBIT_MUTATION_ON)\]ペルソナの変異"
+msgstr ""
+
+#. msg_69_Choice5
+
+msgid "話をする"
+msgstr ""
+
+#. msg_69_Choice6
+
+msgid "\[if_all(EBIT_SINARIOFF)\]アディショナルシナリオ"
+msgstr ""
+
+#. msg_69_Choice7
+
+msgid "やめる"
+msgstr ""
+
+#. msg_69_Choice8
+
+msgid "ベルベットルームから出る"
+msgstr ""
+
+#. msg_70
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n何か、聞きたいことがおありのようですな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_70_Choice1
+
+msgid "世間話を聞く"
+msgstr ""
+
+#. msg_70_Choice2
+
+msgid "説明を聞く"
+msgstr ""
+
+#. msg_70_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_71
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nフィレモン様は、あなた方に、人のみが持つ\n無限の可能性を見出されたのかもしれません。\n恐らくは、この趣向もその為のもの…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_72
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nでは、どなたとお話なさいますかな？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_73
+
+msgid "どなたとお話なさいますかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_73_Choice1
+
+msgid "電話帳１"
+msgstr ""
+
+#. msg_73_Choice2
+
+msgid "電話帳２"
+msgstr ""
+
+#. msg_73_Choice3
+
+msgid "電話帳３"
+msgstr ""
+
+#. msg_73_Choice4
+
+msgid "電話帳４"
+msgstr ""
+
+#. msg_73_Choice5
+
+msgid "やめる"
+msgstr ""
+
+#. msg_74
+
+msgid "\[color(yellow)\]電話帳４\[color(white)\]\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_74_Choice1
+
+msgid "\[if_all(MBIT_EXTRARANK_S)\]須藤"
+msgstr ""
+
+#. msg_74_Choice2
+
+msgid "\[if_all(!MBIT_EXTRARANK_S)\]\[color(pink)\]？？？？\[color(white)\]"
+msgstr ""
+
+#. msg_74_Choice3
+
+msgid "\[if_all(MBIT_EXTRARANK_S)\]アポロ"
+msgstr ""
+
+#. msg_74_Choice4
+
+msgid "\[if_all(!MBIT_EXTRARANK_S)\]\[color(pink)\]？？？？\[color(white)\]"
+msgstr ""
+
+#. msg_74_Choice5
+
+msgid "\[if_all(MBIT_EXTRARANK_S)\]裏・管理官"
+msgstr ""
+
+#. msg_74_Choice6
+
+msgid "\[if_all(!MBIT_EXTRARANK_S)\]\[color(pink)\]？？？？\[color(white)\]"
+msgstr ""
+
+#. msg_74_Choice7
+
+msgid "もどる"
+msgstr ""
+
+#. msg_75
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nはて…その方はどなたでしょう？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_76
+
+msgid "\[color(yellow)\]電話帳３\[color(white)\]\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_76_Choice1
+
+msgid "\[if_all(MBIT_EXTRARANK_B)\]銀次"
+msgstr ""
+
+#. msg_76_Choice2
+
+msgid "\[if_all(!MBIT_EXTRARANK_B)\]\[color(pink)\]？？？？\[color(white)\]"
+msgstr ""
+
+#. msg_76_Choice3
+
+msgid "\[if_all(MBIT_EXTRARANK_B)\]千鶴"
+msgstr ""
+
+#. msg_76_Choice4
+
+msgid "\[if_all(!MBIT_EXTRARANK_B)\]\[color(pink)\]？？？？\[color(white)\]"
+msgstr ""
+
+#. msg_76_Choice5
+
+msgid "\[if_all(MBIT_EXTRARANK_A)\]ニャルラトホテプ"
+msgstr ""
+
+#. msg_76_Choice6
+
+msgid "\[if_all(!MBIT_EXTRARANK_A)\]\[color(pink)\]？？？？\[color(white)\]"
+msgstr ""
+
+#. msg_76_Choice7
+
+msgid "\[if_all(MBIT_EXTRARANK_A)\]南条"
+msgstr ""
+
+#. msg_76_Choice8
+
+msgid "\[if_all(!MBIT_EXTRARANK_A)\]\[color(pink)\]？？？？\[color(white)\]"
+msgstr ""
+
+#. msg_76_Choice9
+
+msgid "\[if_all(MBIT_EXTRARANK_A)\]フィレモン"
+msgstr ""
+
+#. msg_76_Choice10
+
+msgid "\[if_all(!MBIT_EXTRARANK_A)\]\[color(pink)\]？？？？\[color(white)\]"
+msgstr ""
+
+#. msg_76_Choice11
+
+msgid "もどる"
+msgstr ""
+
+#. msg_77
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nはて…その方はどなたでしょう？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_78
+
+msgid "\[color(yellow)\]電話帳２\[color(white)\]\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_78_Choice1
+
+msgid "\[if_all(MBIT_EXTRARANK_D)\]舞耶"
+msgstr ""
+
+#. msg_78_Choice2
+
+msgid "\[if_all(!MBIT_EXTRARANK_D)\]\[color(pink)\]？？？？\[color(white)\]"
+msgstr ""
+
+#. msg_78_Choice3
+
+msgid "\[if_all(MBIT_EXTRARANK_C)\]淳"
+msgstr ""
+
+#. msg_78_Choice4
+
+msgid "\[if_all(!MBIT_EXTRARANK_C)\]\[color(pink)\]？？？？\[color(white)\]"
+msgstr ""
+
+#. msg_78_Choice5
+
+msgid "\[if_all(MBIT_EXTRARANK_C)\]エリー"
+msgstr ""
+
+#. msg_78_Choice6
+
+msgid "\[if_all(!MBIT_EXTRARANK_C)\]\[color(pink)\]？？？？\[color(white)\]"
+msgstr ""
+
+#. msg_78_Choice7
+
+msgid "\[if_all(MBIT_EXTRARANK_C)\]\[tatsuya\]"
+msgstr ""
+
+#. msg_78_Choice8
+
+msgid "\[if_all(!MBIT_EXTRARANK_C)\]\[color(pink)\]？？？？\[color(white)\]"
+msgstr ""
+
+#. msg_78_Choice9
+
+msgid "\[if_all(MBIT_EXTRARANK_B)\]神取"
+msgstr ""
+
+#. msg_78_Choice10
+
+msgid "\[if_all(!MBIT_EXTRARANK_B)\]\[color(pink)\]？？？？\[color(white)\]"
+msgstr ""
+
+#. msg_78_Choice11
+
+msgid "もどる"
+msgstr ""
+
+#. msg_79
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nはて…その方はどなたでしょう？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_80
+
+msgid "\[color(yellow)\]電話帳１\[color(white)\]\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_80_Choice1
+
+msgid "\[if_all(MBIT_EXTRARANK_E)\]克哉"
+msgstr ""
+
+#. msg_80_Choice2
+
+msgid "\[if_all(!MBIT_EXTRARANK_E)\]\[color(pink)\]？？？？\[color(white)\]"
+msgstr ""
+
+#. msg_80_Choice3
+
+msgid "\[if_all(MBIT_EXTRARANK_E)\]うらら"
+msgstr ""
+
+#. msg_80_Choice4
+
+msgid "\[if_all(!MBIT_EXTRARANK_E)\]\[color(pink)\]？？？？\[color(white)\]"
+msgstr ""
+
+#. msg_80_Choice5
+
+msgid "\[if_all(MBIT_EXTRARANK_E)\]栄吉"
+msgstr ""
+
+#. msg_80_Choice6
+
+msgid "\[if_all(!MBIT_EXTRARANK_E)\]\[color(pink)\]？？？？\[color(white)\]"
+msgstr ""
+
+#. msg_80_Choice7
+
+msgid "\[if_all(MBIT_EXTRARANK_D)\]ギンコ"
+msgstr ""
+
+#. msg_80_Choice8
+
+msgid "\[if_all(!MBIT_EXTRARANK_D)\]\[color(pink)\]？？？？\[color(white)\]"
+msgstr ""
+
+#. msg_80_Choice9
+
+msgid "\[if_all(MBIT_EXTRARANK_D)\]パオフゥ"
+msgstr ""
+
+#. msg_80_Choice10
+
+msgid "\[if_all(!MBIT_EXTRARANK_D)\]\[color(pink)\]？？？？\[color(white)\]"
+msgstr ""
+
+#. msg_80_Choice11
+
+msgid "もどる"
+msgstr ""
+
+#. msg_81
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nはて…その方はどなたでしょう？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_82
+
+msgid "\[color(yellow)\]淳\[color(white)\]\n今は留守です。ごめんなさい。\nよかったら、伝言をどうぞ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_83
+
+msgid "\[color(yellow)\]ニャルラトホテプ\[color(white)\]\nフハハハハハハッ！\n言いたき事があるなら聞いてやろう！！\nそのつたない口で語って見せろ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_84
+
+msgid "\[color(yellow)\]神取\[color(white)\]\n語るには飽いた…メッセージを入れたまえ…\n私を、失望させないようにな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_85
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nホォォォォウ！\nこのボクにラブコォールなのか～い？\n今は忙しくてねぇ～ソ～リィベイビィ～\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_86
+
+msgid "\[color(yellow)\]銀次\[color(white)\]\n連絡なら事務所を通してくれたまえ。\n女性なら別だがね。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_87
+
+msgid "\[color(yellow)\]裏・管理官\[color(white)\]\nいよぉーどうもこんにちワンコソバ！\n今は留守にしてるんで、用件のあるクサレ野郎は\nメッセージを入れてくれ！よろしく頼んだぞ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_88
+
+msgid "\[color(yellow)\]千鶴\[color(white)\]\nひとふたみよ、いつむななや、ここのたり\n語れ、ゆらゆらと語れ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_89
+
+msgid "\[color(yellow)\]ギンコ\[color(white)\]\n哎呀（アイヤー）、今電話に出れないの。\nメッセージ入れといて。\nＳｏｒｒｙ呀～\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_90
+
+msgid "\[color(yellow)\]須藤竜也\[color(white)\]\nヒャーハハハハァー！！\n電話電話電話電話ァァァ！！\n俺は電波専門だ！電話にゃ出られねぇぞぉ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_91
+
+msgid "\[color(yellow)\]舞耶\[color(white)\]\nレッツ・ポジティブスピーキン！\nメッセージは前向きにね♥\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_92
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nチャ～オ♥アンタ男？ねぇねぇねぇ？\nイケてる男だったら、メッセージ♥\n入れといてぇ～ん♥\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_93
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n只今留守にしております。メッセージをどうぞ。\nなお、あまり短いと逆探できないので\n長めにお願いします。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_94
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n悪いが今は留守だ。\n気が向いたら聞いてやるから、\nメッセージでも入れとくんだな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_95
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n今は出られない…\nよかったらメッセージを入れてくれ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_96
+
+msgid "\[color(yellow)\]アポロ\[color(white)\]\n我は汝、汝は我！\n我は電子の海より出でし者！\n現代社会の必需品、便利至極な留守番電話なり！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_97
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＨａｌｌｏ！申し訳ありませんけれど、\n今電話にでられませんの。\nＭｅｓｓａｇｅお願いしますわ♥\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_98
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n何の用だ？「少年老い易く学成りがたし、\n一寸の光陰軽んずべからず」だ。\n伝言があるなら手短に入れておけ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_99
+
+msgid "\[color(yellow)\]フィレモン\[color(white)\]\n私は電話の狭間に住まう者…\n君は自分の名を告げる事ができるかね？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_100
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n何なりと御質問を。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_100_Choice1
+
+msgid "ペルソナについて"
+msgstr ""
+
+#. msg_100_Choice2
+
+msgid "降魔と発動について"
+msgstr ""
+
+#. msg_100_Choice3
+
+msgid "アルカナについて"
+msgstr ""
+
+#. msg_100_Choice4
+
+msgid "ペルソナの成長について"
+msgstr ""
+
+#. msg_100_Choice5
+
+msgid "ペルソナとの相性について"
+msgstr ""
+
+#. msg_100_Choice6
+
+msgid "次のページへ"
+msgstr ""
+
+#. msg_100_Choice7
+
+msgid "\[if(EBIT_SINARIOFF)\]非表示項目・戻る"
+msgstr ""
+
+#. msg_101
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n何なりと御質問を。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_101_Choice1
+
+msgid "タロットカードについて"
+msgstr ""
+
+#. msg_101_Choice2
+
+msgid "マテリアルカードについて"
+msgstr ""
+
+#. msg_101_Choice3
+
+msgid "スキルカードについて"
+msgstr ""
+
+#. msg_101_Choice4
+
+msgid "インセンスカードについて"
+msgstr ""
+
+#. msg_101_Choice5
+
+msgid "ペルソナカードについて"
+msgstr ""
+
+#. msg_101_Choice6
+
+msgid "次のページへ"
+msgstr ""
+
+#. msg_101_Choice7
+
+msgid "前のページへ"
+msgstr ""
+
+#. msg_101_Choice8
+
+msgid "\[if(EBIT_SINARIOFF)\]非表示項目・戻る"
+msgstr ""
+
+#. msg_102
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n何なりと御質問を。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_102_Choice1
+
+msgid "召喚の基本について"
+msgstr ""
+
+#. msg_102_Choice2
+
+msgid "魔晶変化について"
+msgstr ""
+
+#. msg_102_Choice3
+
+msgid "ミューテーションについて"
+msgstr ""
+
+#. msg_102_Choice4
+
+msgid "コンタクトについて"
+msgstr ""
+
+#. msg_102_Choice5
+
+msgid "悪魔の個性について"
+msgstr ""
+
+#. msg_102_Choice6
+
+msgid "前のページへ"
+msgstr ""
+
+#. msg_102_Choice7
+
+msgid "\[if(EBIT_SINARIOFF)\]非表示項目・戻る"
+msgstr ""
+
+#. msg_103
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n神の様に慈愛に満ちた自分…、悪魔の如き残酷な自分…\n人は、様々な仮面を着けて生きております。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n今の貴方の姿も無数の仮面の１つに過ぎません。\n「ペルソナ」は、心の奥底に潜む\n貴方の姿の１つになります。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそして、「ペルソナ」を形ある姿で召喚し\nその力を行使する者の事を「ペルソナ使い」と\n申します。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_104
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n召喚されたペルソナを「発動」…\nすなわち、ペルソナを呼び出しその力を行使するには\n「降魔」することが必要です。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n「降魔」とは、召喚したペルソナを貴方のような\nペルソナ使いの体に降ろすことです。\n「ペルソナカード」を所持しているだけではダメですぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nペルソナを「降魔」すると、ペルソナ使い自身の\nステータスにも変化が生じます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nペルソナは貴方の隠れた一面…\nそれに相応しい状態に変化するというわけですな。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n「降魔」は１度に１体しか出来ません。\nですが、「ペルソナカード」があれば、\nいつでも別のペルソナを降魔する事が出来ます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nその場合、それまで降魔していたペルソナは、\n「ペルソナカード」の状態に戻ります。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nペルソナは、その種類によって持っている能力が違い\nメリットだけではなく、デメリットもありますぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそれぞれのペルソナの能力を良く理解し、\n状況に応じて使い分けることが、戦闘で生き延び、\n勝利を収める鍵ですな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_105
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nペルソナも悪魔と同じように種族がございます。\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n種族は「魔術師」や「皇帝」、「戦車」など…\nタロットのアルカナで表され、２６種類に\n分類されております。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nアルカナによっては、私の召喚では出会えないものも\nございまして…それらのアルカナに出会う為には、\nご自身の手で色々と試されるのが宜しいでしょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_106
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nペルソナが人の隠れた一面であるとはいえ、\n意識していなかった、もう１人の自分に触れるのは、\n驚きもあるでしょう。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n誰でも初めのうちは、ペルソナの力を十二分に\n出し切ることは出来ません。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそれは新しく召喚したペルソナほど、\nその傾向が顕著に現れます…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそのため最初の内は、ペルソナが持つ本来の能力の\n一部しか発揮することが出来ないでしょう。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nしかし、ペルソナを発動させればさせる程、\n次第に使いこなせるようになります。\n能力が増え、より強力な攻撃も可能になります。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nもちろんそれは、ペルソナを使いこなせるようになった\n結果なので、発動に必要なＳＰに変わりはありません。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n多少ニュアンスは違いますが、この貴方自身の慣れを\n「ペルソナの成長」と考えてもいいでしょう。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nペルソナの成長には８段階の節目があります。\nその節目毎に、ペルソナに変化が現れるでしょう。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nまた、ペルソナは貴方自身の成長にも、\nわずかながら影響を与えます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n貴方の能力のどの部分に影響を与えるかは、\n降魔しているペルソナの種類によって異なります。\nその点も考慮すると良いでしょうな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_107
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nペルソナは貴方の半身…\n全てのペルソナは、貴方と繋がっております…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nとはいえ、貴方に近い存在もあれば、\n遠い存在もおりますでしょう。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n繋がりが希薄なペルソナの場合、貴方には扱えないかも\nしれません。\nそう、中には降魔すら出来ない場合もあります。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n逆に近い存在である場合、楽に扱えることも\nあるでしょう。\nこれらの影響は、特にＳＰの消費に現れます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n本来より少ないＳＰでスキルを発動出来ることもあれば\nより多くのＳＰを消費する場合もあります。\nそれらの事柄は誰でも同じ条件とは限りませんぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n…色々試されて確認されると良いでしょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_108
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n私が新たにペルソナを召喚するのに必要な媒体として\n「タロットカード」が必要でございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nペルソナは、タロットのアルカナ、\n「魔術師」や「皇帝」などに種別されておりまして…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nアルカナ「太陽」に属するペルソナを召喚したければ、\n同じアルカナのカードでなければなりません。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nまた、集めるタロットの枚数も、\nそのペルソナのレベルに見合った分だけ\n必要となりますぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそう、レベルが高いペルソナほど、\n必要なタロットの枚数も増えるわけですな。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nタロットカードの多くは悪魔が所持してまして…\n彼らが持つカードは、その悪魔の種族と同じアルカナの\nタロットになっております。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nつまり、召喚したいペルソナと同じ種族の悪魔から、\nタロットを手に入れればよいわけですな。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n但し、同じ悪魔とだけ交渉していてもダメですぞ。\nレベルの高い悪魔ほど、所持しているタロットの枚数も\n多いのです。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n高レベルのペルソナを召喚したいのであれば、\n同じく高レベルの悪魔と交渉することが必要です。\nそれが、効率よくタロットを集めるコツですな。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nまた、一部のタロットは悪魔からは手に入れることは\n出来ません。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n「フリータロット」と呼ばれるカードを入手したら\nそちらの「悪魔絵師」に相談されると良いでしょう。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそうそう、たとえカードを所持されていても、\n貴方達の「最高レベル＋５」を超えるレベルのペルソナは\n召喚出来ませんぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそれをお忘れなく…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_109
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n私がペルソナを召喚する際に追加出来るカードに\n「マテリアルカード」というものがございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nマテリアルカードは１度の召喚で１枚だけ使用出来まして\n特定のマテリアルカードを追加することで\n特殊なペルソナを召喚する事が可能となります。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nまた、マテリアルカードを所持していると、\nがい当するペルソナが青色で召喚リストに表示されます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n「マテリアルカード」は、強力なペルソナを\n作り出すためにも欠かすことのできない物なので\nございます…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_110
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n私がペルソナを召喚する際に追加出来るカードに\n「スキルカード」というものがございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nスキルカードは１度の召喚で１枚だけ使用出来まして、\nカードに封じられたスキルを新たに召喚する\nペルソナに覚えさせる事が出来ます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそう…「アギカード」を新たなペルソナの\n召喚時に加えれば、そのペルソナは「アギ」を\n覚えるということです…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n普通の成長では覚えることがないスキルであっても\nカードで習得させられますぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nただし、スキルカードとペルソナの間には\n相性が存在しておりまして、相性が悪いと\nそのスキルカードを加えることは出来ません。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nなお、スキルカードの多くは悪魔が所持しております。\n悪魔と遭遇した時にコンタクトなどを行って\n入手されるのが良いでしょうな…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n珍しいスキルカードは入手手段が異なるようです\n…色々試されると良いでしょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_111
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n私がペルソナを召喚する際に追加出来るカードに\n「インセンスカード」というものがございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nインセンスカードは１度の召喚で１枚だけ使用出来まして\nカードに関連したペルソナの能力を伸ばす事が出来ます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nあくまでも、新たに召喚するペルソナにしか\n使用出来ませんので、よく考えて追加されると\n良いでしょうな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_112
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n召喚されたペルソナで降魔していないものは、\n通常、カードの姿をとって待機しておりまして\nそのカードを「ペルソナカード」と申します。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n貴方は、ペルソナカードを複数所持出来ますが、\n所持できる枚数には限りがございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n所持するカードには、降魔中のペルソナも含まれますので\n注意が必要ですぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nペルソナの力は、冒険に欠く事のできぬもの。\n必要に応じて、ペルソナカードを入れ替えるのが\n宜しいでしょう。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nまた、こちらで新たに召喚したペルソナは、\n私が大切に預かっております。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nお預かりできる数には限りがございますが、\n新しく召喚したペルソナだけでなく、\nそれまで貴方が所持していたペルソナも預りますぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nお預かりできる最大数のカードをお預かりしている時は\n新たにペルソナを召喚する事は出来ませんぞ。\nお忘れ無きよう…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_113
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n私の役目は、新たなペルソナを召喚すること…\nお持ちのタロットカードを媒体にして、\n心の奥底に眠るペルソナを召喚する事でございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nタロットカードを多く用えば、レベルの高いペルソナが\n召喚されるでしょう。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nですが、タロットカードさえ集めれば、\n全てのペルソナを召喚出来る…というわけでは\nありません。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n中には特別な条件が必要な場合もあります。\nそれらの一部は、無意識の奥底に眠っており…\n召喚する為には、何かしらのきっかけが必要になります。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそのきっかけの１つは、「マテリアルカード」を合わせた\n召喚になります。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nその他にも、きっかけはペルソナの成長などに\n潜んでおります…\nご自身の手で色々と試されるのが宜しいでしょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_114
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nランクが上がりきり、ランクが８となったペルソナは\nそれ以上に育つことはありません。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n非常に強力なペルソナではありますが、\nそのようなペルソナをこのベルベットルームで\n無意識の海に帰還いたしますと…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそれまで共に戦ったペルソナの力は解放され、\n代わりに、戦いの証として、何がしかのアイテムを\n残していってくれるのでございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそれは、時に武器であり、防具であり、消耗品であり\n非常に珍しい、ここでしか手に入らない物もございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nどのような不思議な物を手に入れる事が出来るかは\nご自分の目でお確かめ下さいませ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_115
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n戦闘で合体スキルを多用いたしておりますと\n稀にペルソナがミューテーション…\nつまりは「変異」する事がございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n変異が発生する確率はペルソナとの相性が\n深く関わっておりまして…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n相性が良いペルソナほど変異する確率は\n高くなっております。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n変異の内容はペルソナのランクで異なりまして、\nランクが低い時は、「ランクの２ランクアップ」や\n「基礎能力強化」などですが…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n高ランクになりますと、「スキルの習得」や\nペルソナによっては「別ペルソナへの変身」が\n可能となります。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nなお、ペルソナによっては、私の召喚では呼び出せない\nアルカナのペルソナに変身する場合もございます。\n色々試されると良いでしょう。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_116
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n悪魔は、貴方達と同じで「喜び」や「怒り」など\n様々な感情を持っておりまして…\n話しかけることでコンタクトを取る事が出来ます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n悪魔達は気持ちを「言葉」「音」「動作」\nそれから「光」で表現いたしまして、視覚で判断出来る\n感情の光は次のようになっております。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nまず初めに「喜び」は「緑の光」で表されます。\nこの感情が最大になりますと\n悪魔と「契約」をする事が出来ますぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n悪魔と「契約」を行いますと、\n貴方に様々なメリットがございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそれは、悪魔から「珍しいタロットカード」を頂いたり\n「面白い話」を聞かせて頂けます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nですが、それらは契約中とはいえ、\nただでは頂く事は出来ません。\nほしい時は、再度コンタクトをお取り下さい。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n次に「怒り」は「赤い光」で表されます。\nこの感情が最大になりますと\nすぐに悪魔との会話は打ち切られてしまいます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nこうなりますと悪魔はもう聞く耳を持ちません。\nヘタをすると、攻撃されてしまいます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそれは「契約」を行っている悪魔でも同じでして、\n良い事はありません…\n怒らせない様に気をつけた方がいいですな。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n次に「恐怖」は「青い光」で表されます。\nこの感情が最大になりますと\n悪魔は怯えて逃げ出してしまいます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n最後に「興味」は「黄色い光」で表されます。\nこの感情を最大に高める事はとても意味がありますぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n私の召喚で必要な媒体であるタロットカードを\n頂ける場合があるのです。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n強力なペルソナを召喚される場合、\n数多くのタロットカードが必要となりますので\n悪魔と頻繁にコンタクトを行い集めると良いでしょう…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nそれから…「喜び」「怒り」「恐怖」の３つは\n「興味」が同時に上がる事がございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nたとえば…「喜び」と「興味」が同時に最大になった場合\n「契約」を行う事は出来ません。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n「怒り」と「恐怖」も「興味」と同時に最大になった時、\n普段とは異なる結果になります。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nこれら４つの感情は、普通３段階で最大になります。\n私からのアドバイスとしては、普段はなるべく１つの\n感情を上げる事をお奨めいたします。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n基本的な事はこれくらいですな。\nこの他にも、貴方達に対して悪魔が質問してきたり\n遭遇直後に話しかけてきたりする場合もございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nまぁそれらは、数多くコンタクトをすれば\nわかってくるでしょうな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_117
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nそれでは、悪魔の「個性」について説明しますかな…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n人間でもそうですが、悪魔にもいろいろな者が\nおりまして…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n賢い者、短気な者、弱気な者…\nそれぞれ好き嫌いがございます。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n貴方達は、それらを見抜いて\n悪魔とコンタクトを行うのです。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n悪魔の「個性」は全部で８種類に分類されます。\n賢い愚か陽気陰気\n強気弱気短気高慢…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n各悪魔が、この中のいずれか１個、又は複数\n持っております。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n持っている「個性」の組み合わせによって、\nコンタクトの時の反応が全然異なりますぞ。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nコンタクトを行った事が無い悪魔の「個性」は\n知ることは出来ませんが、\n一度でもコンタクトすれば判るようになります。\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\n色々試されてご自分の目でお確かめ下さいませ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_118
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nでは、更なるタロットを手に入れるまで、\nしばしのお別れですな。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_119
+
+msgid "\[color(yellow)\]ベラドンナ\[color(white)\]\n光の渦とは～𝅘𝅥𝅮\nフィレモン様の残した軌跡～𝅘𝅥𝅮\nふれれば新たな道が開きます～𝅘𝅥𝅮\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_120
+
+msgid "\[color(yellow)\]ナナシ\[color(white)\]\nこの迷宮を攻略できた者は、まだ一人もいない。\nお前は、最果てに待つフィレモン様の元へ\n辿りつけるだろうか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_121
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\n僕は悪魔絵師。\n人の内に住まう、神と悪魔を描く絵師。\nどうぞよろしく。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_122
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\nタロットは心の雛形だ。心が人の運命を回す。\nさて、何か描いて欲しいのかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_122_Choice1
+
+msgid "タロット作成依頼"
+msgstr ""
+
+#. msg_122_Choice2
+
+msgid "話す"
+msgstr ""
+
+#. msg_122_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_122_Choice4
+
+msgid "ベルベットルームから出る"
+msgstr ""
+
+#. msg_123
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\n他に、何かあるかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_123_Choice1
+
+msgid "タロット作成依頼"
+msgstr ""
+
+#. msg_123_Choice2
+
+msgid "話す"
+msgstr ""
+
+#. msg_123_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_123_Choice4
+
+msgid "ベルベットルームから出る"
+msgstr ""
+
+#. msg_124
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\nさて、何について語ろうか。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_124_Choice1
+
+msgid "世間話を聞く"
+msgstr ""
+
+#. msg_124_Choice2
+
+msgid "カード作成について聞く"
+msgstr ""
+
+#. msg_124_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_125
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\nどうやらフィレモン様は、\n君達が余程気に入ったらしい。\n頑張れよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_126
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\nそれで、何が聞きたいのかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_126_Choice1
+
+msgid "フリータロット"
+msgstr ""
+
+#. msg_126_Choice2
+
+msgid "入手するには"
+msgstr ""
+
+#. msg_126_Choice3
+
+msgid "効率の良い使い方"
+msgstr ""
+
+#. msg_127
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\nフリータロットは、何も描かれていない特殊な\nタロットカードなんだ。\n\[wait\]\[clear\]\[color(yellow)\]悪魔絵師\[color(white)\]\nどんなタロットカードにも変化させることが\nできる不思議なカードさ。\n\[wait\]\[clear\]\[color(yellow)\]悪魔絵師\[color(white)\]\n僕なら、フリータロットに絵を描き、\nいろんなタロットカードを作ることができる。\n\[wait\]\[clear\]\[color(yellow)\]悪魔絵師\[color(white)\]\nフリータロットを手に入れたら、\n僕の所へ持ってくるといい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_128
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\nどんな悪魔も、必ずフリータロットを持っている。\nでも、普通の交渉ではもらえないんだ。\nフリータロットは、悪魔にとっても貴重なものだからね。\n\[wait\]\[clear\]\[color(yellow)\]悪魔絵師\[color(white)\]\nフリータロットをもらうには、\n悪魔から特別な信頼を得なければならない。\nま、そんなところは人間も悪魔も同じなのさ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_129
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\nペルソナを召喚するには、同じ種族の悪魔から\nタロットカードを手に入れればいいのだけど…\n\[wait\]\[clear\]\[color(yellow)\]悪魔絵師\[color(white)\]\n困ったことに、悪魔として出現しない種族の\nペルソナもいるんだ。\n\[wait\]\[clear\]\[color(yellow)\]悪魔絵師\[color(white)\]\nこういう特別な種族のペルソナを召喚するには\nどうしたらいいか？\nこんな時に役に立つのがフリータロットさ。\n\[wait\]\[clear\]\[color(yellow)\]悪魔絵師\[color(white)\]\n枚数の補助、といった使い方もあるけど、\nできるだけよく考えて使ってほしい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_130
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\n僕はいつでもここにいる。\nまた気が向いたら立ち寄るといい。\nここでは、時間は意味を成さないからな。\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_131
+
+msgid "\[color(yellow)\]悪魔絵師\[color(white)\]\nこれで良いかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_131_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_131_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_132
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nこのペルソナでよろしいですかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_132_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_132_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_133
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n降魔しているペルソナの変異はできませんぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_134
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nこのペルソナでよろしいですかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_134_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_134_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_135
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nおや、既に同じペルソナがいるようですな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_136
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nこのペルソナを本当に消してよろしいですかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_136_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_136_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_137
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n呼び覚まされたる古き心のカタチ、\n\[color(gray_inv)\]\[var(msg_var_0)\]\[color(white)\]を解き放つ時が来ましたか…\n\[wait\]\[clear\]\[color(yellow)\]イゴール\[color(white)\]\nならば共に戦いしその別なる心\n\[color(green)\]\[var(msg_var_1)\]\[color(white)\]に替えて、\nあなたに返しましょうかな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_138
+
+msgid "\[color(green)\]舞耶達は、\[var(msg_var_1)\]\[var(msg_var_2)\]を\n手に入れた。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_139
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nこのペルソナを呼び出すには、\nまだ貴方方のレベルが足りないようですな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_140
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n同じペルソナを既にお持ちですぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_141
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n同じペルソナをお預かりしておりますぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_142
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nこれ以上ペルソナを預かれませんな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_143
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nこのペルソナを呼び出す為に必要な\n「タロットカード」が足りませんな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_144
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nこのペルソナを呼び出す為に必要な\n「マテリアルカード」が足りませんな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_145
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n現在離脱しているお仲間が\nすでに同じペルソナを降魔中ですな\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

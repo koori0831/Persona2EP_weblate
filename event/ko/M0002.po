@@ -1,0 +1,728 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0002\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "パーティの人数が四人を超えています。\nこのままじゃハングします。\n金田・片岡に連絡してください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n忘れてるかもしれないけど…\n私は一応一般人。民間人。凡人なんだからね？\n死体だの殺しだの起きて、かなりブルーなのよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nそりゃアロマテラピーでもして、\nちょっと落ち着きたいわよ。\nスゥゥゥ…ハァァァ……\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nハァ～いい匂いねぇ～\nカッビ臭いマーヤの部屋とは大違い。\nアンタも女なんだから、部屋ぐらい片付けなよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nにしてもパオフゥ…だって。\nヘンな名前ねぇ。真顔で言われたら笑うよきっと。\nそうだ、アイツのことパオって呼ぼうか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあのノリコって子が、ＪＯＫＥＲ化したせいで\n攫われたのなら、私もそうなったのかも…\n放っとく訳いかないわよね！いくもんですか！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nなんかお兄さん方、殺気立っちゃって怖いねぇ。\nそんなプンプンしなくたっていいのにさぁ。\nマーヤも、ああいうタイプにゃ気を付けなよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nうーん…私にはよく分かんないけど、\nＪＯＫＥＲって、結局ペルソナっしょ？\n集めてどうこうできるモノなのかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nえっと…最初はＪＯＫＥＲ呪いをした人が、\nＪＯＫＥＲになっちゃうって放送したんだよね？\nそんで私は、えらい目にあった訳だし…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n…で、今度は講演会に参加して穢れを取んないと\nＪＯＫＥＲになっちゃう…ってんでしょ？\nありゃ、逃げ場無いじゃん。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n話題の癒し系か…こんなものに頼るなど\nナンセンスだと思っていたが…\n今回ばかりは助かるな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nペルソナだの…フィレモンだの…\nおおよそ、常識では考えられん事が起こりすぎた…\n正直言って、目が回りそうだよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n外務大臣…須藤竜蔵…\n１０年前の連続殺人事件に奴が…\nいや…だとすると…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nこうなっては、マニュアル通りの捜査では\n事件を解決する事はできん…\n管理官はそれが分からんのか！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nそういえばセブンスの事件の時から\n芹沢君の様子はおかしかったな。\nまさか彼女まで呪いをしていたとは。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nあのノリコという娘がＪＯＫＥＲ呪いを…\n…もっと早く気づくべきだった。\n身辺調査が甘かったのか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n公僕が殺し屋と癒着してるなど…\n断じてあってはならない話だ！\nこの腐敗の全て…僕が絶対に暴いてやる！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n新世塾への誘いは、\n主にマスコミや政治界のトップに向けて\n行われたようだな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n占いブームを引き起こしたのも、\n全てはＪＯＫＥＲ呪いを広め、発現した力を\n回収するための布石だったという訳か…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nちっ…甘ったるい匂いさせやがって、\nトイレかここは？\n換気でもしたらどうだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n改めて思うが…噂が現実になるってのは厄介だな。\n例の放送一つで、街はＪＯＫＥＲだらけだ…\n事情を知らない警察は、どう動くかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nうまく牧村を捕まえたは良いが、\nこれからどうする？\n芹沢を元に戻せる保証はないぜ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n難儀な話だぜ。\n俺達は、ＪＯＫＥＲ人間救出のボランティアか？\nそんな馬鹿なガキの面倒は願い下げだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nあんたらが俺をどう思おうが勝手だ。\n所詮、住んでる世界が違うからなぁ。\nまぁ、大人しく割り切ってくれや。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n誰構わず信用しちまうのがお前らの悪い癖だ。\n噂操作で現れたからって、\n奴らが味方とは限らねえだろ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n汚れてねぇ人間なんてのはいねぇが…\n普通の連中集めて、どんだけその穢れとやらが\n集まるってんだ…？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nこいつは、絶対裏がある…\n穢れを集めるだけじゃねぇ、他の目的がな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nしかし、あなた方全員がペルソナ使いとは…\n類は友を呼ぶ…\nといったところですか。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nあの神取は、明らかに本物でした。\nセベクでの戦いの事も、俺の事も覚えている。\n…ならば…なぜ奴は…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＯｈ，ｊｕｓｔｇｒｅａｔ！\n珠閒瑠市にこんな素敵なＳｈｏｐがあるなんて\n私、全然知りませんでしたわ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nこれは…Ｃａｎａｎｇａｏｄｏｒａｔａの香り。\n私、Ｈｉｇｈｓｃｈｏｏｌの時から\nＡｒｏｍａが趣味でしたの。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＷａｎｇｌｏｎｇ千鶴は新世塾と関係していた…\nそして…あのＭｒ．神取とも。\nあの人は…これ以上、何をするつもりなの…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nそ…そういえば、アイツ花が好きだったな…\nい、いや、それはジュンちゃんだったか…\nそれともシズカちゃんだったか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nな…なんとかご機嫌を取らないと…\n俺の命が…\nアイツ、切れると手がつけられないから…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\nはい、いらっしゃいませ。\n実は、新しい芳香コースを用意したんです。\n名づけて出会いの芳香。\[wait\]\[clear\]\[color(yellow)\]香さん\[color(white)\]\n特定の香を身に纏う事で、周囲の印象を変え、\n新しい出会いを生み出すんです。\n是非、お試しください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\nはい、いらっしゃいませ。\n実は、新しい芳香コースを用意したんです。\n名づけて出会いの芳香。\[wait\]\[clear\]\[color(yellow)\]香さん\[color(white)\]\n特定の香を身に纏う事で、周囲の印象を変え、\n新しい出会いを生み出すんです。\[wait\]\[clear\]\[color(yellow)\]香さん\[color(white)\]\n値段も、普通より少し下げておきますね。\nあなたとは、何か不思議な縁を感じますから…\nどうぞお試しください。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\nはい、いらっしゃいませ。\n実は先日、新しいエッセンシャルオイルを探して\n海外に行ってたんです。\[wait\]\[clear\]\[color(yellow)\]香さん\[color(white)\]\n苦労の甲斐あって、\n最高の香を手に入れることができました。\n是非一度、お試しください。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\nはい、いらっしゃいませ。\n実は先日、新しいエッセンシャルオイルを探して\n海外に行ってたんです。\[wait\]\[clear\]\[color(yellow)\]香さん\[color(white)\]\n苦労の甲斐あって、\n最高の香を手に入れることができました。\[wait\]\[clear\]\[color(yellow)\]香さん\[color(white)\]\n今回は特にお安くご紹介しますよ。\nあなたとは、何か不思議な縁を感じますから…\n是非、お試しください。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\n済みません…実は風邪をひいてしまって、\nまるで鼻が利かないんです…\n治療は、少しお休みさせてください…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\n済みません…実は風邪をひいてしまって、\nまるで鼻が利かないんです…\[wait\]\[clear\]\[color(yellow)\]香さん\[color(white)\]\nあなたとは、何か不思議な縁を感じるけど…\nこれでは、良い香を紹介することも出来ません。\n治療は、少しお休みさせてください…\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\nはい、いらっしゃいませ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\nあなたからは…どこか不思議な香りがします。\n心静まる優しい香り…きっと相性が良いのですね。\nでは…お値段も少し勉強させていただきましょう\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\n今日はどのような香りをお求めですか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42_Choice1
+
+msgid "回復してもらう"
+msgstr ""
+
+#. msg_42_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_42_Choice3
+
+msgid "なにもしない"
+msgstr ""
+
+#. msg_42_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\n何をお聞きになりますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_43_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_43_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\n今日はどのような香りをお求めですか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44_Choice1
+
+msgid "回復してもらう"
+msgstr ""
+
+#. msg_44_Choice2
+
+msgid "アロマテラピー"
+msgstr ""
+
+#. msg_44_Choice3
+
+msgid "話をする"
+msgstr ""
+
+#. msg_44_Choice4
+
+msgid "なにもしない"
+msgstr ""
+
+#. msg_44_Choice5
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\n何をお聞きになりますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_45_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_45_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\n他にご用はございませんか？\nどうか遠慮無くおっしゃって下さい。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46_Choice1
+
+msgid "回復してもらう"
+msgstr ""
+
+#. msg_46_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_46_Choice3
+
+msgid "なにもしない"
+msgstr ""
+
+#. msg_46_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\n何をお聞きになりますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_47_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_47_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\n他にご用はございませんか？\nどうか遠慮無くおっしゃって下さい。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48_Choice1
+
+msgid "回復してもらう"
+msgstr ""
+
+#. msg_48_Choice2
+
+msgid "アロマテラピー"
+msgstr ""
+
+#. msg_48_Choice3
+
+msgid "話をする"
+msgstr ""
+
+#. msg_48_Choice4
+
+msgid "なにもしない"
+msgstr ""
+
+#. msg_48_Choice5
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\n何をお聞きになりますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_49_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_49_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\n香りには色々な効果があります。\n精神的な安定をもたらすだけでなく、\n病気や怪我の予防、殺菌効果だってあるんですよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\n少しイライラ気味のあなたには、\nイランイランやラベンダー、\nジャスミンの香りをオススメします。\[wait\]\[clear\]\[color(yellow)\]香さん\[color(white)\]\nイランイランで心を穏やかにして、ジャスミンの\n香りでゆううつな気分を吹き飛ばして下さい。\nあなたの今日が、良い日でありますように。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\n気分が落ち込み気味のあなたには、ラベンダーや\nローズマリーをオオスメします。\[wait\]\[clear\]\[color(yellow)\]香さん\[color(white)\]\nラベンダーで気持ちを安定させ、ローズマリーの\n香りで気分を高揚させ心を元気にして下さい。\nあなたの今日が良い日でありますように。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\n集中力が無いとお悩みのあなたには、\nペパーミントやユーカリの香りを\nオススメします。\[wait\]\[clear\]\[color(yellow)\]香さん\[color(white)\]\nペパーミントで目を覚まして、頭をスッキリと。\nユーカリの香りで集中力をつけて下さい。\nあなたの今日が良い日でありますように。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\n不安や心配事があって、落ち着かないあなたには、\nゼラニウムやネロリの香りをオススメします。\[wait\]\[clear\]\[color(yellow)\]香さん\[color(white)\]\nゼラニウムで精神の安定を取り戻し、\nネロリの香りで明るい気持ちになりましょう。\nあなたの今日が、良い日でありますように。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\n素敵な恋を探しているあなたには、\nクラリセージとサンダルウッドの香りを\nオススメします。\[wait\]\[clear\]\[color(yellow)\]香さん\[color(white)\]\nクラリセージで充実感と幸福感を胸一杯に吸い込み\nサンダルウッドで穏やかな気持ちになって下さい。\nあなたの今日が良い日でありますように。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\nまたのお越しをお待ちしています。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\nあら…\[delay(15)\]\n皆さん、怪我も無く健康そのもののようです。\[delay(15)\]\n治療は必要無いでしょう。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\nはい、では…\nみなさんで３０００円になりますが…\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\nあなたは特別なお客様ですから…\n半額の１５００円で結構です。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\nいかがですか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_60_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_61
+
+msgid "\[color(green)\]舞耶達は回復した。\[color(white)\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\nあの…\nお金が足りないようですが…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\nハァ…\n香さんにこの気持ち…伝えたいなぁ…\nでも駄目だよなぁ…きっと…\n\[wait\]\[clear\]\[color(yellow)\]若い男\[color(white)\]\nこの店を守っているのだって、亡くなった\n旦那さんの事を忘れたくないからだろうし…\nオレなんかの出る幕無いよなぁ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\nあれ…まだいたんだ。\nオレに何か用なの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65
+
+msgid "オレに何か用なの？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65_Choice1
+
+msgid "名前を言い当てる"
+msgstr ""
+
+#. msg_65_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_65_Choice3
+
+msgid "用はない"
+msgstr ""
+
+#. msg_66
+
+msgid "ムラタタクヤ\n\[end\]"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\nえ？誰だいそれ？\nオレはそんな名前じゃないけど…\n人違いじゃないかな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_68
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\nえ？\nなんでオレの名前知ってんの？\n自己紹介したことあるっけ？\n\[wait\]\[clear\]\[color(yellow)\]ムラタタクヤ\[color(white)\]\n捜索願？オレの？\nそっか…きっと妹だな…\nあいつ余計な事して！\n\[wait\]\[clear\]\[color(yellow)\]ムラタタクヤ\[color(white)\]\nあぁ…でもありがとう、報せてくれて。\nしらいしと妹にはオレから連絡しておくよ。\nご苦労様。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_69
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_70
+
+msgid "\[color(yellow)\]ムラタタクヤ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_71
+
+msgid "香さんはね、\n五年前にご主人を亡くしてるんだ…\nそれからずっと一人で、この店を守ってるんだよ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_72
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_73
+
+msgid "\[color(yellow)\]ムラタタクヤ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_74
+
+msgid "え？なんでいつもここにいるのかって？\nそ…そりゃ、香さんを守るためだよ。\n最近はＪＯＫＥＲだなんだと物騒だし…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_75
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_76
+
+msgid "\[color(yellow)\]ムラタタクヤ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_77
+
+msgid "ワンロン千鶴…綺麗だったなあ…\n魅惑的って言葉は\nああいう人の為にあるんだろうなあ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_78
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_79
+
+msgid "\[color(yellow)\]ムラタタクヤ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_80
+
+msgid "ハッ！？\nち、違う違う、オレは香さん一筋！！\nくふぅ…オレ意思弱いなあ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_81
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_82
+
+msgid "\[color(yellow)\]ムラタタクヤ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_83
+
+msgid "気のせいかなあ…\nワンロン千鶴がテレビに出てから、\nＪＯＫＥＲ事件、増えてない？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_84
+
+msgid "\[color(yellow)\]おばちゃん\[color(white)\]\nあなた知ってる？\nここ、最近新しい芳香治療始めたそうよ。\nなんでも出会いの芳香ですって。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_85
+
+msgid "\[color(yellow)\]おばちゃん\[color(white)\]\nしばらくこのお店、お休みだったのよ。\n訳聞いたら、香さん、風邪ひいてたんですって。\n無理に仕事して大丈夫なのかしら？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_86
+
+msgid "\[color(yellow)\]おばちゃん\[color(white)\]\nしばらくこのお店、お休みだったのよ。\n訳聞いたら、香さん、新しいオイルを探しに\n旅に出ていたんですって。仕事熱心よねえ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_87
+
+msgid "\[color(yellow)\]おばちゃん\[color(white)\]\nここの芳香治療は、怪我や病気も治しちゃうのよ。\n噂で聞いたときは嘘かと思ったけど、\nホントだったんだもの！もうビックリ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_88
+
+msgid "\[color(yellow)\]おばちゃん\[color(white)\]\n最近流行ってるワンロン占いって、\n本当に当たるのかしらねえ？\n元は望龍術って言うらしいけど…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_89
+
+msgid "\[color(yellow)\]おばちゃん\[color(white)\]\nワンロン占いによると、\nアタシは光龍らしいのよ。\n一応、道義的な気質らしいわねぇ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_90
+
+msgid "\[color(yellow)\]おばちゃん\[color(white)\]\nそう言えば、セブンスの校長先生、\nＪＯＫＥＲに殺されたって本当なの？\nここの近所じゃない…警察何してんのよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_91
+
+msgid "\[color(yellow)\]おばちゃん\[color(white)\]\nＪＯＫＥＲ呪いって、噂になってたアレよねえ…\nアレした人は、みんなＪＯＫＥＲになっちゃうの？\nでも、そんな人街じゅうにいるんじゃないの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_92
+
+msgid "\[color(yellow)\]おばちゃん\[color(white)\]\nねえ、アナタ知ってる？\n今街のあちらこちらで\n誘拐事件が起きてるらしいのよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_93
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\nでは今日はイランイランの香りを…\n香料の木とうたわれるイランイラン…\n香りは、心を和ませ、心身を健康にします。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_94
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\nでは今日はアスフォデルの香りを。\n死と哀悼を包むその香りは、永遠の解放と\n次なる旅へと、あなたを誘います。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_95
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\nでは今日はマンドラゴラの香りを。\n断末魔の叫びと共に他者の命を奪うマンドラゴラ。\nその実に宿る魔力は、あなたに次の力を授けます。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_96
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\nでは今日は、ユリの香りを。\nユリは、再生と不死の象徴。\nその香りは、あなたを再生へと導くでしょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_97
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\nでは今日は月桂樹の香りを。\n月桂樹は勝利と平和の象徴。\nその香りは永遠と不死へと、あなたを誘います。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_98
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\nでは今日はアヤメの香りを。\n聖母マリアの花ともされるアヤメ。\nその香りは、あなたに光りの力を授けるでしょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_99
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\n何をお聞きになりますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_99_Choice1
+
+msgid "回復"
+msgstr ""
+
+#. msg_99_Choice2
+
+msgid "\[if_all(MBIT_HI_KAORIAROMA)\]アロマテラピー"
+msgstr ""
+
+#. msg_99_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_100
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\n「回復」についてですね。\n\[wait\]\[clear\]\[color(yellow)\]香さん\[color(white)\]\n当店で「回復してもらう」を選んでいただくと\n香りの力で、皆さんの「ＨＰ」と「ＳＰ」を、そして\n「猛毒」などのステータス異常も回復いたしますよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_101
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\n「アロマテラピー」についてですね。\n当店で「アロマテラピー」を選んでいただきますと、\n皆様に新開発の芳香療法を施させていただきます。\n\[wait\]\[clear\]\[color(yellow)\]香さん\[color(white)\]\nこれにより、皆様は特殊な「香」をまとう事になります。\n結果、皆様は香を好む方を引き寄せ嫌う方を遠ざけます。\n\[wait\]\[clear\]\[color(yellow)\]香さん\[color(white)\]\nちなみに、この香は人ならざるものへの影響が大きいと\n聞きましたが、本当なのでしょうかね。\n\[wait\]\[clear\]\[color(yellow)\]香さん\[color(white)\]\n注意点がひとつだけ。\n香が完全に消えるまで、新しい香は施せません。\n香りが混ざって、効果が出なくなってしまいますからね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_102
+
+msgid "\[color(yellow)\]香さん\[color(white)\]\nでは\[var(msg_var_0)\]円になりますが、よろしいですか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_102_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_102_Choice2
+
+msgid "いいえ"
+msgstr ""
+

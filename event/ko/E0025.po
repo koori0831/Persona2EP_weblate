@@ -1,0 +1,128 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0025\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nったく…えれぇ目に会ったぜ…\nよく無事に済んだもんだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nハッ…！？\n\[tatsuya\]…！？\n\[tatsuya\]ー！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n落ち着け…ありゃ、\nお前さんなんかよりよほど修羅場くぐってる…\n俺らを避けて、どこぞから陸に揚がったんだろ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n君…\[tatsuya\]とはどういう関係なんだ？\nあいつは、君の事を知ってる風だったが…\n「向こう側」とは何なんだ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]淳\[color(white)\]\nわかりません…\nただ、ずっと前から知ってる…\nとても大切な人だったような気がするだけで…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nそうか…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nでもさ、これでＪＯＫＥＲは死んだわけだし、\n一件落着なんでしょ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあ～よかったよかった。\nこれでようやく普通の女に戻れるわ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n阿呆…まだ何も終わっちゃいねぇ…\n竜蔵の企みは何もわかっちゃいねぇだろが。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nその通りだ…\n須藤親子の事、ＪＯＫＥＲの事、\[tatsuya\]の事…\nまだ何もわかっていない。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nでも、被疑者は死んだんだ。\n捜査本部に連絡しておこう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nチッ…やめとけって言ってんだろうが。\nサツなんざクソの役にも立たねぇ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nもう一度言ってみろ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n頭が硬ぇだけじゃなく、耳まで悪ぃのか？\nそれとも、桜の代紋背負ってなきゃ、\n何もできねぇのか？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nなら、とっとと帰んな。\nお前らに竜蔵が挙げられるんなら、やってみせろ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nわかった…これで失礼する。\n但し、これ以上警察の邪魔をしてみろ…\n竜蔵より先に、お前がブタ箱行きになる。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nわ、私もこれ以上はゴメンだよ。\nＪＯＫＥＲが死んだなら関係ないし…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nマーヤも、これ以上ヤバイ事に首突っ込むの\nやめときなって…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n甘ちゃんどもが…\nまぁ、ここまで……できりゃ御の字か…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nで、お前さんも止めんのかい？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nへへ…そうこなくちゃな…\nじゃあ、俺は一度ヤサに戻って、\n竜蔵の動きを追ってみる。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nお前さんも、一度会社に戻ってみちゃどうだ？\nずっと空けっぱなしじゃまずかろう。\n後で迎えに行ってやるからよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]淳\[color(white)\]\n\[suou\]\[tatsuya\]…\n君は一体…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

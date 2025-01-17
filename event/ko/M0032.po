@@ -1,0 +1,458 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0032\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "パーティの人数が四人を超えています。\nこのままじゃハングします。\n金田・片岡に連絡してください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nマーヤ、どうしよう？\nさっき、そこのマスターに聞いたんだけど、\n今日、科学館に小学生が沢山来てるんだって！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nへんな事に巻き込んじゃったらどうしよう…\nい…いやいや！そうさせない為にも\n私達が頑張んないとダメなんだよね！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあっ！そう言えば牧村の奴、\n船も持ってないくせに、\n私をクルージングに誘ってたっけ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nうきーーーっ！！\nやっぱ、一発ぐらい殴っとけば良かった！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nそう言えばマーヤって、\nスキューバの免許持ってたっけ？\nいいなぁ…私も取ろうかな免許。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nなんでだろう…私、あの\[tatsuya\]って子、\nＧＯＬＤで見た事あるような気がするんだ…\nそんな訳無いのに…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nデジャ・ヴュの少年か…\nだけどマーヤだけでなく、\n私までそう感じるなんて…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nあのマスターはなかなかの情報通でな。\n署内の刑事にも彼を情報屋として\nあてにしている奴が多い。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n合法的とは言えんが、\n今は僕達も似たような状況だ。\n一度、話をきいてみてはどうだ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n確かに、僕達の遭遇しているこの状況が、\nおおよそ信じがたい話だという事は分かる。\nだが…それではどうすればいいんだ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n同じ公僕である僕の証言さえ、\n信じてもらえないのなら…\nどうやって警察を動かせばいい！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n我々は法の番人…だが、法は人の為にあるはず！\n法を守ることは、人々を守る事でもある。\nそれが出来なくて…何の正義を飾るのか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nここからは、僕個人の意志。\n一人の人間として、\nこの事件の解決に臨むつもりだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nあれは…本当に\[tatsuya\]なのか…\nペルソナの能力を持ち、体術にも長けている…\n僕の知るアイツとは違いすぎる…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nほぉ…けっこう洒落た店だな。\nしかしこの内装でカフェか？\n俺はてっきり、新手のバーかと思ったぜ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n嘘だろうが妄想だろうが、噂になりゃ現実になる。\nなぜかはわからんが、ここはそういう街だ。\n…飛行船が飛んだのは事実だしな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nデジャ・ヴュなんてのは所詮脳のまやかしだ。\nほんの少し前の記憶と、今の記憶を\n脳が取り違えちまった時に生じる感覚でしかねえ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nだから、複数の人間が\n同じデジャ・ヴュを体感するなんて事は、\n万に一つも起こらねえはずだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nもしそれが起きたとすれば、\nそりゃデジャ・ヴュ以外の何かだって事になる。\n…ま、それが何かは分からねえがな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n実は俺も、ここに来るまでに何度と無く\nデジャ・ヴュを体験した…\nこればかりは新世塾とも関係ねえ気がするんだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n海賊旗…ジョリーロジャーか。\n我々がしている事も、他者から見れば\n海賊のそれと変わらんかもしれんな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nあの\[tatsuya\]という少年…\n克哉さんの弟だそうですね。\n兄弟揃ってペルソナ使いとは…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＧＯＵ…ＭＡ…ＤＥＮ…？業魔殿…\n聞いたことの無い船ですわね。\n架空の船の模型なのでしょうか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nあの\[tatsuya\]という子…\nＭｒ．Ｋａｔｕｙａの弟さんだったんですね。\nそう言えば、どこか面影が似ていますわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\nおや、初めてのお客サンかな…\nようこそ、海賊旗を掲げる店ジョリーロジャーへ。\n私がここの店主兼コックだ。よろしく頼む。\n\[wait\]\[clear\]\[color(yellow)\]マスター\[color(white)\]\n\[color(green)\]喫茶店、ジョリーロジャーのマスター。\n街の噂に詳しく、\n噂屋のマスターとも呼ばれている。\[color(white)\]\n\[wait\]\[clear\]\[color(yellow)\]噂屋のマスター\[color(white)\]\nところでお前サン、雑誌記者なのかな？\n私の目は節穴ではない。それぐらい分かるさ。\nどうだろう、一つ相談がある…\n\[wait\]\[clear\]\[color(yellow)\]噂屋のマスター\[color(white)\]\n海の男も、陸に上がればただの人。\n私も今ではこうしてカウンターに立って、\n世間の噂に耳を傾けるのが唯一の楽しみとなった。\n\[wait\]\[clear\]\[color(yellow)\]噂屋のマスター\[color(white)\]\n雑誌記者のお前サンがネタを分けてくれれば、\nその楽しみも、ひとしおというもの。\nお礼に私のネタを教えるが、どうだね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\nまあ…無理にとは言わんよ。\nお前サンとは、なぜか気があいそうだし、\n食事代ぐらいはオマケさせてもらおう。\n\[wait\]\[clear\]\[color(yellow)\]噂屋のマスター\[color(white)\]\nコーヒーでも飲みながら\nゆっくり考えてくれ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\nいらっしゃい…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\nふむ…なんとも妙な気分だ。\n他人との相性など、考えた事も無かったが…\n仕方ない。料理ぐらいはオマケさせてもらおう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\n何にするかね？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29_Choice1
+
+msgid "食事をする"
+msgstr ""
+
+#. msg_29_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_29_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_29_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\n何を聞きたいのかね？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_30_Choice2
+
+msgid "食事の説明を聞く"
+msgstr ""
+
+#. msg_30_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\n他に何かあるかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31_Choice1
+
+msgid "食事をする"
+msgstr ""
+
+#. msg_31_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_31_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_31_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\n何を聞きたいのかね？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_32_Choice2
+
+msgid "食事の説明を聞く"
+msgstr ""
+
+#. msg_32_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\n何が聞きたいのかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33_Choice1
+
+msgid "噂を聞きたい"
+msgstr ""
+
+#. msg_33_Choice2
+
+msgid "話をしたい"
+msgstr ""
+
+#. msg_33_Choice3
+
+msgid "用はない"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\n噂か…無いことはないが…\nではまずそちらの情報から\n聞かせてもらえるかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\nそう言えば、\nついさっき新しい情報を仕入れたところだ。\n早速、噂交換といこうか。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\nそうだな…丁度良い話がある。\nではまずそちらのネタを聞かせてくれ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\n……なるほど。\nなかなか面白い話だったよ。\nでは私のネタを教えよう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\nふ…さすがは雑誌記者さんだ。\nそんなネタは私も知らなかった。\nこちらも負けてはおれんな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\nなるほどな…少々信じがたい話だが…\nもし本当なら大変なネタだ。\nよし、こちらのネタも教えよう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\n雑誌記者なら\[color(orange)\]月刊バトルマスター\[color(white)\]を知ってるな？\n噂じゃあの雑誌の懸賞に応募すると、\n\[color(orange)\]戦闘で役立つ本物のアクセサリーが当たる\[color(white)\]そうだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\n当たらない占いで有名な\[color(orange)\]珠閒瑠ジニー\[color(white)\]が、\n最近、\[color(orange)\]ワンロン占いを始めた\[color(white)\]ようだぞ。\n途端によく当たるようになったと評判だよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\n\[color(orange)\]東亜ディフェンス\[color(white)\]は知っているか？\n噂ではあそこで\[color(orange)\]特殊な防具を扱っている\[color(white)\]らしい。\nなんでも攻撃が当たりにくくなる防具だそうだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\n夢崎区に\[color(orange)\]トニーの店\[color(white)\]というのがある。\nそこの店主、マフィアの密売人らしくてな、\n\[color(orange)\]不思議なアイテムを販売\[color(white)\]しているらしいぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\n\[color(orange)\]ファンタジーワールド\[color(white)\]という雑誌があるだろ？\nなんでも噂じゃ、その懸賞に応募すると、\n\[color(orange)\]魔性の力宿る不思議なカードが当たる\[color(white)\]らしいぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\nあの\[color(orange)\]珠閒瑠ジニー\[color(white)\]が\n今度は\[color(orange)\]相性占いを始めた\[color(white)\]そうだよ。\n幸か不幸か、それもよく当たるらしい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\nあの\[color(orange)\]珠閒瑠ジニー\[color(white)\]、腕を上げたのかな？\n\[color(orange)\]相性占いで導き出される人が大分増えた\[color(white)\]ようだ。\nお前サンも試してみたらどうだね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\n鳴海区にあった\[color(orange)\]宝石店のパパラチャ\[color(white)\]だが、\n近々この\[color(orange)\]港南区で営業を再開\[color(white)\]するそうだ。\nどうやら店の人は無事だったようだな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\n済まん、今はネタを切らせていてな。\nまた新しい情報が入ったときにでも、\nお願いするよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\n今日は科学館に小学生達が\n社会見学に来ているそうだ。\nあれが建ってから、この街も賑やかになった。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\n科学館に来ていた子供達は全員無事だったそうだ。\nまぁ…それはそれで良かったんだが…\n前にもこんな事故がなかったか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\n私はあの科学館を建設当時から見てきた。\nだがやはりあの飛行船はただのハリボテだったぞ。\n報道が嘘をつくとは思えんが…どういう事だ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\n最近、おかしな連中が増えてきたかと思えば、\n今度は誘拐事件か…科学館の火事といい、\n所詮、陸の上も安全ではないという事か…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\nありがとう。\nまたいつでも来てくれ。\nもう私が海に戻る事はないからな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nやば…そう言えば、\nうららとクルージングに行く約束してたっけ…\n\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "あれも嘘だったんだよなぁ…覚えてるのかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]太った男\[color(white)\]\nだからホントなんだって。\nあの科学館の飛行船は、ホントに飛ぶんだぁ。\nいざって時の脱出用なんだって。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nだからそりゃ、小学生の噂でしょ？\nあんた、もういい歳なんだから、\n現実と妄想の区別ぐらいつけなきゃ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "\[color(yellow)\]太った男\[color(white)\]\nほれ見たことかぁ！\n俺の言った通りだったろ！\nやっぱあの飛行船は本物だったんだって。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nだから、ありゃビルの爆発で\n飛行船のオブジェが打ち上げられただけだって。\nそのまんま海に落ちてたでしょうが！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "\[color(yellow)\]太った男\[color(white)\]\nな？ニュースでも言ってたから間違いねえ。\nあの飛行船は本物だったんだよ。\nアンタも、そろそろ認めたらどうなのよ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nもう飛行船はいいって。\nそれより今話題はＪＯＫＥＲでしょ？\nま、あれも信用できないけど。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]太った男\[color(white)\]\nなあ、なんか俺怖いよぉ。\n街のあちこちで誘拐事件が起きてんだろ？\nこんままじゃ、そのうち俺も…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nだから、さっきから何度も言ってるだろ？\nアンタなんか攫ってどうすんのって！\n大体、まだ誘拐とも決まってないっしょ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "えらんで\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64_Choice1
+
+msgid "物語進んでる"
+msgstr ""
+
+#. msg_64_Choice2
+
+msgid "相性良し"
+msgstr ""
+
+#. msg_64_Choice3
+
+msgid "抜ける"
+msgstr ""
+
+#. msg_65
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\nああ、「食事」の説明だな…\n店で「食事をする」を選択すると\n食事をとることができる…\n\[wait\]\[clear\]\[color(yellow)\]噂屋のマスター\[color(white)\]\n食事には、一時的に能力を高める効果があり…\n効果は、メニューによって違う。\n色々食べて確認してみるがいい…\n\[wait\]\[clear\]\[color(yellow)\]噂屋のマスター\[color(white)\]\nそれと、一度食事をとると、その効果が切れるまで\n次の食事はできないからな……\nこんなとこか……\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66
+
+msgid "\[color(yellow)\]噂屋のマスター\[color(white)\]\nそれは\[var(msg_var_0)\]円になるが…\n頼むかね？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_66_Choice2
+
+msgid "いいえ"
+msgstr ""
+

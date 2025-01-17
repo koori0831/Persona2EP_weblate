@@ -1,0 +1,113 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E010f\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(green)\]塔の中央に、日輪のごとく光り輝く\n大いなるものが座している。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]ヴィローシャナ\[color(white)\]\n汝が内なる曼荼羅の、蓮華の華の上に座し、\n森羅万象形成せしは、我偉大なる光照者の姿なり。\n我は汝…汝こそが、ヴィローシャナの姿なり…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]ヴィローシャナ\[color(white)\]\nされば問う。\n真なる自我「アートマン」とは何か？\n汝が内に、汝の汝たる「我」は在るや否や？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]猫中将ズーラ\[color(white)\]\n敬礼！この大いなるものは、\nヒンドゥの神々に敵対するアスラの王。\nさて、貴様たちはなんと答えるのかな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n古ウパニシャッド、\nインド哲学の源流だな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nえ…こうやって考えてる私がいるってことは、\nたぶん私はいるってことなんだろうけど…\nじゃあ、私ってなに？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nくだらねぇこと聞きやがる…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nいるに決まってるさ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nどうかな。\n自我に固執する我執が、苦しみを生むとも言える。\nこれは、我々の己に対する態度への問いかけだな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "汝が内に、汝の汝たる「我」は在るや否や？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9_Choice1
+
+msgid "確かに、私という自我があるわ"
+msgstr ""
+
+#. msg_9_Choice2
+
+msgid "ほんとは、自我なんて存在しないんじゃないかな…"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]ヴィローシャナ\[color(white)\]\n然り！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]ヴィローシャナ\[color(white)\]\n水面に映る汝が姿こそ、真なる自我「アートマン」であり\n宇宙の真理、梵「ブラフマン」である。\n汝こそ宇宙であり、自我こそが魂を照らす光なり。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]ヴィローシャナ\[color(white)\]\nその求道を賛助し、汝らが知己の、\n内なる世界と外なる世界を結ぶ光明を授けよう。\n梵我一如の理、忘るべからず…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(green)\]大いなるものは消え去った。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(green)\]舞耶達は、\[var(msg_var_0)\]のカードを２００枚\n手に入れた。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(green)\]舞耶達は、理性のトラペゾヘドロンを手に入れ、\n理性の塔を後にした。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]ヴィローシャナ\[color(white)\]\nでは、我の前にいる汝はなんであるか。\n梵我一如を否むこと、\n即ち己と宇宙を無に帰すことと知れ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]ヴィローシャナ\[color(white)\]\n真理を覆い隠さんとする幻の女「マーヤー」よ、\n消え失せよ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

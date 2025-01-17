@@ -1,0 +1,28 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0095\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]須藤竜也\[color(white)\]\nヒャーハハハァァァァ！！\n痛ぇ…痛ぇぇぇぞォォォ！！\[delay(30)\]\nこのクソガキ…また…やりやがったなぁぁぁ！！\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]須藤竜也\[color(white)\]\nてめぇも！お前も！そこの女もォォォ！！\n俺をあんなクソ山奥に閉じこめやがった親父も！！\nみんな、まとめて皆殺しだぁぁぁ！！\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]\[tatsuya\]の声\[color(white)\]\n俺達に怨みを持つジョーカーは、\n仮面党という秘密結社の頭領だった…\n須藤竜也は、その幹部だったんだ…\[wait\]\[clear\]\[color(yellow)\]\[tatsuya\]の声\[color(white)\]\n仮面党は、人々から「イデアルエナジー」という\n夢見る心を集め、人類の進化と滅亡を説いた、\nマイヤの託宣という予言の成就を企んでいた…\[wait\]\[clear\]\[color(yellow)\]\[tatsuya\]の声\[color(white)\]\n俺達は、須藤や吉栄…佐々木銀次ら\n仮面党の幹部と戦うことで、それを知った…\[wait\]\[clear\]\[end\]"
+msgstr ""
+

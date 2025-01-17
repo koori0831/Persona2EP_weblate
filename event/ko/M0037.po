@@ -1,0 +1,663 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0037\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "このままじゃハングします。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nホント、サトミタダシってどこも同じねぇ。\n店主さんまで同じなんだから…\n何区にいるんだか分からなくなっちゃうよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nパオの奴も大概無鉄砲だよねぇ。\nチャンスなのは分かるけどさ…\n一人で行ってどうにかなるもんでもないっしょ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nもしかして、罠だと気付いてなかったのは私だけ？\n…ったく、皆も人が悪いわよぉ。\nそうならそうと教えてくれたっていいじゃん！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nう～ん…\n今時の子ってどんな色が好みなのかなぁ…\n\[tatsuya\]君に聞いてみようか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n店主さんの話聞いた？\n今度はトリフネ支店を作るんだって…\n商魂逞しいよねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n噂を現実に変えてたのも、結局アイツなんだよね…\nまぁ、街をこんなにしちゃうんだもん。\n噂通りに現実を変えるなんて、簡単か…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n最近は女子高生の万引事件が多くてな。\n特にこうした小物の多い店は狙われやすいようだ。\n\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "…まったく、世も末だな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n例え未成年であっても、法を犯せば犯罪者だ。\n一時の出来心が、一生を左右してしまう事もある。\n\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "そうなってからでは遅いんだ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n……\n\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "済まんが傷薬などは多めに買っておいてくれ。\n少々、厄介な事になりそうだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n罠だと知ってたなら教えておけと\n芹沢君に怒られてしまった…\nま…まぁ、これも成り行きというヤツなんだが…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n最近は眼鏡ではなくコンタクトレンズを使う\n女性が多いようだな…\n僕も一度考えたことがあるのだが…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nまてよ…\n新世塾の幹部は穢れを祓っているのか？\n洗脳を受けているようではなかったが…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nニャルラトホテプさえ居なければ、\n竜蔵もああまで人の道を外す事はなかっただろう。\n今にして思えば、奴もまた哀れか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nいろいろ売ってるのは結構だが、\n余計な物まで買うなよ。\n荷物持ちだけは御免だからな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nふん…\nまさか坊ちゃんに俺の事を調べさせるとはな…\n今回はあの甘ちゃんに一本取られたか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nさすがに漢方薬の類は置いてないか…\n俺はどちらかと言えば、\nそっちを使う方が多くてな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n珠閒瑠城か…\nそういえば、あの本丸公園を作ったのも\n竜蔵だった筈だが…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n善も悪も抱えちまってるのが人間だ。\n片方だけで人を計ろうってのが\nそもそもの間違いなんだよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nあわせて歌ってみるか…\nヒットポイント～\n回復するなら～傷薬～と～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n…！？\nゴ…ゴホッ、ゴホッ！\n何か用ですか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nさ…最近の薬店というのは、\n実に品数豊富ですね。\nい…いやいや、関心しましたよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nさ…最近の薬店というのは、\n実に品数豊富ですね。\nい…いやいや、関心しましたよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nさすがに巡査部長は気付いているか…\nもちろんＭｒ．パオフゥもそれは同じだろうが…\n…もしかしたら…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n誰にでも\n知られたくない過去はあるものです。\nそれを調べるというのは、気が引けますね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nうむ…\nギターバージョンもなかなか良い。\nさすがはサトミタダシ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nところでＭｓ．Ａｍａｎｏ、\n薬局と薬店の違いってご存知？\n私も最近知ったのですが…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＭｒ．Ｋａｔｕｙａ、随分と慎重ですわね…\nＫｅｉにも気をつけるようにと\n念を押されましたわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＭｓ．Ｕｒａｒａ、機嫌が悪いようですわね。\nまあ全員無事だった事ですし、\n良かったじゃありませんか。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n一応、本職はＭｏｄｅｌですから、\n化粧品には気を使ってますの。\nもっぱらＢｒａｎｄで決めてしまいますが…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nダイエット食品…か。\n\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "そう言えば、ゆきのさん…\nまだ気にしてるのか…？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nダイエット食品…か。\n\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "そう言えば、ゆきのさん…\nまだ気にしてるのか…？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nヤツはこの世界にも、\n「向こう側」と同じ破滅を齎そうとしている…\n…運命の…車輪…か。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n例えこの世界を救えても、\nヤツが居る限り、同じ不幸がまた起きる…\n皆が変わらなければいけないんだ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]占い好きの女の子\[color(white)\]\nはァ…早く来ないかなぁ…私の待ち人。\n占いでここにいれば、待ち人が来るって出てたの。\nきっと素敵な人なんだろうなぁ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]占い好きの女の子\[color(white)\]\nあれ…\nまだ何か用ですか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "何の用でしょう？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41_Choice1
+
+msgid "名前を言い当てる"
+msgstr ""
+
+#. msg_41_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_41_Choice3
+
+msgid "用はない"
+msgstr ""
+
+#. msg_42
+
+msgid "イイダサトミ\n\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]占い好きの女の子\[color(white)\]\nえ？\n私そんな名前じゃありませんよ。\n人違いじゃありません？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]占い好きの女の子\[color(white)\]\nゲゲッ！！\nなんで私の名前、知ってるんですか！？\nま…まさか…アナタが私の待ち人…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]イイダサトミ\[color(white)\]\nへ？人捜しで私の依頼が？\n…そっか…きっとまた弟の仕業ね！！\nもう！捜索願だなんて大げさなんだから！\n\[wait\]\[clear\]\[color(yellow)\]イイダサトミ\[color(white)\]\nあ…でも、ありがとうございました。\nとりあえず、しらいしさんには\n私から連絡しておきます。済みませんでした。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]占い好きの女の子\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]イイダサトミ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "ねぇ、講演会に行くと洗脳されちゃうってホント？\nだけど…穢れを取らないと女媧に憑かれちゃうって\nワンロン千鶴が言ってたし…どうしよう…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]占い好きの女の子\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]イイダサトミ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "望龍術はね、それぞれの地脈を龍に例えて、\nその龍の動きから、人の人生や未来を占うの。\nその望龍術で世界を滅ぼそうなんて…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]占い好きの女の子\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(yellow)\]イイダサトミ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "望龍術では１２匹の龍が、一箇所に集まると、\n大変な災害が起こると言っているの。\nもしかして、それを起こそうとしてるのかな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "\[color(yellow)\]占い好きの女の子\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]イイダサトミ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "望龍術に出てくる龍は、みんな要石の力で\n決まった道筋しか走らないはずなの。\n普通なら一箇所に集まったりできない筈だけど…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "\[color(yellow)\]占い好きの女の子\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]イイダサトミ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "龍よ！龍が来るわ！！\n１２匹全ての龍が一箇所に集まるのよ！\n世界は滅亡してしまうわ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61
+
+msgid "\[color(yellow)\]占い好きの女の子\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]イイダサトミ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "何よこれぇ…\n新世塾の言ってたことと全然違うじゃん！！\nもぅ、何がどうなってんのぉ！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(yellow)\]イイダサトミ\[color(white)\]\n知ってる？青葉区の\[color(orange)\]エテーリア\[color(white)\]がね、\n\[color(orange)\]他店との差別化を図ることにした\[color(white)\]らしいの。\n…エステ業界も競争が激しいからね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65
+
+msgid "\[color(yellow)\]おじさん\[color(white)\]\nこの街に、新世塾と名乗る、\n危険な連中がいるそうですよ。\n科学館の事件も、そいつらの仕業ですかね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66
+
+msgid "\[color(yellow)\]おじさん\[color(white)\]\n廃工場の方に、\n黒い車が何台も入っていくのを見たんです。\n中で何かしているのでしょうか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]おじさん\[color(white)\]\nあ…あれって銃声ですよね？\n廃工場の中から何度も聞こえたんですよ。\n中で何かあったんですかね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_68
+
+msgid "\[color(yellow)\]おじさん\[color(white)\]\nあの…鳴海区でアメノトリフネを\n発掘しているという噂は本当でしょうか？\nなんでも地下鉄工事を装ってるそうですが…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_69
+
+msgid "\[color(yellow)\]おじさん\[color(white)\]\n家族と一緒に、田舎へ帰ろうと思ってたんです…\nこの街は物騒ですから…\nしかし、これでは逃げる事も出来ませんよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_70
+
+msgid "\[color(yellow)\]おじさん\[color(white)\]\nあれは確か…芸能人のブラウンさんでしたよ。\nいや、彼が天誅軍と戦ってたんです。\nチャラチャラしてて、実は強かったんですねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_71
+
+msgid "\[color(yellow)\]オバサン・次女\[color(white)\]\nうひょひょひょひょ～私が次女なのよぉ～\n新たに六女、七女も加わって、\n珠閒瑠市制覇は目前なのよぉ～\[wait\]\[clear\]\[color(yellow)\]オバサン・次女\[color(white)\]\nだから当店、次女の店もよろしくねぇ～\nのりのりサウンド聞きながら、\nのりのりでアイテム買ってちょうだぁ～い。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_72
+
+msgid "\[color(yellow)\]オバサン・次女\[color(white)\]\nうひょひょひょひょ～私が次女なのよぉ～\n新たに六女、七女も加わって、\n珠閒瑠市制覇は目前なのよぉ～\[wait\]\[clear\]\[color(yellow)\]オバサン・次女\[color(white)\]\nだから当店、次女の店もよろしくねぇ～\nあなたとは相性も良さそうだから、\n特別価格で販売しちゃうわよ～\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_73
+
+msgid "\[color(yellow)\]オバサン・次女\[color(white)\]\nあらぁ、来てくれたのねぇ～\nアナタが来ると、なぜか嬉しいのよぉ～\n掟に逆らって、オマケまでしちゃうのよぉ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_74
+
+msgid "\[color(yellow)\]オバサン・次女\[color(white)\]\nいらっしゃ～い。\nうひょひょひょ。\nサトミタダシ港南支店にようこそ～𝅘𝅥𝅮\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_75
+
+msgid "\[color(yellow)\]オバサン・次女\[color(white)\]\nうひょひょひょ～\nいらっしゃいま～せ～\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_75_Choice1
+
+msgid "消費物を買う"
+msgstr ""
+
+#. msg_75_Choice2
+
+msgid "アイテムを売る"
+msgstr ""
+
+#. msg_75_Choice3
+
+msgid "話をする"
+msgstr ""
+
+#. msg_75_Choice4
+
+msgid "\[if_all(EBIT_SINARIOFF)\]アイテムの確認"
+msgstr ""
+
+#. msg_75_Choice5
+
+msgid "やめる"
+msgstr ""
+
+#. msg_75_Choice6
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_76
+
+msgid "\[color(yellow)\]オバサン・次女\[color(white)\]\nさぁ、何を売りたいのかしらぁ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_76_Choice1
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_76_Choice2
+
+msgid "\[dbl_tab\]消費物を売る"
+msgstr ""
+
+#. msg_76_Choice3
+
+msgid "\[dbl_tab\]武器を売る"
+msgstr ""
+
+#. msg_76_Choice4
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]頭防具を売る"
+msgstr ""
+
+#. msg_76_Choice5
+
+msgid "\[dbl_tab\]防具を売る"
+msgstr ""
+
+#. msg_76_Choice6
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]脚防具を売る"
+msgstr ""
+
+#. msg_76_Choice7
+
+msgid "\[dbl_tab\]アクセサリーを売る"
+msgstr ""
+
+#. msg_77
+
+msgid "\[color(yellow)\]オバサン・次女\[color(white)\]\n何を聞きたいのかしらぁ～？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_77_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_77_Choice2
+
+msgid "売買の説明を聞く"
+msgstr ""
+
+#. msg_77_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_78
+
+msgid "\[color(yellow)\]オバサン・次女\[color(white)\]\nはいはぁ～い。\n他にご用はあるかしらぁ～\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_78_Choice1
+
+msgid "消費物を買う"
+msgstr ""
+
+#. msg_78_Choice2
+
+msgid "アイテムを売る"
+msgstr ""
+
+#. msg_78_Choice3
+
+msgid "話をする"
+msgstr ""
+
+#. msg_78_Choice4
+
+msgid "\[if_all(EBIT_SINARIOFF)\]アイテムの確認"
+msgstr ""
+
+#. msg_78_Choice5
+
+msgid "やめる"
+msgstr ""
+
+#. msg_78_Choice6
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_79
+
+msgid "\[color(yellow)\]オバサン・次女\[color(white)\]\nさぁ、何を売りたいのかしら？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_79_Choice1
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_79_Choice2
+
+msgid "\[dbl_tab\]消費物を売る"
+msgstr ""
+
+#. msg_79_Choice3
+
+msgid "\[dbl_tab\]武器を売る"
+msgstr ""
+
+#. msg_79_Choice4
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]頭防具を売る"
+msgstr ""
+
+#. msg_79_Choice5
+
+msgid "\[dbl_tab\]防具を売る"
+msgstr ""
+
+#. msg_79_Choice6
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]脚防具を売る"
+msgstr ""
+
+#. msg_79_Choice7
+
+msgid "\[dbl_tab\]アクセサリーを売る"
+msgstr ""
+
+#. msg_80
+
+msgid "\[color(yellow)\]オバサン・次女\[color(white)\]\n何を聞きたいのかしらぁ～？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_80_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_80_Choice2
+
+msgid "売買の説明を聞く"
+msgstr ""
+
+#. msg_80_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_81
+
+msgid "\[color(yellow)\]オバサン・次女\[color(white)\]\nなんでも、話題の講演会に参加すると、\nみんな洗脳されちゃうそうね～\nでも洗脳ならこっちも負けないのよ～\n\[wait\]\[clear\]\[color(yellow)\]オバサン・次女\[color(white)\]\nくらえ、サトミサウンドー！！\nうひょひょひょ！！\nみんな虜にしてみせるわよ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_82
+
+msgid "\[color(yellow)\]オバサン・次女\[color(white)\]\nあなたトリフネ伝説って知ってる～？\n私も最近テレビで知ったんだけど、\nホントにそんな物がこの街の下にあるのかしら？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_83
+
+msgid "\[color(yellow)\]オバサン・次女\[color(white)\]\n廃工場の中で銃撃戦があったらしいのよ～\nシクーッ、この街って\nこんなに物騒だったかしら～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_84
+
+msgid "\[color(yellow)\]オバサン・次女\[color(white)\]\n今度、サトミタダシ、トリフネ支店を\n作ることになったのよ～！！\n全国制覇が駄目ならトリフネを制覇するのよ～！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_85
+
+msgid "\[color(yellow)\]オバサン・次女\[color(white)\]\nもうテレビも映らなくなっちゃったのよ～\n最後に見たニュースじゃ、まだ地上は\n滅亡してなかったけど、今はどうかしらね～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_86
+
+msgid "\[color(yellow)\]オバサン・次女\[color(white)\]\nはいはい、ありがとねぇ～\nまた来てちょうだいなァ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_87
+
+msgid "\[color(yellow)\]オバサン・次女\[color(white)\]\nうひょひょひょ。\n「売買」についてねぇ～。\n\[wait\]\[clear\]\[color(yellow)\]オバサン・次女\[color(white)\]\nまずは、購入の説明なのねぇ～。\nうちの店で「消費物を買う」を選ぶと\n消費アイテムを買うことができるわよぉ～。\n\[wait\]\[clear\]\[color(yellow)\]オバサン・次女\[color(white)\]\nあっ、そうそう、アイテムは持てる数が\n決まってるからねぇ～。\n\[wait\]\[clear\]\[color(yellow)\]オバサン・次女\[color(white)\]\n次に、売却の説明なのねぇ～。\n「アイテムを売る」を選んで、まず種類を決めて、\n次に売りたいものを選んでねぇ～。\n\[wait\]\[clear\]\[color(yellow)\]オバサン・次女\[color(white)\]\n買取価格は元値の約半額くらいよぉ～。\nあと、装備中の物は売ることができないからねぇ～。\nそれと、物によっては買取できない物もあるわよぉ～。\n\[wait\]\[clear\]\[color(yellow)\]オバサン・次女\[color(white)\]\nこんなとこかしらぁ～。\nうひょひょひょ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_88
+
+msgid "\[color(yellow)\]オバサン・次女\[color(white)\]\n売れる物、持ってないじゃないの～。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_89
+
+msgid "\[color(yellow)\]オバサン・次女\[color(white)\]\n全部で、\[var(msg_var_0)\]円になるけど\nいいかしらぁ～？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_89_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_89_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_90
+
+msgid "\[color(yellow)\]オバサン・次女\[color(white)\]\n全部で、\[var(msg_var_0)\]円になるけど\nいいかしらぁ～？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_90_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_90_Choice2
+
+msgid "いいえ"
+msgstr ""
+

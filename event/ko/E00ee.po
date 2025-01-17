@@ -1,0 +1,543 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00ee\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "入り口が静かに開き、照明を落とした\n薄暗いダンスフロアに長身の人影が入ってきた。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "手に反った棒状の武器を携行している。\n刀のようだ。\n５０１号に殺された被害者数人の成傷器痕と一致する。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n警察です。\n武器を捨てなさい！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "私は影の横から頭に狙いを付けて、\n擦れた声を張り上げた。\n熱い緑茶が欲しい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]影\[color(white)\]\n…宮代詩織、だな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n銃で頭を狙ってます。\n武器を捨てて！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "影はわずかの間硬直したように動かなかったが、\n観念したのかすぐ凶器を手放した。\n私は床に落ちた凶器を蹴り飛ばし、\n銃を突きつけたまま喚き続けた。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n銃刀法違反で現行犯逮捕します！\n手を頭の後ろで組んで、膝を突いて！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "影は頭の後ろで手を組むと、おとなしく膝を突いた。\n油断はできない。斬殺されただけでなく、\n食い殺されたとしか思えない被害者もいるのだ。\nどんな凶器を隠しているかわからない。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "少しでも抵抗のそぶりを見せたら、\n迷わず全弾発射するつもりだ。\n年間３６発程度しか射撃訓練のできない日本の警官が、\n動体目標に命中させるのは難しい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "まして、薬物やアルコールで痛覚が麻痺してる人間や\n凶暴な精神異常者を、完全被甲の３２口径弾一発で\n止められるわけがない。\n海外では９ミリ弾でさえ威力不足が議論になる。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "勿論、過剰発砲として問題になるだろう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "実のところ、私は５０１号に死んで欲しかった。\nこいつは明らかに狂人だ。\n確保しても心神卵失で不起訴、措置入院になり、\n下手をすれば数ヶ月も経たず退院させられる。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "何の罪に問われることもなく、娑婆に出てくるのだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "この国には、凶悪犯罪を起こした精神障害者に対する\n司法制度がない。\n措置入院は、あくまで精神障害者を対象としたものだ。\n犯罪者としては扱われない。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "故に、自傷他傷の恐れがなくなったと判断されれば、\n即刻退院させねばならない。\n再犯の恐れを、診察した医師自身が感じていてもだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "より拘束力の強い保安処分を導入しようという動きは\n何度もあったが、人権保護を掲げる反対派の強い反対に\nよって何度も見送られてきた。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "では、犯罪被害者の人権はどうなる？\nある日突然、平凡だが幸せな日常を奪われた被害者と\n遺族の人権は？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "加害者は正常な精神状態ではありませんでした。\n責任能力がありません、で納得しろというのか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "大切な人の命と未来は理不尽に奪われ、\n奪った本人は人権の名の元に庇護される。\nこれがこの国の司法の現状だ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]影\[color(white)\]\n…泣いてるのか？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\nき、緊張すると涙が出る体質なのよ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "この明るさで私の目元が見えたのか？\n何にせよ、大きなお世話だ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]影\[color(white)\]\n…それ、木刀なんだけど。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "影は顎で床の凶器を指した。\n顔を逸らさないように、目だけ動かして確認した。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "木剣がドアから差し込む廊下の明かりで\n照らされている。\n銃刀法違反には問えない。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]影\[color(white)\]\n…立っていいかな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\nだ、だめよ。\n凶器準備集合罪の恐れもある。\n名前は！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n\[suou\]…\[tatsuya\]。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[suou\]\[tatsuya\]？\n私は手元のリモコンでホールの照明を上げて、\n影の顔を確認した。\n精粉ではあるが、まだ幼さを残した少年だ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "１７、８歳くらいだろうか。\n\[suou\]巡査部長に似ている。\nこの子が、\[suou\]元刑事の息子？\nどうしてここに？この子がＪＯＫＥＲ？混乱した。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n身元を確認できるものは？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n財布に免許証が入ってると思う。\n学校にもバイクで行ってた。\n無免許じゃないはずだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "自分のことを他人のように喋る…\nおかしな子だ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n財布は？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nパンツの後ろ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\nゆっくり立って、壁に手をついて。\n足を開いて。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "私は少年が指示に従うと、素早くボディチェックを\n済ませた。\n他に武器は所持していない。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "財布の中には、普通自動二輪車の免許証があった。\nいわゆる中免だ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "顔写真と名前…\n確かに\[suou\]\[tatsuya\]だ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\nいいわ、こっちを向いて。\n手は見えるようにしておいて。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "おとなしく従った。\n改めて写真と顔を見比べる。\nだが写真の中の、斜に構えた人を食ったような\n挑戦的な笑みを浮かべる少年とは、やはり何かが違う。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "目だ。なんだろう、この子の目。\n吸い込まれそうだ。\n子供がこんな目をするのか。\n諦観とか諦念とか、何かそんな超然とした…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\nどうして私の名前を？\n電話に出たのは君？\nそれとも、お父さんに聞いたの？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "免許証の住所は、確かに突き止めた\n\[suou\]元刑事の自宅のものだった。\nこの子は間違いなくあの人の子で、\n\[suou\]巡査部長の弟だ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n親父…？\n下であんたの名刺を見た。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "私が父親を知っていることに驚いたのだろう。\n怪訝な顔をした。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\nそう、店の人に追い出してくれって頼まれたの？\nそれとも、私を殺しに来た…\nまさか君がＪＯＫＥＲ、なんてことはないわよね？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n店は関係ない。\n吉栄に聞いて忠告に来た。\nこのままじゃ、あんたは本当にＪＯＫＥＲに殺される。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n予告状のこと？\nわかってるなら早く帰りなさい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nあんたは何もわかってない。\nそんな拳銃で…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "次の瞬間、私は彼の胸の中できょとんとしていた。\n拳銃ごと右手を捕まれ抱き寄せられたのだと\n理解するまで、数秒かかった。\n彼の動きが速過ぎて、時間が飛んだように錯覚したのだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "小さな自動拳銃は、少年とは思えない大きな\n左手にがっちり握られていた。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "スライドも若干後退している。\nこれでは、反射的にトリガーを引いても撃発しない。\nどこでこんなことを覚えたのだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "真っ赤なライダースーツ越しに、\n頬に力強い心臓の鼓動が伝わってくる。\n見上げると、彼の顔の横の壁に、先ほどまでなかった\n果物ナイフか何かの柄が根元まで突き刺さっていた。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "今こうして彼の胸に顔をうずめていなかったら、\nあれが私の後頭部を直撃していたのかもしれない。\n彼は私の頭を抱いていた右手を離すと、厳しい視線を\n店の奥に向けたまま、顔の横のナイフを引き抜いた。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "１０センチほどもある刀身が、全て壁にめり込んでいた。\n投擲した者の筋力も凄まじいが、\nそれを易々と引き抜いたこの子も凄い。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n…いつからそこにいた。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "\[color(yellow)\]何者かの声\[color(white)\]\n最初からだよ、バーカ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "\[tatsuya\]君の問いかけに、\n私の背後から別の男の声が応じた。\n距離は結構離れているようだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "\[color(yellow)\]何者かの声\[color(white)\]\n久しぶりなんだよ、酒。\nちびちびやりながら、どうやってその女をバラすか\n考えてたのによぉ、邪魔しやがって。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61
+
+msgid "声の主が、５０１号だ。\nこの子が来るまで、私は奴と二人で闇の中にいたようだ。\nホールに誰もいないのは来た時に確認した。\n一体いつから…悪寒が背筋を駆け上った。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "怖気を振り払うように身を捻ると、\n\[tatsuya\]君は私を押さえていた手を離した。\nすかさず、声の方と彼へ交互に銃を向ける。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n二人とも動かないで！\n武器を捨てなさい！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "\[tatsuya\]君は、私など見ていなかった。\n私も奥に銃を向け目を凝らした。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65
+
+msgid "１０年経ってはいるが、面影は変わっていない。\n間違いない、この男だ。\n陣也の無残な死体の横に立っていた少年…\n忘れられない狂気じみた笑み…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66
+
+msgid "やはり、こいつが５０１号だったのだ。\n須藤竜也…\nようやく見つけた。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]須藤\[color(white)\]\nイヒ…！はじめてぶりだなぁ、クソガキ。\nてめぇのことも、向こう側のことも、\n全部電波に聞いて知ってるぜぇ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_68
+
+msgid "須藤はだらしなく足を投げ出し、\nフロアの奥のソファに踏ん反り返っていた。\n片手にぶら下げたドライジンを、ボトルごと剤っている。\n横のバーカウンターからちょろまかしたものだろう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_69
+
+msgid "たてがみのように伸びきってボサボサの髪に無精髭、\nどこかの病院の入院着の上に、肩でコートを\n羽織っただけの異様な出で立ちだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_70
+
+msgid "棒状の武器を左手で担いでいた。\n剥き身の日本刀だ。\nこいつは、これだけで現行犯逮捕できる。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_71
+
+msgid "\[tatsuya\]君は、そんな須藤に怖気づいた風もなく\n歩み寄っていった。\nいつの間にか私が蹴り飛ばしたはずの木刀を携えている。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_72
+
+msgid "ずっと私の横にいたのに、どうやって拾ったのだ！？\n慌てて後を追った。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_73
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nお前がこちら側のＪＯＫＥＲか…須藤竜也。\n【奴】がやりそうなことだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_74
+
+msgid "この二人はお互いを知っている。\nだが、須藤ははじめてとも言った。\n向こう側とはなんだ？【奴】とは誰のことだ？\n黒い噂の絶えない、須藤竜蔵のことだろうか。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_75
+
+msgid "\[color(yellow)\]須藤\[color(white)\]\n代わりだよ代わり。あの方が目覚めるまでのなぁ。\n本物のＪＯＫＥＲは俺じゃねぇ。\nお前が一番よーく知ってんだろうが。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_76
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n…そうだな。\n淳は、お前のように薄汚い殺し屋じゃない。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_77
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nお前は須藤竜也だ。\nＪＯＫＥＲの代わりなんか、できやしない。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_78
+
+msgid "\[color(yellow)\]須藤\[color(white)\]\nヒャッハ！\nそうか…そうだな。\nあの方は、こんなむさ苦しい顔しちゃいねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_79
+
+msgid "\[color(yellow)\]須藤\[color(white)\]\nありがとうよ、クソガキ。\n仮面がいるよな、ＪＯＫＥＲの仮面がよぉ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_80
+
+msgid "須藤は下卑た忍び笑いをもらすとボトルを剤った。\n口から溢れた酒が喉を伝い、血で汚れた入院着を濡らす。\nあの方…ＪＯＫＥＲの代わり…\nこの二人は一体何を知っているのだろう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_81
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n須藤、今ならまだやり直せる。\n奴の声に耳を貸すな…！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_82
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\nやりなおす！？\nなんの話か知らないけど、こいつは１０年前にも\n大勢人を殺してるのよ？更生なんてできっこない！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_83
+
+msgid "刑事の台詞じゃない。\nでも、叫ばずにはいられなかった。\nたとえこいつが真人間になっても、陣也は帰ってこない。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_84
+
+msgid "\[tatsuya\]君は、少し驚いたような顔を\nわずかに私に振り向けた。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_85
+
+msgid "\[color(yellow)\]須藤\[color(white)\]\n熱力学の第一法則ってやつを知ってるか？\n熱とかエネルギーってのはよぉ、\n他のもんに交換しても全体の量は変わらねぇんだよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_86
+
+msgid "\[color(yellow)\]須藤\[color(white)\]\n宇宙のエネルギーの量は一定だ。\n形が違うだけなんだよ。\nそう決まってんだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_87
+
+msgid "\[color(yellow)\]須藤\[color(white)\]\n運命ってやつも同じでな。\n誰かが幸せんなったら、その分他の奴が不幸になる。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_88
+
+msgid "\[color(yellow)\]須藤\[color(white)\]\nお前、飯食うだろ。\n食いきれなくなったら捨てるわな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_89
+
+msgid "\[color(yellow)\]須藤\[color(white)\]\nその分、食えねぇで死ぬ奴がいるんだよ。\n世界のどっかにはよぉ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_90
+
+msgid "\[color(yellow)\]須藤\[color(white)\]\nああ、今ならわかるぜ。\n電波すげーなぁ。電波。\nその女の弟はよ、お前の代わりだよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_91
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n俺の…代わり？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_92
+
+msgid "\[color(yellow)\]須藤\[color(white)\]\nお前らがあの日の運命を変えて逃げちまったから、\n代わりに俺にバラされたんだ。\nわかるよな？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_93
+
+msgid "\[tatsuya\]君は目を見開き、\n私の顔を見つめながら奴の話を聞いていた。\n私も彼から目を離せなかった。\n陣也が、この子の代わり…？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_94
+
+msgid "\[color(yellow)\]須藤\[color(white)\]\nきてるぜ、電話。\n天野舞耶を殺してくれってなぁ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_95
+
+msgid "須藤がそう言った瞬間、\[tatsuya\]君の身体から\n紅い人のような影が吹き上がり、須藤に襲い掛かった。\n須藤の身体からも黒い人影が湧き上がる。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_96
+
+msgid "二つの影は、いつの間にか激しい鍔迫り合いを\n演じている。\n\[tatsuya\]君と須藤の頭上で、\n同じような格好で激突した。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_97
+
+msgid "紅蓮の炎と漆黒の炎が絡み合い、互いを飲み込もうとする\n二匹の蛇のようにフロア中で渦巻いた。\nカウンターの上に置かれたままのボトルが何本か破裂し、\n天板の上を酒臭い炎が走る。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_98
+
+msgid "\[color(yellow)\]須藤\[color(white)\]\nこれがてめぇの罪が生んだペルソナ、ＪＯＫＥＲだ！\nどうだ、てめぇにそっくりだろうが！\nヒャーハハハハァァァァァァ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_99
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n舞耶姉に指一本触れてみろ。\n必ず見つけ出して殺してやる。\n何度でも、どこの世界でもだ…！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_100
+
+msgid "\[color(yellow)\]須藤\[color(white)\]\nあの女がおっ死んだのは誰のせいだ、ああ？\n向こう側が吹っ飛んだのは、誰のせいだよ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_101
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n黙れ…！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_102
+
+msgid "\[color(yellow)\]須藤\[color(white)\]\nみんなてめぇが殺したんだ。\n俺なんか可愛いもんだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_103
+
+msgid "\[color(yellow)\]須藤\[color(white)\]\n見ろよ、俺のペルソナの嬉しそうな顔をよぉ！\n負け犬！人殺しぃ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_104
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n須藤ぉぉぉぉ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_105
+
+msgid "\[color(yellow)\]須藤\[color(white)\]\nそうだ、怒れぇ！\nもっと怒って、てめぇも電波に飲み込まれろ！\n電波だよ電波ぁ！電電電電波波波ぁぁぁぁ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

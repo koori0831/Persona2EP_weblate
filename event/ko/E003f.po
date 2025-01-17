@@ -1,0 +1,103 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E003f\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]杏奈\[color(white)\]\n安心して…\nもうあんたはＪＯＫＥＲじゃない…\n\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "この人達が助けてくれたから。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]ノリコ\[color(white)\]\nうう…ごめんなさい…ごめんなさい…\n私…私…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]杏奈\[color(white)\]\nノリコは…逮捕されるの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nどんな事情にしろ罪は罪だ…\n\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "だが、今は彼女の犯罪を立証できない。\n当分、君に保護観察をお願いするよ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]杏奈\[color(white)\]\nありがとう…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n優しいじゃ～ん？\n逮捕って騒ぎ出したら、\n殴ってやろうかと思ってたのに。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nこんな状況は法律じゃ裁けねぇってことだ…\n\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "ようやく、限界がわかってきたか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nあの子より先に裁かれるべき者がいるからな。\n竜蔵やマフィア…それとつながる警察内部の人間…\n絶対、腐敗を暴いてやる…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]男の声\[color(white)\]\n\[suou\]克哉君だな…\n君たちが追いかけている事件の情報を提供したい…\n青葉公園の休憩所で××時に待つ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nなに…！？\nあんたは何者だ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]男の声\[color(white)\]\n…スニーク。\nそう憶えておきたまえ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nスニークだぁ…？\n「卑怯者」か…胡散臭ぇ…\n\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "どうする気だ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n竜蔵近辺の密告者かもしれない…\n会ってみようと思う。\n\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "いいね、天野君？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

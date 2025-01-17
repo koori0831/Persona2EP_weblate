@@ -1,0 +1,78 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E005C\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nトォ～トォトォトォトォ…\n猫ちゃぁ～ん…\nいないならいないって返事しなさいよぉ～…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]気持ち悪い男\[color(white)\]\nうひへぇ～\nやっと見つけたよぉ、エリ～ちゃぁ～ん♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nヒッ…！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nなんだ、てめぇは？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nわ、私を追い回していたＳｔａｌｋｅｒですわ！\nＰＥＲＳＯＮＡで追い払ったはずなのに…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nぬわぁにぃ～！？\nストーカーだぁ！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]ストーカー\[color(white)\]\n愛情表現だったんだよねぇ～？\n\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "痛いほどわかったよほぉ～でへへへぇ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]桑原真（くわはらまこと）\[color(white)\]\n\[color(green)\]エリーをつけ回すストーカー。\n留守中家に上がり込むなど、\n数々の暴挙を行ってきた。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]ストーカー\[color(white)\]\n今日はぁ、お返ししようと思ってぇ\nボクもこれ持って来たんだぁ～♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＮｏｗａｙ！\n近寄らないで！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nこんの女の敵が！！\nこぉーーーーーい！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]ストーカー\[color(white)\]\nアイラァビュゥゥゥゥゥゥゥ～！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

@@ -1,0 +1,453 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0010\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "パーティの人数が四人を超えています。\nこのままじゃハングします。\n金田・片岡に連絡してください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nマーヤは肩こりとかヘーキ？\n私ってホラ、すっごい巨乳でしょ？\nだから肩こりがひどくて…\[delay(15)\]はぁ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nエリーちゃんってモデルやってんのよねぇ。\nなんかいいなぁ、カッコイイよね？\nおもしろそうな仕事だけど、やっぱ大変かな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n南条君の部屋が襲われるなんて…\nやっと敵の尻尾をつかんだってのに、\nなーんかイヤな状況だよね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n南条君、可哀相だよね。\nあれ、帝王学っていうのかな？\n将来の為とはいえ、何もあんな時までねぇ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nこういう所もいいが、僕はやっぱり温泉がいいな。\n体の疲れだけではなく、心も落ち着くからね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n牧村君…\n僕には君を保護する義務と責任がある。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n事件を未然に防ぐ為、真面目にやっている。\n君に不満を言われる覚えは無いよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nハッハッハ。いくら肉体を酷使する職業とはいえ、\n僕はまだ２５歳だよ？ガタが来るには早過ぎる。\n…そう言えば、父は腰痛に悩まされていたっけ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nやっぱり女性は華やかな仕事に憧れるんだね？\nまぁ確かに、どうせ仕事で苦労するなら、\n華やかな方がいいか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n\[tatsuya\]…どうして…\nどうして僕に何も教えてくれないんだ！？\n……お前は一体…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]かたおか\[color(white)\]\n出ないハズなので削除\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nカイロプラクティックかぁ～俺には必要ねぇな。\nなぜなら、俺は最高の薬を知ってるからなぁ。\nなんたって百薬の長！恋の悩みにも効くぜ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n犯罪者を保護だぁ？勘違いも程々にしろ！\nお前がどうなろうと関係ねぇ。ただなぁ、\nあいつを殺人犯にしちまうと色々厄介なんだよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n芹沢のヤツはほっといて…\n天野は体の冷えとかって平気か？\n…昔、冷え性で苦しんでるヤツがいてなぁ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n大変じゃない仕事なんてどこにもねぇぞ。\nみんな、それぞれ苦労してるに決まってんだろ？\n楽して稼いでるのはなぁ、悪党だけなんだよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nどうも新世塾の連中に\n振り回されてる気がするなぁ。\n…ここは、慎重に物事を運ぶべきだな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n現状に不満を感じている人には、\n他人の環境がうらやましく思えるものだ。\n隣の芝は青く見えるってやつだな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n神取を…死んだ人間を蘇らせる力…\n言霊とは、それほどの力を持つものなのか！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＭｏｄｅｌのお仕事はとても大変ですけど、\nそれ以上にやりがいを感じていますわ。\nＢｕｔ…困った事も多いです。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n言霊…望龍術…神取…\n何か大きな力、いえ、大きな意志の働きを感じる。\n私の思い過しなら良いのですが…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]おじいさん\[color(white)\]\n富先生にゃ、治せぬものなど無いそうじゃ！！\nなんじゃ？疑うのか？マッタク若い連中は！\n一度揉んでもらいなさい。…効くぞ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]おじいさん\[color(white)\]\n若いくせに、腰が痛いとか言う奴がいる。\nそれは腹筋か背筋が弱っているのじゃ！\nマッタク、医者に来る前に体を鍛えんか！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]おじいさん\[color(white)\]\n最近の若いのは何じゃ？ぽじてぃぶしんきんぐ？\n見た目だけではなく言う事まで同じなのか？\n自立出来てないのじゃろうな。あ～情けない！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]認知症の治った？おじいさん\[color(white)\]\nうちの嫁はいい嫁なんじゃが…\n物忘れがひどくてのぉ。\n何でもわしのせいにするのは反則じゃな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]認知症の治った？おじいさん\[color(white)\]\n…なんじゃあ？\nわしにまだ何か用か？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "何の用じゃ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26_Choice1
+
+msgid "名前を言い当てる"
+msgstr ""
+
+#. msg_26_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_26_Choice3
+
+msgid "用はない"
+msgstr ""
+
+#. msg_27
+
+msgid "ナガセタイチ\n\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]認知症の治った？おじいさん\[color(white)\]\nはぁ～～～？\n誰のこと言ってるんじゃ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]ナガセタイチ\[color(white)\]\nあぁ！？\nなんでわしの名前を知っとるんじゃ？\n…嫁が捜してるとな！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]ナガセタイチ\[color(white)\]\n…そうか、そうか。\n心配させていたようじゃのぉ。\nでも、ここに来る事は言ってあるはずじゃが？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]ナガセタイチ\[color(white)\]\nまぁいいか、家に連絡しとくかなぁ。\nほんと、うちの嫁はいい嫁じゃ。\n…物忘れのひどさが玉に傷じゃがな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]認知症ぎみのおじいさん\[color(white)\]\nあんたが富先生かあ？女みたいな人じゃなー\nところで先生、何でも治すっちゅー話じゃのぉ。\nひとつ、わしの認知症も治してくれんか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]認知症ぎみのおじいさん\[color(white)\]\nん～あんたも富先生かあ？\n何人もいるとは、さすが有名な先生じゃのぉ。\nさぁ、その柔らかな指で揉んどくれぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]認知症の治った？おじいさん\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]ナガセタイチ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "富先生が何でも治すっちゅう噂は、本当じゃのぉ。\n最近では物忘れもせんし、その上無かった事まで\n思い出せる様になったんじゃのぉ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nこんな所に連れてきてどうする気だ？\nオレを保護してくれるんだろ？\nだったら真面目にやってくれよ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]Ｍｒ．富\[color(white)\]\nゴールドフィンガ～！！\[delay(30)\]\nようこそ富永カイロプラクティックへ。\n私が黄金の指を持つ男、Ｍｒ．富だ。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38_Choice1
+
+msgid "回復してもらう"
+msgstr ""
+
+#. msg_38_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_38_Choice3
+
+msgid "なにもしない"
+msgstr ""
+
+#. msg_38_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]Ｍｒ．富\[color(white)\]\nゴ～～～ルドッフィンガ～！！\[delay(30)\]\n何故だ！？君の顔が見れてとてもうれしいな！\nうん、今日はサービスさせてもらうぞ！\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39_Choice1
+
+msgid "回復してもらう"
+msgstr ""
+
+#. msg_39_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_39_Choice3
+
+msgid "なにもしない"
+msgstr ""
+
+#. msg_39_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]Ｍｒ．富\[color(white)\]\n何が聞きたいのかね？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_40_Choice2
+
+msgid "回復の説明を聞く"
+msgstr ""
+
+#. msg_40_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]Ｍｒ．富\[color(white)\]\nゴールドフィンガ～！！\[delay(30)\]\n私は本場アメリカにて修行を積んだ、\nマスター・オブ・カイロプラクティック！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]Ｍｒ．富\[color(white)\]\nささ、安心して背をあずけるがよい。\n歪みなき背骨には、健全な魂が宿るのだ！\[delay(30)\]\nゴールドフィンガ～！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]Ｍｒ．富\[color(white)\]\n邪気に憑かれるとＪＯＫＥＲになる…！？\nなるほど、わかったぞ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]Ｍｒ．富\[color(white)\]\n邪気に憑かれる、すなわち疲れる！\nＪＯＫＥＲとは筋肉に乳酸が溜まった状態だ！\nならばこのゴールドフィンガーでひと揉み……\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]Ｍｒ．富\[color(white)\]\nうーむ、最近は記憶障害を訴える者が多いな。\n何か妙な感じだが、恐らく原因は尾骨のズレ！\n…私の尾骨もズレているのか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]Ｍｒ．富\[color(white)\]\n他に何かあるかね？\n我がゴールドフィンガーをもってすれば、\n問題は全て解決だぞ！？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46_Choice1
+
+msgid "回復してもらう"
+msgstr ""
+
+#. msg_46_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_46_Choice3
+
+msgid "なにもしない"
+msgstr ""
+
+#. msg_46_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]Ｍｒ．富\[color(white)\]\n何が聞きたいのかね？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_47_Choice2
+
+msgid "回復の説明を聞く"
+msgstr ""
+
+#. msg_47_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]Ｍｒ．富\[color(white)\]\n疲れたらまた来るがよい。\n我が黄金の指に治せぬもの無し！\nゴールドフィンガ～！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]Ｍｒ．富\[color(white)\]\nアム？だがしかし皆健康なようだぞ。\n過ぎたるは、及ばざるが如し。\n治療の必要はなかろう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]Ｍｒ．富\[color(white)\]\nおお、これは酷い。背骨が著しく歪んでおる。\n確かに矯正が必要のようだな。\nちなみに治療費は３０００円ほどになるが…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]Ｍｒ．富\[color(white)\]\nむむっ、これは…\n酷い、背骨が著しく歪んでおる。\n仕方ない、治療費は１５００円でいいぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]Ｍｒ．富\[color(white)\]\n治療をうけるかね？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_52_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(green)\]舞耶達は回復した。\[color(white)\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]Ｍｒ．富\[color(white)\]\nムムムム！！\n残念だが代金が足りぬようだぞ。\nこれでは治療できんな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "\[color(yellow)\]Ｍｒ．富\[color(white)\]\nなんと…\n我がゴールドフィンガーにかかれば、\nその傷も癒えようというのに…\[delay(15)\]無理はいかんぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]Ｍｒ．富\[color(white)\]\n承知した。しからば…マジックにて印をつけて…\nいくぞ！！伝家の宝刀！！\nゴールドフィンガァーーー！！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "ＭＢＩＴＡＩＳ５４\n相性占いの\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "ＥＢＩＴＥ００３７\n警察署\[half_tab\]受付、終了\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "ＥＢＩＴＥ００３８\n「詐欺男を確保」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "ＥＢＩＴＥ００３Ｅ\n「ゴールドクリア」「うらら編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61
+
+msgid "ＥＢＩＴＥ００４３\n「クラブクリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "ＥＢＩＴＥ００４６\n「南条ｏｒエリー編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "ＥＢＩＴＥ００６Ｆ\n「研究施設・ＴＶ局クリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(yellow)\]Ｍｒ．富\[color(white)\]\nよし、「回復」についてだな。\n\[wait\]\[clear\]\[color(yellow)\]Ｍｒ．富\[color(white)\]\n当店で「回復してもらう」を選ぶと\n我じきじきのマッサージによって「ＨＰ」と「ＳＰ」のほか\n「猛毒」などのステータス異常も含め回復してやるぞ。\n\[wait\]\[clear\]\[color(yellow)\]Ｍｒ．富\[color(white)\]\nちなみに、当店はグループで来たら\n全員を治療することになっている、決まりでな。\n安くはないが、薬に頼るよりは金はかからんはずだぞ。\n\[wait\]\[clear\]\[color(yellow)\]Ｍｒ．富\[color(white)\]\nまあ、こんなところだな。\n我がゴールドフィンガーを体感したくなったかね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

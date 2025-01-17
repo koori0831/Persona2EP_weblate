@@ -1,0 +1,173 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E003d\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]頬に傷のある男\[color(white)\]\n………\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nあいつは…！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n………\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nちょ…ちょっとぉ！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]マフィア\[color(white)\]\n你呢！？你的姓名！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]頬に傷のある男\[color(white)\]\n可以啊……\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n好久不見啦…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]頬に傷のある男\[color(white)\]\nやはり病院にいたの、お前だったか…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nこいつは何者だ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n云豹…薄汚ぇ殺し屋だ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n殺し屋だと…！？\n\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "バカな…そんな男が…なぜ警察にいた！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]云豹\[color(white)\]\nお前も同じ穴のムジナだ。\n\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "逮捕するなら、先にそいつ捕まえるべきだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]云豹（ユンパオ）\[color(white)\]\n\[color(green)\]台湾マフィア、天道連の殺し屋。\nパオフゥと浅からぬ因縁があるようだが…\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]云豹\[color(white)\]\nそいつ、台湾で私の子分２５人も殺した。\n\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "私が殺した日本人、たった一人だ。\n不公平だね。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nごたくはいい…\n死ぬ前に、一つくらい良いことをしていけ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n竜蔵は何を企んでる…？\n洗いざらい吐けば、せめて楽に殺してやる…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]云豹\[color(white)\]\nハッハッハッ！\n今も強引か？そんな取り引き、流氓もしない。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]云豹\[color(white)\]\nが…これなら教えてもいい。\n私は、警察と日本の新しい政府に協力してる。\n\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "ＪＯＫＥＲ使い狩りも、台日親善だね。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nふざけるなよ…さらった人達はどうした！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]云豹\[color(white)\]\nさっき狩った子猫以外、もうここにはいない。\n返せというなら、返してもいい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nノ、ノリコちゃん…！？\n大丈夫なの！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]云豹\[color(white)\]\n薬が効いてる。今は大人しい子猫だ。\n\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "その前は…虎だね。捕まえるの苦労した。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]云豹\[color(white)\]\nそう言えばお嬢さん、ＪＯＫＥＲに狙われてたな…\n\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "そろそろ、ミルクの時間だ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n…！！\n芹沢、天野！そのガキから離れろ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nぎゃああああ！？\n\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "ま、またでっかくなってるぅ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

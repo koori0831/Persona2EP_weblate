@@ -1,0 +1,423 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M001A\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "パーティの人数が四人を超えています。\nこのままじゃハングします。\n金田・片岡に連絡してください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあいつ、海外に別荘持ってるとか言ってなかった？\n信じちゃ駄目よ、全っ部、嘘っぱちなんだから。\nここで肌焼いてそれっぽくしてただけなのよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n男を見極めるポイント！\nそれは靴！\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "靴が汚い、安っぽい人は、\n他が良くても実はダメダメ。注意しなさいよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあのあんちゃんからは、\nさぞや穢れが搾り取れるだろうねぇ。\nなんなら講演会に連れて行ってやろうか。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nそう言えば、怪我や病気を治してしまう、\n日焼けサロンがあると聞いてはいたが…\nここのことだったか。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nまあ…理由はどうあれ、\nそう噂が流れたのなら本当なんだろう。\n噂が現実になる事自体はデタラメだが…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nあの色白の娘…まだ学生じゃないか？\nこんな時間にこんな場所にいていいのか？\n管轄は違うが…一応連絡しておくか。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nしかし…穢れを集めることが可能だったとしても、\nそれを奴らは何に使うつもりだ…\n穢れにどれほどの力がある？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nその牧村とここの店主…\n系が似てるとは思わねぇか？\n案外、アレも女に恨みを買ってる口かもな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n一つ賭けをしてみないか？\n芹沢がまた男に騙されるかどうか。\n俺は騙される方に賭けさせてもらうぜ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n噂が現実になっちまうぐらいだ。\n人の穢れって奴に、何か特別な力があっても、\n不思議じゃあねぇ。何に使うかは分からんがな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n昔は色の白いは七難隠すといって、\n女性は色白の方が良いとされてきましたが…\n今は違うようですね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n奴らは俺達の存在に気付いている。\nこの講演会は、焦燥の現れなのか…\nそれとも…元々俺達のことなど眼中に無いのか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n適度に日光を浴びるのは体にとても良いんですよ。\n海外には、日光浴を治療法として\n取り入れてる病院も沢山あるんですから。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＫｅｉが見てきたという穢れ分離Ｍａｃｈｉｎｅ…\nそれはつまり人間から、\nＰＥＲＳＯＮＡを奪う装置という事なのかしら…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nそ…そうだ。\nキミ、海外旅行なんか興味ない？\n良かったら僕の別荘に招待するよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\n…だから…だから助けておくれよ！\nうららに殺されちゃうよ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]あんちゃん\[color(white)\]\nハァイ、元気してるゥ？オレってイケてる？\nよォこそォ、ビキニラインへ♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]あんちゃん\[color(white)\]\nおっとォ…、何だろうねェこの胸の高鳴りはァ～\nもしかしてボク達相性サイコーかもよォ～\nこりゃ、料金も勉強させてもらわなきゃねェ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]あんちゃん\[color(white)\]\nさァさァ、今日はどのコースをご希望かなァ～？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20_Choice1
+
+msgid "回復してもらう"
+msgstr ""
+
+#. msg_20_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_20_Choice3
+
+msgid "なにもしない"
+msgstr ""
+
+#. msg_20_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]あんちゃん\[color(white)\]\n何を聞きたいのかな～？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_21_Choice2
+
+msgid "回復の説明を聞く"
+msgstr ""
+
+#. msg_21_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]あんちゃん\[color(white)\]\nさァ、他に何かあるかなァ？\n言って言って、どんどん言って！\nボクって結構つくすタイプだし。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]あんちゃん\[color(white)\]\n日焼けは体に良くないなんて言うけど、\nうちの場合はノープロブレーム。\nなんたってスペシャルな光線使ってるからね。\[wait\]\[clear\]\[color(yellow)\]あんちゃん\[color(white)\]\n肌を健康的な小麦色に変えるだけでなく、\n本当に健康にしちゃうのよこれが。\n病気も怪我も、うちの光を浴びれば一発回復よ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]あんちゃん\[color(white)\]\nえ？講演会に行かないのかって？\n大丈夫、オールオッケー！\nなぜなら僕に穢れなんか無いからねェ。\[wait\]\[clear\]\[color(yellow)\]あんちゃん\[color(white)\]\n真っ正直で純粋そのもの！\nピュアでシャイでデリケートな僕から、\n一体なんの穢れを抜き取るって言うんだい？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]あんちゃん\[color(white)\]\nあれェ～、もう帰っちゃうのォ？\n寂しィ…寂しィよボクは。\nだからまた来てよねェ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]あんちゃん\[color(white)\]\nあれぇ？だけどみんな元気みたいだネェ～\nこれで、うちの光浴びたら、元気になりすぎて\n大変ヨ。見送った方が良くない？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]あんちゃん\[color(white)\]\nじゃあ…キミだけ特別料金。\n３０００円でいいよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]あんちゃん\[color(white)\]\nう～ん、相性バッチリなキミから\nお金は取れないなァ。\nだから半額の１５００円でいいよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]あんちゃん\[color(white)\]\nもっちろん回復するよねェ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_29_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]あんちゃん\[color(white)\]\nえェ～？いいの？治療。\n受けといた方が、絶対いいのになァ～\n寂しいなァ～\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(green)\]舞耶達は回復した。\[color(white)\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]あんちゃん\[color(white)\]\nアレレレレ？\nお金が足りないみたいだよォ。\n残念でしたァ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]あんちゃん\[color(white)\]\nさァ、他に何かあるかなァ？\n言って言って、どんどん言って！\nボクって結構つくすタイプだし。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33_Choice1
+
+msgid "回復してもらう"
+msgstr ""
+
+#. msg_33_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_33_Choice3
+
+msgid "なにもしない"
+msgstr ""
+
+#. msg_33_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]あんちゃん\[color(white)\]\n何を聞きたいのかな～？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_34_Choice2
+
+msgid "回復の説明を聞く"
+msgstr ""
+
+#. msg_34_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]あんちゃん\[color(white)\]\nやっほゥ！！じゃあ子ネコちゃん…\nじゃなくて\[var(msg_var_1)\]名様ごあんなァい！\n身も心もこんがりと焼いてきてねェ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]あんちゃん\[color(white)\]\nはいはい、じゃあ子ネコちゃん\[var(msg_var_1)\]人と、\n野郎\[var(msg_var_2)\]名、ごあんなァい。\n身も心もこんがりと焼いてきてねェ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]色白の女\[color(white)\]\nゾディアックっテェー、マフィアいるしィー、\nこれ噂だけどォー、チョーヤバよねェー\nでも秘密カジノとかァー、興味津々だしィー\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]色白の女\[color(white)\]\nわたしもォー、みんなみたいに彼氏欲しいしィー\nっていうかァー、色白だしィー\nだからここ通ってンのよねェー\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]色白の女\[color(white)\]\n穢れもヤバイけどォ、\n講演会行ったら、あの銀次見れるでしょォ？\nそっちの方が楽しみだしィ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]無表情な女\[color(white)\]\nブツブツ…ったく、あいつったら！\n女性客とくればデレデレしちゃってさっ！\n君がサイコーとか言ってたくせに、ぶつぶつ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]無表情な女\[color(white)\]\nちょっと、さっきからジロジロと！\n何よっ！何なの！？\n私に用でもあるの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "用があるなら早く言ってよ！\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42_Choice1
+
+msgid "名前を言い当てる"
+msgstr ""
+
+#. msg_42_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_42_Choice3
+
+msgid "用はない"
+msgstr ""
+
+#. msg_43
+
+msgid "イケダジュンコ\n\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]無表情な女\[color(white)\]\nはぁ？誰よそれ？\n人を捜してるなら他の人を当たってよ。\n私だって暇じゃないんだから。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]無表情な女\[color(white)\]\nえ？なんでアンタ私の名前知ってんの？\nちょ…なによ、気持ち悪いわねぇ…\nアンタ、ナンなの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]イケダジュンコ\[color(white)\]\n人捜し…って…\nじゃあ私の捜索願でも出てたの？\nちょっと…どうして？\n\[wait\]\[clear\]\[color(yellow)\]イケダジュンコ\[color(white)\]\nま、まぁいいわ。\n事情はそのマンサーチャーに聞けば良いんでしょ？\nとりあえず、アナタの事も話しておくから。\n\[wait\]\[clear\]\[color(yellow)\]イケダジュンコ\[color(white)\]\nでもよく私がここに居るって分かったわね…\nもしかして結構捜すの大変だった？\n一応、お礼言っとくわ。ありがとね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]無表情な女\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]イケダジュンコ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "あの店主、元テニスプレーヤーでインターハイにも\n出た事があるなんて言ってんだけど、\nそんな体型に見える？どうせまたデタラメよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]無表情な女\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]イケダジュンコ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "この前も、ここは特別な光を使ってるから、\n病気や怪我も治せるんだって出任せ言ってたのよ。\nそれに騙される女子高生もどうかと思うけどね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(yellow)\]無表情な女\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]イケダジュンコ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "ちなみに、あそこにいる色白の子、\nここの店主に、ぞっこんなの。\nまた騙されなきゃいいけどねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]無表情な女\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]イケダジュンコ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "結局、世の中騙し合いの連続なのよ。\n男が女を騙して、女も男を騙して…\n恋なんて、言葉ほど綺麗な物じゃないのよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]無表情な女\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "\[color(yellow)\]イケダジュンコ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_61
+
+msgid "あの店主もよく言うわねぇ…\n今まで散々、嘘八百並べといて、\n自分に穢れは無いですって！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]あんちゃん\[color(white)\]\n「回復」についてだね～。\n\[wait\]\[clear\]\[color(yellow)\]あんちゃん\[color(white)\]\nうちの店で「回復してもらう」を選べば、超ハイテク\n日焼けマッシーンのイカした効果で「ＨＰ」と「ＳＰ」\nさらに「猛毒」などのステータス異常を回復しちゃうよ。\n\[wait\]\[clear\]\[color(yellow)\]あんちゃん\[color(white)\]\n値段はそれなりにかかるけど、全員まとめてやるから\nサトミタダシの薬をガブ飲みするよりは\n安く済むんじゃないかなァ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

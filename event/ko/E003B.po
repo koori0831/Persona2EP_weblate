@@ -1,0 +1,148 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E003B\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]杏奈\[color(white)\]\n来たの…\n時計台では…どうも。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]杏奈\[color(white)\]\nえ…？\[tatsuya\]が…？\n\[tatsuya\]、今どこにいるの？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]杏奈\[color(white)\]\nそう…\n\[tatsuya\]とは、よくここでツルんでた…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]杏奈\[color(white)\]\nあいつ、凄い悪だけど、凄い優しいよ…\nでも、最近様子がおかしくて、姿見せなくなった…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n\[tatsuya\]は…\n弟は、姿を消す前に何か言ってなかったかい？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]杏奈\[color(white)\]\n罪を償う…そんなようなこと言ってた。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n罪…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nで、拉致されたやつらはどこにいるんだ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]杏奈\[color(white)\]\nこの奥って噂よ…\nここ…最近台湾マフィアに買収されたらしいから…\n誘拐犯のグループも、中国語話してた…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n………\nそうかい…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nじゃあさ、ノリコちゃんと\[tatsuya\]君のことは私ら\nにまかせときなよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]杏奈\[color(white)\]\n…二人をお願い。\n私とまともに話せるの、\nノリコと\[tatsuya\]くらいだから…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]杏奈\[color(white)\]\n…二人をお願い。\n私とまともに話せるの、\nノリコと\[tatsuya\]くらいだから…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nこんなところをアジトにしてやがったか…\n野郎…なめやがって…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n罪を償う…\n一体何の罪なんだ…\[tatsuya\]…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nクラブの奥に、マフィアのカジノか…\nギャンブル好きだから、ちょっと興味あるわ。\nツキ、占ってみる？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\nこの奥に、カジノがあるって噂は聞いたことある？\n一般の客は入れない、特別なカジノらしいぜ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]若い女\[color(white)\]\nマフィア…？\n別に踊れればなんでもいいんじゃん？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]若い女\[color(white)\]\nこの奥って、なんだか\[color(orange)\]面倒くさい迷路みたいに\nなってる\[color(white)\]って聞いたよー？\nでも、\[color(orange)\]いい物拾ったって話\[color(white)\]。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]若い女\[color(white)\]\nこの奥って、なんかあんのかなー？\nたまーにコワオモテの人が出入りしてるから、\n変な噂がたってるんだよね。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]若い女\[color(white)\]\nこの奥って、なんかあんのかなー？\nたまーにコワオモテの人が出入りしてるから、\n変な噂がたってるんだよね。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]若い女\[color(white)\]\nでもさぁ、アンタみたいにムカツクやつがいたら、\nやってみようかって気にもなるじゃん？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]若い女\[color(white)\]\nあのＤＪ、占い当たってＤＪになったらしいけど、\n私最近、ワンロンでツイてないんだぁ…\nなんで私ばっかってムカつくよぉ～\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]ＤＪカナダ\[color(white)\]\nＨＥＹＹＯＨＥＹＹＯ𝅘𝅥𝅮\n聞いていきなよカナダのトーク𝅘𝅥𝅮\nＫＡＮＡＤＡトーク𝅘𝅥𝅮\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]ＤＪカナダ\[color(white)\]\n占い最高自分で決めるより楽でいい𝅘𝅥𝅮\n行き当たりばったり人生にゃ占い必要𝅘𝅥𝅮\nあんたに必要俺にも必要ＹＯＹＯＹＯ𝅘𝅥𝅮\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]若い男\[color(white)\]\n俺のダチもＪＯＫＥＲ呪いしてたらしくてさぁ、\nＪＯＫＥＲになっちゃったんだよね。\n占いでツイてないからだって。バッカじゃねぇ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]カウンターの男\[color(white)\]\nああ、オーナーの話？\n確かに最近、中国人だか台湾人だかに代わったね。\nま、俺たちにゃ関係ないね。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

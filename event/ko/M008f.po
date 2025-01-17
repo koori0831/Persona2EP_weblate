@@ -1,0 +1,73 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M008f\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "追加シナリオ用デバッグイベント\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "任意のシナリオから開始することができます。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(green)\]シナリオセレクト\[color(white)\]\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2_Choice1
+
+msgid "シナリオ１\[tab\]はじめから"
+msgstr ""
+
+#. msg_2_Choice2
+
+msgid "シナリオ１チャプター２"
+msgstr ""
+
+#. msg_2_Choice3
+
+msgid "シナリオ１チャプター３"
+msgstr ""
+
+#. msg_2_Choice4
+
+msgid "シナリオ２はじめから"
+msgstr ""
+
+#. msg_2_Choice5
+
+msgid "シナリオ２チャプター２"
+msgstr ""
+
+#. msg_2_Choice6
+
+msgid "シナリオ２チャプター３"
+msgstr ""
+
+#. msg_2_Choice7
+
+msgid "シナリオ３はじめから"
+msgstr ""
+
+#. msg_2_Choice8
+
+msgid "シナリオ３チャプター２"
+msgstr ""
+
+#. msg_2_Choice9
+
+msgid "シナリオ３チャプター３"
+msgstr ""
+

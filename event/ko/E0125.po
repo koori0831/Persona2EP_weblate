@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0125\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]フィレモン\[color(white)\]\n\[suou\]…\[tatsuya\]よ…\n彼女を救えぬまま…そこで果てるのかね…？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]フィレモン\[color(white)\]\n彼の者に刻まれた翌印を…\n打ち砕くのは君自身に他ならない…\nさあ…今一度…刻まれた時から歩き出したまえ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

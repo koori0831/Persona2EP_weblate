@@ -1,0 +1,303 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00BE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n済まねぇ…美樹…\nようやくわかったぜ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n俺が許せなかったのは…\n他の誰でもねぇ…この俺だ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nあの頃の俺は…思い上がったガキだった…\n自分にできねぇことなんかねぇ…\n\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "突っ走った挙句、お前を殺しちまった…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nペルソナのせいじゃねぇ…法が無力なんじゃねぇ…\n\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "てめぇの事しか考えてなかった…\n俺が無力だったんだ…！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nパオ…フ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nもうわかったろうが…\[delay(30)\]\n\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "最初っから…\nお前さん達をダシにするつもりだったのさ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nもう…いいよ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n腹ぁ抱えて笑うがいいぜ…\n\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "惚れた女の仇も一人じゃ討てねぇろくでなしだ…！\n\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "竜蔵と変わりゃしねぇってな！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nもうやめて…！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n頭を冷やせよ…\n\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "だったら、なんでここまで来たんだ…\n竜蔵は死んだ…望みは果たしたはずだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n言えないなら言ってやる。\n\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "お前は、自分が過去に囚われて抜け出せないのを\nずっと知っていたんだ…だからここまで来た。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n気づかなかったふりをして自分を貶めるのはよせ…\n\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "そろそろ…やり直してもいい頃なんじゃないか…？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n近くにいる女性の気持ちを大事にしても…\nいい頃なんじゃないか…？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n………\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nったく…酔いが覚めちまったぜ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nああ、やめだやめだ！\nせっかく人が一世一代の芝居を\nうってやったってのによ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n芹沢…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nなに…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nバーの借りだ。\n\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "俺の芝居もまんざらじゃねぇだろ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n………そうみたいね。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n………\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]克哉舞耶\[tatsuya\]\[color(white)\]\n………\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nざまぁねぇな…\n全部…バレちまいやがった…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nこれでわかったろうが…\n\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "最初っから…\nお前さん達をダシにするつもりだったのさ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nどっかでわかっちゃいたんだな…\n一人じゃ何もできねぇってよ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nへへ…\n惚れた女の仇も一人じゃ討てねぇんだ…\n\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "恥ずかしくて本名なんか名乗れねぇやな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n…わ…私はいいと思うな…名前…！\n\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "なんか…いいよ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nずっと考えていたんだが…はっきりしたよ…\[delay(30)\]\n\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "嵯峨薫は、５年前に殉職したんだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n今、僕の目の前にいる男は…\nパオフゥという名の別の男だ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n多少やさぐれちゃいるが…\[delay(30)\]\n\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "性根はバカが付くほど真っ直ぐな…\n愛すべき酒浸りだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n…ひねくれモノっての、忘れてない？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n………\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nチッ…涙もろいだけの甘ちゃんと、\n一緒にするんじゃねぇよ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n大体、お前さんの捜査はなっちゃいねぇ。\n\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "芹沢、お前も言ってやれ。\n\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "捜査ってのはだな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nマーヤさ…\n最初の頃、アタシがお見合いパーティのことで\n騒いでたの憶えてる？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n実はあれ…「今日は運命の出会いの日」って\nワンロン占いに出てたからなんだ。\nひょっとして…当たってたのかな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nマーヤさ…\n一番最初に私が言った占いの事、憶えてる？\n\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "あれ…当たってたのかな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nまったく、不器用な男だ…\n芹沢君も大変だな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nまぁ…その…なんだ…\[delay(30)\]\n\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "色々だな…人生ってな…\[delay(30)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n漢…か…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

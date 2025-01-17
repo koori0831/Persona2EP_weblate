@@ -1,0 +1,263 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0045\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]質実剛健な男\[color(white)\]\nお通ししろ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nずいぶん派手にやったもんだな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nフン！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nケッ…！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nこちらが、この部屋を借りてる南条圭君と、\n友人の桐島英理子さんだ。\n大体、こちらの事情は話した。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nお初にお目にかかる…南条圭です。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]南条圭（なんじょうけい）\[color(white)\]\n\[color(green)\]日本有数の複合企業体、南条グループの御曹司。\n３年前のセベク・スキャンダルで覚醒した\nペルソナ使い。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＮｉｃｅｔｏｍｅｅｔｙｏｕ．\n桐島英理子です。\nＥｌｌｉｅ（エリー）って呼んでくださいな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]桐島英理子（きりしまえりこ）\[color(white)\]\n\[color(green)\]南条と同じく過去の事件で覚醒したペルソナ使い。\nオカルトの知識に長ける帰国子女。\n現在はモデルとしても活躍中だが…\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nで…\nなんでおたくらは新世塾に探りを入れてんだ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n神条久鷹という男をご存知か？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n名前だけはな…\n竜蔵の秘書ってこったが、経歴から何から何まで\nハッキリしやがらねぇ…影みてぇな男だ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n実はその神条という男…\n神取鷹久ではないかとの疑いがあるのです。\n政財界で囁かれている噂ですがね…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n御影町の事故を引き起こしたセベクの支社長か…？\n確か、事故で行方不明になったと聞いているが…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n行方不明などではない…\nあの男は、３年前に世界の破滅を企み、\n我々が倒したはずなのです…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n死んだはずの男の影を追っかけてたら、\n竜蔵に行き着いたってわけかい…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nそっちのお嬢ちゃんもか？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n私は、流行のＷａｎｇｌｏｎｇ占いと事件の\n関連を調べていましたの。\nそうしたら、偶然Ｋｅｉと会いまして…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nでも、皆さんのお話を総合してみて、\n全ての事件が裏でつながっている事が\nわかってきましたわ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n新世塾が、何らかの理由でＪＯＫＥＲを必要と\nしていることは明らかですわ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nそしてＪＯＫＥＲの拡散には占いが関係している…\n占いを利用した、大規模な情報…噂操作が行われて\nいるのではないかしら…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n噂でＪＯＫＥＲを生み、占いで人の幸不幸を\n選り分け、呪いを行う者を潜在的に増やしていく…\n荒唐無稽だが、状況はそれを物語っているな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nそっか…\n人の幸せほど妬ましいものは無いもんねぇ…\nでも、なんでそんな事…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nそれは当事者に吐かせるのが一番でしょう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n拉致されたＪＯＫＥＲ使いは、\n近くの理学研究所に搬送されているようです。\n神条という男も、そこに出入りしている…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＷａｎｇｌｏｎｇ千鶴のＳｃｈｅｄｕｌｅも\n押さえてますわ。\nこの後、ＴＶ局で収録があるはずです。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nそれでは、二手に別れるしかないな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nぜひとも皆さんのお力添えをお願いしたい。\n件の占い師は、桐島に任せておけば大丈夫でしょう\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＡｌｌｒｉｇｈｔ．\nＴＶ局の方はお任せですわ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nそれでは、私とＴＶ局に御一緒して頂けますか？\n研究所の方はＫｅｉにお任せしますわ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n承知した。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]質実剛健な男\[color(white)\]\n松岡と申しますが…一つお断りさせて頂きます。\n今回の圭様の行動は、南条とは関係ありません。\nそれを肝に銘じて頂きたい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]松岡（まつおか）\[color(white)\]\n\[color(green)\]訓練された身のこなしと射るような目付きが\n印象的な、慇懃無礼な南条のお守り役。\n南条の行動に反対しているようだが…\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]松岡\[color(white)\]\n無論、圭様の行動も一切口外しないで頂きたい。\nこれに反すれば、いらぬ不利益が及ぶでしょう。\nくれぐれもお忘れなきよう…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nしっかし、こりゃ凄いわ…\nさっすがホテル・プレアデスのペントハウスねぇ…\nお金持ちは違うわ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n本来なら、一般市民の直接介入は認めない所だが…\nペルソナ使いならばやむを得ないか…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nおい天野…\nお前さん、一体俺に何言わせたんだ？\nＣＤ女ってな、どういう意味なんだ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nお、お前…\nそりゃ怒るわな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n噂が現実になるか…\nそれが本当ならば…\n神取…貴様は本当に生きているというのか…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nその理学研究所は、警備が厳しく地上から潜入\nするのは不可能だ。\nだが、隣接する下水処理施設からならば手がある。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nまずは、その下水処理施設へ向かいましょう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＭｒ．神取のことも気になりますけど、\n本当に占いを悪用しているなら、\nＷａｎｇｌｏｎｇ千鶴も放っておけませんわ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n実は、私達のＦｒｉｅｎｄに芸能人がいますの。\n彼にＴＶ局の見学をお願いしてますから、\n中に入る事は簡単なはずですわ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nさあ、青葉区に向かいましょう！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]松岡\[color(white)\]\n一つお断りさせて頂きます。\n今回の圭様の行動は、南条とは関係ありません。\nそれを肝に銘じて頂きたい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]松岡\[color(white)\]\n無論、圭様の行動も一切口外しないで頂きたい。\nこれに反すれば、いらぬ不利益が及ぶでしょう。\nくれぐれもお忘れなきよう…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]私設調査員\[color(white)\]\nここで、株価の動向や政財界の動きをモニター\nしています。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]私設調査員\[color(white)\]\n相手が相手だけに、どこに兆候が現れるか\nわかりませんからね…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]私設調査員\[color(white)\]\nこのホテル・プレアデスには\nお洒落な高級店が揃っている…と話題ですが、\nもう行かれましたか？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]私設調査員\[color(white)\]\nここへ来るのとは反対側の入り口、\n南側のエントランスから入れます。\n一度、行かれてみてはいかがでしょう？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

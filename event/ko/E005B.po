@@ -1,0 +1,48 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E005B\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＦｕｍ…\nやはりここが弐の門らしいですわね。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nでもなぜなのかしら…\n御札には☴（五）の八卦文字が書いてありますのに。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nなんだかよくわかんないわ…\n私昔から計算とか数字って苦手なのよねぇ～\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nチッ…\nイライラするぜ…\nあのクソ猫探して吐かせた方が早ぇぜ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n猫を虐待するのは反対だな。\nあんな可愛い動物を、どうやったらいじめたり\nできるんだ！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nそりゃ、あの黒猫は化け物かもしれんが…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]モニター室のドア\[color(green)\]\nここには入れない。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

@@ -1,0 +1,33 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00f6\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]エリート警備員\[color(white)\]\n様子がおかしいと思って来てみたが、\n貴様が侵入者か！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "栄吉を外に待たせて警備室に入ると、\n案の定銃を突きつけられた。\n異変に気づいた警備員たちが、\n他のフロアから様子を見に来ていたのだろう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]エリート警備員\[color(white)\]\nなんだ、子供か？\n一体どこか…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "正義の味方じゃあるまいし、相手の口上が終わるまで\n待っていてやる必要は無い。\n俺はそいつらが喋り終わる前に身を沈めダッシュした。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

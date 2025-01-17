@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0030\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]二枚目な男\[color(white)\]\nハハハ、ハニー！？\[delay(30)\]\nあああ、会いたかったよ！\n１日たりとも、君のことを忘れた日はなかった！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nここで会ったが百年目…\[delay(30)\]\n持ち逃げされた結婚資金のうらみ、\n思い知れーーっ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

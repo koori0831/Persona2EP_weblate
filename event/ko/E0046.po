@@ -1,0 +1,248 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0046\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nこの下水処理施設は研究所専用だが、\nセキュリティは比較的軽微です。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n特徴は数ブロックからなる迷路構造。\nしかも、各ブロック毎に一定時間で多量の排水が\n流れ込み、侵入者を押し流す仕組みになっている。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n各ブロックを結ぶルートは二つ…\n最短ルートを行かなければ、それだけ押し流される\n危険が増す。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n各ルートの電子ロックは、それぞれ第一制御室と\n第ニ制御室で制御するしかない。\nよって、誰かが二人残る必要がある…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nよく調べたものだな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nうちの技術だからですよ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n父は、竜蔵に政治献金をしているんです。\nこの処理施設や研究所も、使用目的も問わずに\nうちのグループが提供したものだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n大人の事情ってヤツか…\nいいのか？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n建前と利権だけの世界は寒いものだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n俺は自分の信じた道を行く。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n上等だ…\nで、誰が残る？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]玲司\[color(white)\]\nまかせな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]城戸玲司（きどれいじ）\[color(white)\]\n\[color(green)\]かつて南条やエリーと共に戦ったペルソナ使い。\n「伝説の裸番長」の異名を持つ。\n南条が追う神取の異母兄弟でもある。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]麻希\[color(white)\]\nやっほー♥\n私もいるよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]園村麻希（そのむらまき）\[color(white)\]\n\[color(green)\]セベク事件の中心人物であったペルソナ使い。\nやはり、神取と浅からぬ因縁を持つ。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nお前達、どうして…！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]麻希\[color(white)\]\n英理子から頼まれたの。\n南条君が悩んでるみたいだから、\n力になってやってって。も～水臭いよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]玲司\[color(white)\]\n話は後だ…早く行け。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]麻希\[color(white)\]\nもしあの人が本当に生きてるなら…\n南条君、助けてあげて…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]麻希\[color(white)\]\nあの人の苦しみをわかってあげられるのは、\n私たちしかいないから…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nわかった…やってみよう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nロックの解除は、あの二人にまかせましょう。\n渡したトランシーバーで連絡が取れます。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nＡＢどちらのルートを行くか決めたら、\n連絡してやってください。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n但し、どちらが最短ルートかの情報までは入手\nできなかった…\n貴女の勘が頼りだ。頼みましたよ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(green)\]舞耶達は、\n\[item_with_type(item_ffff)\]を手に入れた。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nまたしてもイイ男登場じゃ～ん？\nワイルド系でイイ感じだけど…\nドツキあい…じゃなくてお付き合いしたいわあ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n南条君は、いい友人に恵まれているな…\n\[tatsuya\]もこうだといいんだが…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nそうそうお友達ごっこにゃ付き合ってられんぜ？\nさっさと行こうや。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n赤い扉は第一制御室の園村、\n青い扉は第二制御室の城戸が開けられるはずだ。\n渡した最新トランシーバーで連絡してください。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n一度先に進めばもう戻れない。\n準備はいいでしょうね？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]麻希の声\[color(white)\]\n天野さん？\nこっちのドアを開けるのでいいのね？\n反対側なら城戸君に連絡して、ドーゾ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "反対側なら城戸君に連絡して、ドーゾ。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31_Choice1
+
+msgid "こっちでＯＫ！ドーゾ。"
+msgstr ""
+
+#. msg_31_Choice2
+
+msgid "う～ん、もう少し考えてみるね、ドーゾ。"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]麻希の声\[color(white)\]\n了解してラジャー♥\nって流行ってるって聞いたけど本当？\nじゃ、開けるね。がんばって！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]麻希の声\[color(white)\]\n了解。\nじゃあ、こっちに決めたらまた連絡してね。\nドーゾ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]玲司の声\[color(white)\]\nあんたか…\nこっちのドアでいいんだな？\n反対側なら園村に連絡しな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "反対側なら園村に連絡しな。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35_Choice1
+
+msgid "こっちでＯＫ！ドーゾ。"
+msgstr ""
+
+#. msg_35_Choice2
+
+msgid "う～ん、もう少し考えてみるね、ドーゾ。"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]玲司の声\[color(white)\]\nなんだ、その銅像ってな…？\nま、待ってな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]玲司の声\[color(white)\]\n………\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]玲司の声\[color(white)\]\n………\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]玲司の声\[color(white)\]\nよぉ…どれを押しゃいいんだ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]玲司の声\[color(white)\]\nチッ、めんどくせぇ…\nうおりゃぁ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]玲司の声\[color(white)\]\nそーかい…\n決めたらまた連絡よこしな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nそちらは制御室です。\n園村と城戸に任せておきましょう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

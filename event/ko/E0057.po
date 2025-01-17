@@ -1,0 +1,128 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0057\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nな、なんなのよぅ！？\n何がどーなっちゃったわけ！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]黒猫\[color(white)\]\nゴロナ～ゴ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＷａｎｇｌｏｎｇ千鶴…\n聞くまでもなく敵だったようですわね。\n私達は、「奇門遁甲」の陣にはめられたのですわ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nキモントンコウ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n風水に連なる、実体を伴う幻術…\n遁甲符による八つの門を、指定順に通らないと脱出\nできないという厄介な代物ですわ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＦａｎｔａｓｔｉｃ！\n私も初めての体験ですわ～♥\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあの…もしもし…？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n術の系統から見て、あの猫は恐らく式鬼ですわね！\n白黒に見えるのは、この世界が現実の裏側という\n証拠…素晴らしいですわ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nチッ…\nようするに閉じ込められたって事か…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nその「八つの門」とやらを\n順に通れば脱出できるんだな？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＴｈａｔ’ｓｒｉｇｈｔ！その通り。\n遁甲符には、八卦文字で１から８までの番号が\n記されていますの。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n１２３４５６７８\n☰☱☲☳☴☵☶☷\nこんな感じですが、私ならそれが読めますわ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＯｃｃｕｌｔ好きの私がいる事を知らなかったのが\n運の尽きですわね！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nおい…君の姿が鏡に映ってないぞ？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n古来から呪術では、鏡は別世界を\n映すものとして祭られてきましたの。\nたぶん、これは現実世界の光景ですわ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nだとしたら、表側のブラウン君達と\n連絡が取れるんじゃないか！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n私がいれば心配ありませんわ。\nさあ、この挑戦受けて立ちますわよ～！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nエリーちゃんがオカルトオタクだったとはねぇ…\n人は見かけによらんわ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nしてやられたな…\nしかし、あんな可愛い猫が敵とは…\n僕はどうすれば…グスッ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nったく次から次へと…冗談じゃねぇぞ…\nこれじゃ半神ジャガーズの試合も見れやしねぇ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n俺は半神のファンなんだよ。\n中継は一度も欠かさず見てんだ。\nとっとと抜け出すぞ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nまずは☰…壱の門を探しましょう。\nＬｅｔ’ｓらＧＯ！ですわ♥\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]御札\[color(green)\]\n奇門遁甲の札が張ってある。\n最初から閉じ込めるつもりだったらしい…\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

@@ -1,0 +1,783 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0004\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "このままじゃハングします。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nねえマーヤ。\nあの時計台で私達を助けてくれたの、\n例のデジャ・ヴュの少年なんでしょ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n本当に心当たり無いの？\n駅でぶつかっただけの子が、そんな事してくれる？\nよっく考えてごらんよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nウキーッ、私だったら、\n一度見た男の顔は絶対に忘れないんだけどねぇ。\n特にあの牧村の顔は！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nそういやマーヤ、\nここの店、あんたんトコの雑誌に書いてなかった？\n三ツ星のお寿司屋さんだって。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあ…あのさ…マーヤ。\nその…私がもしもＪＯＫＥＲ呪いを…\n\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "い、いや、なんでもない。なんでもないよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n私はマーヤ達のおかげで元に戻れたけど…\n他の人達はどうなっちゃうの？\n放っといたら、ＪＯＫＥＲ呪いした人みんな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nパオの奴が、２５人も殺してるって…\nあれマジかな？そう悪い奴とも思えないけど…\nあ、これがアレよ。女の勘ってヤツ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nこうなったらマーヤ、私らも噂で対抗だよ。\nワンロン千鶴は嘘つきだァ…っとか、\n穢れなんかあるもんかァ…っとか広めてさァ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n…ダメか…\nんな噂広がるわきゃ無いし…\n時間も無いしねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n天野君が時計台で見たという少年…\nデジャ・ヴュの少年と言っているが、一体何者だ？\n何か事件の事を知っているのか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nそれにしても、\nまだ日も高いうちから寿司とはキミも豪儀だな。\n記者というのは、そんなに収入が良いのか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nペルソナの共鳴…か…\nパオフゥに言われるまで意識した事はなかったが…\nこの力が取り調べでも使えれば便利なのだが。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nそれにしても、\[tatsuya\]の奴は一体何を隠している？\nアイツだけは、須藤竜也の言っていることを\n理解していた。なぜだ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nん？\nなんだか様子がへんだな…\nここで何かあったのか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nここの息子の帰りが遅いそうだ。\nＪＯＫＥＲ事件が多発している時だしな…\n何事も無ければいいが。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n講演会に参加しなくては、\nいずれＪＯＫＥＲ憑きになってしまう…か。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nかなり先手を打たれてしまった格好だな。\n恐怖感が伴ってるだけに、なおさら質が悪い…\n竜蔵め…次は何をする気だ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nほぉ…あの恰幅の良い大将もペルソナ使いか。\nもっとも、あまり戦闘向きじゃないようだが…\n\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "…どうだ？共鳴を読めばここまで分かるんだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n須藤の息子が言ってた「向こう側」ってな、\n一体なんなんだ…？\n段平持ってた小僧は、何を知ってるってんだ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nそこの親父の話じゃ、中にいた客の一人が\n突然訳も無く暴れだしたそうだ。\nもしかしたら、芹沢と同じ理由かもしれんな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nここのガキがなかなか帰ってこないそうだな。\nもしもＪＯＫＥＲ呪いをしてたんなら、\n攫われてる可能性もあるが…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nあの松岡という男、なかなかのもんだ。\n平和ボケしたこの国にもあんな男がいたんだな。\n石頭の坊ちゃんには丁度良いお目付け役だぜ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nあいつは…トロか。\nエルミン時代の学友ですよ。\nこうして会うのは随分久しぶりですが。\n\[wait\]\[clear\]\[color(yellow)\]南条\[color(white)\]\nペルソナはもう一人の自分。\n裏を返せば最大の敵とも言える存在。\n\[wait\]\[clear\]\[color(yellow)\]南条\[color(white)\]\n己に勝てぬ者は、\nペルソナの力によって滅ぶ事もあります。\nこれは…彼から得た教訓ですが。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nどうやら城戸も無事に脱出できたようだな。\nしかし…まさか奴までこの街に来ていたとは…\n桐島の時といい、これはただの偶然なのか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＷｏｗ！あれはＴｏｒｏですわ！\n\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "Ｈｉｇｈｓｃｈｏｏｌ時代の同級生なんです。\nこんな所で会うなんて、驚きましたわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＰＥＲＳＯＮＡの力も残ってるようですが、\nあの頃に比べ、今は安定しているみたい。\n\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "安心しましたわ。暴走はもう懲り懲りですもの。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nあそこにいるのは、Ｒｅｉｊｉですわ！\n彼も昔の仲間なんですの。\nまさかこんな所で会えるなんて。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＷａｎｇｌｏｎｇ占いはよく当たると評判だし、\n謎のＪＯＫＥＲ事件は恐ろしい。\n人々が講演会に行くのも無理ありませんわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nど…どうやら、この中で何かあったようだね。\nキミ、記者なんだろ？放っておいていいの？\nき…きっと大事件、特ダネかも知れないよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\n何を隠そう、僕は凄腕のセールスマンなんだけど、\n職業がら、噂話にくわしくなっちゃってね。\n今じゃ「噂屋」なんて呼ばれてるんだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]横内健太（よこうちけんた）\[color(white)\]\n\[color(green)\]エルミン学園の卒業生。\n噂に詳しい、訪問販売のトップセールスマン。\n営業成績は、実はペルソナの賜物らしい。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\n噂話は、セールスの役に立つからね～\n君も、何か面白い噂を聞いたら、ぜひ教えてよ。\nかわりに、僕の知ってる噂を提供するからさ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\nムハァ～\nやっぱ寿司はエンガワだね、エンガワ最高ー！！\n…で？何の用かな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\n何の用かな？\n\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\n他に何かある？\n\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40_Choice1
+
+msgid "噂話を聞く"
+msgstr ""
+
+#. msg_40_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_40_Choice3
+
+msgid "用はない"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\nう～ん…\n今のところ、他に情報は無いね。\nまた仕入れておくよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\nゴメン、ゴメン。\nまだ新しい噂ネタ仕入れてないんだ。\nまた後で来てくれる？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\n噂だね？\n丁度良い話があるよ。\nじゃあまず、そっちの情報聞かせて。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\nムハァ～いいとも～\nじゃあ、そっちの情報から教えてくれる？\n新鮮なヤツじゃないとダメだよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\n……ふ～ん。なかなか良い情報だね。\nっていうか、やるねキミ。\nじゃあボクの情報だけど…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\nへぇ～、その情報は知らなかったなぁ。\nムハァ～激大漁って感じ。\nじゃあボクの情報を教えてあげるよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\nあのね、この区にある\[color(orange)\]時間城\[color(white)\]ってお店で、\n不思議な\[color(orange)\]魔法のカードを売ってる\[color(white)\]らしいんだ。\nだけど魔法なんて本当にあるのかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\n実はまた\[color(orange)\]時間城\[color(white)\]の噂を仕入れたんだ。\nなんでもあそこの店主、\n\[color(orange)\]魔法のカードの複製\[color(white)\]までやってるらしいよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\n\[color(orange)\]月刊バトルマスター\[color(white)\]って雑誌知ってる？\n実はあの本の懸賞に応募すると、\n\[color(orange)\]本物の武器\[color(white)\]が当たるらしいんだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\n\[color(orange)\]ファンタジーワールド\[color(white)\]って雑誌、知ってるかい？\n噂じゃその雑誌の懸賞に応募すると\n\[color(orange)\]本物の武器\[color(white)\]が当たるらしいんだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\nボクは噂屋であると同時に、\n寿司貴族のメンバー、寿司男爵なのだ。\nキミもメンバーに加えてあげようか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\nところでキミ、ペルソナ使いでしょ？\n実はボクもそうなんだよ。\n同僚の玲司クンみたいに強くはないけどね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\nもう街はＪＯＫＥＲの噂で持ちきりだね。\nＪＯＫＥＲ呪いをしちゃった人は、\n不安でしかたないんじゃない？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\nさっき、あそこに座ってた社長サンが、\n突然ボクに襲い掛かって来たんだ。\nもう、心臓ビッグバン。\n\[wait\]\[clear\]\[color(yellow)\]噂屋トロ\[color(white)\]\nしかも大切なエンガワまで落とされて、\nもう激、憤慨。即大パンチ出ちゃったね。\n食べ物は大切にしなくちゃ駄目駄目だよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\nそういえば、社長サンがいなくなる直前、\nペルソナの共鳴がしてたなァ…\nもしかしてあの社長サンもペルソナ使い？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\nえ？講演会？\n行かないよ、そんなの。\n僕はエンガワ食べるので忙しいんだもんね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\nそう。\nじゃあ、また噂が聞きたくなったら来てよ。\n僕はここで、ひたすらエンガワ食べてるからさ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "\[color(yellow)\]寿司公爵\[color(white)\]\nそこの親父、急に羽振りが良くなっちまってよ。\n社長が邪魔で出世できねえって、\nいつも嘆いてたんだぜ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]寿司公爵\[color(white)\]\nそういやここの大将には息子さんがいたっけなぁ？\n今は春日山高校の二年生なんだとよ。\n後継ぎがいるってなぁ、羨ましいねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "\[color(yellow)\]寿司公爵\[color(white)\]\n隣の親父、\n邪魔な社長がＪＯＫＥＲに殺されたって大喜びよ。\n…ったく、ああいう奴にだけはなりたくないね！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61
+
+msgid "\[color(yellow)\]寿司公爵\[color(white)\]\nな、なんかよお、\n隣の社長の様子が変なんだよ。\nどうしちまったんだ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]寿司公爵\[color(white)\]\nえ、えらいこった、あの社長の親父が\n突然暴れ出してよ、トロ男爵に襲い掛かったんだ。\nところが逆にやられて一発ＫＯ。格好悪いよなぁ。\n\[wait\]\[clear\]\[color(yellow)\]寿司公爵\[color(white)\]\n……ありゃ？\nところで、その社長の親父は、\nドコ行ったんだ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]寿司公爵\[color(white)\]\nなんでも、ここの若旦那が\n学校行ったきり帰ってこないんだってよ。\n板さん、あれで内心、心配なんじゃねぇか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(yellow)\]寿司公爵\[color(white)\]\nさっきここの若旦那が帰って来たんだが、\n青頭にスカートはいて、そりゃ派手な格好でよぉ！\n大将、目ぇ血走らせて大激怒よ！\n\[wait\]\[clear\]\[color(yellow)\]寿司公爵\[color(white)\]\n…にしても、若旦那、様子がおかしかったなァ。\nなんか暗い感じでよぉ、らしくねぇんだ。\n神社へ行くって、フラフラ出て行っちまった。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65
+
+msgid "\[color(yellow)\]社長のおじさん\[color(white)\]\nがはは！ついに憧れの社長職についたんですわ。\n仕事なんぞ部下に任せて、こうして昼から寿司を\nつまんどると、偉くなったのを実感しますなぁ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66
+
+msgid "\[color(yellow)\]社長のおじさん\[color(white)\]\n実は少し前に、目障りだった社長が殺されてね。\n代わりに私が社長を務めることになったんだ。\nガハハハ、神様はいるもんだ！ガハハハ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]社長のおじさん\[color(white)\]\nワ…ワシがＪＯＫＥＲ呪いで社長を殺したんだ…\nま、まさか噂が本当になるなんて…\nこのままではワシもＪＯＫＥＲに…ウウゥゥ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_68
+
+msgid "\[color(yellow)\]寿司貴族\[color(white)\]\n寿司貴族は寿司貴族だけに寿司が主食ッス！\n故に自分も貴族の端くれとして恥じぬよう、\n一生懸命エンガワを食ってるッス！！\n\[wait\]\[clear\]\[color(yellow)\]寿司貴族\[color(white)\]\nもうお腹がいっぱいで、\n家に帰っても何も食べられないッス。\nだけどいいんッス！これが貴族の生き様ッス！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_69
+
+msgid "\[color(yellow)\]寿司貴族\[color(white)\]\nあれ？\nまだ自分に何か用ッスか？\nもしかして、メンバーに入りたいッスか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_70
+
+msgid "何か用ですか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_70_Choice1
+
+msgid "名前を言い当てる"
+msgstr ""
+
+#. msg_70_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_70_Choice3
+
+msgid "用はない"
+msgstr ""
+
+#. msg_71
+
+msgid "スズキユウイチ\n\[end\]"
+msgstr ""
+
+#. msg_72
+
+msgid "\[color(yellow)\]寿司貴族\[color(white)\]\nあえ？\nそれ…誰ッスか？\n自分はそんな人、知らないッスよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_73
+
+msgid "\[color(yellow)\]寿司貴族\[color(white)\]\nあれれれ？\nどうして自分の名を知ってるんスか？\nあ、あなたは一体…\n\[wait\]\[clear\]\[color(yellow)\]スズキユウイチ\[color(white)\]\nえっ！？自分の捜索願が！？\nははーん、多分ママンの仕業ッスねぇ。\nママンはあれで心配性ッスから…\n\[wait\]\[clear\]\[color(yellow)\]スズキユウイチ\[color(white)\]\n了解ッス。報せてくれて感謝ッス！\nしらいしさんとママンには僕が報告しておくッス。\nありがとうございましたッス！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_74
+
+msgid "\[color(yellow)\]寿司貴族\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_75
+
+msgid "\[color(yellow)\]スズキユウイチ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_76
+
+msgid "私は寿司貴族のメンバーっス。\n寿司同好会「寿司貴族」は、\nここを情報交換の場にしてるっス。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_77
+
+msgid "\[color(yellow)\]寿司貴族\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_78
+
+msgid "\[color(yellow)\]スズキユウイチ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_79
+
+msgid "かく言う私も、\n寿司ネタと噂ネタには目が無いっス。\n今も、寿司男爵のトロさんに、噂聞いてたっス。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_80
+
+msgid "\[color(yellow)\]寿司貴族\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_81
+
+msgid "\[color(yellow)\]スズキユウイチ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_82
+
+msgid "板さんには高校生の息子さんがいるっス。\n確か…栄吉という名前でしたっけ…\n春日山高校の番長だそうっスよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_83
+
+msgid "\[color(yellow)\]寿司貴族\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_84
+
+msgid "\[color(yellow)\]スズキユウイチ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_85
+
+msgid "自分は噂は信じますが、それ以外には慎重ッス。\nよって、あの放送も、すんなりとは信じないッス！\nこれ寿司貴族の誇りッス。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_86
+
+msgid "\[color(yellow)\]寿司貴族\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_87
+
+msgid "\[color(yellow)\]スズキユウイチ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_88
+
+msgid "トロ男爵は、やっぱ強かったっス！\n襲い掛かってきた社長さんを、\n一発で伸してしまったッス！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_89
+
+msgid "\[color(yellow)\]寿司貴族\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_90
+
+msgid "\[color(yellow)\]スズキユウイチ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_91
+
+msgid "ちなみに板さんは奥で震えていたッス。\n格闘合わせて１８段というのは、\n本当なんスかねえ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_92
+
+msgid "\[color(yellow)\]寿司貴族\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_93
+
+msgid "\[color(yellow)\]スズキユウイチ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_94
+
+msgid "実は私は知ってるっス。\n栄吉クンはあれでかなりナルシストっす。\nビジュアル系を志すその姿はまさに親泣かせ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_95
+
+msgid "\[color(yellow)\]寿司貴族\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_96
+
+msgid "\[color(yellow)\]スズキユウイチ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_97
+
+msgid "今頃…着替えるのに\n手間取っているんじゃないですかね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_98
+
+msgid "\[color(yellow)\]寿司貴族\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_99
+
+msgid "\[color(yellow)\]スズキユウイチ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_100
+
+msgid "なんかこの中は外とは別世界ッスねぇ。\n世間は、例のテレビ放送でパニックだってのに…\nやっぱ、講演会に行った方がいいッスかねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_101
+
+msgid "\[color(yellow)\]玲司\[color(white)\]\nだからよ…その…セールスのコツってやつを、\n教えてくれねぇか？\n近々、物入りでよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_102
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\nだからさぁ、\n玲司クンは強いけど、\nもっと角を丸くしないと激ダメなんだよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_103
+
+msgid "\[color(yellow)\]玲司\[color(white)\]\nお前みたいになれってのか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_104
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\nだからね、大切なのはラブだよ。\nお客様を愛する気持ちさ。\nそうすればペルソナも力を貸してくれるよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_105
+
+msgid "\[color(yellow)\]玲司\[color(white)\]\nラブったって…\nそりゃ、かわいがるって事か？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_106
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\nなんか君が言うと、\n違う意味に聞こえるね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_107
+
+msgid "\[color(yellow)\]玲司\[color(white)\]\nったく…昼間っから寿司とは…\nさすが営業成績Ｎｏ．１は違うぜ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_108
+
+msgid "\[color(yellow)\]噂屋トロ\[color(white)\]\n君も食べれば？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_109
+
+msgid "\[color(yellow)\]玲司\[color(white)\]\nど、どうもこんにちは…でございまして、\n私、包丁のセールスをしておりましまして…て…\n……\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_110
+
+msgid "\[color(yellow)\]玲司\[color(white)\]\nダメだぁ…\nどうにも、この甘ったるい喋り方は\n性に合わねぇぜ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_111
+
+msgid "\[color(yellow)\]城戸玲司（きどれいじ）\[color(white)\]\n\[color(green)\]かつて南条やエリーと共に戦ったペルソナ使い。\n「伝説の裸番長」の異名を持つ。\n南条が追う神取の異母兄弟でもある。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_112
+
+msgid "\[color(yellow)\]玲司\[color(white)\]\nん？\nペルソナが共鳴しやがる…\n…なるほどな、あんたがそうか。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_113
+
+msgid "\[color(yellow)\]玲司\[color(white)\]\n話は南条から聞いてるぜ。\n昔の仲間が世話になってるらしいな。\n一応、礼を言っとくぜ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_114
+
+msgid "\[color(yellow)\]玲司\[color(white)\]\nまぁ、困った事があったらいつでもいいな。\n俺もある程度は手伝ってやる。\n…ところで、包丁なんかいらねぇか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_115
+
+msgid "\[color(yellow)\]板さん\[color(white)\]\nへい、らっしゃい！！\nおっ、初めてのお客さんかい？\nよく来てくれたねえ！！\n\[wait\]\[clear\]\[color(yellow)\]板さん\[color(white)\]\n当店がってん寿司は新鮮なネタと、\n神をも恐れぬ低価格が売りよ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_116
+
+msgid "\[color(yellow)\]板さん\[color(white)\]\n…それにしても…なんだな…\n姉さんたぁ、他人って気がしねぇやなぁ。\nよっしゃ！今日のところはお値段割引でぃ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_117
+
+msgid "\[color(yellow)\]板さん\[color(white)\]\nヘイッ、らっしゃいっ！！\nどうでぃ、いい呼び声だろ？\n客はこうやって心と魂で迎えるもんでぃ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_118
+
+msgid "\[color(yellow)\]板さん\[color(white)\]\nおっと、なんかへんな感じだねえ。\n姉さんは他人って気がしねぇや。\nよっしゃ！料金はオマケしとくぜぃ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_119
+
+msgid "\[color(yellow)\]板さん\[color(white)\]\nジャンジャン食べてってくんな！！\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_119_Choice1
+
+msgid "食事をする"
+msgstr ""
+
+#. msg_119_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_119_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_119_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_120
+
+msgid "\[color(yellow)\]板さん\[color(white)\]\nおうっ！何が聞きたいんでい！\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_120_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_120_Choice2
+
+msgid "食事の説明を聞く"
+msgstr ""
+
+#. msg_120_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_121
+
+msgid "\[color(yellow)\]板さん\[color(white)\]\n他に何かあるかい！\nどんどん言ってくれよ！！\n威勢の良い客大歓迎でぃ！！\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_121_Choice1
+
+msgid "食事をする"
+msgstr ""
+
+#. msg_121_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_121_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_121_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_122
+
+msgid "\[color(yellow)\]板さん\[color(white)\]\nおうっ！何が聞きたいんでい！\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_122_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_122_Choice2
+
+msgid "食事の説明を聞く"
+msgstr ""
+
+#. msg_122_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_123
+
+msgid "\[color(yellow)\]板さん\[color(white)\]\n実はここにゃ移転して来たばかりでよ、\nこの前までは平坂区に店かまえてたんでぃ。\nえ？なんで移転したのかって？\n\[wait\]\[clear\]\[color(yellow)\]板さん\[color(white)\]\n占いよ、占い！\nここに店かまえりゃ大繁盛するんだってよ！\nそうと聞いちゃ、ジッとしてらんねえだろ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_124
+
+msgid "\[color(yellow)\]板さん\[color(white)\]\n漢字の「漢」と書いておとこと読む！！\nなあ姉ちゃん、漢の道ってな何か知ってるか？\n心・技・鯛よ！！べらぼうめぃ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_125
+
+msgid "\[color(yellow)\]板さん\[color(white)\]\n最近の若い者ってのは、\nみんな歌歌いになりてぇのかな？\nうちの馬鹿息子もそんな事言っててよ。\n\[wait\]\[clear\]\[color(yellow)\]板さん\[color(white)\]\nまったくあの野郎ときたら、\n毎日フラフラしてばっかりでよぉ。\n俺の跡目が継げんのかって、心配してんのよ。\n\[wait\]\[clear\]\[color(yellow)\]板さん\[color(white)\]\nあん？息子の意志かだと？\n馬鹿言っちゃいけねぇよ、姉ちゃん！！\n息子は親父の跡を継ぐ！昔から決まってんでぃ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_126
+
+msgid "\[color(yellow)\]板さん\[color(white)\]\nさっき、妙な黒服着た連中がやって来てよ、\n気絶した社長の旦那を連れて行っちまったんだよ。\n一体全体…何がどうなってやがんでぃ！\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_127
+
+msgid "\[color(yellow)\]板さん\[color(white)\]\nあン？\nそういや、栄吉はどうしたんだ？\n学校から帰ってこねぇじゃねぇか！！\n\[wait\]\[clear\]\[color(yellow)\]板さん\[color(white)\]\n野郎、出前が嫌で寄り道でもしてやがんな？\n帰ってきたら、獄門チョップの刑だぜ！！\nチョップ！チョップ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_128
+
+msgid "\[color(yellow)\]板さん\[color(white)\]\n栄吉の野郎、何だったんだあの格好は！？\n俺ァ、あんな格好するような息子を\n育てた覚えはねぇぜ！！\n\[wait\]\[clear\]\[color(yellow)\]板さん\[color(white)\]\n仮装パーティだとかなんとか\n言ってやがったが怪しいもんだぜ！\n今度帰ってきたら、絶対絞り上げてやる！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_129
+
+msgid "\[color(yellow)\]板さん\[color(white)\]\nおうっ！\nネタが新鮮なうちにまた来てくんな！\n歓迎するからよ！てやんでぃ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_130
+
+msgid "\[color(yellow)\]板さん\[color(white)\]\nおうっ、「食事」の説明だな。\nうちの店で「食事をする」を選ぶと\n自慢の寿司をふるまってやるぜっ！\n\[wait\]\[clear\]\[color(yellow)\]板さん\[color(white)\]\nうちの寿司にはなんと、\n一時的に能力を高める効果があるんだぜっ！\n効果はネタによって違うから、色々食べてみてくんな！\n\[wait\]\[clear\]\[color(yellow)\]板さん\[color(white)\]\nあと、一度何かを食べたり飲んだりしたら、\nその効果が切れるまでつぎの食事はできねぇかんな！\nざっとこんなもんでぃ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_131
+
+msgid "\[color(yellow)\]板さん\[color(white)\]\nそいつぁ、\[var(msg_var_0)\]円だぜ！\nいいかい？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_131_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_131_Choice2
+
+msgid "いいえ"
+msgstr ""
+

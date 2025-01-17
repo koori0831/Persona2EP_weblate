@@ -1,0 +1,73 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E004B\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]少年の声\[color(white)\]\nだーからぁ！何度も言ってるじゃねぇすか！\n道に迷ったんすよぉ。\nもう勘弁してくださいよぉ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]栄吉の声\[color(white)\]\nだーからぁ！何度も言ってるじゃねぇすか！\n道に迷ったんすよぉ。\nもう勘弁してくださいよぉ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]若い警備員\[color(white)\]\nもっとマシな嘘をつけ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]目つきのするどい警備員\[color(white)\]\nもういい。\n大方、実験材料の知り合いかなにかだろう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]目つきのするどい警備員\[color(white)\]\nこのまま帰すわけにもいかん。\n研究員に引き渡す。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]青頭の少年\[color(white)\]\nやいやいやい！\nやっぱ噂通り、ここで人体実験かなにかして\nやがんだな！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]三科栄吉（みしなえいきち）\[color(white)\]\n\[color(green)\]春日山高校の番長を務める２年生。\nどこかで会った気がする…\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nチキショー！杉本を返しやがれ！！\nじゃねぇとひどい目に会わすぞ、コラァ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nやいやいやい！\nやっぱ噂通り、ここで人体実験かなにかして\nやがんだな！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nチキショー！杉本を返しやがれ！！\nじゃねぇとひどい目に合わすぞ、コラァ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]若い警備員\[color(white)\]\nそんな格好で何ができるんだ？\nやれるもんならやってみな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n承知した。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

@@ -1,0 +1,128 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00C0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "リサ…！\n\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "ギンコ…！\n\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]シャドウ舞耶\[color(white)\]\n安心した？ボウヤ。\nでも、簡単に返すわけにはいかないの。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]シャドウパオフゥ\[color(white)\]\nへへ…そういうわけなんでなぁ…\n俺様がたっぷり可愛がっといてやるから、\n安心して死にな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]舞耶\[color(white)\]\n………\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nガキ嬲って喜んでねぇで、さっさと来な…\n\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "てめぇの相手は俺だ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]シャドウ舞耶\[color(white)\]\nフフフ…\n笑わせるわねぇ～？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]シャドウパオフゥ\[color(white)\]\nああ、笑わせやがるぜぇ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]リサ\[color(white)\]\n情人（チンヤン）！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "リサ…じっとしてろ！\n\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "ギンコ…じっとしてろ！\n\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "今降ろしてやる…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]シャドウ舞耶\[color(white)\]\n惜しかったわねぇ…\nもう思い出しちゃったって。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]シャドウパオフゥ\[color(white)\]\nもう諦めちゃどうだ、ええ？\nそんな女々しく生きてたって仕方ねぇだろうが！\n死んじまえよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]舞耶\[color(white)\]\n………\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nできねぇな…\nやることがもう一つ増えちまった…\n\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "てめぇらの親方をぶっ殺すまではな！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]シャドウ舞耶\[color(white)\]\nフフフ…\n笑わせるわねぇ～？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]シャドウパオフゥ\[color(white)\]\nああ、笑わせやがるぜぇ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

@@ -1,0 +1,153 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00fe\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "フェンスの前で、警備員たちが\nこちらに背中を向け煙草をふかしていた。\n勤務態度の悪い奴らだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]若い警備員\[color(white)\]\n侵入者ってな、本当なんですか？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]中年の警備員\[color(white)\]\nああ、若い女二人に男が三人って話だ。\n放っとけとよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "舞耶姉たちのことだろう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]若い警備員\[color(white)\]\nなんでまた。\nここでやってることが外に知れたら、まずいでしょ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]中年の警備員\[color(white)\]\n知るかよ。\n神条様のご命令、ってな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "神条…初めて聞く名だが、\nこいつらよりは厄介な奴に違いない。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "承知の上で放置しておくのは、罠に嵌める自信があるか、\n放っておいても支障がないということだ。\nそういう手合は性質が悪い。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "何にせよ急いだ方がよさそうだ。\n年上の方が、腰にぶら下げている鍵束を頂いていこう。\nそいつはまた煙草を取り出し火を付けようとしていた。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]中年の警備員\[color(white)\]\nチッ、ガスが切れやがった。\nおい、火貸してくれ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "若い方が、頷いてあちこちポケットをまさぐり始めた。\nグズな奴だ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]中年の警備員\[color(white)\]\nおい、まだかよ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]若い警備員\[color(white)\]\nおかしいな…\nさっき火つけましたよね？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "俺が後ろから左手を伸ばしてジッポの火を差し出すと、\n年上は礼を言って火をつけ、美味そうに煙を吐き出した。\n手元が寂しくて自分で買ったものだが、\n思わぬ役に立った。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]中年の警備員\[color(white)\]\nおお、悪いな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]若い警備員\[color(white)\]\nあ、あった。\nはい、どう…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "ようやくライターを見つけた若い方は、\n横を向き俺に気づいて目を丸くした。\n手早く年上の顔面に左肘を食らわせ壁とサンドイッチにし\n若い方の鳩尾にも刀の柄を叩き込んだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]若い警備員\[color(white)\]\nぐお…\nお…おっ…！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "目の端で、年上が白目を剥いて崩れ落ちていく。\n手加減した若い方は、身を屈めて空気を求め喘いでいた。\nそいつの襟首を掴んでフェンスに叩きつけると、\n鞘からわずかに抜いた刀の刃を首筋に押し付けた。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n宮代詩織、髪の長い女の警官を拉致したはずだ。\nどこにいる。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]若い警備員\[color(white)\]\nよ…４階だ…\n研究…室…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nエレベーターには、３階までしか表示がなかった。\nどうやって４階に行く。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]若い警備員\[color(white)\]\nエレベーターのボタンを押す順番が…\nセキュリティコードになってるって話だ…\n俺は…知らん…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n誰が知ってる。\nそいつか？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]若い警備員\[color(white)\]\nこのフェンスの…\n向こうの部屋に…\n警備担当の管理者が…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "フェンスの向こうには、エレベーターで行くしか\nなさそうだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "俺は、年上がぶら下げていた鍵束に\nエレベーターの配電盤の鍵があることを聞き出すと、\n今度は鳩尾に膝をプレゼントして寝かせてやった。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "こいつらには、舞耶姉たちのことを聞くだけ無駄だろう。\n伸びている年上から火の礼に鍵束を頂戴し、\nその場を離れた。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

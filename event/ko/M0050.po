@@ -1,0 +1,53 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0050\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nこの人さっき、\n悪魔と戦う謎の武装グループを見た！\nとか言ってたんだけど…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nそれって、\nあそこで死んでたマフィアのコトかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nあの職員、かなり混乱しているようだが、\nこの惨状を見ると…全て事実と考えるべきか。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nどうやら竜蔵は、\nこの病院に莫大な寄付をしているらしいな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n慈善活動にかこつけた口封じだろうが…\nあいつは簡単に口を割ったぜ。\nまっ、この状況じゃ仕方ねぇか。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]隠れていた職員\[color(white)\]\nあ…あなた達は…人…間……よね？\nたたた…助けてちょうだい！\n悪魔…悪魔が現れたのよ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]隠れていた職員\[color(white)\]\n…あの人よ…あの人が悪魔を……\n３０３号室の患者が…\n須藤竜也が悪魔を呼び寄せたのよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]隠れていた職員\[color(white)\]\n悪魔が患者や同僚達に襲いかかって…\n嘘じゃないわ！あなた達も見たでしょ！？\nそこら中にある死体を！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

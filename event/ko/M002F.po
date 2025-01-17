@@ -1,0 +1,633 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M002F\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]ゆきの\[color(white)\]\nＴＶ局ではどうなる事かと思ったけど、\n皆が無事で何よりだったよ。\nそれにしても…あの神取が生きていたなんて…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]ゆきの\[color(white)\]\n英理子から聞きましたよ！\n舞耶さんもペルソナ使いだったんだね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]ゆきの\[color(white)\]\n初めて会った時の、あの不思議な感じ…\nあれはやっぱり共鳴だったのか。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]ゆきの\[color(white)\]\nごめん舞耶さん。\n俊介さんには隠しきれなくて…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]ゆきの\[color(white)\]\n（片岡）別の場所で活躍？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]ゆきの\[color(white)\]\n（片岡）別の場所で活躍？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]藤井\[color(white)\]\nあの時、ＴＶ局で何がおきていたんだい？\nユッキーもちゃんと説明してくれないし…\n僕には話せない事なのか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]藤井\[color(white)\]\n珠閒瑠テレビで何がおきていたのか…\nマッキーは知ってるかい？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]藤井\[color(white)\]\n一緒にいたユッキーとブラウン君は\n何かを知っているようなんだが、\n二人とも僕には説明してくれないんだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]藤井\[color(white)\]\nユッキーから聞いたよ。\nあの新世塾って組織が、\n君達の戦っている相手なんだね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]藤井\[color(white)\]\nにわかには信じられないけど…\nこう言っていいのかな？\[delay(30)\]\n…頑張れよ、マッキー！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]藤井\[color(white)\]\n…えっ、ユッキーかい？\nユッキーは皆を守る為に外へ行ったよ。\n……天誅軍を止める為にね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]藤井\[color(white)\]\n僕は、この現実を全てフィルムに記録する。\nそれが今の僕に出来る唯一の事…\n君達とは違う、僕にとっての戦いだよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]藤井\[color(white)\]\n僕には何が起きているのか良く分からないが、\nマッキーも…ユッキーも…二人の仲間達も…\n自分達の信じる道を進んでいるんだね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]藤井\[color(white)\]\n…マッキー、星を掴めよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]新人\[color(white)\]\n先輩があんまり帰ってこないから、\n拉致事件にでも巻き込まれたのかと思ったすよ。\n…最近多いんすから、気を付けて下さいね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]新人\[color(white)\]\n天野先輩はどうするんすか？\n…何がって世界滅亡の事っすよ！\nはぁ…会社辞めて思う存分遊んどこかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]新人\[color(white)\]\nあぁ、せんぱ～い！？\nホントに浮いちゃいましたよ！？\n望龍術を信じなかったわけじゃないすけど…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]新人\[color(white)\]\n俺、これから何をどうしたらいんすか？\n教えて下さいよ先輩！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]新人\[color(white)\]\nあ、先輩…みんな無事で良かったすよね？\n緊張した分、なんかもう脱力っすよ。\n…え、会社の事？すっかり忘れてましたよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]新人\[color(white)\]\nあ、お帰りなさい先輩。\nさっき先輩宛になんか届きましたよ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]新人\[color(white)\]\n机の横の箱に入れときましたから、\nちゃんと確認しといて下さいね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]同期社員\[color(white)\]\n天野ォ～外に出てばっかいないでさぁ、\nたまには雑務もやってよね～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]同期社員\[color(white)\]\nあ、でも掃除はしなくていいよ。\nアンタに掃除させると余計に散らかるからね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]同期社員\[color(white)\]\n世界滅亡？ポールシフト？\nネタにはなるけどねぇ、\nまた苦情の相手すんのはヤーよ！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]同期社員\[color(white)\]\n…少しネタ選びは慎重に行きましょうよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]同期社員\[color(white)\]\n何よ、やっぱり世紀末じゃない！\nグランドクロスじゃなくポールシフトよ！\nやっぱり太陰暦で考えるべきだったのよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]同期社員\[color(white)\]\nあ～真面目に苦情の相手をしたのがクヤシ～イ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]同期社員\[color(white)\]\nはぁ～先輩ってば張り切ってるわね～\nもう根っからの編集人なんだぁ。\n…私にもマネ出来るかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]同期社員\[color(white)\]\nなんか例のＴＶ放送の後からさ、ワンロン占いが\nちょっとオカルトものみたいに思われてるのよ。\n別のファンまで付いちゃったって感じよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]同期社員\[color(white)\]\n今度の巻頭特集は何になるのかな？\nこの状況でどんなネタを持ってくるのか？\n…難しいところよね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]同期社員\[color(white)\]\nさっすがワンロン占い！いえ、望龍術！\n期待通り、本当に空に浮かび上がったわよ。\n…滅亡？そんな事心配してるの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]同期社員\[color(white)\]\nこの珠閒瑠市…\nいえ、アメノトリフネは大丈夫なのよ！\n天野っち～ちゃんと記事読みなさいよね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]同期社員\[color(white)\]\nあれ、ポールシフトはどうなったの？\n望龍術がミスったの？うそ、まさか？\n信じられないわよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\n怖い世の中だよな。\n天野は親元から通ってんだっけ？\n…え、違うの！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\n危ないよ女のコの一人暮はぁ～！\n…女のコの二人暮だから大丈夫？\nはぁ～大丈夫です…か…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\n天野、穢れ祓いの講演会とか行った？\n…え、行ってないの？\nヤバイよそれ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\n俺もまだだから危ないんだけど、\n天野も早く行った方がいいよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\nまずいよ、まずいよ。粛清されちゃうよ。\nあ、天野！！穢れ祓い受けた？\n受けてないの！！それまずいよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\n心に穢れを持つ人間は、新世塾…\nいや、天誅軍の連中に殺されちゃうらしいよ！\n…俺も忙しくて行ってないんだよな～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\nはぁ～珠閒瑠市はどうなるんだろ。\n天野はこれからどうするの？\n…はぁ？ニャルラとステップ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\n誰かと踊りに行くってワケね。\nいいねぇ、幸せそうで。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]田崎\[color(white)\]\nちょっと、この間の原稿どこやったの？\nあれ、最新号の色校っていつ戻したのよ！？\n全く…あら天野さん！……いたの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]田崎\[color(white)\]\n…落ち着くのよ。…落ち着いて考えるのよ。\n今、高校生が求める情報は何なのか？\n…ン！サバイバル情報！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]田崎\[color(white)\]\n違う、違うわ。\nもっとこう…せつな………ぶつ…ぶつ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]田崎\[color(white)\]\nあぁ、こんな事になるなんて…\n記事の内容が自分の身に降りかかるなんて\n考えた事なかったわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]田崎\[color(white)\]\n私、なんて一方的に情報を発信してきたのかしら。\n…天野さんもそう思ったことはある？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]田崎\[color(white)\]\n私ね、クーレストの部数を伸ばす事が\n一番大事だと思ってたの。\nでも、それってどっかおかしいわよね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]田崎\[color(white)\]\n…あら、ごめんなさいね。\n天野さんには難しい話だったわね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\n猟奇殺人の次は白昼堂々の拉致事件か…\n珠閒瑠市も犯罪都市まっしぐらだな。\n…拉致事件は知らないだぁ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\nお前、新聞くらい読めよ！\n…し・ん・ぶ・ん！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\n新世塾の世界滅亡計画…ん？つー事はなにか？\nワンロン占いブームも古代史ブームも、\n仕掛け人は新世塾って事？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\n代理店よりすげぇよな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\nおいおい、アメノトリフネっていうのは\n珠閒瑠市そのものの事だったのか？\n…うちのガキ、大丈夫かな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\n…なに？…うちのガキ？\n何、お前、心配してくれてたのか？\nあぁ元気だったよ。…ありがとな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\n俺、高校生向けの雑誌なんてヤなんだよね。\nジャーナリスト目指してんのにさ、\nクーレストの編集なんかやってらんねぇよなぁ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\n…なんだよ天野？\n何か用かい？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "何か用かい？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57_Choice1
+
+msgid "名前を言い当てる"
+msgstr ""
+
+#. msg_57_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_57_Choice3
+
+msgid "用はない"
+msgstr ""
+
+#. msg_58
+
+msgid "タナカオサミツ\n\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\nあまのくぅ～ん？\nお前は先輩の名前も知らないのかぁ？\n…まったく今時の連中はダメだな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "\[color(yellow)\]タナカオサミツ\[color(white)\]\nなんだよ急にあらたまって。\nなに？…同級生？…高校の？\nあいつが俺を捜してんの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61
+
+msgid "\[color(yellow)\]タナカオサミツ\[color(white)\]\n…ふーん。\nあいつと会うの１０年ぶりだな。\nいやー懐かしいよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]タナカオサミツ\[color(white)\]\nわかった、あいつのケータイに連絡しとくわ。\nところで天野…\[delay(30)\]バイトは禁止だぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(yellow)\]タナカオサミツ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_65
+
+msgid "現職外務大臣の汚職を暴く…かぁ。\nこの記事書いたヤツとこの間飲んだンだよね～\nなんかイキイキしてたなぁ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]タナカオサミツ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_68
+
+msgid "いいなぁ～社会部…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_69
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_70
+
+msgid "\[color(yellow)\]タナカオサミツ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_71
+
+msgid "同期入社で社会部に行ったヤツ、\n今頃何してんのかな？\nきっと、嬉嬉として原稿書いてんだろうなー\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_72
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_73
+
+msgid "\[color(yellow)\]タナカオサミツ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_74
+
+msgid "あぁ、社会部…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_75
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_76
+
+msgid "\[color(yellow)\]タナカオサミツ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_77
+
+msgid "この混乱が逆にチャンスかも！？\n今の内に原稿書き溜めて、世が正常化した時に…\n…滅亡？その時は…\[delay(15)\]その時だ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_78
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_79
+
+msgid "\[color(yellow)\]タナカオサミツ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_80
+
+msgid "もう、高校生向けでも何でもどうでもイイ！！\n今回の騒動をまとめるぞ！\n今週末には入稿だ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_81
+
+msgid "\[color(yellow)\]先輩社員\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_82
+
+msgid "\[color(yellow)\]タナカオサミツ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_83
+
+msgid "えー、考古学…いや神秘学の教授に原稿手配して、\n表１のポジは…藤井君！藤井ク～ン！\n例のポジはどこだっけ～～～！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_84
+
+msgid "\[color(yellow)\]編集長室\[color(white)\]\n\[color(green)\]…会議中のようだ。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_85
+
+msgid "\[color(yellow)\]編集長室\[color(white)\]\n\[color(green)\]…編集長は休暇中のようだ。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_86
+
+msgid "\[color(yellow)\]非常階段\[color(white)\]\n\[color(green)\]ここには入れない。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_87
+
+msgid "\[color(yellow)\]箱の中\[color(white)\]\n\[color(green)\]月刊バトルマスターからの\n手紙が入っている。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_88
+
+msgid "\[color(yellow)\]月刊バトルマスターからの手紙\[color(white)\]\n「懸賞への御応募、誠にありがとうございます。\nお客様は、残念ながら落選されてしまいました。\nまた、次回の御応募お待ちしております。」\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_89
+
+msgid "\[color(yellow)\]箱の中\[color(white)\]\n\[color(green)\]別冊ミラクルからの\n手紙が入っている。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_90
+
+msgid "\[color(yellow)\]別冊ミラクルからの手紙\[color(white)\]\n「懸賞への御応募、誠にありがとうございます。\nお客様は、残念ながら落選されてしまいました。\nまた、次回の御応募お待ちしております。」\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_91
+
+msgid "\[color(yellow)\]箱の中\[color(white)\]\n\[color(green)\]ファンタジーワールドからの\n手紙が入っている。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_92
+
+msgid "\[color(yellow)\]ファンタジーワールドからの手紙\[color(white)\]\n「懸賞への御応募、誠にありがとうございます。\nお客様は、残念ながら落選されてしまいました。\nまた、次回の御応募お待ちしております。」\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_93
+
+msgid "\[color(yellow)\]箱の中\[color(white)\]\n\[color(green)\]月刊バトルマスターからの\n手紙が入っている。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_94
+
+msgid "\[color(yellow)\]月刊バトルマスターからの手紙\[color(white)\]\n「懸賞への御応募、誠にありがとうございます。\nお客様は、見事当選なされました。\nおめでとうございます！！」\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_95
+
+msgid "\[color(yellow)\]月刊バトルマスターからの手紙\[color(white)\]\n「賞品として\n\[color(green)\]\[var(msg_var_0)\]\[color(white)\]をお送りいたします。\nまたの御応募を、お待ちしています。」\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_96
+
+msgid "\[color(green)\]\[item_with_type(item_ffff)\]を手に入れた。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_97
+
+msgid "\[color(yellow)\]箱の中\[color(white)\]\n\[color(green)\]別冊ミラクルからの\n手紙が入っている。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_98
+
+msgid "\[color(yellow)\]別冊ミラクルからの手紙\[color(white)\]\n「懸賞への御応募、誠にありがとうございます。\nお客様は、見事当選なされました。\nおめでとうございます！！」\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_99
+
+msgid "\[color(yellow)\]別冊ミラクルからの手紙\[color(white)\]\n「賞品として\n\[color(green)\]\[var(msg_var_0)\]\[color(white)\]をお送りいたします。\nまたの御応募を、お待ちしています。」\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_100
+
+msgid "\[color(green)\]\[item_with_type(item_ffff)\]を手に入れた。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_101
+
+msgid "\[color(yellow)\]箱の中\[color(white)\]\n\[color(green)\]ファンタジーワールドからの\n手紙が入っている。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_102
+
+msgid "\[color(yellow)\]ファンタジーワールドからの手紙\[color(white)\]\n「懸賞への御応募、誠にありがとうございます。\nお客様は、見事当選なされました。\nおめでとうございます！！」\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_103
+
+msgid "\[color(yellow)\]ファンタジーワールドからの手紙\[color(white)\]\n「賞品として\n\[color(green)\]\[var(msg_var_0)\]\[color(white)\]をお送りいたします。\nまたの御応募を、お待ちしています。」\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_104
+
+msgid "\[color(green)\]\[item_with_type(item_ffff)\]を手に入れた。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_105
+
+msgid "\[color(yellow)\]箱の中\[color(white)\]\n\[color(green)\]手紙が入っている。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_106
+
+msgid "\[color(yellow)\]差出人不明の手紙\[color(white)\]\n君は、これを手にする器の者か？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_107
+
+msgid "\[color(green)\]\[item_with_type(item_ffff)\]を手に入れた。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_108
+
+msgid "懸賞応募・バトル・ワールド\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_109
+
+msgid "懸賞応募・ミラクル\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_110
+
+msgid "懸賞応募・ミラクル\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_111
+
+msgid "ＭＢＩＴＡＩＳ３２\n相性占いの\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_112
+
+msgid "ＥＢＩＴＥ００６Ｆ\n「研究施設・ＴＶ局クリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_113
+
+msgid "ＥＢＩＴＥ００７７\n「スマイル平坂クリア・克哉離脱」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_114
+
+msgid "ＥＢＩＴＥ００７Ａ\n「野音クリア・克哉編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_115
+
+msgid "ＥＢＩＴＥ００７Ｂ\n「竜蔵と殺し屋の電話を盗聴」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_116
+
+msgid "ＥＢＩＴＥ００７Ｆ\n「廃工場クリア・パオフゥ編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_117
+
+msgid "ＥＢＩＴＥ００８Ｃ\n「海底遺跡クリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_118
+
+msgid "ＥＢＩＴＥ００９Ｆ\n「岩戸山クリア・南条かエリー離脱・達哉編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_119
+
+msgid "ＥＢＩＴＥ００ＡＦ\n「アメノトリフネクリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_120
+
+msgid "ＥＢＩＴＥ００Ｂ８\n「珠「瑠城クリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

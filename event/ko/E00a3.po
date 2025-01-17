@@ -1,0 +1,63 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00a3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nこれは…天誅軍の連中か。\n罠にやられたようだが…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nこれも、そのニャルなんとかの仕業なわけ！？\nおかしくない？\nどうして手下まで殺すのさ…！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n新世塾の連中も、\nトリフネの秘密に気づいてない証拠だ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n「ヤツ」にとって、全ての人間は駒に過ぎない…\nきっと連中は、「ヤツ」の存在すら知らないんだ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n正義の味方を気取るわけじゃないけどさ…\n今まで、大勢人が死んだよね…\nこんな私でもさ、もうたくさんだって思うわよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n人のために何かをしたいって思ったら、\n損得考えずにやりなさいっておばあちゃんが\n言ってたけど、ようやくわかったわ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n\[tatsuya\]の奴、ここは無意識の世界の一部だ\nというような事を言ったな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n我々の心は、幾つもの層から成り立っているんだ…\n普段、僕達が「自分」と意識する自我があり、\nその下には抑圧された個人的無意識がある。\n\[wait\]\[clear\]\[color(yellow)\]克哉\[color(white)\]\nそしてその下には、属する社会によって異なる\n家族的無意識や文化的無意識…普遍的無意識と\n呼ばれる深淵がどこまでも広がっている…\n\[wait\]\[clear\]\[color(yellow)\]克哉\[color(white)\]\n普遍的無意識は、人類全体が共有する無意識の海\nのようなものだと思えばいいだろう…\nその海に浮かぶちっぽけな島…それが自我なんだ\n\[wait\]\[clear\]\[color(yellow)\]克哉\[color(white)\]\n街の人々の噂がこの船を生んだのならば、\nここは珠閒瑠市に住む人々の、社会的無意識\nそのものと言えるのかもしれないな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n這い寄る混沌だかなんだか知らねぇが…\n邪魔はさせねぇ…竜蔵を殺るのは俺だ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nこの船も…ヤツも…\n人が手を出していい存在じゃない…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

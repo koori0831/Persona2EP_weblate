@@ -1,0 +1,1018 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M002A\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "パーティの人数が四人を超えています。\nこのままじゃハングします。\n金田・片岡に連絡してください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nＪＯＫＥＲって、あんなヤツだったんだ。\n殺人鬼って実在するんだねぇ。この目で見て納得！\n…ＪＯＫＥＲ呪いって、ヤバイのかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nここの所長って、何か不思議な感じしない？\n外見からは想像出来ない切れ者ぶりっていうか、\n見かけと中身が一致してないような？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nねぇマーヤ、早くノリコちゃんを助けに行こう。\n早くしなきゃ…早くしなきゃダメだよ！\nあんな若いコをＪＯＫＥＲなんかにしちゃダメ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nゾディアックでのパオフゥ、怖かったよね。\n人には言えない過去があるみたいだけど、\nそれが原因なのかなぁ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n大臣が率いる悪の組織…そう言えば昔のマンガに、\n悪の組織の正体が、その国の政府だった！\n…ってのがあったねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nねぇ、私の作戦で上手くいったでしょう？\n何、マーヤ？…それって尊敬の眼差し？\nやだぁ、なに見てんのよ！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n天野君…\n店への噂操作は、業務妨害にあたるんじゃないか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nとは言ってみたものの、\n裁判の判例にもこんな例はないだろうし…\n何か法と自分の限界を感じるよ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n…かわいいなぁ～あの大きな招き猫。\nえ！？僕の外見と中身が一致しない？\n僕が猫好きだと…変なのか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nＪＯＫＥＲ呪いによるＪＯＫＥＲ化…\n須藤が死に際に言い残したのは、\nこの事だったのか。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n結婚詐欺の余罪追求？\n罪を見逃す気は無いが、今は人命優先！\n当然、そんな事は後回しだ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n天野君、芹沢君の言う通りだ。\n彼女にこれ以上罪を重ねさせてはいけない！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nなぁパオフゥ…\nいい加減、隠し事はやめにしないか？\n自分に出来る事であれば、協力は惜しまないぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n確かに外務大臣である須藤の影響力は大きい。\nしかし、それに屈しない奴もいるって事を\n思い知らせてやる！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n無事、南条君や桐島君と接触が取れたな。\n噂を利用するなんて、僕には考えもつかなかった。\n芹沢君の発想力には驚かされるよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nネット上にも似たようなヤツがいるな。\n掲示板やメールでは雄弁なクセに、現実社会では\n何も言えないヤツ。…あれ、ちょっと違うか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nいいか天野！もう誰もあてには出来ねぇぞ！\nこの社会も、信頼している仲間も、先ず疑え！\n頼れるのは自分だけだ…いいな！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n「ＪＯＫＥＲは死なない」ねぇ…\n確かにあの野郎が死んでも、事件は終らねぇな。\nフン、よく言ったもんだぜ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nへへへ、あのサギ野郎開き直りやがった。\nどうすんだ\[suou\]？\n徹底的に絞りあげるか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n例え未成年の少女であろうと…\n例えＪＯＫＥＲ呪いによる間接的殺人であっても、\n罪は償わなきゃいけねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n…何も話す事は無いぜ。\nそれに、俺にかまってるヒマなんかねぇだろ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nしかし黒い噂の絶えない男だよな、\n須藤竜蔵ってヤツは。\n…昔っからな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n芹沢の作戦、確かにスゲー発想だよな。\n普通の頭じゃ思い付かねぇよ。\n…しかし、本当に上手く行ってんのか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nほう、懐かしい顔だな。\n君は確か大学へ進んだ筈では…\n…バイト？こんな所でか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n噂を操作して俺達を捜し出すとは…\n良く思いついたと言うか、何と言うか…\n溺れる者はわらをも掴むと言うやつか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＯｈ！久しぶりですわ、Ｍｓ．Ｔａｍａｋｉ！\nお元気でした？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n新世塾が言霊を操っているのなら、\n私達が皆さんとＣｏｎｔａｃｔを取る事も\n阻止出来た筈なのに…Ｗｈｙ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nおつかれー！\nさて、ご用件はなにかしら？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "あ、こんにちは～！\nあっれぇ～？天野さん最近なんかありました？\n…だって、すっごくキレイになったもん！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nはっは～ん？さては…\nな～んてね！！エヘヘ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nこれで、懸賞に関する噂も現実になるはず。\nそれでは、応募は私が引き受けますね。\n天野さん達、忙しいでしょ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nさて、どうします？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32_Choice1
+
+msgid "話をする"
+msgstr ""
+
+#. msg_32_Choice2
+
+msgid "応募したい"
+msgstr ""
+
+#. msg_32_Choice3
+
+msgid "懸賞とは？"
+msgstr ""
+
+#. msg_32_Choice4
+
+msgid "用はない"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nＯＫ、応募ですね。\nえ～と、月刊バトルマスターは…\[delay(30)\]\nブッブーッ！！ダメで～す。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nこの前応募した分、確認してませんね？\n受け取りはキスメット出版の編集部ですから、\n当たってるか確認してから来てくださいね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "ＯＫ、応募ですね。\n\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "お、続けて応募ですね。\n\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "え～と、別冊ミラクルは…\[delay(30)\]\nブッブーッ！！ダメで～す。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nこの前応募した分、確認してませんね？\n受け取りはキスメット出版の編集部ですから、\n当たってるか確認してから来てくださいね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "ＯＫ、応募ですね。\n\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "お、続けて応募ですね。\n\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "え～と、ファンタジーワールドは…\[delay(30)\]\nブッブーッ！！ダメで～す。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nこの前応募した分、確認してませんね？\n受け取りはキスメット出版の編集部ですから、\n当たってるか確認してから来てくださいね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nＯＫ、応募ですね。\nえ～と、月刊バトルマスターは…\[delay(30)\]\n\[var(msg_var_1)\]冊分ですね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\n受け取りは…\nキスメット出版の編集部…っと。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "ＯＫ、応募ですね。\n\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "お、続けて応募ですね。\n\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "え～と、別冊ミラクルは…\[delay(30)\]\n\[var(msg_var_2)\]冊分ですね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\n受け取りは…\nキスメット出版の編集部…っと。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "ＯＫ、応募ですね。\n\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "お、続けて応募ですね。\n\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "え～と、ファンタジーワールドは…\[delay(30)\]\n\[var(msg_var_3)\]冊分ですね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\n受け取りは…\nキスメット出版の編集部…っと。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\n本当にいいんですか～？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57_Choice1
+
+msgid "ＯＫ"
+msgstr ""
+
+#. msg_57_Choice2
+
+msgid "やっぱりやめる"
+msgstr ""
+
+#. msg_58
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nラジャー！\nちゃーんと応募しときますよ。\nなんか当たるといいですね！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nラジャー！ちゃーんと応募しますね。\nえ～と、あとは…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nラジャー！ちゃーんと応募しますね。\nえ～と、あとは…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nラジャー！\n応募したくなったらまた来てくださいね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nラジャー！\n応募したくなったら言ってくださいね。\nえ～と、あとは…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nラジャー！\n応募したくなったら言ってくださいね。\nえ～と、あとは…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nＯＫ！\[delay(30)\]\n…って天野さ～ん、１冊も持ってないですよ～\nサトミタダシで買ってから来てくださいね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\n…これで終わりみたいですよ。\nなんか当たるといいですね！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\n懸賞は抽選で何々を差し上げますってヤツ。\n本を買って応募すれば、ある程度の確率で\nアイテムが貰えるの。当たればラッキー！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\n手順は、懸賞のついた雑誌をサトミタダシで購入。\n私に雑誌を渡す。私がかわって応募。\nキスメット出版編集部で受け取る…ってカンジ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_68
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nここでルール！！まず応募は一回ずつ。\n先の当選結果が出るまで次の応募はできないの。\n…なぜって？そういうモノなの！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_69
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nそれから、一度に応募できるのは、９９冊分まで。\nやっぱ、たくさん送った方が当たりやすいわ。\n私的には毎回９９冊分での挑戦がオススメ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_70
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\n最後に、結果が出るまでにはある程度時間が必要。\nジッとしててもダメダメ。\nひたすらダンジョンを歩く歩く。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_71
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\n後は根気と運しだい！\n夢を捨てない天野さんなら、\nレアなアイテムが取れるかも…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_72
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nあっれぇ～？天野さん最近なんかありました？\n…だって、すっごくキレイになったもん！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_73
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nはっは～ん？さては…\nな～んてね！！エヘヘ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_74
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nまさか噂が現実化するなんてね。\nでも今の時代、何が起きても不思議じゃない！！\nその変化についていけるのも若さゆえ…ですね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_75
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nアイツ、殺し屋に追われてるって言ってたけど、\nまさかＪＯＫＥＲに追われていたのかしら？\n…アイツを呪うような暇なヤツ、いるのかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_76
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nあ、気にしないで下さい。\nただの独り言ですから…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_77
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nわたし達の方でもいろいろ調べてるんだけど、\nなーんにも分かってないの。\n行方不明者の増加は関係あるかしら？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_78
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\n新世塾かぁ。ゼンゼン聞いたことないけど、\n財界の大物とかが参加してるんでしょ？\nじゃあ、すぐに尻尾は掴めそうね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_79
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nあれっ、南条君じゃない？\nどうして天野さん達と一緒なの？\n…え、エリーも？ふ～ん、そうなんだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_80
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\n南条君とエリーはね、\nわたしと同じエルミン学園の卒業生なの。\nみんな元気でなによりね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_81
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nあれっ、エリーじゃない？\nどうして天野さん達と一緒なの？\n…え、南条君も？ふ～ん、そうなんだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_82
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nエリーと南条君はね、\nわたしと同じエルミン学園卒業生なの。\nみんな元気でなによりね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_83
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\n何かあったら言ってくださいね。\nわたしにできる事なら、お手伝いしますから。\n\[delay(30)\]…できる事だけですよ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_84
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\nあらためて…はじめましてニャー\nアタシは噂好きのネコマタなのニャ♥\nヒトの知らない噂を集めてるのニャー\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_85
+
+msgid "\[color(yellow)\]ネコマタ\[color(green)\]\nデビルサマナーであるたまきちゃんの仲魔。\nいたずら好きでお金に目が無い困り者。\n悪魔のあいだに広まる特殊な噂に詳しい。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_86
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\nところで…\n今日はどんニャ用なのかニャー？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_87
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\nニャニャ♥また来たニャ！？\nアタシの話を聞きたいのかニャ～？\nでも、\[delay(30)\]ドアを開ける時はノックを忘れるニャ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_88
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\nところで…\n今日はどんニャ用なのかニャー？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_89
+
+msgid "今日はどんニャ用なのかニャー？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_89_Choice1
+
+msgid "噂話を聞きたい"
+msgstr ""
+
+#. msg_89_Choice2
+
+msgid "話を聞きたい"
+msgstr ""
+
+#. msg_89_Choice3
+
+msgid "用はない"
+msgstr ""
+
+#. msg_90
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\n話せる噂はもうないニャ～\n…ごめんニャ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_91
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\n噂を聞きたいのかニャ？\nそうだニャ～\nそっちも何か噂を教えてくれニャ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_92
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\nニャンと、噂を教えろと言うのか！\nじゃあ、かわりの噂を教えてくれニャ！\nアタシと情報交換ニャ～！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_93
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\nアタシの情報は特別ニャー♥\nそれに見合った噂はお持ちかニャ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_94
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\nそ、それはホントかニャー！？\nスゴイことを知ってしまったニャ！\n…約束通り、アタシも教えるニャ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_95
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\nへー、あのヒトにそんな噂まであるんニャ。\nふーん、人間って面白いニャー\nじゃ、次はアタシの番ニャ♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_96
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\nそれって良く聞く噂ニャ～\nま、今日はそれで勘弁してやるかニャ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_97
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\n\[color(orange)\]トリッシュ\[color(white)\]って悪魔は知ってるニャ？\n嘘かホントか、\[color(orange)\]改心した\[color(white)\]って評判ニャ！\nアタシにはどうしても信じられないニャー\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_98
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\n\[color(orange)\]かおり\[color(white)\]ってお店、知ってるかニャー？\nじゃ、そこで\[color(orange)\]アロマテラピーを始めた\[color(white)\]の知ってる？\nアレはキクのニャ。悪魔もびっくりニャー！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_99
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\nあやしいエステの店…ニャんだっけ？そうそう！\nあの\[color(orange)\]エテーリア\[color(white)\]のエステに、\[color(orange)\]新たなエステコース\[color(white)\]が\n追加されたらしいニャ。悪魔もうっとりニャー\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_100
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\n\[color(orange)\]トリッシュ\[color(white)\]って悪魔に会った事あるかニャ？\n噂によると、ダンジョンの中で\[color(orange)\]アイスを売り始めた\[color(white)\]\nらしいのニャ。きっと金儲けの為ニャー\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_101
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\n知ってるかニャー？\nたまちゃんはね、実はデビルサマナーなのニャー♥\nアタシはね、たまちゃんの仲魔ニャー\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_102
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\nＪＯＫＥＲはね、悪魔を酷使するのニャー\nだから嫌なの。ホンキでムカツクのニャー！！\n増えたら困るのニャ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_103
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\nあぁ！！アナタ、気付いてるかニャ！？\nアナタの新しい仲間、ペルソナ使いなのニャー！！\n…え、知ってたの？ニャーんだ、がっかり。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_104
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\n最近、悪魔はないがしろにされてるニャー\nねぇ、アタシたち悪魔の事、どーおもってるの？\n…昔は「仲魔」って呼んでニャかった？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_105
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\nそれじゃまたニャー♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_106
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\n探偵事務所？\nなんだよ、いまさら俺の女性遍歴でも調べる気か？\n余罪でも追及する気かい、刑事さんよぉ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_107
+
+msgid "\[color(yellow)\]轟所長\[color(white)\]\n来たか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_108
+
+msgid "\[color(yellow)\]轟所長\[color(white)\]\nよぉ、来たな。\n…どうした？何か困り事か？\nよし、今日は特別に力になってやる。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_109
+
+msgid "\[color(yellow)\]轟所長\[color(white)\]\nただし、依頼料金はいつも通りだぞ。\n…な～に、全ては気持ちの問題だ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_110
+
+msgid "\[color(yellow)\]轟所長\[color(white)\]\n今日の用件はなんだ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_110_Choice1
+
+msgid "噂の依頼"
+msgstr ""
+
+#. msg_110_Choice2
+
+msgid "噂の確認"
+msgstr ""
+
+#. msg_110_Choice3
+
+msgid "話を聞く"
+msgstr ""
+
+#. msg_110_Choice4
+
+msgid "やめる"
+msgstr ""
+
+#. msg_110_Choice5
+
+msgid "探偵事務所から出る"
+msgstr ""
+
+#. msg_111
+
+msgid "\[color(yellow)\]轟所長\[color(white)\]\n何について聞きたいんだ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_111_Choice1
+
+msgid "世間話を聞く"
+msgstr ""
+
+#. msg_111_Choice2
+
+msgid "噂について説明を聞く"
+msgstr ""
+
+#. msg_111_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_112
+
+msgid "\[color(yellow)\]轟所長\[color(white)\]\n他に何かあるか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_112_Choice1
+
+msgid "噂の依頼"
+msgstr ""
+
+#. msg_112_Choice2
+
+msgid "噂の確認"
+msgstr ""
+
+#. msg_112_Choice3
+
+msgid "話を聞く"
+msgstr ""
+
+#. msg_112_Choice4
+
+msgid "やめる"
+msgstr ""
+
+#. msg_112_Choice5
+
+msgid "探偵事務所から出る"
+msgstr ""
+
+#. msg_113
+
+msgid "\[color(yellow)\]轟所長\[color(white)\]\n何について聞きたいんだ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_113_Choice1
+
+msgid "世間話を聞く"
+msgstr ""
+
+#. msg_113_Choice2
+
+msgid "噂について説明を聞く"
+msgstr ""
+
+#. msg_113_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_114
+
+msgid "\[color(yellow)\]轟所長\[color(white)\]\n噂とは、そう簡単に広まるものではない。\nそれを耳にし、口にする人々の心理が\n大きく関係するからだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_115
+
+msgid "\[color(yellow)\]轟所長\[color(white)\]\nこの街には噂好き…噂屋と呼ばれる連中がいる。\nそいつらの持っている噂なら、人々に広まり易く、\n現実化も楽に出来るかもしれんな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_116
+
+msgid "\[color(yellow)\]轟所長\[color(white)\]\n目の前の出来事に振り回されていては駄目だ。\nこの一連の騒動には、必ず裏がある。\nいいか、それだけは忘れるなよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_117
+
+msgid "\[color(yellow)\]轟所長\[color(white)\]\nＪＯＫＥＲとなる者が増えているのならば、\nこの街はもっと騒がしくなる筈…\nそれが感じられないのは、何故だ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_118
+
+msgid "\[color(yellow)\]轟所長\[color(white)\]\n新世塾…それが事件の裏にいる組織…\nなかなか面白そうな話だな。\n少し探りを入れてみるかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_119
+
+msgid "\[color(yellow)\]轟所長\[color(white)\]\nたまきとお前の連れが知り合いだったとはな…\n世の中は狭いもんだ。もっとも、俺がそうした\n人間に出会うことは無いだろうがな…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_120
+
+msgid "\[color(yellow)\]轟所長\[color(white)\]\n俺達が力になれるのは、噂を操作するまでだ。\n後はお前達しだい。\nじゃあ…あばよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_121
+
+msgid "\[color(yellow)\]轟所長\[color(white)\]\n懸賞か…\n応募は、たまきに頼めばいいだろう。\n彼女に相談してみろ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_122
+
+msgid "\[color(yellow)\]招きネコ\[color(white)\]\n久しぶりニャー♥\n今回は大人だから、千円入れてニャー♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_123
+
+msgid "\[color(yellow)\]招きネコ\[color(white)\]\n大人だから、千円入れてニャー♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_124
+
+msgid "ここに千円入れて欲しいニャー♥\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_124_Choice1
+
+msgid "入れる"
+msgstr ""
+
+#. msg_124_Choice2
+
+msgid "入れない"
+msgstr ""
+
+#. msg_125
+
+msgid "\[color(yellow)\]招きネコ\[color(white)\]\nあっ、持ってないニャー♥\nうそつきは泥棒の始まりニャー♥\nおととい来るニャー♥\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_126
+
+msgid "\[color(yellow)\]招きネコ\[color(white)\]\n感激ニャ～♥\[delay(15)\]\nもう２０回も千円入れてもらったニャ～♥\[delay(15)\]\n今後に期待するニャ～♥\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_127
+
+msgid "\[color(yellow)\]招きネコ\[color(white)\]\nニャニャニャ～♥\[delay(15)\]\nなんともう５０回も千円入れてもらったニャ～♥\[delay(15)\]\nお姉さん、とっても太っ腹ニャ～♥\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_128
+
+msgid "\[color(yellow)\]招きネコ\[color(white)\]\n凄いニャ～！凄いニャ～！！\[delay(15)\]\nもう、８０回も千円入れてもらったニャ～♥\[delay(15)\]\n何か下心があるニャ？\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_129
+
+msgid "\[color(yellow)\]招きネコ\[color(white)\]\nありがとニャー♥\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_130
+
+msgid "\[color(yellow)\]招きネコ\[color(white)\]\n…\[delay(15)\]ケチ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_131
+
+msgid "\[color(yellow)\]招きネコ\[color(white)\]\nつ、ついにこの時を迎えてしまったニャ…\[delay(15)\]\n記念すべき、１００回目…\[delay(15)\]\n１０００００円も溜まってしまったニャ～\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_132
+
+msgid "\[color(yellow)\]招きネコ\[color(white)\]\nこんなに只で貰ってしまっては\nさすがに悪い気がするニャ～\[delay(30)\]\nだから特別に…\[delay(15)\]こっちに来いニャー！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_133
+
+msgid "\[color(yellow)\]招きネコ\[color(white)\]\nこっち、こっちニャー♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_134
+
+msgid "\[color(yellow)\]招きネコ\[color(white)\]\nもう～わかんないかニャ～\nこっち、こっちニャ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_135
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\nはじめまして…\[delay(30)\]ニャニャ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_136
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nこらっ、あんた何してんの！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_137
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\nた、\[delay(30)\]たまきちゃん！！\nご…ごめんニャ～\nあんまり退屈ニャもんで…つい…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_138
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nごめんなさいね～舞耶さん。\nコイツ、いたずら好きで困ってるんです。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_139
+
+msgid "\[color(yellow)\]たまきちゃん\[color(white)\]\nもうっ！！\n舞耶さんにもちゃんとあやまんなさいよ！\n…まったくぅ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_140
+
+msgid "\[color(yellow)\]悪魔噂屋ネコマタ\[color(white)\]\nご、ごめんニャニャイ…\nおわびに、とっておきの噂を教えるニャ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_141
+
+msgid "\[color(yellow)\]招きネコ\[color(white)\]\nそこはきっと開かないニャー\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_142
+
+msgid "懸賞の噂依頼\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_143
+
+msgid "懸賞本９９・０・９９\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_144
+
+msgid "懸賞本１・５０・０\nミラクル応募可\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_145
+
+msgid "ネコカウント４９増加\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_146
+
+msgid "ネコカウント\nさらに４９増加\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_147
+
+msgid "ＭＢＩＴＡＩＳ１９\n相性占いの\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_148
+
+msgid "ＭＢＩＴＡＩＳ２５\n相性占いの\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_149
+
+msgid "ＥＢＩＴＥ００１５\n七姉妹学園クリア\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_150
+
+msgid "ＥＢＩＴＥ００１８\nバー終了・パオフゥ初参加\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_151
+
+msgid "ＥＢＩＴＥ００３３\n「パオフゥ編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_152
+
+msgid "ＥＢＩＴＥ００３７\n警察署\[half_tab\]受付、終了\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_153
+
+msgid "ＥＢＩＴＥ００３８\n「詐欺男を確保」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_154
+
+msgid "ＥＢＩＴＥ００３Ｅ\n「ゴールドクリア」「うらら編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_155
+
+msgid "ＥＢＩＴＥ００４３\n「クラブクリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_156
+
+msgid "ＥＢＩＴＥ００４４\n「青葉公園クリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_157
+
+msgid "ＥＢＩＴＥ００４６\n「南条ｏｒエリー編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_158
+
+msgid "ＥＢＩＴＥ００６Ｆ\n「研究施設・ＴＶ局クリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_159
+
+msgid "\[color(yellow)\]轟所長\[color(white)\]\n「噂」についての説明だな。\n\[wait\]\[clear\]\[color(yellow)\]轟所長\[color(white)\]\n「噂の依頼」を選択し、どの噂を流すか選べ。\nそうしたら、その噂話を珠聞瑠中に広めてやる。\n仕事として請け負う以上、金銭は要求させてもらうがな。\n\[wait\]\[clear\]\[color(yellow)\]轟所長\[color(white)\]\n噂の元ネタは「噂屋」から聞いて持ってこい。\nやつらは、珠聞瑠のあちこちにいる。\nがんばって探してみるんだな。\n\[wait\]\[clear\]\[color(yellow)\]轟所長\[color(white)\]\nそれから、すでに広めた噂については\n「噂の確認」から確認できるぞ。\n\[wait\]\[clear\]\[color(yellow)\]轟所長\[color(white)\]\n俺に依頼した噂以外にも、悪魔共の中で\n流行ってる噂も確認できる。\n…まあ、こんなところだな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_160
+
+msgid "\[color(yellow)\]本棚\[color(white)\]\n\[color(green)\]スライド式の本棚。\n動きそうだが…\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_161
+
+msgid "\[color(yellow)\]本棚\[color(white)\]\n\[color(green)\]スライド式の本棚だが、動きそうにない。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_162
+
+msgid "\[color(yellow)\]本棚\[color(white)\]\n\[color(green)\]スライド式の本棚だが、動きそうにない。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_163
+
+msgid "\[color(yellow)\]本棚\[color(white)\]\n\[color(green)\]\[item_with_type(item_fffe)\]を手に入れた。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_164
+
+msgid "\[color(yellow)\]轟所長\[color(white)\]\nこの噂操作には、\[var(msg_var_0)\]円かかるが、依頼するか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_164_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_164_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_165
+
+msgid "\[color(yellow)\]轟所長\[color(white)\]\nこの噂操作には、\[var(msg_var_0)\]円かかるが、依頼するか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_165_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_165_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_166
+
+msgid "\[color(yellow)\]轟所長\[color(white)\]\nこの噂はどう広まるか分からんな…。\n\[var(msg_var_0)\]円かかるが、それでもいいか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_166_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_166_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_167
+
+msgid "\[color(yellow)\]轟所長\[color(white)\]\nお前達の所持金では、依頼料を払えないぞ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+

@@ -1,0 +1,838 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M003E\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "パーティの人数が四人を超えています。\nこのままじゃハングします。\n金田・片岡に連絡してください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nわぁーキレイな首飾り！！見てみなよ、ホレ！\n…気に入ったの？じゃ買いなよ！\n取材費でごまかせるでしょ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあのコ…リサちゃんだっけ？\n彼女も\[tatsuya\]君と縁があるみたいだねぇ。\nでも、知り合いじゃないってのは…謎ね！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあのコ…栄吉君だっけ？\n彼も\[tatsuya\]君と縁があるみたいだねぇ。\nでも、知り合いじゃないってのは…謎ね！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n芹沢君、僕の前で犯罪を誘発するような事を\n口にするのはやめて欲しいな。\n…もしかして、わかってない？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nリサ・シルバーマン……人気アイドル…\n…橿原淳……春日山高校の生徒……か。\n二人に共通する点…\[tatsuya\]との接点は何だ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n三科栄吉と…橿原淳……\n共に春日山高校の生徒……か。\n二人に共通する点…\[tatsuya\]との接点は何だ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n天野、必要経費の虚偽報告及び不当請求はなぁ\n立派な犯罪なんだぞ。業務上横領ってヤツだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n\[suou\]の弟が、新世塾と戦う理由は何だ？\nまぁ何かしらの理由があったとしてもなぁ、\n一人で戦う必要はねぇだろ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nこの店の商品はなかなか良いな。\nただ、若干物足りない。\n…中心に「１」と入れるべきだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nあの少年、\[suou\]と言ったか？\n俺も彼のようにあるべきだったのかもしれん。\n…傷付くのは、俺一人で十分だった。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＭｓ．Ｕｒａｒａったら、ウフフフ。\nでもその気持ち、わからないではないですわ。\n確かに素敵なＮｅｃｋｌａｃｅですものね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＭｓ．Ａｍａｎｏは覚えていらっしゃいます？\nあのＣｏｏｌｂｏｙが特異点と呼ばれていた事。\nどうして彼を特異点と呼ぶのでしょうね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]派手なおばさん\[color(white)\]\n私ね、最近好調なのよ。\n体の調子はいいし、契約はたくさん取れたし。\nやっぱりワンロン占いのおかげかしら？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]派手なおばさん\[color(white)\]\n…なになに？\n私がどうかしたの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "私がどうかしたの？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15_Choice1
+
+msgid "名前を言い当てる"
+msgstr ""
+
+#. msg_15_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_15_Choice3
+
+msgid "用はない"
+msgstr ""
+
+#. msg_16
+
+msgid "キムラヤヨイ\n\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]派手なおばさん\[color(white)\]\nまっ、失礼しちゃうわ！\n人の名前を間違えるのは、とても失礼な事なのよ！\nあなた、セールスマンとして失格よ！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]キムラヤヨイ\[color(white)\]\nあらやだ、どうして私の名前を知ってるの？\n…え、私がお客をダマした？\n…ＭＵＳＥＳの販促物をエサに契約！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]キムラヤヨイ\[color(white)\]\nな、何を根拠に、そんな事を。\nたまたま、手元に無かったから渡せないでいる\nだけじゃない。ダマしたわけじゃないわよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]キムラヤヨイ\[color(white)\]\nだいたい保険に入るのに販促物で…\nあ、あなたに言っても仕方ないわね。\nふ、ふんっ。今から販促物もって行くわよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]派手なおばさん\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]キムラヤヨイ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "ええと…今週の赤龍のラッキーアイテムは…\n紅玉石のピアス！！ルビーのピアスね！！\nチョットお兄さん、その一番大きいヤツ見せて！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]派手なおばさん\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]キムラヤヨイ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "穢れ祓いの講演会に参加した人に会った事ある？\nいきなり「レッツ・ポジティブシンキング！」\nとか大声で叫ぶのよ。…しかも路上で。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]派手なおばさん\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]キムラヤヨイ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "それに講演会へ行こうってしつこいのよ。\nそうそう、講演会に行って行方不明になった\n人もいるらしいわよ。…怖いわぁ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]派手なおばさん\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]キムラヤヨイ\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "このお店、もうかってないのかしら？\n最近、武器や防具のオーダーまで受けてるのよ。\n…まっ、私には関係無い話ね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]キムラヤヨイ\[color(white)\]\nねぇ貴方、蓮華台の\[color(orange)\]かおり\[color(white)\]ってお店ご存知？\nあのお店ねぇ、\[color(orange)\]ここ何日かずっと閉まってた\[color(white)\]のよ。\n休業している理由も謎なの。…心配よねぇ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]瞳を輝かせる女\[color(white)\]\n「…どんなモノでも作るゼ。」だって！\nあの店長カッコイイ！職人って感じでシブ～イ！\nネェ、なんか作ろうよ？ネェってば～？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]困り顔の男\[color(white)\]\nあ、あの店長、スゴイ技術の持ち主なんだってサ。\n流行りモノからアンティークジュエリーの復刻まで\n作れないものは無いってサ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]困り顔の男\[color(white)\]\n…お、黄金の銃って作ってもらえるかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]瞳を輝かせる女\[color(white)\]\nネェ、石には秘められた力があるって知ってる？\n身に付けた人を守るらしいの。ホントの話よ。\n…最近事件が多くて、私、スッゴク怖いの～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]困り顔の男\[color(white)\]\n…つまり君はキレイな石のついたアクセサリーが\n欲しいんだね。…決して欲しいとは言わない君。\n…僕は君が、…君が怖いよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nやぁ、いらっしゃい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nやぁ、いらっしゃい。\n今日は何の用…え？…武器？…防具？\nそんなものは扱っていないゼ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nレディメイドのアクセサリーだけじゃ不満か？\nどうしてもって言うんなら、オーダーメイドだな。\n…但し、材料はソッチ持ちとさせてもらうゼ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nやぁ、キミも無事だったか！\n前の店同様、よろしく頼むゼ。\n…前の店？下でガレキに埋もれてるよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nやぁ、キミも無事だったか！\n前の店同様、よろしく頼むゼ。\n…前の店？下でガレキに埋もれてるよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nところで今日は何の用…\nえ？…武器？…防具？\nそんなものは扱っていないゼ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nレディメイドのアクセサリーだけじゃ不満か？\nどうしてもって言うんなら、オーダーメイドだな。\n…但し、材料はソッチ持ちとさせてもらうゼ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nやぁ、いらっしゃい。\nどうだい？オレの作ったアクセサリーは？\[delay(30)\]\n…ホウ、キミの感性はオレの作品と合うらしい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nそう！大事なのは互いの相性なんだ。\nこの出会いは大事にしなきゃな…\nイイよ…今日だけは安くしておく。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nやぁ、いらっしゃい。\nどうだい？オレの作ったアクセサリーは？\[delay(30)\]\n…ホウ、キミの感性はオレの作品と合うらしい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nそう！大事なのは互いの相性なんだ。\nこの出会いは大事にしなきゃな…\nイイよ…今日だけは安くしておく。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nところで今日は何の用…\nえ？…武器？…防具？\nそんなものは扱っていないゼ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nレディメイドのアクセサリーだけじゃ不満か？\nどうしてもって言うんなら、オーダーメイドだな。\n…但し、材料はソッチ持ちとさせてもらうゼ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nやぁ、キミも無事だったか！\n前の店同様、よろしく頼むゼ。\n…前の店？下でガレキに埋もれてるよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nところでどうだい？\nオレの作ったアクセサリーは？\[delay(30)\]\n…ホウ、キミの感性はオレの作品と合うらしい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nそう！大事なのは互いの相性なんだ。\nこの出会いは大事にしなきゃな…\nイイよ…今日だけは安くしておく。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nやぁ、キミも無事だったか！\n前の店同様、よろしく頼むゼ。\n…前の店？下でガレキに埋もれてるよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nところで今日は何の用…\nえ？…武器？…防具？\nそんなものは扱っていないゼ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nレディメイドのアクセサリーだけじゃ不満か？\nどうしてもって言うんなら、オーダーメイドだな。\n但し、材料はソッチ持ち…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\n…にしようと思ったが\nキミとは感性が合うようだしなぁ。\nイイよ…今日だけは安くしておく。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\n今日は何の用だい？…んん？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59_Choice1
+
+msgid "アクセサリーを購入"
+msgstr ""
+
+#. msg_59_Choice2
+
+msgid "アイテムを売る"
+msgstr ""
+
+#. msg_59_Choice3
+
+msgid "話をする"
+msgstr ""
+
+#. msg_59_Choice4
+
+msgid "\[if_all(EBIT_SINARIOFF)\]アイテムの確認"
+msgstr ""
+
+#. msg_59_Choice5
+
+msgid "やめる"
+msgstr ""
+
+#. msg_59_Choice6
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_60
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nどれを売ってくれるんだ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60_Choice1
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_60_Choice2
+
+msgid "\[dbl_tab\]消費物を売る"
+msgstr ""
+
+#. msg_60_Choice3
+
+msgid "\[dbl_tab\]武器を売る"
+msgstr ""
+
+#. msg_60_Choice4
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]頭防具を売る"
+msgstr ""
+
+#. msg_60_Choice5
+
+msgid "\[dbl_tab\]防具を売る"
+msgstr ""
+
+#. msg_60_Choice6
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]脚防具を売る"
+msgstr ""
+
+#. msg_60_Choice7
+
+msgid "\[dbl_tab\]アクセサリーを売る"
+msgstr ""
+
+#. msg_61
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\n何について聞きたいんだ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_61_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_61_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\n今日は何の用だい？…んん？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62_Choice1
+
+msgid "開発を依頼する"
+msgstr ""
+
+#. msg_62_Choice2
+
+msgid "アクセサリーを購入"
+msgstr ""
+
+#. msg_62_Choice3
+
+msgid "アイテムを売る"
+msgstr ""
+
+#. msg_62_Choice4
+
+msgid "話をする"
+msgstr ""
+
+#. msg_62_Choice5
+
+msgid "\[if_all(EBIT_SINARIOFF)\]アイテムの確認"
+msgstr ""
+
+#. msg_62_Choice6
+
+msgid "やめる"
+msgstr ""
+
+#. msg_62_Choice7
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nドレを売ってくれるんだ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63_Choice1
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_63_Choice2
+
+msgid "\[dbl_tab\]消費物を売る"
+msgstr ""
+
+#. msg_63_Choice3
+
+msgid "\[dbl_tab\]武器を売る"
+msgstr ""
+
+#. msg_63_Choice4
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]頭防具を売る"
+msgstr ""
+
+#. msg_63_Choice5
+
+msgid "\[dbl_tab\]防具を売る"
+msgstr ""
+
+#. msg_63_Choice6
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]脚防具を売る"
+msgstr ""
+
+#. msg_63_Choice7
+
+msgid "\[dbl_tab\]アクセサリーを売る"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nナニについて聞きたいんだ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_64_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_64_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_65
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\n全てオレの自信作！\nもっと良く見ていってくれ。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65_Choice1
+
+msgid "アクセサリーを購入"
+msgstr ""
+
+#. msg_65_Choice2
+
+msgid "アイテムを売る"
+msgstr ""
+
+#. msg_65_Choice3
+
+msgid "話をする"
+msgstr ""
+
+#. msg_65_Choice4
+
+msgid "\[if_all(EBIT_SINARIOFF)\]アイテムの確認"
+msgstr ""
+
+#. msg_65_Choice5
+
+msgid "やめる"
+msgstr ""
+
+#. msg_65_Choice6
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_66
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nドレを売ってくれるんだ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66_Choice1
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_66_Choice2
+
+msgid "\[dbl_tab\]消費物を売る"
+msgstr ""
+
+#. msg_66_Choice3
+
+msgid "\[dbl_tab\]武器を売る"
+msgstr ""
+
+#. msg_66_Choice4
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]頭防具を売る"
+msgstr ""
+
+#. msg_66_Choice5
+
+msgid "\[dbl_tab\]防具を売る"
+msgstr ""
+
+#. msg_66_Choice6
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]脚防具を売る"
+msgstr ""
+
+#. msg_66_Choice7
+
+msgid "\[dbl_tab\]アクセサリーを売る"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nナニについて聞きたいんだ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_67_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_67_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_67_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_68
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\n今日は何の用だい？…んん？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_68_Choice1
+
+msgid "開発を依頼する"
+msgstr ""
+
+#. msg_68_Choice2
+
+msgid "アクセサリーを購入"
+msgstr ""
+
+#. msg_68_Choice3
+
+msgid "アイテムを売る"
+msgstr ""
+
+#. msg_68_Choice4
+
+msgid "話をする"
+msgstr ""
+
+#. msg_68_Choice5
+
+msgid "\[if_all(EBIT_SINARIOFF)\]アイテムの確認"
+msgstr ""
+
+#. msg_68_Choice6
+
+msgid "やめる"
+msgstr ""
+
+#. msg_68_Choice7
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_69
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nドレを売ってくれるんだ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_69_Choice1
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_69_Choice2
+
+msgid "\[dbl_tab\]消費物を売る"
+msgstr ""
+
+#. msg_69_Choice3
+
+msgid "\[dbl_tab\]武器を売る"
+msgstr ""
+
+#. msg_69_Choice4
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]頭防具を売る"
+msgstr ""
+
+#. msg_69_Choice5
+
+msgid "\[dbl_tab\]防具を売る"
+msgstr ""
+
+#. msg_69_Choice6
+
+msgid "\[dbl_tab\]\[if_all(EBIT_SINARIOFF)\]脚防具を売る"
+msgstr ""
+
+#. msg_69_Choice7
+
+msgid "\[dbl_tab\]アクセサリーを売る"
+msgstr ""
+
+#. msg_70
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nナニについて聞きたいんだ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_70_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_70_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_70_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_71
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nオレな、結構最近の古代史ブームが嬉しいんだよ。\nこれでも昔、考古学をかじったクチでね。\nあの頃は遺物の復元や修復ばかりしてたっけ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_72
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\n個性の無い連中って多いよな。最近特に感じるゼ。\nファッションじゃねぇぞ。考え方や生き方の事だ。\n…なぁ、個性って大事だと思わないか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_73
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nアクセサリーのオーダーメイドはお手のモンだが、\n武器や防具のオーダーは初めてのケースだゼ。\n…しかし、何で引き受けちまったんだ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_74
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nどんな美しい宝石も、オレにとっては只の素材。\n加工して欲しいモノがあったら言ってくれ。\n…どんなモノでも作るゼ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_75
+
+msgid "噂による変化\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_76
+
+msgid "噂による変化\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_77
+
+msgid "ＭＢＩＴＡＩＳ３３\n相性占いの\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_78
+
+msgid "ＥＢＩＴＥ００４６\n「南条ｏｒエリー編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_79
+
+msgid "ＥＢＩＴＥ００６Ｆ\n「研究施設・ＴＶ局クリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_80
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\n何について聞きたいんだ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_80_Choice1
+
+msgid "\[if_all(MBIT_KE_JEWDEVE)\]開発依頼"
+msgstr ""
+
+#. msg_80_Choice2
+
+msgid "売買"
+msgstr ""
+
+#. msg_80_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_81
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\n「開発依頼」だな。\n\[wait\]\[clear\]\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\n「開発を依頼する」を選んで、さらにリストから\n作りたい武器や防具を選んでくれれば、\nそれを作ってやるぞ。\n\[wait\]\[clear\]\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nただし、素材が無ければ当然作れない。\nいくらオレでも、材料が無いとどうしようもないからな。\nそれから、開発費もかかるから注意しろよ。\n\[wait\]\[clear\]\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\n素材はなかなか手に入りにくいと思うが……\nそのかわり、出来上がったモノの品質は保証するゼ。\nその辺で売ってるモンとは別格のブツを提供しよう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_82
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\n「売買」だな。\n\[wait\]\[clear\]\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\n「アクセサリーを購入」を選んでくれれば、店の商品を\n買えるぞ。主に貴金属…だから当然、安くは無いけどな。\n値段見てビビるなよ。\n\[wait\]\[clear\]\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nそれから「アイテムを売る」で買い取りもできる。\nまず売却するモノの種類を選んでから、\n何を売るか決めてくれ。\n\[wait\]\[clear\]\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\n価格は元値の約半分だ。\nそれから、装備しているモノや、一部特殊なヤツは\n買い取れないんで、注意してくれ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_83
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\n…んん？残念だが、今キミは\nウチで買い取れるモノを持っていないな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_84
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nソレは\[var(msg_var_0)\]円になるが、イイかい？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_84_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_84_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_85
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nソレを買い取るなら、\[var(msg_var_0)\]円だな。\n売るかい？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_85_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_85_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_86
+
+msgid "\[color(yellow)\]ジュエリーデザイナー\[color(white)\]\nよし、じゃあこれで作らせてもらうけど\nイイかい？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_86_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_86_Choice2
+
+msgid "いいえ"
+msgstr ""
+

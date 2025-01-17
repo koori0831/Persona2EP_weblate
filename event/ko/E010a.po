@@ -1,0 +1,203 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E010a\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "ペルソナ２無影無踪\n\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "○○月４日ＡＭ：０３時１７分\nベルベットルーム\n数日前\n\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nなるほど。\nそのようなことがございましたか。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nどうにかなるか？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n残念ながら、私の手に負える範疇を超えております。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nこの肉体に宿る悪魔の意識を\n普遍的無意識に帰還させることはできますが、\n宮代様の意識を呼び戻すことはできません。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nＪＯＫＥＲ使いのように、精神がペルソナに乗っ取られた\n段階であればまだ手の施しようがありますが、\n宮代様の心は肉体から切り離されてしまっております。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n恐らく、悪魔と入れ替えられた宮代様の自我や自己は、\n普遍的無意識のカダス・マンダラと呼ばれる領域で\n散り散りとなっておられるでしょう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nカダス？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n我が主、フィレモン様や這い寄る混沌が座す深淵より\n一段浅き所にある、ペルソナや悪魔たちの元型が眠る\n領域にございます。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n\[suou\]様の分身たるペルソナも、カダスより来るもの。\n皆様方が共有する、神話の神々のイメージが\n生まれる場所、と言った方がわかりやすいですかな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nかつて、夢見の力を体得し、自ら普遍的無意識の世界を\n訪れることができた古のペルソナ使いたちは、\n幻夢境とも呼んでおられました。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n幻夢境…そこに行けば、どうにかなるか？\n教えてくれ、イゴール。\n俺はこの人を助けたい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n人がその人であるためには、\n驚くほど多くの定義が必要です。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n外界を認識し、己と他者を区別するために必要な\n知覚、知識、記憶。\n己の内界を認知するための、欲動や感情、知恵や機根。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nそして、普段は抑圧され秘められたコンプレックスですら\nそれら自我の統合性を保障する防衛機能として、\n欠くべからざるものなのです。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nカダスへ赴き、それら宮代様を宮代様たらしめる\n心のよすがを拾い集めることができれば、あるいは…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nわかった。\nどうすれば、そのカダスへ行ける。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n我が主フィレモン様か、\nあなた様の怨敵、這い寄る混沌ならば、\nすぐにでもカダスへの門を開けましょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nですが、人々の心的エネルギーの多くが\n影に流れている今、フィレモン様のお力は\n大変弱くなっておられます。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nあなた様をカダスへ誘うことは、適いますまい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n…さっき、自分で無意識の世界に行き来できる奴らが\nいたと言ったな？\nどうすれば、俺はそうなれる。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nあなた様は、ペルソナ使いとして偉大な才能を\nお持ちです。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n良き師の元で修練を積めば、自ら夢の中で\n心の深淵の門を開くことができるようになりましょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n園村麻希様なども、\n半ばその境地に達しておいでです。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nですが、それには時間がかかります。\nその間に、千千に砕けた宮代様の心は、\n普遍的無意識に溶け消えてしまうでしょう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n他に方法はないのか！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nただ一人、人間としてこの覚醒の世界と\n無意識の世界を隔てる「窮極の門」を、\n物理的に開くことができる鍵を持つお方がおられます。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n伝説のペルソナ使い、\nチャンドラプトラ師をご紹介しましょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n師の持っておられる「銀の鍵」であれば、\n深淵なるカダスへの扉、開くことができるでしょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nですが、無意識の探求は大変危険な旅ですぞ。\nカダスは、神々や悪魔が、我が主や這い寄る混沌に\n庇護される世界。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nそこを旅する者の精神は、常に危険に晒されます。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\n隙を見せれば、あなたにとって代わろうとする悪魔に\n肉体と精神を乗っ取られ、宮代様と同じように\nなってしまうでしょう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nかまわない。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nわかりました。\nしかし、師はご多忙な時空の旅人。\nお呼びするまで、少々時間がかかります。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]イゴール\[color(white)\]\nまた後ほどお越しください。\n宮代様の肉体は、\n私が責任を持ってお預かり致しましょう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

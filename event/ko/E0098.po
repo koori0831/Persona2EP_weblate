@@ -1,0 +1,113 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0098\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]淳\[color(white)\]\n僕は………\[delay(60)\]\nずっと…悪い夢を見ていたのか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]ギンコ\[color(white)\]\nよかった…\[delay(30)\]\nほんとに…\[delay(30)\]\nよかったよぉ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]栄吉\[color(white)\]\nちきしょうめ…\[delay(30)\]\n心配かけやがってよぉ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]淳\[color(white)\]\n\[tatsuya\]…\[delay(30)\]\nずっと…\[delay(30)\]\n持っていてくれたのか…？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nあたりまえだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]淳\[color(white)\]\n動いてる…\[delay(30)\]\nあの日から…\[delay(30)\]\n止まっていたはずなのに…\[delay(30)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]淳\[color(white)\]\nああ…約束したのに…\[delay(30)\]\nずっと…ずっと一緒にお姉ちゃんを守ると…\[delay(30)\]\n僕は…僕は…！\[delay(30)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]舞耶\[color(white)\]\n………\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]淳\[color(white)\]\nネモフィラの花…\[delay(60)\]\nごめんなさい…お姉ちゃん…\[delay(30)\]\nごめんなさい…\[tatsuya\]…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]淳\[color(white)\]\n僕は…僕は…\[delay(30)\]\nうわぁぁぁぁぁぁぁぁぁぁぁぁ…！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nなに…！？\nペルソナが…脅えてる…！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]？？？\[color(white)\]\n不甲斐ない。\[delay(30)\]\n仮面党の頭領が、敵の情けを受けるのか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]\[tatsuya\]の声\[color(white)\]\nジョーカーは…\n偽りの記憶に操られていたかつての親友…\n淳だった…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]\[tatsuya\]の声\[color(white)\]\nいや…淳だけじゃない…\n栄吉…リサ…舞耶姉…そして俺…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]\[tatsuya\]の声\[color(white)\]\n俺たち全員…\n１０年前の須藤の放火が原因で離れ離れになった、\n仮面党ごっこの仲間だったんだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]\[tatsuya\]の声\[color(white)\]\n舞耶姉は、俺達に夢見ることの大切さを\n教えてくれた…いつまでも、５人ずっと一緒…\n皆そう思っていた…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]\[tatsuya\]の声\[color(white)\]\nだけど、舞耶姉が家の事情で街を離れることに\nなった…それに耐えられなかった俺達は、\n舞耶姉を社に閉じ込めたんだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]\[tatsuya\]の声\[color(white)\]\nそこに須藤が火を点けた…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]\[tatsuya\]の声\[color(white)\]\n舞耶姉が死んでしまったと思った俺達は、\n怖くなって、それぞれ記憶を無意識の底に\n押し込め…散り散りになった…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]\[tatsuya\]の声\[color(white)\]\nそして…それを歪めて憶えていた淳はジョーカー\nとなり、「ヤツ」に操られ、進化という理想と\n引き換えに世界を破滅させようとしたんだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

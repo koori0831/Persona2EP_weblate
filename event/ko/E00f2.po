@@ -1,0 +1,378 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00f2\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "ペルソナ２孤影～Ｌｏｎｅｓｈａｄｏｗ～\n\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "○○月０２日ＰＭ：１３時０８分\n青葉公園\n\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]中年のガードマン\[color(white)\]\n確かに\[tatsuya\]の声だが…\n信じられん。\nこんな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[suou\]元刑事は、イヤホンを外すと\n頭を振り私を見上げた。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "ベンチから腰を浮かし、ボイスレコーダーを\n私に返す間も呆然とした顔は変わらない。\n当然だ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n私も\[tatsuya\]君と須藤のペルソナを\n見ていなかったら、信じられなかったと思います。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "ボイスレコーダーには、\[tatsuya\]君が話してくれた\n向こう側で起きた事、これからこちら側で起きるであろう\n事の推測が録音されている。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "誰にも話さないとの約束でやっと聞き出し、\nこっそり録音したものだ。\nごめんね、\[tatsuya\]君。\n大人は平気で嘘をつく。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]\[tatsuya\]の父\[color(white)\]\nペルソナ…\nしかし、噂が本当になるなど…\nそんな事があるのかね。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "私は警察手帳に挟んでおいたお守りを取り出した。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n\[tatsuya\]君が貸してくれた学生証です。\n七姉妹学園のエンブレムを身に着けていれば、\nＪＯＫＥＲに狙われても安全だと。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n最近子供たちの間で噂になってますよね。\n事実、あれから須藤は私の前に現れていません。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "そんなことを言われても、信じられないだろう。\n大人には大人の理屈が必要だ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\nご自分で確かめてみたければ、この公園の近くにある\nパラベラムってバーに行ってみてください。\n噂通り、こんなものも販売しています。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "私は上着の前をはだけ、ショルダーホルスターで\n左脇の下に吊るしたＧ３３を引き抜くと、念のため\n弾倉を抜いてから銃と別々に手渡した。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "掌に収まるような超コンパクト拳銃だが、３５７マグナム\nに匹敵する威力を持つ３５７ＳＩＧ弾を採用し、\n署から貸し出される３２口径の５倍近い威力がある。\nポケットロケットとはよく言ったものだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "無論、日本の警察官に支給されるような代物ではない。\n仕事で貸与される銃は毎日勤務後署に返却しなければ\nならないので、護身用に購入したものだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "ペルソナだの悪魔だのを使役する犯罪者相手に、\nこちらだけルールに従っていたら身を守れない。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]\[tatsuya\]の父\[color(white)\]\n本物か…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "銃の重みと弾倉の弾頭を確認して、元刑事は唸った。\n弾頭はＰ２３０ＪＰやニューナンブでの使用が許された\n完全被甲弾、いわゆるフルメタルジャケットではない。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "先端の鐘が露出し、中央が猛んでいる\nジャケティッド・ホローポイント。\n確実に人の動きを止め、殺すための弾頭だ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "貫通力では完全被甲弾に劣るが、人体などの\nソフトターゲットに与えるダメージは遥かに勝る。\n命中の瞬間鐘がマッシュルーム状に弾け、\n効率よく衝撃を与え大出血をもたらすからだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "それ故、ハーグ条約によって軍での使用が\n禁じられている。\n不必要な苦痛を与えるため人道的ではないとの理由だ\nそうだが、世の中には人道的な戦争とやらがあるらしい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n黒星やマカロフならともかく、大陸やフィリピン、\nロシア経由の闇ルートでも、おいそれと\n入手できるようなものじゃありません。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\nどういう理屈かは知りませんけど、\n噂が現実になったとしか思えません。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]\[tatsuya\]の父\[color(white)\]\nしまっておきなさい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[suou\]さんは銃と弾倉を返すと、腿の上で組んだ\n両手に顎を乗せ再び唸った。\n彼の脇では、先ほど二人で並んで食べたあんぱんの袋が、\n牛乳の紙パックの下で秋の微風に揺れている。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "無理に昼休みに時間を作ってもらったので、\nここで話をしながらの昼食となった。\n立ちっぱなしの警備員には酷なメニューだろうが、\nこんな話そこらの店じゃできやしない。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "聞いていた昼休みの時間はとうに過ぎていた。\nあまり長く引き止めておくのも申し訳ない。\nそろそろ話を本題に戻そう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n\[tatsuya\]君は、今も須藤を追っています。\nこんな状況に対処できるのは自分だけだ。\nいいえ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\nただ一人、記憶を失わなかった自分が、\n一人でやらなければならない、そう思ってるんです。\nですから…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]\[tatsuya\]の父\[color(white)\]\n克哉は、事情を承知しているんですか。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\nいえ…恐らくはまだ。\n\[suou\]巡査部長は、\[tatsuya\]君が守ろうとしている\n天野舞耶という女性と行動を共にしているようです。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n\[tatsuya\]君は、向こう側の仲間たちや\nご家族を巻き込みたくないと言っていました。\nだから家を出たんです。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\nこんなこと、本来子供がやることじゃありません。\n私たち警官の仕事です。\nですが、警察があてにならないのはご存知の通りです。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]\[tatsuya\]の父\[color(white)\]\n富樫はまだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[suou\]さんは、かつての親友を慮って\nすがるように私を見上げた。\n私はこの人が喜ぶようなことを何も言ってあげられない。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n須藤竜蔵とつながっています。\n管理官の島津と、須藤竜也が確保されないように\n捜査を妨害しているのは明らかです。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]\[tatsuya\]の父\[color(white)\]\n富樫…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "額に手をやり俯いた姿は、実際の年齢より十も\n老けこんで見えた。\n親友が自分を裏切り、未だに本来取り締まるべき\n悪事に加担していると知るのは辛いだろう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "この人は、まだどこかで富樫を信じていたのだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n…今、須藤を倒しこの世界を守ることができるのは\n\[tatsuya\]君だけです。\n虫がいいことを言っているのは承知しています。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\nでも、彼一人に重荷は背負わせません。\n私ができる限りサポートします。\n\[tatsuya\]君には、事情を知る大人の助けが必要なんです。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "改装中のゾディアックで初めて出会い、\n陣也の死の必然と世界の秘密を聞き出した後、\n私は強引に\[tatsuya\]君と協定を結んだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "私はねぐらと須藤に関する警察の捜査情報を提供する。\n代わりに、須藤を再起不能にするか殺してくれと。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "恐らく、どう転んでも\[tatsuya\]君は\nいずれ須藤と決着をつけざるを得ないだろう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "法的には正当防衛が成立する余地があるかもしれない。\nしかし、人を傷つけたり殺すことに変わりはない。\n相手がどんな悪人であろうと、人の命を奪ったという\n事実は一生\[tatsuya\]君の心に残り続ける。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "だが彼が一人でやったのではない。\n私が殺してくれと頼んだのだ。\n気休めでもいい。\n彼が、自分を許すきっかけくらいにはなるかもしれない。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n彼の…\[tatsuya\]君のやりたいように\nやらせてあげてもらえないでしょうか。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "立ち上がった\[suou\]さんの瞳から\n苦悩の色は消えていた。\n過酷な運命に抗おうとする息子を、\n見守ることに決めたのだ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(yellow)\]\[tatsuya\]の父\[color(white)\]\n…わかりました。\nあなたが預かってくれていると知って、安心しました。\n家内にも話して、捜索願いは取り下げます。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\nありがとうございます。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "心の底から頭を下げた。\n息子さんの命をくれと言っているようなものだ。\nぶん殴られても文句は言えない。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "だがこれで、\[tatsuya\]君も少しは動きやすくなるはずだ。\nただでさえ目立つ子だ。\nこの街の中を動き回る以上、\n余計な足枷はなるべく取り除いてやったほうがいい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]\[tatsuya\]の父\[color(white)\]\nまさか、こんなことに巻き込まれているとは\n思いもしませんでしたが…\n因縁、というやつなんでしょうな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "\[color(yellow)\]\[tatsuya\]の父\[color(white)\]\nあの子たちのためと思いしたことだが、\n結局自分自身の不始末を、\n息子たちに押し付ける形になってしまった…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]\[tatsuya\]の父\[color(white)\]\n詩織さん、あなたにも本当に申し訳ないと思っています。\n私は自分の家庭を守るために、竜蔵の脅迫に屈した。\nそのために、あなたが今はこんな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "私や\[suou\]さん、富樫署長に須藤親子、巡査部長や\nこちら側を作った子供たち、そして世界の命運を握る女、\n天野舞耶…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61
+
+msgid "\[tatsuya\]君を中心に広がる人間関係は、\nまるで陰募で冷笑的な画家が、モデルやギャラリーを\n嘲笑うために描いた狂った曼荼羅のようだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "個々人は一見無関係に見えながら、\n別の誰かを通して相似的な関係図を描いている。\n知らず知らずそこに名を連ねる私たちにとって、\n１０年という時間は何の解決も与えはしなかった。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "耐え難い卵失や絶望、積み上げられた哀しみや怒りの\n全ては、ただの準備に過ぎなかったのだ。\nだが、それでも立ち上がるための時間は十分あった。\n人間を舐めるな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n私が同じ立場なら、きっと同じことをしました。\nそれに私、今は警官になってよかったと\n思ってるんです。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n\[tatsuya\]君にも会えましたし、\n大人が作った歪な社会になじめず、罪を犯してしまう\n子供たちに手を差し伸べることもできますから。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66
+
+msgid "今はまだダメかもしれないが、いずれは\[tatsuya\]君のような\n子供たちが、笑って暮らせる社会にしたい。\nそれが大人の仕事のはずだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_67
+
+msgid "子供たちに、何かと引き換えに生まれてくる世界を\n選ばせるようなことがあってはならない。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_68
+
+msgid "\[color(yellow)\]女の子の声\[color(white)\]\n空の科学館の飛行船が飛んだって！\n見に行こうよ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_69
+
+msgid "\[color(yellow)\]男の子の声\[color(white)\]\n飛ぶって噂、本当だったんだ！\n行こう行こう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_70
+
+msgid "近くを走り抜けていく子供たちの声に、\n私と\[suou\]さんは、顔を見合わせ空を見上げた。\n飛行船の姿は見えなかったが、恐らく\n本当に飛んでいるに違いない。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_71
+
+msgid "そういえば、少し前から\n消防車のサイレンが騒がしかった。\nなぜだかわからないが、その船にはきっと\n\[tatsuya\]君が乗っている、そんな気がした。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_72
+
+msgid "\[color(yellow)\]詩織\[color(white)\]\n徹底的にやりなさい、\[tatsuya\]君…\n後悔しないようにね。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

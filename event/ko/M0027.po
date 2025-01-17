@@ -1,0 +1,678 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0027\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "パーティの人数が四人を超えています。\nこのままじゃハングします。\n金田・片岡に連絡してください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n穢れ祓いの講演会に参加した人って、\nみんな同じ様な事しか言わないねぇ。\n…なんでだろ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n\[suou\]さん自分が無力だって言ってるけど、\n警察にも新世塾の息がかかってるんだもの、\n仕方ないよね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nパオのヤツあったまくんなー！！\n芹沢ならまだしも…ってどういう事よ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nこんな状況でも酒、酒、酒。ばっかみたい。\nそりゃ私も酒好きだから人のこと言えないけど…\nでも、それしか言う事ないんかー！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n空に浮かぶ街なんて、まるでおとぎ話だよね。\nこれで滅亡とか、ポールシフトとか、\n穢れとかなきゃ夢心地なのにぃ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n芹沢うらら、異常ありません！\nさぁ、行きましょ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n穢れ祓いと称して、人々に新世塾の思想を\n植え付けたようだが、実際は教えられた事を\n繰り返してるだけなのでは？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nこのような混乱、未然に防ぐ事も出来た筈なのに…\n警察官でありながら無力な自分が恥ずかしいよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n\[tatsuya\]の気持ち、わからないではない。\nどうだろう天野君、先を急がないか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n僕は酒の存在など、どうでもいい。\n「向こう側」の警察が汚れていない事を祈るよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n街が空を飛ぶなどあり得ない事なのに…\nこれが言霊の恐ろしさと言うわけか。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n僕は大丈夫だよ天野君。\n…いつでも行ける！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nポジティブシンキングってのが合言葉なようだが、\nただ口にしてるだけだろぉ？\n実を伴っている様には見えねぇぞ！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n知恵者一人馬鹿万人ってな。\n正しく情報を認識できるヤツよりも、\n出来ねぇヤツの方が圧倒的に多いんだよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n芹沢ならまだしも…お前もキレイになりてぇのか？\nお前はじゅーぶんキレイだよ。\nだから今じゃなくてもいいだろ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n「向こう側」がどんな世界か知らねぇが、\nそこにも酒はあるんだろう？\n…なら、悪いとこじゃねぇな。うん。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n…ん、街が空を飛ぶ！？\nそう言えば昔、街が空を飛ぶって予言詩があった！\n俺がガキの頃にあった筈だ。確かにあったぞ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n…悪ィ、ありゃ歌謡曲だった。\n俺、あの歌好きだったんだよなぁ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n俺か？ちょっと酒が欲しいトコだが…\nそれ以外は問題ねぇぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nポジティブシンキングと言ってはいるが、\n実際は新世塾の計画を肯定しているだけだな。\nこのような戯言、誰が信用するというのだ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n新世塾の計画など空理空論でしかないのに、\nなぜそれを信用してしまうんだ？\n…これでは連中の思惑通りだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nこのような状況でエステティックですか？\n美しくあろうとする思いは素晴らしいのですが、\n何も今でなくても…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＰｏｓｉｔｉｖｅｔｈｉｎｋｉｎｇ？\nあれは新世塾の計画を肯定しているだけですわ。\nあのような言葉を信用する人はいるのですか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＵｎｂｅｌｉｅｖａｂｌｅ！！\nどうして人々は、あの新世塾のＰｒｏｊｅｃｔを\n簡単に信じてしまえるのでしょう？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＥｓｔｈｅｔｉｃ…ですか？\nそれどころではないと思いますが。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n…ここで俺に何をしろと言うのだ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n…皆、異世界に思いを馳せているんだな。\n「こちら側」と大差ない世界なのに。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nこの街の浮上に巻き込まれた人々もいる。\n舞耶姉、その人達の事も忘れないでくれ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\n気持ちの整理は出来ている。\n…行こう、舞耶姉！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]若い女\[color(white)\]\nあそこにいたオバサン、もしかして…\nＪＯＫＥＲ呪いしたんじゃないの？\n殺人鬼になる寸前だったのよ！コワーイ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]若い女\[color(white)\]\nなんで？どーして新世塾は\n世界が滅亡するような事をしようとするの？\n…ワンロン占いも、その為のものだったの？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]若い女\[color(white)\]\nマッタク～占いなんて信じるんじゃなかった！\n空飛ぶ街なんて聞いた事もないわよ！\n…あれ、前にも飛んでいた事があるような…？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]若い女\[color(white)\]\n龍が消えたって事は助かった？地軸は平気よね？\nでも、まだ空の上にいるのよね？\n空もあんなだし…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]若い女\[color(white)\]\n…私達、ホントに助かったのかしら？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]若い女\[color(white)\]\nエーテルエステが今まで以上に\nパワーアップだなんて、うれしすぎ～！\nでも、悪魔のような相手ってどういう事？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]若い女\[color(white)\]\nこの店、ほかの店と差をつける為に\nコースを変更したんだってさ。\n…前のままでも、十分に差はついてたよね？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]おばさん\[color(white)\]\nああ、私は自分の事だけ考えていた愚か者よ。\n全ては穢れの無い世界を創造する為にあるのに。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]おばさん\[color(white)\]\n…レッツ・ポジティブシンキング！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]おばさん\[color(white)\]\nああ、自分の事だけ考えてちゃいけないのよ。\n龍に従うべきなのよ。龍が我々を導いてくれる。\n…レッツ・ポジティブシンキング！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]おばさん\[color(white)\]\n龍が空を舞い、我々の罪が清算される。\nさぁ、全てを受け入れるのよ。\n…レッツ・ポジティブシンキング！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]おばさん\[color(white)\]\nあら、龍は？新世塾は？ポールシフトは？\nこんな事になるなんて聞いて無いわよ！？\n…あなた、私を守りなさい！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]おばさん\[color(white)\]\n…私が生き残れたら、それでいいのよ。\n穢れの無い世界、それは私だけが生きる世界！\nレッツ・ポジティブシンキング！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nあら、いらっしゃ～い。\nエテーリアへようこそ♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nエテーリアへようこそ♥\nあなたは確か、雑誌社の人よね？\n…そう！あら良かった！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\n今日は特別に割引サービスさせてもらいたいのよ。\nいやね～深い意味なんかないわ。\n当店のエステで美しくなってもらいたいだけよ♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nエテーリアへようこそ♥\n今週から、エステのコースを増やしてみたの。\nよかったら受けてみてね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\n当然、当店オリジナルの効果があるわよ！\nどのコースもあなたの魅力を引き出すハズ。\nこれで悪魔のような相手もイチコロね！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nエテーリアへようこそ♥\n今週から、エステのコースを増やしてみたの。\n当然、当店オリジナルの効果があるわよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nどのコースもあなたの魅力を引き出すハズ。\nこれで悪魔のような相手もイチコロ！！\n…今ならサービスしとくわよ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nエテーリアへようこそ♥\nいつもご利用頂き、ありがとね。\nあなた！とてもいい時にいらっしゃったわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\n今日からエーテルエステはパワーアップ！！\nコース料金ですか？ご安心してください！\n料金は…そのままで～す！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nエテーリアへようこそ♥\nいつもご利用頂き、ありがとね。\nあなた！とてもいい時にいらっしゃったわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\n今日からエーテルエステはパワーアップ！！\n当然、コース料金はそのまま！\n…今ならサービスしとくわよ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nエテーリアへようこそ♥\nいつもご利用頂き、ありがとね。\nあなた！とてもいい時にいらっしゃったわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\n今日からエーテルエステはパワーアップ！！\nコースが一層充実ですよ。\nでも、男性用はやめちゃったの。ごめんね♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nエテーリアへようこそ♥\nいつもご利用頂き、ありがとね。\nあなた！とてもいい時にいらっしゃったわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\n今日からエーテルエステはパワーアップ！！\nコースが一層充実。今ならサービスしとくわよ？\n…でも、男性用はやめちゃったの。ごめんね♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nさぁ、本日は何をご希望かしら？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58_Choice1
+
+msgid "回復してもらう"
+msgstr ""
+
+#. msg_58_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_58_Choice3
+
+msgid "なにもしない"
+msgstr ""
+
+#. msg_58_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\n何について聞きたいのかしら？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_59_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_60
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nさぁ、本日は何をご希望かしら？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60_Choice1
+
+msgid "回復してもらう"
+msgstr ""
+
+#. msg_60_Choice2
+
+msgid "エステティック"
+msgstr ""
+
+#. msg_60_Choice3
+
+msgid "話をする"
+msgstr ""
+
+#. msg_60_Choice4
+
+msgid "なにもしない"
+msgstr ""
+
+#. msg_60_Choice5
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_61
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\n何について聞きたいのかしら？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_61_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nエーテルとマテーリアを掛け合わせた名前…\nそれがエテーリア。結構ステキでしょ？\n…他には何をご所望かしら？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62_Choice1
+
+msgid "回復してもらう"
+msgstr ""
+
+#. msg_62_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_62_Choice3
+
+msgid "なにもしない"
+msgstr ""
+
+#. msg_62_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\n何について聞きたいのかしら？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_63_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nエーテルとマテーリアを掛け合わせた名前…\nそれがエテーリア。結構ステキでしょ？\n…他には何をご所望かしら？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64_Choice1
+
+msgid "回復してもらう"
+msgstr ""
+
+#. msg_64_Choice2
+
+msgid "エステティック"
+msgstr ""
+
+#. msg_64_Choice3
+
+msgid "話をする"
+msgstr ""
+
+#. msg_64_Choice4
+
+msgid "なにもしない"
+msgstr ""
+
+#. msg_64_Choice5
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_65
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\n何について聞きたいのかしら？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_65_Choice2
+
+msgid "施設の説明を聞く"
+msgstr ""
+
+#. msg_66
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nクチコミの力って、ホントすごいわよね。\nちょっと話題になっただけで、お客さんが急増よ。\n…何故か病気や怪我も治せるようになったしね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\n龍…地磁気…これはきっと啓示だわ！\nそう、エーテルエステは次のステージに向かうの！\n龍磁気エステ！…ネーミングが駄目。\[delay(15)\]…ボツ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_68
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\n街が浮かび上がる時に大分怪我人が出たみたいね。\nこういう時こそ、エーテルエステの出番！！\n…て、なんか他人の不幸を喜んでるみたい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_69
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\n私、ちょっと自己嫌悪。\n自慢のエーテルエステもこの気持ちまでは…ね。\n…さぁ、気を取り直して、仕事仕事！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_70
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\n龍は消えたけど、こんな状況じゃ\nどこも商売上がったりよ…ね……！？\nもしかして、今がビジネスチャンス！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_71
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nそうよ！ビジネスは常に「先」を見なくちゃ！\n今の内にエーテルエステに新しい効果を付け加え…\nい、いえ、見つけ出すのよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_72
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\n最近、この業界も競争が激しくてねぇ。\n女性限定の店として、他との差別化を図ったの。\n…これじゃダメかしら？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_73
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\n最近、この業界も競争が激しくてねぇ。\n他社と大きく差をつける為に、頑張ってみたの。\nでもこの値段、好調な当店だから出来るのよ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_74
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\n具合が悪くなったらいつでも来てちょうだいね。\nあなたもエーテルエステで\n美顔と健康を手に入れましょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_75
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nあらあら？\nでも皆さん健康そうよ？\n治療の必要はないんじゃないかしら…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_76
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\n承知いたしました。\nではではえ～と…\n全員で３０００円になるけど？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_77
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\n承知いたしました。\nではではえ～と…うん！１５００円でいいわ。\n当然、全員分よ♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_78
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nよろしいかしら？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_78_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_78_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_79
+
+msgid "\[color(green)\]舞耶達は回復した。\[color(white)\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_80
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nあらあらあら、\nでもお金が足りないみたいねぇ…\nまずは先立つものがなくちゃね。ごめんなさい♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_81
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nえ？どうして？\nもしかしてエーテルエステを信用してないの？\n信じる者は救われるのよ。いやホントに。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_82
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nＯＫ！じゃあ体の力を抜いて…\[delay(15)\]\nこれぞ当店のオリジナルエステ！\nエーテル・エステよ！\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_83
+
+msgid "噂によりエステ開始\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_84
+
+msgid "変異噂の\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_85
+
+msgid "ＭＢＩＴＨＩＮＡＮＪＯＴＯＵＪＯ\n南条出現噂：広げた\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_86
+
+msgid "ＭＢＩＴＡＩＳ６５\n相性占いの\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_87
+
+msgid "ＥＢＩＴＥ００６Ｆ\n「研究施設・ＴＶ局クリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_88
+
+msgid "ＥＢＩＴＥ００７７\n「スマイル平坂クリア・克哉離脱」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_89
+
+msgid "ＥＢＩＴＥ００７Ａ\n「野音クリア・克哉編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_90
+
+msgid "ＥＢＩＴＥ００７Ｂ\n「竜蔵と殺し屋の電話を盗聴」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_91
+
+msgid "ＥＢＩＴＥ００７Ｆ\n「廃工場クリア・パオフゥ編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_92
+
+msgid "ＥＢＩＴＥ００８Ｃ\n「海底遺跡クリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_93
+
+msgid "ＥＢＩＴＥ００９Ｆ\n「岩戸山クリア・南条かエリー離脱・達哉編入」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_94
+
+msgid "ＥＢＩＴＥ００ＡＦ\n「アメノトリフネクリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_95
+
+msgid "ＥＢＩＴＥ００Ｂ８\n「珠「瑠城クリア」\nびっとお～んッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_96
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\n何について聞きたいのかしら？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_96_Choice1
+
+msgid "\[if_all(MBIT_KE_ETEESTHE)\]エステティック"
+msgstr ""
+
+#. msg_96_Choice2
+
+msgid "回復"
+msgstr ""
+
+#. msg_96_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_97
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nＯＫ！「エステティック」についてね。\n\[wait\]\[clear\]\[color(yellow)\]エステティシャン\[color(white)\]\n「エステティック」を選んでくれたら、\n新開発のエーテルエステであなたたちの魅力の\n「ある一部分」を強調してあげるわ。\n\[wait\]\[clear\]\[color(yellow)\]エステティシャン\[color(white)\]\n…で、どうなるかっていうと、\nある特定のタイプにモテモテになるのよ。\n\[wait\]\[clear\]\[color(yellow)\]エステティシャン\[color(white)\]\nたとえば「老人」とか、たとえば「ギャル」とか…\nね、ね、すごいでしょ！\n\[wait\]\[clear\]\[color(yellow)\]エステティシャン\[color(white)\]\nこれを生かせばどんなに気難しい人でも…\nいえ、人じゃないものでもイチコロよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_98
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nＯＫ！「回復」についてね。\n\[wait\]\[clear\]\[color(yellow)\]エステティシャン\[color(white)\]\n「回復してもらう」を選んでくれたら\nエーテルエステの若返り効果で「ＨＰ」と「ＳＰ」\nあと「猛毒」などのステータス異常も回復してあげるわ。\n\[wait\]\[clear\]\[color(yellow)\]エステティシャン\[color(white)\]\n値段はお安くはないわよ。\nでもね、全員セットの価格なのよ、よく考えてね。\nきっと納得してもらえると思うわ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_99
+
+msgid "\[color(yellow)\]エステティシャン\[color(white)\]\nそちらの施術料は\[var(msg_var_0)\]円になるけど、\nよろしいかしら？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_99_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_99_Choice2
+
+msgid "いいえ"
+msgstr ""
+

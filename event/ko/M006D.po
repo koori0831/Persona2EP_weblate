@@ -1,0 +1,398 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M006D\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "ワンロン占いの\nリセット機能を追加しました。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "ワンロン占いの効果をリセットしますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_1_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_2
+
+msgid "相性占いテスト用デバックイベント\n実行しますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_2_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_3
+
+msgid "１\n２\n３\n４\n５\n６\n７\n８\n９\n１０\n１１\n１２\n１３\n１４\n１５\n１６\n１７\n１８\n１９\n２０\n２１\n２２\n２３\n２４\n２５\n２６\n２７\n２８\n２９\n３０\n３１\n３２\n３３\n３４\n３５\n３６\n３７\n３８\n３９\n４０\n４１\n４２\n４３\n４４\n４５\n４６\n４７\n４８\n４９\n５０\n５１\n５２\n５３\n５４\n５５\n５６\n５７\n５８\n５９\n６０\n\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "該当しない番号です。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "達哉\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "時間城伯爵\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "うらら\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "Ｍｒ．富\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "チカリン\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "Ｗａｎｇｌｏｎｇ千鶴\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "珠閒瑠ジニー\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "ハナジー\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "板さん\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "黎子さん\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "佐々木\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "やる気の無いボーイ\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "レオ\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "あんちゃん\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "杉本\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "パオフゥ\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "バー\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "麻希\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "轟所長\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "南条\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "ケン\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "トリッシュ\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "トニー\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "ブラウン\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "たまき\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "ムー大陸\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "リサ\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "ロサカンディータ\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "しらいし\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "エステティシャン\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "ナナシ\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "ゆきの\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "ジュエリーデザイナー\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "玲司\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "エリー\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "イゴール\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "口笛店主\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "管理官\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "神取\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "トロ\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "云豹\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "みーぽ\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "栄吉\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "トクさん\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "香さん\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "ギャルソン副島\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "バーテン\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "冴子先生\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "イシュキック\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "ジョリーロジャー\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "アルバイター\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "黒須\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "あさっち\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "克哉\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "ベラドンナ\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "おばちゃん長女・青葉区\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61
+
+msgid "おばちゃん次女・港南区\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "おばちゃん五女・平坂区\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "おばちゃん六女・蓮華台\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "おばちゃん七女・夢崎区\nの\n相性を良くしました。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65
+
+msgid "何を継続した状態にしますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65_Choice1
+
+msgid "ギターが引ける"
+msgstr ""
+
+#. msg_65_Choice2
+
+msgid "ゆきのと杏奈がいる"
+msgstr ""
+
+#. msg_65_Choice3
+
+msgid "チンヤンと呼ぶ"
+msgstr ""
+
+#. msg_65_Choice4
+
+msgid "メタル栄吉が話す"
+msgstr ""
+
+#. msg_65_Choice5
+
+msgid "メタルギンコが話す"
+msgstr ""
+
+#. msg_65_Choice6
+
+msgid "メタル黒須が話す"
+msgstr ""
+
+#. msg_66
+
+msgid "\[color(yellow)\]金田\[color(white)\]\n追伸・選択肢「メタル黒須が話す」は、\n継続ＢＩＴ全ての\nリセット機能も兼ねています。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

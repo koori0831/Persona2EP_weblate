@@ -1,0 +1,68 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00B3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]うらら舞耶\[color(white)\]\n………でっかい…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]竜蔵\[color(white)\]\nはっはっはっ！！ひゃーはっはっはっ！！\n\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "見よぉ！！\n地龍が、女媧もろとも世界を滅ぼす様をっ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]竜蔵\[color(white)\]\n地軸は傾き、地上の愚民どもは死に絶える！！\n\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "私は歴史を動かしたのだ！！\n\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "この程度の事も成しえず、何が人生か！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]竜蔵\[color(white)\]\nぐおっ…！？\nぐぐぐぐぐ…ご、御前…\n何故私までぇぇぇぇ！？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]忌まわしき狩人\[color(white)\]\nＳＨＡＧＹＡＡＡＡＡＡＡ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nまた一人…堕ちた…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n不様だぜ…竜蔵…\n人を欺き、陥れ続けたなれの果てがそれか！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nお前の罪穢れ…僕たちが祓ってやる！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

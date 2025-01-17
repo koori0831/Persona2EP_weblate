@@ -1,0 +1,113 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E0054\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]銀次\[color(white)\]\nなんだねお嬢さん達は？\nいくら今をときめく私のファンとはいえ、\n楽屋まで追いかけてくるとは困りものだな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]佐々木銀次（ささきぎんじ）\[color(white)\]\n\[color(green)\]成功するとの占いが当たりヒットした、\nＭＵＳＥＳの若手プロデューサー。\nなんとなく、どこかで会った気がして憎らしい…\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]銀次\[color(white)\]\nなんだねお嬢さん達は？\nいくら今をときめく私のファンとはいえ、\n楽屋まで追いかけてくるとは困りものだな。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]リサ\[color(white)\]\nはぁ…\nふぅ…\nほぅ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]リサ・シルバーマン\[color(white)\]\n\[color(green)\]佐々木のプロデュースでデビューした、\n現役女子高校生ユニット、ＭＵＳＥＳの一人。\nこの娘も、前から知っているような気がする…\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]リサ\[color(white)\]\nはぁ…\nふぅ…\nほぅ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]麻美\[color(white)\]\nリサ、行方不明の\[suou\]先輩が心配らしくて…\n元気ないんです。\n話した事もないくせに、ずっと好きだったのね…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]柴田麻美（しばたまみ）\[color(white)\]\n\[color(green)\]あさっちの通称で呼ばれるリサの親友。\nリサと同じくセブンスの生徒。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]麻美\[color(white)\]\nリサ、行方不明の\[suou\]先輩が心配らしくて…\n元気ないんです。\n話した事もないくせに、ずっと好きだったのね…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]未歩\[color(white)\]\nリサ、元気出してよぉ～\nせっかく占いが当たってアイドルになれたのにぃ～\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]未歩\[color(white)\]\n\[suou\]先輩のこと、千鶴さんに聞いてあげるから～\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]荻嶋未歩（おぎしまみほ）\[color(white)\]\n\[color(green)\]みーぽの通称で呼ばれるリサの親友。\nリサと同じくセブンスの生徒。\[color(white)\]\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]未歩\[color(white)\]\nリサ、元気出してよぉ～\nせっかく占いが当たってアイドルになれたのにぃ～\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]未歩\[color(white)\]\n\[suou\]先輩のこと、千鶴さんに聞いてあげるから～\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nここじゃねぇみてぇだな…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n「\[tatsuya\]が好きで心配してる」だって…？\nなんていいお嬢さんなんだ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nしかし…結婚なんてことになったら、\n芸能人だけに大騒ぎだな…\nどうみても外国のお嬢さんみたいだし…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n言葉は大丈夫なのか…結納はどうするんだ…？\n調べてみるか…ブツブツ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nわお、佐々木銀次とＭＵＳＥＳじゃん！\nちょっとマーヤ、サインよサイン！\n転売すりゃイイ小遣いになるわよぅ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＭＵＳＥＳ…\nＧｒｅｅｃｅ（ギリシア）の音楽の女神ですわね。\n可愛らしいお嬢さん達ですし、Ｈｉｔしますわ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

@@ -1,0 +1,578 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0038\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "パーティの人数が四人を超えています。\nこのままじゃハングします。\n金田・片岡に連絡してください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあ…あのねぇマーヤ。\n男を部屋に連れ込むなら、\nせめてもう少し片づけてから…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n…いや…なんでもない。\nそんな事、気にするタイプじゃないもんねぇ…\nま…半分は私のせいだし…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nえ？この部屋でタバコを吸うなって？\nもぅ、マーヤったら、ケチケチしないの。\n細かいこと気にしてると、皺が増えちゃうわよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nそう言えば、マーヤと\nこの部屋で暮らし始めて、もう何年目かな？\nホント、がさつな二人暮らし…だよね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nそう言えば、マーヤには教えてなかったけど、\n私、最近フラメンコ習い始めたのよ。\n今度、見せたげようか？うまいんだから♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nこ…これは…まさか空巣の犯行か！？\n\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "何か無くなった物はないか？\nすぐ確認した方がいい。手配は僕がしておく！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nなに？元々こうなのか？\nしかし…いくらなんでもこれは…\nいや…しかし…そうなのか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nこう言ってはなんだが、\n僕達の部屋の方が余程片付いているぞ。\n偏見かもしれんが…女性ならもう少し…こう…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nほぉ…いいコンポ持ってるじゃねえか。\nこの部屋の置物にしちゃまともな方だ。\n\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "ギガ・マッチョに行けばＣＤも売ってるだろう。\n\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nこ…これが乙女の部屋なのか…？\nいくら仕事が忙しいと言っても…\n腕の良い執事を一人手配した方がよさそうだな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nここにＭｓ．Ｕｒａｒａと住んでるんですね。\nＦｒｉｅｎｄと二人暮らしだなんて、\nなんだか楽しそうで羨ましいですわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＭｓ．Ｕｒａｒａは、\nＦｌａｍｅｎｃｏを習ってたそうですわね。\n実は私も少しばかり心得がありますの。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＭｓ．Ｕｒａｒａとどちらが上手かしら…\nそのうち、ご覧に入れますわ。\nご期待下さいね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nふふ～ん、僕はもう驚かないよ。\n君は知らないと思うけど、\nうららに誘われて、ここには何度か来てるんだ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "なんでも、全部君が散らかしたんだって？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_18_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nふふん、僕はそんな事気にしないよ。\nむしろこの部屋の汚れ具合が、\n君の美しさを一層引き立ててくれる…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nなんだ。じゃあうららが嘘を言ってたんだね。\n彼女も人のことは言えないなぁ。\n自分を引き立てる為に、君を利用したんだから。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(green)\]鍵がかかっている。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nこりゃ、マーヤ！！\n人の部屋に勝手に入ろうとするでないよ！\nそっから先は私の聖域なのよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]コンポ\[color(white)\]\n\[color(green)\]最新型のコンポ。\nこれだけはまだキレイだ。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(green)\]ＣＤを聞きますか？\[color(white)\]\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_24_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(green)\]グループを選んでください。\[color(white)\]\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25_Choice1
+
+msgid "\[if_any(MBIT_CD_CD01, MBIT_CD_CD02, MBIT_CD_CD03, MBIT_CD_CD04, MBIT_CD_KACD01)\]エーアスト"
+msgstr ""
+
+#. msg_25_Choice2
+
+msgid "\[if_all(!MBIT_CD_CD01, !MBIT_CD_CD02, !MBIT_CD_CD03, !MBIT_CD_CD04, !MBIT_CD_KACD01)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_25_Choice3
+
+msgid "\[if_any(MBIT_CD_CD05, MBIT_CD_CD06, MBIT_CD_CD07, MBIT_CD_CD08, MBIT_CD_KACD02)\]ツヴァイト"
+msgstr ""
+
+#. msg_25_Choice4
+
+msgid "\[if_all(!MBIT_CD_CD05, !MBIT_CD_CD06, !MBIT_CD_CD07, !MBIT_CD_CD08, !MBIT_CD_KACD02)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_25_Choice5
+
+msgid "\[if_any(MBIT_CD_CD09, MBIT_CD_CD10, MBIT_CD_CD11, MBIT_CD_CD12, MBIT_CD_CD13)\]ドリット"
+msgstr ""
+
+#. msg_25_Choice6
+
+msgid "\[if_all(!MBIT_CD_CD09, !MBIT_CD_CD10, !MBIT_CD_CD11, !MBIT_CD_CD12, !MBIT_CD_CD13)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_25_Choice7
+
+msgid "\[if_any(MBIT_CD_CD14, MBIT_CD_CD15, MBIT_CD_CD16, MBIT_CD_CD17, MBIT_CD_CD18)\]フィーアト"
+msgstr ""
+
+#. msg_25_Choice8
+
+msgid "\[if_all(!MBIT_CD_CD14, !MBIT_CD_CD15, !MBIT_CD_CD16, !MBIT_CD_CD17, !MBIT_CD_CD18)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_25_Choice9
+
+msgid "やめる"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(green)\]このグループのＣＤは、\nまだ一枚も購入していません。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(green)\]ＣＤを選んでください。\[color(white)\]\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27_Choice1
+
+msgid "\[if_all(MBIT_CD_CD01)\]ＣＤ１"
+msgstr ""
+
+#. msg_27_Choice2
+
+msgid "\[if_all(!MBIT_CD_CD01)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_27_Choice3
+
+msgid "\[if_all(MBIT_CD_CD02)\]ＣＤ２"
+msgstr ""
+
+#. msg_27_Choice4
+
+msgid "\[if_all(!MBIT_CD_CD02)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_27_Choice5
+
+msgid "\[if_all(MBIT_CD_CD03)\]ＣＤ３"
+msgstr ""
+
+#. msg_27_Choice6
+
+msgid "\[if_all(!MBIT_CD_CD03)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_27_Choice7
+
+msgid "\[if_all(MBIT_CD_CD04)\]ＣＤ４"
+msgstr ""
+
+#. msg_27_Choice8
+
+msgid "\[if_all(!MBIT_CD_CD04)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_27_Choice9
+
+msgid "\[if_all(MBIT_CD_KACD01)\]隠しＣＤ１"
+msgstr ""
+
+#. msg_27_Choice10
+
+msgid "\[if_all(!MBIT_CD_KACD01)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_27_Choice11
+
+msgid "やめる"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(green)\]このＣＤは、\nまだ購入していません。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(green)\]ＣＤを選んでください。\[color(white)\]\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29_Choice1
+
+msgid "\[if_all(MBIT_CD_CD05)\]ＣＤ５"
+msgstr ""
+
+#. msg_29_Choice2
+
+msgid "\[if_all(!MBIT_CD_CD05)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_29_Choice3
+
+msgid "\[if_all(MBIT_CD_CD06)\]ＣＤ６"
+msgstr ""
+
+#. msg_29_Choice4
+
+msgid "\[if_all(!MBIT_CD_CD06)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_29_Choice5
+
+msgid "\[if_all(MBIT_CD_CD07)\]ＣＤ７"
+msgstr ""
+
+#. msg_29_Choice6
+
+msgid "\[if_all(!MBIT_CD_CD07)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_29_Choice7
+
+msgid "\[if_all(MBIT_CD_CD08)\]ＣＤ８"
+msgstr ""
+
+#. msg_29_Choice8
+
+msgid "\[if_all(!MBIT_CD_CD08)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_29_Choice9
+
+msgid "\[if_all(MBIT_CD_KACD02)\]隠しＣＤ２"
+msgstr ""
+
+#. msg_29_Choice10
+
+msgid "\[if_all(!MBIT_CD_KACD02)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_29_Choice11
+
+msgid "やめる"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(green)\]このＣＤは、\nまだ購入していません。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(green)\]ＣＤを選んでください。\[color(white)\]\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31_Choice1
+
+msgid "\[if_all(MBIT_CD_CD09)\]ＣＤ９"
+msgstr ""
+
+#. msg_31_Choice2
+
+msgid "\[if_all(!MBIT_CD_CD09)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_31_Choice3
+
+msgid "\[if_all(MBIT_CD_CD10)\]ＣＤ１０"
+msgstr ""
+
+#. msg_31_Choice4
+
+msgid "\[if_all(!MBIT_CD_CD10)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_31_Choice5
+
+msgid "\[if_all(MBIT_CD_CD11)\]ＣＤ１１"
+msgstr ""
+
+#. msg_31_Choice6
+
+msgid "\[if_all(!MBIT_CD_CD11)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_31_Choice7
+
+msgid "\[if_all(MBIT_CD_CD12)\]ＣＤ１２"
+msgstr ""
+
+#. msg_31_Choice8
+
+msgid "\[if_all(!MBIT_CD_CD12)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_31_Choice9
+
+msgid "\[if_all(MBIT_CD_CD13)\]ＣＤ１３"
+msgstr ""
+
+#. msg_31_Choice10
+
+msgid "\[if_all(!MBIT_CD_CD13)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_31_Choice11
+
+msgid "やめる"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(green)\]このＣＤは、\nまだ購入していません。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(green)\]ＣＤを選んでください。\[color(white)\]\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33_Choice1
+
+msgid "\[if_all(MBIT_CD_CD14)\]ＣＤ１４"
+msgstr ""
+
+#. msg_33_Choice2
+
+msgid "\[if_all(!MBIT_CD_CD14)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_33_Choice3
+
+msgid "\[if_all(MBIT_CD_CD15)\]ＣＤ１５"
+msgstr ""
+
+#. msg_33_Choice4
+
+msgid "\[if_all(!MBIT_CD_CD15)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_33_Choice5
+
+msgid "\[if_all(MBIT_CD_CD16)\]ＣＤ１６"
+msgstr ""
+
+#. msg_33_Choice6
+
+msgid "\[if_all(!MBIT_CD_CD16)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_33_Choice7
+
+msgid "\[if_all(MBIT_CD_CD17)\]ＣＤ１７"
+msgstr ""
+
+#. msg_33_Choice8
+
+msgid "\[if_all(!MBIT_CD_CD17)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_33_Choice9
+
+msgid "\[if_all(MBIT_CD_CD18)\]ＣＤ１８"
+msgstr ""
+
+#. msg_33_Choice10
+
+msgid "\[if_all(!MBIT_CD_CD18)\]\[color(gray)\]未購入\[color(white)\]"
+msgstr ""
+
+#. msg_33_Choice11
+
+msgid "やめる"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(green)\]このＣＤは、\nまだ購入していません。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(green)\]ＣＤ１再生中。\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(green)\]ＣＤ２再生中。\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(green)\]ＣＤ３再生中。\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(green)\]ＣＤ４再生中。\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(green)\]隠しＣＤ１再生中。\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(green)\]ＣＤ５再生中。\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(green)\]ＣＤ６再生中。\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(green)\]ＣＤ７再生中。\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(green)\]ＣＤ８再生中。\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(green)\]隠しＣＤ２再生中。\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(green)\]ＣＤ９再生中。\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(green)\]ＣＤ１０再生中。\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(green)\]ＣＤ１１再生中。\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(green)\]ＣＤ１２再生中。\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(green)\]ＣＤ１３再生中。\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(green)\]ＣＤ１４再生中。\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(green)\]ＣＤ１５再生中。\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(green)\]ＣＤ１６再生中。\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(green)\]ＣＤ１７再生中。\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(green)\]ＣＤ１８再生中。\[color(white)\]\n\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "\[color(green)\]𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮\n○ボタンか×ボタンを押すと、演奏終了します。\n𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮𝅘𝅥𝅮\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

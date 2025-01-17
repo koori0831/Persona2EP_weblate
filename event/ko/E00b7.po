@@ -1,0 +1,48 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E00b7\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\n\[suou\]君、本当にいいんだね…？\nその…ケーキ職人さんになるという\n夢を諦めてしまっても。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]高校時代の克哉\[color(white)\]\n「パティシエ」です。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\nああ、そうだったね。\nで…本当にいいのかい？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]高校時代の克哉\[color(white)\]\n自分で決めたことです…\n国立大学の法学部から、刑事を目指します。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\n君の成績なら、どこだって大丈夫なんだが…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]橿原先生\[color(white)\]\nお父さんの事が…原因なんだね？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]高校時代の克哉\[color(white)\]\n…先生には、関係ないことです。\n失礼します。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

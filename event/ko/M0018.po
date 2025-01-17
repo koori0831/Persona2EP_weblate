@@ -1,0 +1,403 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: M0018\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "パーティの人数が四人を超えています。\nこのままじゃハングします。\n金田・片岡に連絡してください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあー…なんか…\nあの後じゃ、ばつが悪いなぁ。\nマーヤ、食べたいのある？おごろうか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nねぇマーヤ、\nあそこの女の子、止めた方が良いかな？\n良いよね？講演会なんかに行ったらきっと…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n…けど、行かなきゃＪＯＫＥＲになっちゃう。\nだけど放ってもおけないし…\nどうすればいいのぉ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nあの女の子、\nきっと彼氏にも一緒に来てほしいのよ。\nだけど言いにくいもんね…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n意外かもしれんが、\n僕もこうした所で食事を取ることが多い。\nゆったりと食事している時間などないからな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n別に芹沢君の事を恨んではいないんだろ？\n彼女も、あまり引きずらないと良いがな。\n…ま、少し時間は必要かもしれんが。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nグズグズしていると、\n我々までＪＯＫＥＲになってしまうのか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nあのアルバイターも噂の被害者でな。\n元は普通の娘だったが、\nゴザル口調で話すって噂が広まってあの有様だ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nま、元々熱狂的な時代劇ファンだったそうだが…\n件の噂もそれに尾鰭が付いて出来たんだろう。\n考え様によっちゃ、世界一危険な街だぜここは…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nその杏奈って娘がマフィアとも思えないしな、\nとりあえず罠って事は無いと思うが…\nま、用心に越したことはねえ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nちっ！あのノリコってガキさえいなけりゃ、\n奴を逃がすことも無かったんだ！\n…ったく、勘弁してほしいぜ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n竜蔵の野郎…\n街中の人間から穢れとやらを奪う気か？\nクソッ…！一体何しようってんだ…読めねぇ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n俺がペルソナの存在を知ったのは学生時代。\n当時の学友が、ピースダイナーの食い放題を賭け、\nペルソナ様を行ったのがきっかけでした。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n神取ほど高慢な男はいない。\n少なくとも、一組織の歯車となって動く男とは\n到底思えない。奴は…何を企んでいる…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＭａｒｋは元気にしているかしら…\nフフフ、ここに来るたびに、思い出すんです。\nＰＥＲＳＯＮＡ様をした日の事を。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＷａｎｇｌｏｎｇ千鶴は\nＭｒ．神取の事を知っていた…\nやはりこの事件には彼が絡んでいるんですね…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]アルバイター\[color(white)\]\nなっ、なんでござる！？この胸の高鳴りは…\n…何か…只ならぬ縁を感じるでござる。\nならば、拙者も誠意を持って、お答えせねば！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]アルバイター\[color(white)\]\nピースダイナーへ、よくぞ参られた。\nさぁ、ご注文はいかがいたす？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18_Choice1
+
+msgid "食事をする"
+msgstr ""
+
+#. msg_18_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_18_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_18_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]アルバイター\[color(white)\]\nなにが聞きたいでござる？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_19_Choice2
+
+msgid "食事の説明を聞く"
+msgstr ""
+
+#. msg_19_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]アルバイター\[color(white)\]\n他に御用はおありかな？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20_Choice1
+
+msgid "食事をする"
+msgstr ""
+
+#. msg_20_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_20_Choice3
+
+msgid "やめる"
+msgstr ""
+
+#. msg_20_Choice4
+
+msgid "店の外に出る"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]アルバイター\[color(white)\]\nなにが聞きたいでござる？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21_Choice1
+
+msgid "世間話をする"
+msgstr ""
+
+#. msg_21_Choice2
+
+msgid "食事の説明を聞く"
+msgstr ""
+
+#. msg_21_Choice3
+
+msgid "\[if_all(EBIT_SINARIOFF)\]非表示項目"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]アルバイター\[color(white)\]\n当方では、バリュー御膳を始め\n様々な品を御用意してござる。\nささ、何なりとご注文なされよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]アルバイター\[color(white)\]\nそれがし確かに時代劇好きではござったが、\nさりとてこのようなゴザル調で喋るほどでは\nなかったような気がするでござる…うーむ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]アルバイター\[color(white)\]\nこの勤めで、この口調はなにかと不自由でござる。\n店長殿にはお叱りを受けるし、お品書も読めぬ。\nしぇいくなど、どう呼べばよいやら…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]アルバイター\[color(white)\]\n講演会で穢れを祓ったとて、\nＪＯＫＥＲに襲われてしまっては、元も子もない。\nここは、異国へ逃げてしまうが得策でござろう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]アルバイター\[color(white)\]\nされど…それも先立つ物あればの話。\nここは、精進して蓄えを増やす他ござらん。\nくぅぅぅ…断腸の思い！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]アルバイター\[color(white)\]\nかたじけない。\[delay(15)\]\nではまたの御来訪を\nお待ち申し上げているでござる。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]牧村\[color(white)\]\nふふ…実はここは\n絶好のナンパポイントだったりする。\nここで何人の女の子を誘ったことか…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]噂屋チカリン\[color(white)\]\n初めまして、こんにちは～\n私セブンスの新聞部員、上田知香と申しますぅ。\nいっその事、チカリンって呼んで下さいましぃ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]上田知香（うえだちか）\[color(white)\]\n\[color(green)\]噂屋チカリンと呼ばれる、七姉妹学園新聞部員。\nそそっかしい性格だが、\n情報の速さには誰もが一目置く存在。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]噂屋チカリン\[color(white)\]\n新聞記者は足が命ですことよ！\nだから今日も今日とてスクープ求め、\nここで情報収集に余念の無いチカリンでした。\n\[wait\]\[clear\]\[color(yellow)\]噂屋チカリン\[color(white)\]\n皆さんも、何かスバラなネタご存知でしたら、\n是非教えてくださいませぇ。\n代わりにチカリンのネタも教えちゃいますぅ。\n\[wait\]\[clear\]\[color(yellow)\]噂屋チカリン\[color(white)\]\n思い立ったが吉日な今日この頃。\nさっそく噂交換するのがスバラでしょう！\nご用件はなんでせう？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]噂屋チカリン\[color(white)\]\n明けまして、こんにちは。\nさてさてご用は何でしょう？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]噂屋チカリン\[color(white)\]\nさぁ、白状なさいまし！\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33_Choice1
+
+msgid "噂を聞きたい"
+msgstr ""
+
+#. msg_33_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_33_Choice3
+
+msgid "用はない"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]噂屋チカリン\[color(white)\]\n他にご用はありますかぁ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34_Choice1
+
+msgid "噂を聞きたい"
+msgstr ""
+
+#. msg_34_Choice2
+
+msgid "話をする"
+msgstr ""
+
+#. msg_34_Choice3
+
+msgid "用はない"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]噂屋チカリン\[color(white)\]\nアイムソーリー\n今のところ新しい噂ネタは入っていないですぅ。\n待て、次号ですぅ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]噂屋チカリン\[color(white)\]\n了解してラジャー！！\nしからば、そちらのネタを\n教えてほしーですぅ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]噂屋チカリン\[color(white)\]\n了解してラジャー！！\n今日もチカリン絶好調！！\nスバラな情報を期待しますぅ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]噂屋チカリン\[color(white)\]\n……なるヘソォ。\nなかなか興味深い情報でマンボ。\nではチカリン情報も教えちゃいますぅ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]噂屋チカリン\[color(white)\]\nななんと！そんな情報をご存知とは！\nこれは油断できぬ相手でしょう！\nこちらも負けずに噂発信でしょう！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]噂屋チカリン\[color(white)\]\nスバラですぅ！とてもスバラですぅ！\nそんなネタはチカリンも知らぬが仏でしたぁ！\nではこちらも負けずにまいりますぅ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]噂屋チカリン\[color(white)\]\n\[color(orange)\]トニーの店\[color(white)\]ってご存知ですかぁ？\n噂じゃそこで、\[color(orange)\]戦闘に役立つ特殊なアクセサリーを\n売っている\[color(white)\]そうなんですぅ。世紀末ですねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]噂屋チカリン\[color(white)\]\n\[color(orange)\]ムー大陸\[color(white)\]で\[color(orange)\]本物のカジノが楽しめる\[color(white)\]そうですよぉ。\n特に\[color(orange)\]ブラックジャックの配当金が高い\[color(white)\]らしくって\nボロ儲け寸前だそうですぅ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]噂屋チカリン\[color(white)\]\n\[color(orange)\]別冊ミラクル\[color(white)\]ってご存知ですます？\nなんでも、その本の懸賞に送ると、\n不思議な\[color(orange)\]魔法のカードが当たる\[color(white)\]そうですよぉ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]噂屋チカリン\[color(white)\]\n\[color(orange)\]ファンタジーワールド\[color(white)\]という雑誌はご存知？\nチカリンがゲッチュした情報によると、\nその懸賞で\[color(orange)\]アクセサリー\[color(white)\]が当たるそうですぅ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]噂屋チカリン\[color(white)\]\n実は、この区にあるゾディアックには、\n悪の秘密カジノがあるらしいのですぅ。\n噂ではマフィアの資金源にもなってるとかとか。\n\[wait\]\[clear\]\[color(yellow)\]噂屋チカリン\[color(white)\]\nそこでその実態を究明しようかと思いはしたものの\n内心ビビリまくりのチカリンなのでしたぁ。\nでも、けど、だって…怖いですふぅ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]噂屋チカリン\[color(white)\]\nチカリンのオススメは、\nピースバーガーですぅ！\n安くておいしいなんて驚きですぅ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]噂屋チカリン\[color(white)\]\nサヨナラは寂しいから…\nまたね、と言ってチカリンは別れますぅ。\nジュワッチ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]ユキコ\[color(white)\]\nカズヤが１０月生まれで、銀龍でしょ？\n私が１月生まれだから…黄龍…\n大丈夫！きっと相性バッチリよ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]カズヤ\[color(white)\]\nえ？\nそれって…\n相性悪いんじゃ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]ユキコ\[color(white)\]\nワンロン千鶴が言うんだから間違い無いわよ！\n早く穢れを取ってもらわなきゃ、\n女媧にとり憑かれちゃうよ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]カズヤ\[color(white)\]\n落ち着きなよユキコ！！\nあんなのテレビのやらせに決まってるさ。\n信じるだけ損だよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]ユキコ\[color(white)\]\n分かったわよ！もういいわ！\n私一人で講演会に行ってくる！\nＪＯＫＥＲになっちゃっても知らないからね！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(yellow)\]カズヤ\[color(white)\]\nか…勝手にすればいいだろ！！\nお前こそ、騙されて大金取られても\n知らないからな！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]アルバイター\[color(white)\]\n「食事」の説明でござるな、承知した。\n当方で「食事をする」を選んでいただければ\nハンバーガー・ポテト・シェイクなどを提供いたす。\n\[wait\]\[clear\]\[color(yellow)\]アルバイター\[color(white)\]\nこれらの食物には一時的に能力を高める効果がありまして\nその効果は、メニューによって様々でござる。\n如何様な効果が出るかは、色々食されてみるが良かろう。\n\[wait\]\[clear\]\[color(yellow)\]アルバイター\[color(white)\]\nひとつ気をつけていただきたいのだが、一度飲食をすると\nその効果が切れるまで次の食事はできないでござる。\nたいしたことではないと思うが…注意されたし。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "\[color(yellow)\]アルバイター\[color(white)\]\nそちらは\[var(msg_var_0)\]円になり申す。\nよろしいでござるか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_55_Choice2
+
+msgid "いいえ"
+msgstr ""
+

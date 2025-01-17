@@ -1,0 +1,48 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: E008d\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 05:17\n"
+"PO-Revision-Date: 2025-01-18 05:17\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]\[tatsuya\]\[color(white)\]\nここは、人の無意識に眠る記憶を映す場所だ…\n知られたくない過去が暴かれてもいいなら、\n付いて来い…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nアラヤの岩戸か…御影町にもあったが…\n入るのは初めてですよ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nＡＲＡＹＡの岩戸…御影町を思い出しますわ…\n入った事はありませんけど…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n人の過去を映すだと…\n冗談じゃねぇぞ…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n天野君…僕達は、知らなくて良い事を\n知ろうとしているのだろうか…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nそうなのか…\[tatsuya\]…？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nどうする、マーヤ…？\nなんとなくだけどさ…\n行かないほうがいいかもしんない…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
