@@ -1,0 +1,73 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: DNGSCN.BNP$_147\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 15:57\n"
+"PO-Revision-Date: 2025-01-18 15:57\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]ローカルセキュリティ\[color(white)\]\n只今の、管理モードは、\n「Ｂ」です。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "管理モードをＡに移行しますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_1_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]ローカルセキュリティ\[color(white)\]\n管理モードを、「Ａ」へ移行。\n「Ａ」…実行、いたします。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]ローカルセキュリティ\[color(white)\]\n管理モード、現状維持。\n只今の、管理モードは、\n「Ｂ」です。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]ローカルセキュリティ\[color(white)\]\n只今の、管理モードは、\n「Ａ」です。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "管理モードをＢに移行しますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_5_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]ローカルセキュリティ\[color(white)\]\n管理モードを、「Ｂ」へ移行。\n「Ｂ」…実行、いたします。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]ローカルセキュリティ\[color(white)\]\n管理モード、現状維持。\n只今の、管理モードは、\n「Ａ」です。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

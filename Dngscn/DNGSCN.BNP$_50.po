@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: DNGSCN.BNP$_50\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 15:57\n"
+"PO-Revision-Date: 2025-01-18 15:57\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]天誅軍兵士\[color(white)\]\nあんたら、須藤竜蔵を追ってんだろ？\nヤツならそこ、…ヘリポートの方へ行ったよ。\nこの船を…俺達を捨てて逃げる気らしい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]天誅軍兵士\[color(white)\]\n…海底遺跡？\nあぁ、あそこに向かったのはヤツの秘書と\nあの占い師のネェちゃんだよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

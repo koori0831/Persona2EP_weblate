@@ -1,0 +1,28 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: DNGSCN.BNP$_44\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 15:57\n"
+"PO-Revision-Date: 2025-01-18 15:57\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]廉貞星（れんじょうせい）の石版\[color(white)\]\n龍の台に登らんと欲する者\n北辰の示せし順に古の祝詞捧ぐべし\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]廉貞星（れんじょうせい）の石版\[color(white)\]\n祝詞は言霊\n分かたれし七霊集め大いなる祝詞捧ぐべし\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]廉貞星（れんじょうせい）の石版\[color(white)\]\n廉貞の輝きを「う」と知る者は\n粛々と頭垂れるべし\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

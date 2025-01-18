@@ -1,0 +1,513 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: DNGSCN.BNP$_30\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 15:57\n"
+"PO-Revision-Date: 2025-01-18 15:57\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nパンパカパーン！\nついに最後のグループ、販売開始！\nその名はフィーアト。よろしくぷぅ𝅘𝅥𝅮\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nお待たせでぷぅ𝅘𝅥𝅮\nついにドリットグループの発売でぷぅ𝅘𝅥𝅮\nこれは買うしかないでしょう？ないよねぇ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]店主\[color(white)\]\n大発表でぷぅ𝅘𝅥𝅮\n新たにツヴァイトグループが発売開始ミョ～！\nぜひぜひ買ってってほしいでぷぅ𝅘𝅥𝅮\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nいらっしゃいニョ～𝅘𝅥𝅮\nＣＤショップ、ギガ・マッチョへようこそ～\nさてさてどういった御用でしょう？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nなんだかねぇ、\nＣＤ隠しておいたのが、バレちゃったみたいなの…\nこれじゃあ売るしかないよねぇ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nあちゃ～またまたバレちゃいました隠しＣＤ…\nせっかく取っておいたお気に入りなのにぃ。\nグスン、でも仕方ないミョ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]店主\[color(white)\]\n…と言う訳で、\n新曲、隠しＣＤ２を販売するミョ～\nツヴァイトに入れといたから、買ってねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]店主\[color(white)\]\n…と言う訳で、\n新曲、隠しＣＤの販売を始めたミョ～\nエーアストに入れといたから、ぜひ買ってねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]店主\[color(white)\]\n…と言う訳で、\n新曲、隠しＣＤ２を販売するミョ～\nツヴァイトに入れといたから、買ってねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "ではご用件を言ってミソ。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9_Choice1
+
+msgid "\[if_all(LBIT_0000)\]ＣＤを買う"
+msgstr ""
+
+#. msg_9_Choice2
+
+msgid "\[if_none(LBIT_0000)\]\[color(gray)\]ＣＤ売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_9_Choice3
+
+msgid "話をする"
+msgstr ""
+
+#. msg_9_Choice4
+
+msgid "用はない"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nゴメンねぇ、今ＣＤは売切れでぷぅ。\nえ？周りにいっぱいあるだろって？\nあれは書割。だからゴメンねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "じゃあグループを選ぶニョ～\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11_Choice1
+
+msgid "\[if_any(!MBIT_CD_CD01, !MBIT_CD_CD02, !MBIT_CD_CD03, !MBIT_CD_CD04, !MBIT_CD_KACD01)\]エーアスト"
+msgstr ""
+
+#. msg_11_Choice2
+
+msgid "\[if_all(MBIT_CD_CD01, MBIT_CD_CD02, MBIT_CD_CD03, MBIT_CD_CD04, MBIT_CD_KACD01)\]\[color(gray)\]エーアスト売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_11_Choice3
+
+msgid "\[if(EBIT_E006F)\]\[if_any(!MBIT_CD_CD05, !MBIT_CD_CD06, !MBIT_CD_CD07, !MBIT_CD_CD08, !MBIT_CD_KACD02)\]ツヴァイト"
+msgstr ""
+
+#. msg_11_Choice4
+
+msgid "\[if_all(EBIT_E006F, MBIT_CD_CD05, MBIT_CD_CD06, MBIT_CD_CD07, MBIT_CD_CD08, MBIT_CD_KACD02)\]\[color(gray)\]ツヴァイト売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_11_Choice5
+
+msgid "\[if_all(!EBIT_E006F)\]\[color(pink)\]収録中\[color(white)\]"
+msgstr ""
+
+#. msg_11_Choice6
+
+msgid "\[if(EBIT_E008C)\]\[if_any(!MBIT_CD_CD09, !MBIT_CD_CD10, !MBIT_CD_CD11, !MBIT_CD_CD12, !MBIT_CD_CD13)\]ドリット"
+msgstr ""
+
+#. msg_11_Choice7
+
+msgid "\[if_all(EBIT_E008C, MBIT_CD_CD09, MBIT_CD_CD10, MBIT_CD_CD11, MBIT_CD_CD12, MBIT_CD_CD13)\]\[color(gray)\]ドリット売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_11_Choice8
+
+msgid "\[if_all(!EBIT_E008C)\]\[color(pink)\]収録中\[color(white)\]"
+msgstr ""
+
+#. msg_11_Choice9
+
+msgid "\[if(EBIT_E00B8)\]\[if_any(!MBIT_CD_CD14, !MBIT_CD_CD15, !MBIT_CD_CD16, !MBIT_CD_CD17, !MBIT_CD_CD18)\]フィーアト"
+msgstr ""
+
+#. msg_11_Choice10
+
+msgid "\[if_all(EBIT_E00B8, MBIT_CD_CD14, MBIT_CD_CD15, MBIT_CD_CD16, MBIT_CD_CD17, MBIT_CD_CD18)\]\[color(gray)\]フィーアト売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_11_Choice11
+
+msgid "\[if_all(!EBIT_E00B8)\]\[color(pink)\]収録中\[color(white)\]"
+msgstr ""
+
+#. msg_11_Choice12
+
+msgid "やめる"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nゴメンねぇ…\nそれ売切れでぷぅ。\n再入荷の予定も無いニョ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nそのグループは、まだ収録中でぷぅ。\nもう少し待ってほしいニョ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "ではＣＤを選んでほしいミョ～\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14_Choice1
+
+msgid "\[if_all(!MBIT_CD_CD01)\]ＣＤ１"
+msgstr ""
+
+#. msg_14_Choice2
+
+msgid "\[if_all(MBIT_CD_CD01)\]\[color(gray)\]ＣＤ１売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_14_Choice3
+
+msgid "\[if_all(!MBIT_CD_CD02)\]ＣＤ２"
+msgstr ""
+
+#. msg_14_Choice4
+
+msgid "\[if_all(MBIT_CD_CD02)\]\[color(gray)\]ＣＤ２売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_14_Choice5
+
+msgid "\[if_all(!MBIT_CD_CD03)\]ＣＤ３"
+msgstr ""
+
+#. msg_14_Choice6
+
+msgid "\[if_all(MBIT_CD_CD03)\]\[color(gray)\]ＣＤ３売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_14_Choice7
+
+msgid "\[if_all(!MBIT_CD_CD04)\]ＣＤ４"
+msgstr ""
+
+#. msg_14_Choice8
+
+msgid "\[if_all(MBIT_CD_CD04)\]\[color(gray)\]ＣＤ４売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_14_Choice9
+
+msgid "\[if_all(MBIT_HI_GIGACD1, !MBIT_CD_KACD01)\]隠しＣＤ１"
+msgstr ""
+
+#. msg_14_Choice10
+
+msgid "\[if_all(MBIT_CD_KACD01)\]\[color(gray)\]隠しＣＤ１売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_14_Choice11
+
+msgid "\[if_all(!MBIT_CD_KACD01, !MBIT_HI_GIGACD1)\]\[color(pink)\]？？？？\[color(white)\]"
+msgstr ""
+
+#. msg_14_Choice12
+
+msgid "やめる"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nゴメンねぇ…\nそれ売切れでぷぅ。\n再入荷の予定も無いニョ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nあらあら、それは何かしら？\n私にもよく分からないのよねぇ。\nだから売れないの。ごめんね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "じゃあねぇ、ＣＤ選んでぷぅ。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17_Choice1
+
+msgid "\[if_all(!MBIT_CD_CD05)\]ＣＤ５"
+msgstr ""
+
+#. msg_17_Choice2
+
+msgid "\[if_all(MBIT_CD_CD05)\]\[color(gray)\]ＣＤ５売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_17_Choice3
+
+msgid "\[if_all(!MBIT_CD_CD06)\]ＣＤ６"
+msgstr ""
+
+#. msg_17_Choice4
+
+msgid "\[if_all(MBIT_CD_CD06)\]\[color(gray)\]ＣＤ６売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_17_Choice5
+
+msgid "\[if_all(!MBIT_CD_CD07)\]ＣＤ７"
+msgstr ""
+
+#. msg_17_Choice6
+
+msgid "\[if_all(MBIT_CD_CD07)\]\[color(gray)\]ＣＤ７売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_17_Choice7
+
+msgid "\[if_all(!MBIT_CD_CD08)\]ＣＤ８"
+msgstr ""
+
+#. msg_17_Choice8
+
+msgid "\[if_all(MBIT_CD_CD08)\]\[color(gray)\]ＣＤ８売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_17_Choice9
+
+msgid "\[if_all(MBIT_HI_GIGACD2, !MBIT_CD_KACD02)\]隠しＣＤ２"
+msgstr ""
+
+#. msg_17_Choice10
+
+msgid "\[if_all(MBIT_CD_KACD02)\]\[color(gray)\]隠しＣＤ２売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_17_Choice11
+
+msgid "\[if_all(!MBIT_HI_GIGACD2, !MBIT_CD_KACD02)\]\[color(pink)\]？？？？\[color(white)\]"
+msgstr ""
+
+#. msg_17_Choice12
+
+msgid "やめる"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nあらあら、それは何かしら？\n私にもよく分からないのよねぇ。\nだから売れないの。ごめんね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nゴメンねぇ…\nそれ売切れでぷぅ。\n再入荷の予定も無いニョ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "じゃあＣＤを選ぶニョ～\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20_Choice1
+
+msgid "\[if_all(!MBIT_CD_CD09)\]ＣＤ９"
+msgstr ""
+
+#. msg_20_Choice2
+
+msgid "\[if_all(MBIT_CD_CD09)\]\[color(gray)\]ＣＤ９売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_20_Choice3
+
+msgid "\[if_all(!MBIT_CD_CD10)\]ＣＤ１０"
+msgstr ""
+
+#. msg_20_Choice4
+
+msgid "\[if_all(MBIT_CD_CD10)\]\[color(gray)\]ＣＤ１０売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_20_Choice5
+
+msgid "\[if_all(!MBIT_CD_CD11)\]ＣＤ１１"
+msgstr ""
+
+#. msg_20_Choice6
+
+msgid "\[if_all(MBIT_CD_CD11)\]\[color(gray)\]ＣＤ１１売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_20_Choice7
+
+msgid "\[if_all(!MBIT_CD_CD12)\]ＣＤ１２"
+msgstr ""
+
+#. msg_20_Choice8
+
+msgid "\[if_all(MBIT_CD_CD12)\]\[color(gray)\]ＣＤ１２売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_20_Choice9
+
+msgid "\[if_all(!MBIT_CD_CD13)\]ＣＤ１３"
+msgstr ""
+
+#. msg_20_Choice10
+
+msgid "\[if_all(MBIT_CD_CD13)\]\[color(gray)\]ＣＤ１３売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_20_Choice11
+
+msgid "やめる"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nゴメンねぇ…\nそれ売切れでぷぅ。\n再入荷の予定も無いニョ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "ではではＣＤを選んでぷぅ。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22_Choice1
+
+msgid "\[if_all(!MBIT_CD_CD14)\]ＣＤ１４"
+msgstr ""
+
+#. msg_22_Choice2
+
+msgid "\[if_all(MBIT_CD_CD14)\]\[color(gray)\]ＣＤ１４売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_22_Choice3
+
+msgid "\[if_all(!MBIT_CD_CD15)\]ＣＤ１５"
+msgstr ""
+
+#. msg_22_Choice4
+
+msgid "\[if_all(MBIT_CD_CD15)\]\[color(gray)\]ＣＤ１５売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_22_Choice5
+
+msgid "\[if_all(!MBIT_CD_CD16)\]ＣＤ１６"
+msgstr ""
+
+#. msg_22_Choice6
+
+msgid "\[if_all(MBIT_CD_CD16)\]\[color(gray)\]ＣＤ１６売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_22_Choice7
+
+msgid "\[if_all(!MBIT_CD_CD17)\]ＣＤ１７"
+msgstr ""
+
+#. msg_22_Choice8
+
+msgid "\[if_all(MBIT_CD_CD17)\]\[color(gray)\]ＣＤ１７売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_22_Choice9
+
+msgid "\[if_all(!MBIT_CD_CD18)\]ＣＤ１８"
+msgstr ""
+
+#. msg_22_Choice10
+
+msgid "\[if_all(MBIT_CD_CD18)\]\[color(gray)\]ＣＤ１８売切れ\[color(white)\]"
+msgstr ""
+
+#. msg_22_Choice11
+
+msgid "やめる"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nゴメンねぇ…\nそれ売切れでぷぅ。\n再入荷の予定も無いニョ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nえ～と、そのＣＤは…\n\[var(msg_var_0)\]円ニョ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "買いますかぁ？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_25_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nあふぅ…\nそれは残念でぷぅ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nあれあれぇ…\nだけどお金が足りないみたい。\nこれでは売れないぷぅ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nはいはぁい。\nありがとミョ～𝅘𝅥𝅮\nわたしゃうれしいよぉ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nＣＤは４つのグループに分けて発売するニョ～\n今はエーアストしか無いけど、\nどんどん増やしてくから、よろしくねぇ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nグループの名前はねぇ、\n全部ドイツ語なんだミョ～\nちなみにエーアストは第一とか最初って意味♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]店主\[color(white)\]\nところで、\nお客サンって前にもどこかで会ったっけ？\nなんだかずっと前から知ってる気がするニョ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]店主\[color(white)\]\n最近、街でヘンな人見かけない？\nレッツ・ポジティブシンキング…だっけ？\nそれしか言わないの。ヘンだよねぇ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]店主\[color(white)\]\n穢れ祓いの集会ってドコでしてるの？\n私も行った方がいいかニョ～？\nそんなに性格悪くはないつもりなんだけど…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]店主\[color(white)\]\n不思議な事に、街が空を飛んでるっていうのに、\n私ったらあまり驚いてないぷぅ。\n前にもこんな事あった？無いよねぇ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]店主\[color(white)\]\n毎度どうもでニョ～\nまた来てぷぅ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

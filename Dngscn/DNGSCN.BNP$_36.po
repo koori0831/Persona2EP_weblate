@@ -1,0 +1,33 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: DNGSCN.BNP$_36\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 15:57\n"
+"PO-Revision-Date: 2025-01-18 15:57\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]男の声\[color(white)\]\nここに入りたければ合言葉必要ネ。\nあなた合言葉知ってるか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "Ｐａｎｔｈｅｒ\nＰＡＮＴＨＥＲ\nｐａｎｔｈｅｒ\n\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]男の声\[color(white)\]\nここは関係者以外立ち入り禁止！\n死にたくなければ大人しく帰るネ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]男の声\[color(white)\]\nよし、入れ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+

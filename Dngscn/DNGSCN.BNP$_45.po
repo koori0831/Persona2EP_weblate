@@ -1,0 +1,38 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: DNGSCN.BNP$_45\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 15:57\n"
+"PO-Revision-Date: 2025-01-18 15:57\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\nＯｈＮｏ！！\nＨｅｌｐＭｅ！！\n助けてＰｌｅａｓｅ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]トリッシュ\[color(green)\]\n金にうるさい守銭奴妖精。\n実は妖精界を追放された身らしい。\n善行を行わなければ、帰れないということだが…\[color(white)\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\nヘンな悪魔が突然ボクの泉にやって来て、\nそのまま棲み付いちゃったんだァ！！\nこれじゃ商売できないよぅ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\nねェ、あの悪魔、追っ払ってよォ！\nなんだったら、\nコテンパンにしていいからさァ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]トリッシュ\[color(white)\]\nえ？あの悪魔やっつけてくれたの？\nＹｅｓ！！ありがとＴｈａｎｋｙｏｕ♥\nこれで営業再開できる。Ｌｕｃｋｙ！！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

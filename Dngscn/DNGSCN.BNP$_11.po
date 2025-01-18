@@ -1,0 +1,43 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: DNGSCN.BNP$_11\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 15:57\n"
+"PO-Revision-Date: 2025-01-18 15:57\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(green)\]スイッチがある。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(green)\]スイッチを押しますか？\[color(white)\]\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_1_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(green)\]可動橋が開いた。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(green)\]可動橋は開いている。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

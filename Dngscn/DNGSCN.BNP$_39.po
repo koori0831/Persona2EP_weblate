@@ -1,0 +1,48 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: DNGSCN.BNP$_39\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 15:57\n"
+"PO-Revision-Date: 2025-01-18 15:57\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]制御パネル\[color(white)\]\nベルトコンベアーの進行方向を切り換えますか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "ベルトコンベアーの進行方向を切り換えますか？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_1_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]制御パネル\[color(white)\]\nＢ方向に切り換えました。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]制御パネル\[color(white)\]\nＡ方向に切り換えました。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]制御パネル\[color(white)\]\n切り換え操作は中止されました。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

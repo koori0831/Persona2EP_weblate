@@ -1,0 +1,53 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: DNGSCN.BNP$_91\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 15:57\n"
+"PO-Revision-Date: 2025-01-18 15:57\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(green)\]賽銭箱はもう一杯のようだ。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]古い祠\[color(white)\]\n\[color(green)\]賽銭箱がある。\nお賽銭を奉納しますか？\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(green)\]１００円、奉納しますか？\[color(white)\]\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2_Choice1
+
+msgid "してみましょ。"
+msgstr ""
+
+#. msg_2_Choice2
+
+msgid "やめとくわ。"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(green)\]所持金が足りません。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(green)\]お賽銭を１００円奉納した。\n賽銭箱はもう一杯のようだ。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(green)\]お賽銭を１００円奉納した。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

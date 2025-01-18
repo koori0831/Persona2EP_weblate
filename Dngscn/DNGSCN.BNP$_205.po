@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: DNGSCN.BNP$_205\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 15:57\n"
+"PO-Revision-Date: 2025-01-18 15:57\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]女性プロデューサー\[color(white)\]\nねぇ、一体うちの局どうなっちゃったの！？\n全然外に出られないのよ！！\nワンロン千鶴の楽屋に行っただけなのに…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]女性プロデューサー\[color(white)\]\nいくら社長の命令とはいえ、ヤラセ番組なんか\n作ったからバチが当たったのかしら…\n私は悪くないのよぉ～！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

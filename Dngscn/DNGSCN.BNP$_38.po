@@ -1,0 +1,38 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: DNGSCN.BNP$_38\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-18 15:57\n"
+"PO-Revision-Date: 2025-01-18 15:57\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(green)\]ここにはもう用はない。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]ドアロック\[color(white)\]\nこの扉はロックされています。\n解除コードを入力してください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "１３７１\n\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]ドアロック\[color(white)\]\n解除コードが違います。\n正しい番号を入力してください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]ドアロック\[color(white)\]\n・・・解除コード、確認しました。\n警備ご苦労さまです。\nどうぞお入りください。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
