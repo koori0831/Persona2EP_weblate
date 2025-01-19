@@ -1,0 +1,18 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 111_0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 05:31\n"
+"PO-Revision-Date: 2025-01-20 05:31\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]ニャルラトホテプ\[color(white)\]\nふはははは！実に！愉快！！\n私にこの姿を晒させたのはお前達が初めてだ…\n最高の賛辞を抱いて死ねぃ！\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

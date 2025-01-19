@@ -1,0 +1,103 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 45_0200\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 05:29\n"
+"PO-Revision-Date: 2025-01-20 05:29\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]アドラメルク\[color(white)\]\nこれは\[var(msg_var_0)\]様じゃありませんこと？\nこの様な所でお目に掛かれるとは\n思ってもいませんでしたわ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nアドラメルク卿ですか…\n貴方、久しく顔を見せなかったですねぇ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]アドラメルク\[color(white)\]\nも、申し訳ございません、\[var(msg_var_0)\]様…\n私も顔だけは、お出ししようと思っていたのですが\nこの人間に召還されまして…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\n言い訳は良いですよ…\n他にも未だ二名程顔を見ていない者が\nいますからね…\n\[wait\]\[clear\]\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nそれは、さておき…\n貴方を召還している、その人間…\n役に立ちそうですか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\n言い訳は良いですよ…\n他にも未だ一名程顔を見ていない者が\nいますからね…\n\[wait\]\[clear\]\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nそれは、さておき…\n貴方を召還している、その人間…\n役に立ちそうですか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\n言い訳は良いですよ…\nまさか貴方まで、その人間に召還されていたとは…\nくっ…\n\[wait\]\[clear\]\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nくっくっくっくっ…\n気に入りましたよ、その人間…\n良いでしょう…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]アドラメルク\[color(white)\]\nそれはもう…\nまさか私が何処の馬の骨ともつかない人間に\n召還される筈がありませんわ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nそれは楽しみですねぇ…\n永年耐え忍んできた、この屈辱を晴らす為\n我が手足となる人間を必要としていますからね…\n\[wait\]\[clear\]\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nアドラメルク卿…\nその人間の事、宜しく頼みますよ。\n私は未だ会わなければならない方がおりますので\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]アドラメルク\[color(white)\]\n\[var(msg_var_0)\]様、ご機嫌麗しゅう…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]アドラメルク\[color(white)\]\nこれは\[var(msg_var_0)\]様じゃありませんこと？\nまたお会いできるとは思いませんでしたわ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nまた貴方ですか…\n貴方の顔は、もう見飽きましたよ…\n私は今、バルバトスさんを探しているのです。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]アドラメルク\[color(white)\]\nまぁ、酷い事をおっしゃいますのね…\nバルバトス卿ですか？\n確かに近頃見掛けませんわね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nまた貴方ですか…\n貴方の顔は、もう見飽きましたよ…\n私は今、シャックスさんを探しているのです。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]アドラメルク\[color(white)\]\nまぁ、酷い事をおっしゃいますのね…\nシャックス卿ですか？\n確かに近頃見掛けませんわね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nまぁ良いでしょう…\n見かけたら私が探していた事\n伝えておいて下さいよ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]アドラメルク\[color(white)\]\nかしこまりましたわ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\n貴方には、アドラメルク卿などより\n私をペルソナとして使って頂いた方が\n宜しいでしょう…\n\[wait\]\[clear\]\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nそれが貴方の運命です… 逃れられないね…\nくっくっくっくっ…\n貴方は、私の力に必ず魅せられるのですよ。\n\[wait\]\[clear\]\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nこれをベルベットルームにお持ちなさい…\n\[color(orange)\]素札／贖罪の黒山羊\[color(white)\]です。\n必ず私を呼び出すのですよ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(green)\]選択肢ジャンプの挙動エラーです\[color(white)\]\n\[end\]"
+msgstr ""
+

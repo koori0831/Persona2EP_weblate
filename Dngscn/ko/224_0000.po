@@ -1,0 +1,33 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 224_0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 04:10\n"
+"PO-Revision-Date: 2025-01-20 04:10\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]流星野郎\[color(white)\]\n第\[var(msg_var_0)\]問！！キスメット出版で舞耶と敵対していた\nクーレストの編集長。彼女の名字は？\nこれはカタカナで答えてくれ！さぁこい！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "ミズノ\n\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]流星野郎\[color(white)\]\nブーおっと、不正解。\nもう忘れちゃったかな…\nよーっく考えてみよう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]流星野郎\[color(white)\]\nはい、正解！！よく覚えてたねぇ！\nそう、水野編集長。\n仕事一筋のキャリアウーマンだったよねぇ。\n\[wait\]\[clear\]\[color(yellow)\]流星野郎\[color(white)\]\nでも彼女、どうして舞耶を嫌ってたんだろうねぇ？\n人気のある舞耶が妬ましかったのかな？\n彼女がＪＯＫＥＲになんなくてホント良かったよ。\n\[wait\]\[clear\]\[color(yellow)\]流星野郎\[color(white)\]\nでは扉の鍵を外そう。\n奥に進んでくれ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

@@ -1,0 +1,18 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 22_0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 04:10\n"
+"PO-Revision-Date: 2025-01-20 04:10\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(green)\]周囲の空気が変わった。\n占いの効果が切れたようだ。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

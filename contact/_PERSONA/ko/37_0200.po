@@ -1,0 +1,28 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 37_0200\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 05:29\n"
+"PO-Revision-Date: 2025-01-20 05:29\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]アムルタート\[color(white)\]\n見つけましたわ！\n諸悪百般の根源、悪魔達の王\[var(msg_var_0)\]！\n\[wait\]\[clear\]\[color(yellow)\]アムルタート\[color(white)\]\nスプンタ・マンユに代わって\n私があなたを滅ぼします！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\n貴様如きの力で、この\[var(msg_var_0)\]を\n倒せると思っているのかっ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]アムルタート\[color(white)\]\nわたくしは、不滅の天使…\nあなたの力でさえ滅ぼす事など出来ません！\nさぁ、覚悟しなさい！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

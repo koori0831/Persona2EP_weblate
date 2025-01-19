@@ -1,0 +1,53 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 5_0200\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 05:29\n"
+"PO-Revision-Date: 2025-01-20 05:29\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]ケルベロス\[color(white)\]\nウヌハ 我ガ弟 オルトロス！\n久シイナ…\n仕事ハ 順調カ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nアオーン！\nオレサマ 兄 会ウ ヒサシブリ！\n牛ノ番 マイニチ タイヘン！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]ケルベロス\[color(white)\]\n体ニハ 十分 気ヲツケロ…\nトコロデ カードヲ 持ッテオラヌカ\nコノ人間ニ ヤッテ欲シイノダガ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nアオーン！\nワカッタ オレサマ カード 渡ス\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]ケルベロス\[color(white)\]\nスマンナ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nグゥ…\nオレサマ 弟 気ニスルナ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nニンゲン コレ \[color(green)\]\[var(msg_var_4)\]\[color(white)\]！\n\[color(green)\]\[var(msg_var_5)\]枚\[color(white)\] アル 大事ニ ツカエ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nヌゥ…\nザンネン カード イッパイ モウ 持テナイ\n代ワリニ\[color(green)\]\[var(msg_var_1)\]\[color(white)\]ヤル 大事ニシロ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

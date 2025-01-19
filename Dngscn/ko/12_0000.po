@@ -1,0 +1,18 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 12_0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 04:10\n"
+"PO-Revision-Date: 2025-01-20 04:10\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]警備員\[color(white)\]\nまいったなぁ…\nビデオルームに鍵かけた人が、今日お休みなんだ。\nちゃんと番号、聞いとくんだったなぁ…\n\[wait\]\[clear\]\[color(yellow)\]警備員\[color(white)\]\nえっと…確か…\n番号は意味無いって言ってたけど…\nいみない…か…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

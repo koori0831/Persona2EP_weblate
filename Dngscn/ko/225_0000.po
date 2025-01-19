@@ -1,0 +1,33 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 225_0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 04:10\n"
+"PO-Revision-Date: 2025-01-20 04:10\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]流星野郎\[color(white)\]\n第\[var(msg_var_0)\]問！！\nズバリ！！舞耶の大好物はなに？\nカタカナで答えてくれ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "カニカン\n\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]流星野郎\[color(white)\]\nブーってノォォ！！ハズレだぁ。\nほらほら、舞耶って何座だったっけぇ？\nおっとこいつぁ、大ヒントだぁ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]流星野郎\[color(white)\]\nこれはちょっと簡単だったかなぁ…\nそう、カニ缶！\nこれが舞耶の好物だった。\n\[wait\]\[clear\]\[color(yellow)\]流星野郎\[color(white)\]\nだけど意外にも、\n罰編でこの部分が語られている場所は少ない。\n君、よく答えられたねぇ。\n\[wait\]\[clear\]\[color(yellow)\]流星野郎\[color(white)\]\nでは、扉の鍵を外そう。\n奥に進んでちょうだい！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

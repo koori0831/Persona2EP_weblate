@@ -1,0 +1,108 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 42_0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 04:10\n"
+"PO-Revision-Date: 2025-01-20 04:10\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]紫の花\[color(white)\]\n……\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]気高き紫の花\[color(white)\]\nあなたで８人目よ…私に語り掛けたのは。\nだけど、私の質問に答えられた人は、\n一人も居なかった…\n\[wait\]\[clear\]\[color(yellow)\]気高き紫の花\[color(white)\]\nあなたにも一度だけチャンスを上げましょう。\n質問に答えられれば、良いものを差し上げます。\nけど答えられなかった時は…覚悟してください。\n\[wait\]\[clear\]\[color(yellow)\]気高き紫の花\[color(white)\]\n簡単な質問よ。私は十二月生まれの紫龍…\nこの公園に咲く花は皆生まれた月が違う。\n私と相性が良いのは、どの花かしら？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]気高き紫の花\[color(white)\]\n考えはまとまったかしら？\n私は十二月生まれの紫龍…\n相性が良いのは何色の花？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "今なら待ってあげても良くてよ。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3_Choice1
+
+msgid "答える"
+msgstr ""
+
+#. msg_3_Choice2
+
+msgid "もう少し考える"
+msgstr ""
+
+#. msg_4
+
+msgid "では、答えてちょうだい。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4_Choice1
+
+msgid "黄緑の花"
+msgstr ""
+
+#. msg_4_Choice2
+
+msgid "赤い花"
+msgstr ""
+
+#. msg_4_Choice3
+
+msgid "水色の花"
+msgstr ""
+
+#. msg_4_Choice4
+
+msgid "青い花"
+msgstr ""
+
+#. msg_4_Choice5
+
+msgid "黄色い花"
+msgstr ""
+
+#. msg_4_Choice6
+
+msgid "オレンジの花"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]気高き紫の花\[color(white)\]\nあら…驚きました。正解ですわ。\n花の心を見透かす者がいるなんて…\n人間もなかなか捨てたものではありませんわね。\n\[wait\]\[clear\]\[color(yellow)\]気高き紫の花\[color(white)\]\nではこれはご褒美の\n\[color(green)\]\[var(msg_var_0)\]\[color(white)\]です。\n大切に使ってくださいな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(green)\]舞耶達は、\n\[item_with_type(item_ffff)\]を手に入れた。\[color(white)\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]気高き紫の花\[color(white)\]\n違いますよ…\nやはりもう、花の心を知る人間は\nいないのかも知れませんね。\n\[wait\]\[clear\]\[color(yellow)\]気高き紫の花\[color(white)\]\nでは約束通り。\n毒を食らっていただきましょう！\nバフッバフッバフッ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(green)\]舞耶達は、毒に冒された。\[color(white)\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]気高き紫の花\[color(white)\]\n人と違って、花の一生は短いの。\nだから早く戻って来てちょうだいね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]気高き紫の花\[color(white)\]\nあなたは、花が何を考えているのかご存知？\nふふふ…それ程人と変わりません。\nいつも誰かに恋をして…悲しんで…その繰り返し\n\[wait\]\[clear\]\[color(yellow)\]気高き紫の花\[color(white)\]\n私もその一輪…誰かを愛し…誰かを捨てている…\n恋することは素敵だけれど、\nそれ以上に苦しく、辛い。\n\[wait\]\[clear\]\[color(yellow)\]気高き紫の花\[color(white)\]\n恋が怖いから、人は答えを求めるのでしょう？\n恋が不安だから、人は占いに縋るのでしょう？\n…花も同じなんですよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

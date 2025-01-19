@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 216_0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 04:10\n"
+"PO-Revision-Date: 2025-01-20 04:10\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n済みません。少々お尋ねしたいのですが、\n今は西暦何年ですか？\nここは何年後の未来なんです？\n\[wait\]\[clear\]\[color(yellow)\]男子生徒\[color(white)\]\nああ、誤解しないで下さい。\n僕は正気だし、ふざけている訳でもない。\nどう説明すれば良いのか…\n\[wait\]\[clear\]\[color(yellow)\]男子生徒\[color(white)\]\n下校しようと３―Ｂを出たら、\nこの世界に来てしまったんです。\nこの鉄板、もう大分古くなってますよね？\n\[wait\]\[clear\]\[color(yellow)\]男子生徒\[color(white)\]\n僕の知る世界では、\nこれは取りつけられたばかりだった。\nそれでここが未来だと解ったんです。\n\[wait\]\[clear\]\[color(yellow)\]男子生徒\[color(white)\]\n恐らく、３―Ｂにタイムスリップを引き起こす、\n何かがある。しかし、炎に阻まれ\n戻ることが出来ないんです。\n\[wait\]\[clear\]\[color(yellow)\]男子生徒\[color(white)\]\nあなたの力で、あの炎、どうにか消せませんか？\nあなたが無理なら、あなたの友人、\nいや、神でも悪魔でもいい！\n\[wait\]\[clear\]\[color(yellow)\]男子生徒\[color(white)\]\n期末テストも近いというのに、\nこんな所にいる時間は、僕にはないんだ…\nああ…どうすればいいんだ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]男子生徒\[color(white)\]\n悪魔の力を借りる…か。\nやけくそで言った事だが、\nそれはそれで名案……なわけないか。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

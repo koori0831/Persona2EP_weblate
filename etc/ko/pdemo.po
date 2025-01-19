@@ -1,0 +1,833 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: pdemo\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 05:30\n"
+"PO-Revision-Date: 2025-01-20 05:30\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_blank
+
+msgid "\[color(yellow)\]・・・\[color(white)\]\n・・・・・・・・・・・・・・・・・・・・・・・・\n・・・・・・・・・・・・・・・・・・・・・・・・\n・・・・・・・・・・・・・・・・・・・・・・・・\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_rangda
+
+msgid "\[color(yellow)\]ランダ\[color(white)\]\n妾はランダ。\n妾の中の良心を呼び覚ましたのはお主かえ？\nそれに免じて、白き魔術でお主を庇護しようぞ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_isis
+
+msgid "\[color(yellow)\]イシス\[color(white)\]\n妾はイシス…かつてありしもの、\nあるもの、あるであろうものの全て…\n人の子よ、すなわち、そなたも妾ということじゃ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_manannan
+
+msgid "\[color(yellow)\]マナナン\[color(white)\]\n我はマナナン 波立つ海を乗り行く者\n我が治めし大海は 汝が胸の内にあり\n我と等しき若人よ いざ人生の海原へ漕ぎ出さん\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_abe_no_seimei
+
+msgid "\[color(yellow)\]アベノセイメイ\[color(white)\]\n我は晴明…阿倍晴明…\n万物の化成は、陰・陽二気の消長による。\n人の心とて同じこと。我も又、お前の影なのだ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_agrippa
+
+msgid "\[color(yellow)\]アグリッパ\[color(white)\]\n人の想念こそは、現実を変容させる賢者の石！！\n希有なる石を持つ者よ。お前が私の現身たること、\nこのアグリッパ、誇りに思うぞ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_tengu
+
+msgid "\[color(yellow)\]テング\[color(white)\]\n俺は神通力の使い手、テング様よ。\nそーかい、お前は俺なんだな？\nしゃーねぇ、いっちょ力んなってやるか！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_lakshmi
+
+msgid "\[color(yellow)\]ラクシュミ\[color(white)\]\n私はラクシュミ…\n私と同じく、母なる海の泡より出でし人の子よ…\n貴方に、類まれなる幸運を約束しましょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_scathach
+
+msgid "\[color(yellow)\]スカアハ\[color(white)\]\n我は影の国の女王…\n武道は無道…道無き道を進むが如しと知りなさい…\nさすれば武の何たるかがわかるでしょう…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_hathor
+
+msgid "\[color(yellow)\]ハトホル\[color(white)\]\n私はハトホル…\n手弱女に愛と喜び遣わして、女人の美徳を護る者…\n汝、私の半身よ…現世を愛で満たすのです…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_izanami
+
+msgid "\[color(yellow)\]イザナミ\[color(white)\]\n私はイザナミ…黄泉比良坂で、\n心とはうつろいやすく儚いものと知りました…\n私と同じ貴方なら、否と言ってくれるのですか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_parvati
+
+msgid "\[color(yellow)\]パールヴァティ\[color(white)\]\n私は、幾つもの化身を抱きしパールヴァティ…\n貴方もその一つであると知りなさい。\nさすれば、シヴァ神妃の加護を授けましょう…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_sif
+
+msgid "\[color(yellow)\]シフ\[color(white)\]\n妾はシフ…\n今こそ、雷神の妻が美貌だけでは務まらぬ事、\n知らしめる時ぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_tensen_nyannyan
+
+msgid "\[color(yellow)\]テンセンニャンニャン\[color(white)\]\n你好！ 我叫天仙娘々！！\n我出生你海。 我希望理解你。\n你不是単人。 我会一生待你好的♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_gaia
+
+msgid "\[color(yellow)\]ガイア\[color(white)\]\n我は原初の混沌より出で、\n大地の礎となりし母ガイア…\n我と等しきこと、即ち汝も世界そのものと知れ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_kali
+
+msgid "\[color(yellow)\]カーリー\[color(white)\]\n妾はカーリー…\n血の美酒に酔いし、破壊と殺戮の戦神…\nいざ怒りの剣持ちて、汝が敵の首を刎ねん！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_linog
+
+msgid "\[color(yellow)\]リノク\[color(white)\]\n妾は大地の女神…\nシラクとシカバイから生まれし人の子よ…\n人の営みは大地から離れてはあり得ぬものですよ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_seioubo
+
+msgid "\[color(yellow)\]セイオウボ\[color(white)\]\n初次見面。 我叫西王母…\n我想要的只有你…\n没有你我无法活下去♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_nemesis
+
+msgid "\[color(yellow)\]ネメシス\[color(white)\]\nネメシスは～、復讐の女神なんだってぇ。\nちゃんと復習したからだいじょぶだもん。\nじゃあ友達からよろしくねぇ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_arianrhod
+
+msgid "\[color(yellow)\]アリアンフロッド\[color(white)\]\n我は白銀の車輪、アリアンフロッド…\n極彩の虹もちて、あらゆる悪を調伏せし者…\n我、汝の運命の刻みと共にあらん！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_vishnu
+
+msgid "\[color(yellow)\]ヴィシュヌ\[color(white)\]\n我はヴィシュヌ…\n我は、日輪のごとき慈悲、遍く広げるためにある。\n我がアヴァターラよ、我と共にいざ行かん…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_lugh
+
+msgid "\[color(yellow)\]ルーグ\[color(white)\]\n我こそは、光り輝く長腕のルーグなり…\n我が真なる名を見つけし現身よ\nダナンの王の真の力、しかと見よ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_odin
+
+msgid "\[color(yellow)\]オーディン\[color(white)\]\n我はオーディン…全知全能の戦神なるぞ。\n我が化身のベルセルクよ、\n即刻ヴァルハラへの馬をひけい！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_indra
+
+msgid "\[color(yellow)\]インドラ\[color(white)\]\n俺はインドラ…\n万雷轟かせし嵐の軍勢の王なるぞ…\n俺の半身よ、俺は貴様と共にある…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_huracan
+
+msgid "\[color(yellow)\]フラカン\[color(white)\]\n儂はフラカン…\n天地開闢より蒼空にある、天の心なるぞ…\n汝、天の心摩すりたくば、儂と共にあれ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_baal
+
+msgid "\[color(yellow)\]バール\[color(white)\]\n予はバール…\nかつてヤハウェをも凌ぐと言われし予の力、\n共に四海に轟かそうぞ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_marduk
+
+msgid "\[color(yellow)\]マルドゥーク\[color(white)\]\n俺はマルドゥーク…\nお前の名は、俺が持つ５０の名の一つなり…\nいざ天命の書に従い、秩序の盾とならん！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_airgetlam
+
+msgid "\[color(yellow)\]アガートラーム\[color(white)\]\n我は銀の腕のヌアザ…\n不敗の剣にて闇を裂く、ダナンの王。\n卿と共に、新たな常勝不敗の伝説をつくろうぞ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_brahma
+
+msgid "\[color(yellow)\]ブラフマー\[color(white)\]\n朕はブラフマー…\n朕は汝…汝は朕…\n宇宙の原理は梵我一如。己が内の広がりを知れ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_yamaoka
+
+msgid "\[color(yellow)\]ヤマオカ\[color(white)\]\nおお、坊ちゃま～！ もうご安心めされい～\n不詳この山岡めが、坊ちゃまの敵をことごとく\n蹴散らしてご覧にみせますぞ～！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_varuna
+
+msgid "\[color(yellow)\]ヴァルナ\[color(white)\]\n私は水面の上にあり、\n秩序を擁護する者ヴァルナなり…\nこれより汝の守護を担おうぞ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_mithra
+
+msgid "\[color(yellow)\]ミスラ\[color(white)\]\n俺は、万物の理を知り光明もたらす者、ミスラ…\n何人も、俺の瞳の前に隠し立てはできん。\n俺そのものたる友よ、当然お前の心もだ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_yama
+
+msgid "\[color(yellow)\]ヤマ\[color(white)\]\n儂を呼ぶのは何者ぞ…\nおお…わかるぞ。お前は儂の半身か…\n死国の王、ヤマの名においてお前を守護しよう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_sakya
+
+msgid "\[color(yellow)\]シャカ\[color(white)\]\n私はシャカ…マーヤーより目覚めし者…\n現世は不壊のジーヴァに縛られし幻影なれば、\n半身よ、貴方と共に悟りを説きましょう…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_umayadono_ouji
+
+msgid "\[color(yellow)\]ウマヤドノオウジ\[color(white)\]\n僕、ウマヤドノオウジだじょ～\n六にいわくぅ！ 悪者を見たら、\n必ず正さなくちゃいけないんだじょ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_aizen_myouou
+
+msgid "\[color(yellow)\]アイゼンミョウオウ\[color(white)\]\n煩悩離れて菩提なく、菩提離れて煩悩なし\n生死即涅槃にして煩悩即菩提なり…\n菩提は汝が煩悩と相即と知れ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_xuanzang
+
+msgid "\[color(yellow)\]ゲンジョウ\[color(white)\]\nそこの御仁…もしや私の半身ではありませぬか？\nおお、やはり…私はゲンジョウ。\nささ、急ぎ天竺へ旅立ちましょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_alice
+
+msgid "\[color(yellow)\]アリス\[color(white)\]\nわたし、アリス！\nお姉ちゃん、わたしと一緒に死んでくれる？\nなら、一緒に行ってあげる！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_vivian
+
+msgid "\[color(yellow)\]ヴィヴィアン\[color(white)\]\n私は勇敢なる騎士の守護精霊、ヴィヴィアン…\n若き騎士よ、勇気と礼節、名誉を重んじなさい。\nそれが騎士たる者の進む道です。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_pyro_jack
+
+msgid "\[color(yellow)\]ジャックランタン\[color(white)\]\nヒーホー！！\nオイラ、ジャックランタンだホー！！\nそこんとこ夜露死苦だホー！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_jack_frost
+
+msgid "\[color(yellow)\]ジャックフロスト\[color(white)\]\nヒーホー！！\nオイラ、ジャックフロストだホー！！\n今後とも夜露死苦だホー！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_robin_goodfellow
+
+msgid "\[color(yellow)\]ロビングッドフェロー\[color(white)\]\nみょみょみょみょみょ～𝅘𝅥𝅮\nオイラ、ロビングッドフェロ～𝅘𝅥𝅮\nストロングともヨロシクだみょ～𝅘𝅥𝅮\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_pixie
+
+msgid "\[color(yellow)\]ピクシー\[color(white)\]\nわーいわーい♥\nあなたもピクシーなんですねぇ？\nえっとぉ、今後ともヨロシクですぅ♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_shiva
+
+msgid "\[color(yellow)\]シヴァ\[color(white)\]\n我は、千と百十六の名で称えられしナタラージャ…\n我と同じ顔持つ者よ…\nこれよりシヴァの二つ名を名乗るがよい！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_mahakala
+
+msgid "\[color(yellow)\]マハーカーラ\[color(white)\]\n俺は、大いなる暗黒マハーカーラ！！\n又の名を大黒天、真の姿をシヴァと言う。\nこれより貴様の剣となろう…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_ares
+
+msgid "\[color(yellow)\]アレス\[color(white)\]\n俺はアレス…\n俺と同じ血の匂いがするお前ならわかるはず…\n戦と暴力、死が俺たちの生業よ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_susanoo
+
+msgid "\[color(yellow)\]スサノオ\[color(white)\]\n我はスサノオ…根の堅洲国の主なり…\n我と同じ荒ぶる魂持つ者よ、\n我、今より汝の天叢雲薙ぎ払う剣とならん…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_seiten_taisei
+
+msgid "\[color(yellow)\]セイテンタイセイ\[color(white)\]\n天をも騒がす神通力と、\n七十二般の変化の術で、\n斉天大聖ここに在り。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_taranis
+
+msgid "\[color(yellow)\]タラニス\[color(white)\]\nオレは雷の戦車にて天駆ける、雷神タラニス…\n慈悲や寛容などなんの役にも立たん。\nこの世を渡るには、力が全てと教えてやろう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_minotaur
+
+msgid "\[color(yellow)\]ミノタウロス\[color(white)\]\nオレサマ ミノタウロス\nオマエモ ミノタウロス\n人類ミナ ミノタウロス！！ ウガァー！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_wong_long
+
+msgid "\[color(yellow)\]ウォンロン\[color(white)\]\n我ハ コノ世ノ陰陽ノ中心タル 黄龍ナリ\n世ノ理ハ 五行相克…\n太極ノ巴コソ 全テヲ映ス鏡ト知ルガヨイ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_vritra
+
+msgid "\[color(yellow)\]ヴリトラ\[color(white)\]\n俺ハ ヴリトラ…\n地獄ノ火焔ヨリ生マレシ 宇宙ヲ覆ウ者…\n貴様ト共ニ 現世ヲ炎ノ舌デ舐メ尽クソウゾ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_takshaka
+
+msgid "\[color(yellow)\]タクシャカ\[color(white)\]\n私はナーガの王タクシャカ…\nほう…貴方が私の半身ですか？\nよろしい。力を貸して差し上げましょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_culebre
+
+msgid "\[color(yellow)\]クエレプレ\[color(white)\]\nヌゥ！！ オレ様クエレプレ！！\nオレ様 宝守ル！！ オマエモ 宝守レ！！\nヌゥ！！ 宝 ソレ オマエノココロ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_otohime
+
+msgid "\[color(yellow)\]オトヒメ\[color(white)\]\n私はオトヒメ…\n私は貴方…貴方は私…\n力の象徴、八尋鰐となりて貴方を守護しましょう\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_longma
+
+msgid "\[color(yellow)\]リュウメ\[color(white)\]\n我ハ リュウメ…\n悟道ハ遥カ険シキ道ナレド 覚悟アルナラ供シヨウ\n我ガ分身ヨ イザ行カン天竺ヘ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_tishtrya
+
+msgid "\[color(yellow)\]ティシュトリヤ\[color(white)\]\n私は、綺羅星の如く輝いて\n慈雨をもたらすティシュトリヤ…\nそちの心を生贄に、雨に命を与えよう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_kinich ahau
+
+msgid "\[color(yellow)\]キニチ・アハウ\[color(white)\]\n儂ハ 太陽ノ目ノ首長 キニチ・アハウ…\n儂ト同ジク 冥界ヲ旅スル宿命ニアル者ヨ…\n力必要ト成リシ時 我ガ名ヲ呼ブガイイ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_genbu
+
+msgid "\[color(yellow)\]ゲンブ\[color(white)\]\n我ハ ゲンブ…\n四聖獣ノ一ニシテ 北方ノ天上ヲ鎮護セシ者…\n我 汝ト共ニ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_byakko
+
+msgid "\[color(yellow)\]ビャッコ\[color(white)\]\n俺ハ ビャッコ…\n四聖獣ノ一ニシテ 西方ノ天上ヲ鎮護セシ者…\n俺ハ常ニ オ前トアルゾ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_gullinbursti
+
+msgid "\[color(yellow)\]グリンブルスティ\[color(white)\]\n我ガ輩ハ グリンブルスティ\n見テクレハコンナダガ ドンナ馬ヨリ早ク走レルゾ\n見タ目カラ 本質ハ計レント 憶エテオケ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_marshal_tianpeng
+
+msgid "\[color(yellow)\]テンホウゲンスイ\[color(white)\]\nオラは天蓬元帥。\n元々天の川水軍大将だったオラの力、\nとくと見せたるど！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_nekomata
+
+msgid "\[color(yellow)\]ネコマタ\[color(white)\]\nアンタがネコマタのもう一つの姿ニャの？\nふ～ん…なかなかイケてるニャ～！！\nニコニコニャンニャン♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_gyokukou_joutei
+
+msgid "\[color(yellow)\]ギョクコウジョウテイ\[color(white)\]\n朕こそが、天界より万物の運命を定めし玉皇なり…\n望龍の術を授けたのも朕なれば、\nその宿命を破るる者も朕のみと心得よ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_fenrir
+
+msgid "\[color(yellow)\]フェンリル\[color(white)\]\nアオーン！ オレサマ フェンリル\nオマエ オレサマ オレサマ オマエ！！\nオレサマ オマエ チカラカス アオーン！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_skuld
+
+msgid "\[color(yellow)\]スクルド\[color(white)\]\n私はスクルド…\n神々さえも従える、運命の女神が三女…\n私の手にありし存在と未来…貴方に託しましょう\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_verdandi
+
+msgid "\[color(yellow)\]ヴェルザンディ\[color(white)\]\n我はヴェルザンディ…\n神々すらも跪く、運命の女神が次女…\n我が把持する必然と現在…汝がために奮おうぞ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_urd
+
+msgid "\[color(yellow)\]ウルズ\[color(white)\]\n妾はウルズ…\n神々すらも頭を垂れる、運命の女神が長女…\n妾が執りし運命と過去…そちの前に示そうぞ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_cerberus
+
+msgid "\[color(yellow)\]ケルベロス\[color(white)\]\n我ハ 地獄ノ門番ケルベロス…\nウヌガ 我ノ現身カ？\nデハ久々ニ…コンゴトモヨロシク…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_pallas_athena
+
+msgid "\[color(yellow)\]パラスアテナ\[color(white)\]\n我は、戦女神パラスアテナ！\n凡ゆる戦の帰趨は、我が怜悧なる灰眼の先にあり！\n汝雄々しき若人よ、怖めず臆せず突き進め！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_hyperion
+
+msgid "\[color(yellow)\]ヒューペリオン\[color(white)\]\n我は陽と月と曙光の父ヒューペリオン…\n乾坤から初めに生まれしティタンの業…\n天象揺るがすものと知れ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_bishamonten
+
+msgid "\[color(yellow)\]ビシャモンテン\[color(white)\]\nナウマク・サマンダボダナン！！\n我は仏法と武人の守護者、毘沙門天！！\n富と繁栄両手にかざし、汝に勝利もたらさん！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_skanda
+
+msgid "\[color(yellow)\]スカンダ\[color(white)\]\n私は疾風のスカンダ…\nさあ、共に落陽追って走りましょう。\n追わねば、瞬く間に沈むのが青春というものです\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_kundali_vidyaraja
+
+msgid "\[color(yellow)\]グンダリミョウオウ\[color(white)\]\nオン・アミリティ・ウン・ハッタ！！\n俺は、邪鬼調伏の霊験遣わす軍荼利明王！！\n俺とお前は、執念の赤蛇で結ばれし同胞よ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_nezha
+
+msgid "\[color(yellow)\]ナタ\[color(white)\]\n我はナタ…\nお前が我かどうかなどどうでもいい…\n我はただ、戦いを望んでいるだけだ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_mars
+
+msgid "\[color(yellow)\]マルス\[color(white)\]\n俺は、グラディウスと称えられし軍神マルス…\nお前が俺だと言うならば、\n「進軍する者」の名に恥じぬ戦の業、見せてみよ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_helios
+
+msgid "\[color(yellow)\]ヘリオス\[color(white)\]\n我はヘリオス…\n古の日輪率いて、世の彼者誰時を破る者！\n我、汝が戦車の忠実なる御者とならん！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_azazel
+
+msgid "\[color(yellow)\]アザゼル\[color(white)\]\nほう、俺好みの女だな。\nお前にも、化粧の仕方を教えてやろう…\n堕ちて後、俺の女となるがよい…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_prometheus
+
+msgid "\[color(yellow)\]プロメテウス\[color(white)\]\n喩エコノ身ガ忌マワシキ縛鎖ノ虜トナロウトモ\n汝ラヲ愛シ知恵与エルノガ我ガ役目…\n我ガ授ケシ炎トハ 力ニ媚ビヌ不屈ノ魂ト心得ヨ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_adramelech
+
+msgid "\[color(yellow)\]アドラメルク\[color(white)\]\nホホホ。私は地獄の尚書長、アドラメルク…\n私はお前…お前は私…\nさあ行くよ、私へ捧げられし生贄よ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_barbatos
+
+msgid "\[color(yellow)\]バルバトス\[color(white)\]\n私は地獄の伯爵にして公爵、バルバトス。\n過去と未来を見通す、人生の狩人だ。\nお前の未来は…フッ、今はやめておこう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_kabandha
+
+msgid "\[color(yellow)\]カバンダ\[color(white)\]\nキラ～ン！！ カバンダだよ～ん\nスッペシャ～ル！ カバンダ～\nグ～レイト！ カバンダ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_shax
+
+msgid "\[color(yellow)\]シャックス\[color(white)\]\n私は地獄の大侯爵、シャックスなるぞ。\nそちが私の現身か？\n苦しゅうない、面を上げ～い！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_odysseus
+
+msgid "\[color(yellow)\]オデュッセウス\[color(white)\]\n必要なし\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_mot
+
+msgid "\[color(yellow)\]モト\[color(white)\]\n私はウガリットの死神モト…\n天上の神々さえ、私の招きからは逃れられません。\n死こそが、この世の律と心しなさい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_charon
+
+msgid "\[color(yellow)\]カロン\[color(white)\]\n儂はカロン…冥府の川の渡し守…\n渡し賃は１オロボス。\nさて、どいつを渡せばいいのかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_ankou
+
+msgid "\[color(yellow)\]アンクウ\[color(white)\]\nず、ずっどぉ～ん！！\nうぉ、うぉ、俺はアンクウ！！\nうぉ、うぉ、お前もアン・クウ・トロワ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_hel
+
+msgid "\[color(yellow)\]ヘル\[color(white)\]\nわたくしはヘル。\n貴方はわたくし…わたくしは貴方…\n貴方の敵は、尽くニブルヘイムに落ちるでしょう\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_suzaku
+
+msgid "\[color(yellow)\]スザク\[color(white)\]\n私ハ スザク…\n四聖獣ノ一ニシテ 南方ノ天上ヲ鎮護セシ者…\n常ニ貴方ノ 背後ニアリマショウ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_phoenix
+
+msgid "\[color(yellow)\]フェニックス\[color(white)\]\n私は不死鳥フェニックス…\n炎より出で、輪廻転生巡る者…\n貴方の魂の永劫不滅を約束しましょう…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_stymphalides
+
+msgid "\[color(yellow)\]スチュパリデス\[color(white)\]\nアオーン！！ オレサマ スチュパリデス！！\nオレサマ 強イ！！ オレサマ 硬イ！！\nオレサマ 突ツク！！ オマエモ 突ツケ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_fjalar
+
+msgid "\[color(yellow)\]フィアラル\[color(white)\]\n俺ハ フィアラル\n神々ノ黄昏ヲ告ゲル 「伺ウモノ」ダ\n俺ガ鳴ク時 世界ハ終ワル 終末ハ近イゾ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_harpy
+
+msgid "\[color(yellow)\]ハーピー\[color(white)\]\nホホホ。私を選んだわね？\n私はハーピー。\nあなた、ハッピーになれるわよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_lucifer
+
+msgid "\[color(yellow)\]ルシファー\[color(white)\]\n面白い…貴様、神にも背く力を欲するか…\nならば、憎み、殺し、犯し、堕ちろ…\n魔王ルシファーが、直々に腕に抱いてやろう…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_beelzebub
+
+msgid "\[color(yellow)\]ベルゼブブ\[color(white)\]\n予はベルゼブブ…腐敗振りまく蝿の王…\n現世など、腐りきった箱庭よ。\nさあ、共に腐界に君臨しようぞ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_surt
+
+msgid "\[color(yellow)\]スルト\[color(white)\]\n我はスルト…\nこの世の究竟を告げる紅蓮の走り手なり…\nいざ、赤腕奮い幻に幕引かん。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_poltergeist
+
+msgid "\[color(yellow)\]ポルターガイスト\[color(white)\]\n君がぼく？\nそういえば、似てる気がするよ。\nよし、いっしょにイタズラしちゃおう！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_seth
+
+msgid "\[color(yellow)\]セト\[color(white)\]\n俺ハ セト… 邪悪ト 死コソガ 俺ノ業…\nオ前ナラ 俺ノ心ガ 解ルハズ\nコノ世ノ ナント 下ラヌコトカ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_hastur
+
+msgid "\[color(yellow)\]ハスター\[color(white)\]\nイア イア ハスタア！ ハスタア クフアヤク\nブルグトム ブグトラグルン ブルグトム\nアイ アイ ハスタア！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_seker
+
+msgid "\[color(yellow)\]セケル\[color(white)\]\n妾ハ 太陽サエモ恐レ慄ク セケル ナリ\n漠タル渇キト 地上ノ闇ガ 妾ノ性分…\n妾ノ前ヲ過ギル者 尽ク墓穴ニ落チルモノト知レ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_aeshma
+
+msgid "\[color(yellow)\]アエーシュマ\[color(white)\]\nわたくしはアエーシュマ…\n憤怒と激怒の帆を張りて、血の荒海を渡る者。\n貴方には、惨忍なる舵取りをまかせましてよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_loki
+
+msgid "\[color(yellow)\]ロキ\[color(white)\]\n我が名はロキ…俺と共に歩むお前に問おう。\n「汝が生に、意味はありしや？」\nククク…いかな答えを見せるのか、見物だな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_kanaloa
+
+msgid "\[color(yellow)\]カナロア\[color(white)\]\nほう…私がいた海原は、お前の心の海だったか。\nよかろう、このカナロアと同じ心を持つ者よ。\nクックック…存分に私の力を奮うがいい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_fariedone
+
+msgid "\[color(yellow)\]ファリードゥーン\[color(white)\]\n儂は龍殺しのファリードゥーン。\n龍は悪しき心の表象なれば、儂が断つのは汝ら人の\n罪そのものと心せよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_hanuman
+
+msgid "\[color(yellow)\]ハヌマーン\[color(white)\]\n私はハヌマーン…\n迅雷伴ない天渡る、ラーマーの戦士なり。\nこれより、貴方に無私の忠誠を誓おう！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_asteria
+
+msgid "\[color(yellow)\]アステリア\[color(white)\]\n私は、星辰を体現する者アステリア…\n星宿は人の宿運映す鏡なれど、見方によりて\n変わるもの…道は両の眼で見定めるものと心得よ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_valkyrie
+
+msgid "\[color(yellow)\]ヴァルキリー\[color(white)\]\nホヨートーホー！！ ハイヤハー！！\nわたくしは、荒ぶる戦乙女のヴァルキリー！！\n英雄よ、共に勝利の美酒を酌み交わさん！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_hoenir
+
+msgid "\[color(yellow)\]ヘーニル\[color(white)\]\n私は沈黙のヘーニル…生きるとは選択することだ。\nそれこそが、喜びも哀しみもつれてくる。ならば、\n何も決めなければ穏やかでいられるとは思わぬか\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_juanlian_dajiang
+
+msgid "\[color(yellow)\]ケンレンタイショウ\[color(white)\]\n私は天帝の近衛将軍、綣簾大将。\n妖魔の姿に堕ちたのも、天上で犯した罪のせい。\n私と同じく罪背負う、お前の供をするとしよう…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_gandharva
+
+msgid "\[color(yellow)\]ガンダルヴァ\[color(white)\]\n私はガンダルヴァ。\n英霊鎮護の音曲爪弾く楽士なり。\nあなたの心を天界の音色で満たしましょうぞ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_iris
+
+msgid "\[color(yellow)\]イーリス\[color(white)\]\nイーリスはぁ 虹のリボンの女の子ぉ𝅘𝅥𝅮\nあなたにもぉ 虹のリボンをあげましょぉ𝅘𝅥𝅮\nこれから ずぅっと よろしくね♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_kinnara
+
+msgid "\[color(yellow)\]キンナラ\[color(white)\]\n心震わす調べに惹かれて来てみれば…\nお前が俺の半身かい？\n俺はキンナラ。二重奏「人生」の相棒さ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_callisto
+
+msgid "\[color(yellow)\]カリスト\[color(white)\]\n妾はカリスト…\n最も美しき者と謳われしニンフが一人…\n艶事に疲れし現身よ、汝に真の愛を教えましょう\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_nanna
+
+msgid "\[color(yellow)\]ナンナル\[color(white)\]\n私はナンナル…\n遠き日の運命決める月輪の主…\n行くべき道は、麗しき月光の先に見出しなさい…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_artemis
+
+msgid "\[color(yellow)\]アルテミス\[color(white)\]\n我はアルテミス…\n朧なる、諸行を照らす月女神…\n汝、純潔なる半身よ。宿命に臆してはなりません\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_maihime_amano
+
+msgid "\[color(yellow)\]天野 舞姫\[color(white)\]\n私は天野 舞姫…\nああ…よもやこうして末葉のそなたと見え様とは…\n私の恋、無駄ではなかったのですね…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_tsukuyomi
+
+msgid "\[color(yellow)\]ツクヨミ\[color(white)\]\n我は月読…\n無情なる、荒野に佇む月影身…\n汝が心、有明の月でいざ照らさん…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_succubus
+
+msgid "\[color(yellow)\]サキュバス\[color(white)\]\nわたくしはサキュバス…\nつまらない現実など捨てておしまいなさい。\n淫夢の中で、至高の快楽を教えてあげてよ♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_maia_prime
+
+msgid "\[color(yellow)\]マイア・改\[color(white)\]\n我が名はマイア 真の力に目覚めし昴の使い…\n過去には花を 汝の心に豊穣を\n十六夜月は 今満天の明月へ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_pairika
+
+msgid "\[color(yellow)\]パリカー\[color(white)\]\nそう、あなたがあたしのパートナーなのね？\n人生は一瞬の流れ星。快楽に身を任せた方が得よ。\nパリカーが、忘れられない一生にしてあげるわ♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_maia
+
+msgid "\[color(yellow)\]マイア\[color(white)\]\n我は汝…汝は我…\n我は汝の心の海より出でし者…\n英明なる母マイアなり…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_virochana
+
+msgid "\[color(yellow)\]ヴィローシャナ\[color(white)\]\n汝が内なる曼荼羅の 蓮華の華の上に座し\n森羅万象形象せしは 我偉大なる光照者の姿なり\n我は汝…汝こそが、ヴィローシャナの姿なり…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_apollo
+
+msgid "\[color(yellow)\]アポロ\[color(white)\]\n我が現身よ…\n汝が内なる天壌に、いざ、暁天の日は射した！\nもはや、暗黒の御業も我らの宿弊ではない！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_tatsunoshin_suou
+
+msgid "\[color(yellow)\]\[suou\] 辰之進\[color(white)\]\n俺は\[suou\] 辰之進…\nわかるぞ…そこな二人は俺の後胤か…\n今度こそ、共に清忠の怨念討ち滅ぼさん…！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_ildanach
+
+msgid "\[color(yellow)\]イルダーナ\[color(white)\]\n我は、輝ける者イルダーナ！\n魔の十字剣と魔槍にて、艱難払う白日の戦士なり！\n何人たりとも、我らが行く手を阻むことはできぬ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_heimdall
+
+msgid "\[color(yellow)\]ヘイムダル\[color(white)\]\n私はヘイムダル…既にギャラルホルンは鳴った…\n黄昏が過ぎ、日がまた昇るか否かを決めるのは、\nお前の気概次第と心せよ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_kinich_kakmo
+
+msgid "\[color(yellow)\]キニチ・カクモ\[color(white)\]\n我ハ キニチ・カクモ\n極彩色ノ光翼デ 天ヲ羽バタク太陽鳥\nオマエノ心ノ闇ヲ 払ッテヤロウ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_surya
+
+msgid "\[color(yellow)\]スーリヤ\[color(white)\]\n私は、光明の創造者スーリヤ…\n黄金の腕と鬣で、悪行屠る炎の柱。\n汝、世を照らす太陽のごとくあれ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_satan
+
+msgid "\[color(yellow)\]サタン\[color(white)\]\n神などは、傲慢な暴君と変わりはせん…\n人間に己を問う知を与えたのは、このサタンぞ…\n敵対する者の力、とくと見せてやろう…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_michael
+
+msgid "\[color(yellow)\]ミカエル\[color(white)\]\n我はミカエル…\n道は漠々として捕えどころなきもの…\nされば問え、「クオ・ヴァ・ディス」…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_gabriel
+
+msgid "\[color(yellow)\]ガブリエル\[color(white)\]\n私は贖罪と約束の大天使…\n汝我が半身よ…汝に我が称号を授けましょう。\n共に唱えなさい…「神は我が力なり」…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_ameretat
+
+msgid "\[color(yellow)\]アムルタート\[color(white)\]\nわたくしはアムルタート…\n不死なる者の名にかけて、\n貴方の心の飢えと渇きを滅しさってあげますわ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_armaiti
+
+msgid "\[color(yellow)\]アールマティ\[color(white)\]\nわたくしは、貞節と敬虔の守護天使…\n貴方が神の定めし律に身を捧げるならば、\nこのアールマティが導きましょう…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_melchizedek
+
+msgid "\[color(yellow)\]メルキセデク\[color(white)\]\n私は、平和と正義の御使いメルキセデク…\n誠、人間とは争いごとの絶えぬもの…\n私が早く収めてあげましょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_nike
+
+msgid "\[color(yellow)\]ニケー\[color(white)\]\n必要なし\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_phaleg
+
+msgid "\[color(yellow)\]ファレグ\[color(white)\]\n私は、オリンピアの天使ファレグ…\n人の子よ…\n赤き戦星の力欲するならば、私と共に歩まれよ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_zhu_yin
+
+msgid "\[color(yellow)\]ショクイン\[color(white)\]\n俺ハ暗キ所ヲ照ラス者…\nコノ世ノ昼夜ハ俺ノ瞳ノ瞬キト共ニアル…\nオ前ノ中ノ闇スラモ、コノ眼デ照ラシテ進ゼヨウ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_ouroboros
+
+msgid "\[color(yellow)\]ウロボロス\[color(white)\]\nアオーン！！ オレサマ ウロボロス！！\nオレサマ ムゲン！！ オマエ ニンゲン！！\nオレサマ ニンゲン！！ オマエ ムゲン！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_seiryu
+
+msgid "\[color(yellow)\]セイリュウ\[color(white)\]\n我ハ セイリュウ…\n四聖獣ノ一ニシテ 東方ノ天上ヲ鎮護セシ者…\n我 汝ト共ニ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_mucalinda
+
+msgid "\[color(yellow)\]ムチャリンダ\[color(white)\]\nわたくしは、仏法に帰依したる者ムチャリンダ…\n我ありという、己の心に打ち克つ者は安らかなり…\n汝、自我を捨て呪縛から逃れなさい…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_hunab_ku
+
+msgid "\[color(yellow)\]フナブ・ク\[color(white)\]\n儂は、玉ねぎから人を創造したるものフナブ・ク…\n生まれや家族、お前を包む環境が玉ねぎの皮の如く\n重なって、お前ができているのだよ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_njord
+
+msgid "\[color(yellow)\]ニョルド\[color(white)\]\n我は、七つの海と風の統治者ニョルドなり…\n我、これより汝を守護するが、\n争いは何も生み出さぬと心せよ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_demeter
+
+msgid "\[color(yellow)\]デメテール\[color(white)\]\n私は大地母神デメテール…\n豊かな心は、豊穣な大地に似て尊きもの…\nあなたの内なる楽園に、愛の種を蒔きましょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_fuuma_kotarou
+
+msgid "\[color(yellow)\]フウマコタロウ\[color(white)\]\n儂は、風魔の頭領小太郎…\[delay(30)\]\n我が一族が伝えし忍の技、しかと見届けよ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_junnosuke_kuroda
+
+msgid "\[color(yellow)\]黒田 純之介\[color(white)\]\nおお、貴女様は…舞姫様の末裔か…\nこれでこそ、お世継ぎをお守りして落ち延びた\n甲斐があったというものよ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_tobi_katou
+
+msgid "\[color(yellow)\]トビカトウ\[color(white)\]\n怪鳥のように宙を舞う、俺様こそが鳶加藤。\n当代一と謳われた、妖しの技の数々で、\nこれよりお前に仕えよう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_tenjiku_tokubei
+
+msgid "\[color(yellow)\]テンジクトクベイ\[color(white)\]\n俺は天竺徳兵衛。\n異国帰りの妖術を、とくと見せてやろう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_sarutobi_sasuke
+
+msgid "\[color(yellow)\]サルトビサスケ\[color(white)\]\nオイラは甲賀の忍、猿飛佐助！\n変幻自在の忍術で、お前の敵を滅ぼしてやるよ。\n全部オイラにまかせときな！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_quetzalcoatl
+
+msgid "\[color(yellow)\]ケツアルカトル\[color(white)\]\n儂は、翼ある蛇ケツアルカトル…\nかつてマヤの地に伝えし叡智と技、\n今こそ汝に伝授しよう…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_nodens
+
+msgid "\[color(yellow)\]ノーデンス\[color(white)\]\n我は、大いなる深淵の大帝ノーデンス…\n這い寄る混沌と戦う者よ、汝が気概気に入った…\n異形の神々に対する旧き神の力、侮るでないぞ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_shou_shen
+
+msgid "\[color(yellow)\]ナンキョクロウジン\[color(white)\]\nほえほえほえ！\nわしゃ、幸福と寿命を司る南極老人ぞい。\nこう見えても、乙女座Ａ型の照れ屋さんじゃ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_budai
+
+msgid "\[color(yellow)\]ホテイ\[color(white)\]\nホッホッホ。わしゃホテイじゃ！！\n生命は燃やし尽くすためのものなんじゃ！！\nお前さんはわしのようじゃから、面倒みるぞい！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_dagda
+
+msgid "\[color(yellow)\]ダグダ\[color(white)\]\n私は、大知識の強者ダグダ…\n美味いものを食い、いい女を抱き、後は寝る。\n人生は短い。己が欲望に正直に生きるもまた真だ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_bacchus
+
+msgid "\[color(yellow)\]バッカス\[color(white)\]\n酒じゃ酒じゃ～！！ 酒持ってこ～い！！\n呑まずにやっちょれるか～このぉ！！\nわしの人生、これバッカス！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_galahad
+
+msgid "\[color(yellow)\]ガラハド\[color(white)\]\n私は、円卓の騎士ガラハド…\n幸福もたらす聖杯は、人の心の内にあるのです…\nこれより、卿の白き盾となることを誓いましょう\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_matsuosama
+
+msgid "\[color(yellow)\]マツオサマ\[color(white)\]\n儂は大山咋神。\n酒は命の水なれば、堅苦しい事は抜きにして、\n共に一献酌み交わさん。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_futsuno_mitama
+
+msgid "\[color(yellow)\]フツノミタマ\[color(white)\]\n我はフツノミタマ…\n我は、汝が内なる闇を断つ鋼の利剣。\nいざ、紫電を放ち修羅の征野を平らげん！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_arthur
+
+msgid "\[color(yellow)\]アーサー\[color(white)\]\n予は、キャメロットの聖騎士王アーサー！！\n民草に安寧もたらすことが王者の務め。\n乱世斬り開く聖剣の力、卿がために奮おうぞ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_cu_chulainn
+
+msgid "\[color(yellow)\]クー・フーリン\[color(white)\]\n私は、赤枝の騎士団率いるクー・フーリン…\n戦士は、みな自らに誓約を課し、己が魂磨くもの…\nこれより、貴方の槍となることを誓いましょう…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_kanshou
+
+msgid "\[color(yellow)\]カンショウ\[color(white)\]\n俺は三国一の刀鍛冶。\n干将、莫邪の夫婦刀を振りかざし、\n我が鍛冶の腕知らしめよう…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_sarasvati
+
+msgid "\[color(yellow)\]サラスヴァティ\[color(white)\]\n私は水と技芸の守り神、サラスヴァティよ～ん♥\nあくせくしてもストレス溜まるだけだし、\n歌って踊って、面白おかしく暮らしましょ♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_peri
+
+msgid "\[color(yellow)\]ペリ\[color(white)\]\n私はペリ…\n遥か彼方の峻嶺の花咲き乱れる園から来た仙女…\n紫檀、白檀、麝香に枸櫞…どの香がお好みかしら\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_ebisu
+
+msgid "\[color(yellow)\]エビス\[color(white)\]\nほっほっほ。わしゃ恵比寿さんじゃ。\n商売繁盛、商売繁盛。\nたんと儲かるといいのぉ～\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_fukurokuju
+
+msgid "\[color(yellow)\]フクロクジュ\[color(white)\]\nいえ～い！！\nワシは、ナウでヤングなフクロクジュぞい！！\nフォーエバー ウィズ ユーじゃ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

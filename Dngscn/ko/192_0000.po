@@ -1,0 +1,188 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 192_0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 04:10\n"
+"PO-Revision-Date: 2025-01-20 04:10\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\n我は、転生戦士イシュキックだ！\n人々の生活を脅かす悪魔めぇー！\n\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "このイシュキックがちょめちょめしてやるぅ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\n\[color(green)\]元気ハツラツなコスプレ少女。\nどうやら自分を転生した戦士だと\n思い込んでいるらしい。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\nねぇ、お姉ちゃん？\nここらへんで、１００キロで走るお婆さん、\n見たことない？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\n近所の子供たちが、\[color(orange)\]ギガ・マッチョ\[color(white)\]で\n\[color(orange)\]１００キロババア\[color(white)\]を見たって噂してたの。\n転生戦士の私としては放っておけないでしょ？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\nだから探しに来たんだけど、\nどこにもそんな悪魔いなくって…\nねぇ、お姉ちゃんも探すの手伝ってよ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\n１００キロババアは、\[color(green)\]\[var(msg_var_0)\]\[color(white)\]っていうのを\n持ってるらしいの。それを持って行けば、\nあの子達も納得するんだけどなぁ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\nあれ！？\nお姉ちゃんが持ってるそれって、\nもしかして\[color(green)\]\[var(msg_var_0)\]\[color(white)\]！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\nすごーい！！\nお姉ちゃん、１００キロババア、\nやっつけちゃったんだぁ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\n…あの…お、お姉ちゃん…その…\n\[color(green)\]\[var(msg_var_0)\]\[color(white)\]…私の宝物と交換しない？\n私、どうしてもそれが必要なの…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\nねぇ、お姉ちゃん、お願い。\nその\[color(green)\]\[var(msg_var_0)\]\[color(white)\]と、私の宝物交換して！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "ね、お願い！！\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11_Choice1
+
+msgid "交換する"
+msgstr ""
+
+#. msg_11_Choice2
+
+msgid "交換しない"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\nホントに！？やったぁー！\nじゃあ、代わりに\[color(green)\]インセンスセット\[color(white)\]あげちゃうね！\n\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "どうもありがとー！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(green)\]舞耶達は、\nインセンスセットを手に入れた。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\n…グスンッ\nこれじゃみんな私の事信じてくれないよ…\n…グスンッ…グスンッ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\nこれ持って行けば、\n転生した戦士だって、信じてくれるよね！\nわーっはっはっはー！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\nあっ、お姉ちゃん！\n大変、大変！！\nもっと速い悪魔が出てきたの！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\n今度は\[color(orange)\]２００キロジジイ\[color(white)\]だって！！\n近所の子達が\[color(orange)\]ギガ・マッチョ\[color(white)\]で見たって\n話してたの！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\n今度こそ転生戦士イシュキックの出番なのだぁ！\n人々の生活を脅かす悪魔めー\nちょめちょめしてやるぅ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\n２００キロジジイはね、\n\[color(green)\]\[var(msg_var_0)\]\[color(white)\]っていうのを持ってるんだって。\nなんとしても手に入れなきゃ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\nゲゲゲ！！\nお姉ちゃんが持ってるそれ…\nもしかして\[color(green)\]\[var(msg_var_0)\]\[color(white)\]？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\nすごい…お姉ちゃん、\nもう２００キロジジイやっつけちゃったの？\nもしかしてお姉ちゃんも転生戦士？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\nね、ねぇお願い！その\[color(green)\]\[var(msg_var_0)\]\[color(white)\]、\n私の宝物とまた交換してくれない？\nどうしてもそれがいるの！お願い！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\nね、ねぇお願い！その\[color(green)\]\[var(msg_var_0)\]\[color(white)\]、\n私の宝物とまた交換してくれない？\nどうしてもそれがいるの！お願い！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "ね、お願い！！\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25_Choice1
+
+msgid "交換する"
+msgstr ""
+
+#. msg_25_Choice2
+
+msgid "交換しない"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\nホントに！？やったぁーー！！\nじゃあ、\[color(green)\]\[var(msg_var_0)\]\[color(white)\]と交換。\n\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "お姉ちゃん、ありがとう！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(green)\]舞耶達は、\n\[item_with_type(item_ffff)\]を手に入れた。\[color(white)\]\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\nあぅ…\nこれじゃまた、みんなに疑われちゃう…\nグスッ…どうしよう…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]イシュキック\[color(white)\]\nそう言えば私、前にお姉ちゃんと、\nどっかで会ったような気がするんだぁ。\nこれも前世の記憶かなぁ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

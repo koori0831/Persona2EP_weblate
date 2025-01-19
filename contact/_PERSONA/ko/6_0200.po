@@ -1,0 +1,53 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 6_0200\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 05:29\n"
+"PO-Revision-Date: 2025-01-20 05:29\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nあっ！！\nそっちの\[var(msg_var_0)\]、ペルソナなんですかぁ？\nうらやましいですぅ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]ペルソナ \[var(msg_var_0)\]\[color(white)\]\nそうなんですぅ。\n\[var(msg_var_0)\]、ペルソナになっちゃったんですぅ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nどうしたら、ペルソナになれるんですかぁ？\n\[var(msg_var_0)\]もペルソナになりたいですぅ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]ペルソナ \[var(msg_var_0)\]\[color(white)\]\nそれって\[var(msg_var_0)\]もわからないんですぅ。\nでも、この人たちにカードあげたら\nペルソナにしてもらえるかも…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nだったら、\[var(msg_var_0)\]のカードもらってください！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\n\[color(green)\]\[var(msg_var_4)\]\[color(white)\]ですぅ。\n\[color(green)\]\[var(msg_var_5)\]まい\[color(white)\]ありますぅ。\nこれで\[var(msg_var_0)\]もペルソナにしてくださいね♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nあれぇ、この人、カードいっぱいですぅ！\n代わりに\[color(green)\]\[var(msg_var_1)\]\[color(white)\]あげます。\n\[wait\]\[clear\]\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nじゃあ、さよならですぅ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nだから、そのカードで\[var(msg_var_0)\]も\nペルソナにしてくださぁい！\nおねがいですぅ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

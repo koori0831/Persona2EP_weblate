@@ -1,0 +1,18 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 0_0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 04:10\n"
+"PO-Revision-Date: 2025-01-20 04:10\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]フィレモン\[color(white)\]\n見事だ。\nよくぞここまで辿りついた。\nだが次はどうかな？\n\[wait\]\[clear\]\[color(yellow)\]フィレモン\[color(white)\]\nここより先、君は前に向って\n走ることしかできない。\n無論、止まることもできなくなる。\n\[wait\]\[clear\]\[color(yellow)\]フィレモン\[color(white)\]\nＬ、Ｒボタンによる視点切り替えを駆使し、\n３分以内に、この迷宮を脱出して欲しい。\n\[wait\]\[clear\]\[color(yellow)\]フィレモン\[color(white)\]\n勿論、失敗は許されない。\n準備が済んだら、奥の扉を開けてくれたまえ。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

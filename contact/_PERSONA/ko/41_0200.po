@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 41_0200\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 05:29\n"
+"PO-Revision-Date: 2025-01-20 05:29\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]ティシュトリヤ\[color(white)\]\n貴様は、旱魃の悪魔\[var(msg_var_0)\]！\nよもや、この様な場所で会おうとは…\nいざ尋常に勝負せよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nそう言えば、以前お手合わせした時は\nアフラ・マズダーに泣きつき、物言いをつけ\n散々、生贄を捧げさせ漸く勝利した…\n\[wait\]\[clear\]\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nその貴方が「いざ尋常に…」ですか？\nくっくっくっくっ…\n良いでしょう…かかってきなさい！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

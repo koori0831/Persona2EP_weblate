@@ -1,0 +1,18 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 83_0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 04:10\n"
+"PO-Revision-Date: 2025-01-20 04:10\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]回覧二\[color(white)\]\n防空壕内の掃除当番表を作成しました。\n町内会で決定した班に分かれ、\n清掃作業を行ってください。\n\[wait\]\[clear\]\[color(yellow)\]回覧二\[color(white)\]\n月曜日・二班火曜日・六班\n水曜日・三班木曜日・一班\n金曜日・四班土曜日・五班\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

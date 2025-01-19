@@ -1,0 +1,73 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 152_0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 04:10\n"
+"PO-Revision-Date: 2025-01-20 04:10\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]星宿図の石版\[color(white)\]\n七霊の意を知る者、大いなる祝詞捧ぐべし\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "そんじょうおう\nソンジョウオウ\n\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]星宿図の石版\[color(white)\]\n七霊の意を解さぬ者\n何人たりとも台に登ること叶わぬものと知れ\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]星宿図の石版\[color(white)\]\n七霊の意を解す者\n尊星王供（そんじょうおうく）の\n反閇（へんばい）捧げ、台への道歩むべし\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]星宿図の石版\[color(white)\]\nされば北斗供（ほくとく）の護法は解け\n台への道開かれん\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n尊星王に反閇か…\n今回の事で少し勉強してみたんだが、尊星王とは\n北極星の化身とされる「妙見菩薩」の別名だ。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n北辰はもともと道教・陰陽道において信仰されて\nきたんだが、後々仏教に取り入れられ、妙見菩薩に\n対する信仰へと変化したらしい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nそれが神道で言うところの祝詞とは妙な話だが、\n現代人が抱く呪術のイメージなど宗派ごちゃまぜ\nだからね…これも噂の効果と言ったところか。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nさっすが努力家ねぇ～\nヘンバイってのはなんなの？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n反閇は、道教の禹歩（うほ）に源流を発する、\n陰陽道独特の歩行呪術だ。\n悪星を踏み破って、吉を呼び込む呪術らしい。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n北斗供（ほくとく）は、北斗七星を大地に描き、\nその場所を神聖化して防御する呪術…\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n恐らく、特定の順番で歩いて行け、\nということじゃないかな…？\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+

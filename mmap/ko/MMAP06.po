@@ -1,0 +1,518 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: MMAP06\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 05:32\n"
+"PO-Revision-Date: 2025-01-20 05:32\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nこんにちは。\nここ鳴海区は１０年前から開発が始まったんです。\nまだ、街が若々しいでしょう？\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n今はホテル・プレアデスくらいしか\n買い物をする所がありませんから、\nまあ、住むのにはちょっと不便ですね。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\nでも、大規模なインフラ整備がされていますから、\nこれからどんどん発展すると思いますよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n最近妙な講演会がはやってますね。\nそれに参加した人たちが何か変な感じで…\n仕事もやりにくくなって大変ですよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n不思議な事に何だかここにいたくないんです。\nなんて言うか危機が迫ってるような…\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n街が崩れるイメージが浮かぶ…\[delay(15)\]\nってそんな事、ある訳ないですね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n世界の滅亡なんて信じられないけれど、\n頭の中のイメージと一致するんですよ。\nやっぱり本当なのかな…\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n地震も起こるし、もう仕事どころじゃないな。\n命あっての物種ですしね。\nあなた方も早く逃げたほうがいいですよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n例の遺跡、ほら、そこの北のほうにある\n地下鉄工事現場で見つかったらしいですよ。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n入ってみたい気もしますが…\nやはり恐ろしいですね。\nあまり近づかないほうがいいですよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n変な話を聞いたよ。\nなんでも青葉公園の花は喋るんだそうだ。\nなんとも不気味な話だね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n伝説の武器職人がいるという話を聞いたんですが、\n伝説と呼ばれるからには何か理由が\nあると思うんです。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n私としてはそちらのほうが気になるんですけど、\nそっちはぜんぜん話が無いんですよ。\nみんな興味ないんでしょうかねぇ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n春日山高校の地下…\[delay(15)\]\nくだん、出たんですよね。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\nやっぱりあの高校、\n呪われてるんじゃないでしょうか？\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n呪いのタクシーとは、タクシー業界泣かせですね。\n多分、騒ぎがおさまるまでお客が減るでしょう。\n私は仕事なら経費で落ちるから使いますけどね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nいやはや、今度は２００キロですよ。\nギガ・マッチョに超高速で走り回る\n爺さんがいるそうです。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\nひょっとして、１００キロババアとは\n夫婦なんでしょうか？\nいや、なんとなくですが。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n怪人青マントがこの辺りに出るらしいんですよ。\n正確には沖合いに停まっている船らしいんですが、\nやはりここら辺りでも危ないんでしょうか？\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n怪人赤マントがこの辺りに出るらしいんですよ。\n正確には沖合いに停まっている船らしいんですが、\nやはりここら辺りでも危ないんでしょうか？\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n恐竜を見た人がいるらしいんですよ。\nただ、場所がゲームセンターだそうで…\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n普通、公園とかもっと広いところに\n現れそうな気がするんですが、\nずいぶん小さな恐竜なんですね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nギガ・マッチョはご存じですよね？\nあのＣＤショップの。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\nなんでも、１００キロババアとかいう婆さんが、\n店内を時速１００キロで走り回ってるらしいです。\nいやはや、まさにすっとんだ老人ですな。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n珠閒瑠テレビに幽霊が現れたそうですよ。\nカシマレイコだとか聞きましたね。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\nテレビ局は意外とくらい部屋が多くて、\n中が入り組んでますから、けっこう心霊スポットに\nなりやすいんですよね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_16
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nツチノコが出たって本当ですかね？\n話だとこの辺りのマンホールらしいし、\nここは一つ探して見ようかと思うんですよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_17
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n春日山高校という学校は何かと評判が\n悪いようですが、悪霊騒ぎで悪く言われるのは、\n可哀想な気がしますね。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\nテケテケとか言う悪霊も、なにも高校に理由が\nあってとりついた訳じゃないでしょう。\nとにかく、騒ぎがおさまる事を願いますよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_18
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nファンタジーワールドって雑誌を\n知ってるかい？\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n私は読んだことがないんだけど\n懸賞で不思議なカードが当たるそうだよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_19
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nファンタジーワールドって雑誌を\n知ってるかい？\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n私は読んだことがないんだけど\n懸賞でいろんな道具が当たるそうだよ。\[wait\]\[clear\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_20
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nファンタジーワールドって雑誌を\n知ってるかい？\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n私は読んだことがないんだけど\n懸賞でアクセサリーが当たるそうだよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_21
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nファンタジーワールドって雑誌を\n知ってるかい？\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n私は読んだことがないんだけど\n懸賞で防具が当たるそうだよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_22
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nファンタジーワールドって雑誌を\n知ってるかい？\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n私は読んだことがないんだけど\n懸賞で武器が当たるそうだよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_23
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nミラクルという雑誌の懸賞で、\n不思議なカードが当たるそうじゃないか。\n懸賞目当てで本を買う人も多いだろうね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_24
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nミラクルという雑誌の懸賞で、\nいろんな道具が当たるそうじゃないか。\n懸賞目当てで本を買う人も多いだろうね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_25
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nバトルマスターなんて名前だから、\n危ない雑誌かと思ったら、\nアクセサリーの懸賞が評判なんですよね。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\nなんだか意外な感じで、\n逆に興味が湧いてきましたよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_26
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n物騒な世の中を反映したのか、\nバトルマスターという雑誌が、懸賞で\n防具をプレゼントしてるそうだよ。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n私も一つ応募してみようかなぁ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_27
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n物騒な世の中を反映したのか、\nバトルマスターという雑誌が、懸賞で\n武器をプレゼントしてるそうだよ。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n私も一つ応募してみようかなぁ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_28
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nホテル・プレアデスのエボニーに、\n地図のコレクターがいるって聞いたよ。\n多分あの人じゃないかと思うんだが…\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n…窓際に見るからに変わった人がいるから\n気になってはいたんだよ。\n宝の地図でも持っているのかね？\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_29
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nそこのホテルの宝石屋の店主は\nかなり腕に自身のある細工師なんですが、\nまさか、武器や防具まで手を出すとは。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\nまあ、いいほうに考えれば、\n贋作に手を出すよりはマシとも言えるでしょう。\nいまは武具の需要もありそうですしね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_30
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nつい先程知ったんだが、\nクレール・ド・リュンヌで\n特別な防具を販売してるんだそうだ。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n仕事で良く使う場所だけど、\n全然そういう風なところはなかったからね。\nおどろきだよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_31
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nつい先程知ったんだが、\nクレール・ド・リュンヌで\n特別な武器を販売してるんだそうだ。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n仕事で良く使う場所だけど、\n全然そういう風なところはなかったからね。\nおどろきだよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_32
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n珠閒瑠ジニーは相性占いが\nパワーアップしたくらいで評判になるんですから、\nさぞ当たるんでしょうね。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\nやっぱり一度いってみようかな。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_33
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n珠閒瑠ジニーで相性占いを\nはじめたと聞いたんですが、\nそれって、普通初めからあるものでは！？\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n今まではどんな占いでお客さんを\n集めてたんでしょうか？\nよくわかりませんねぇ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_34
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n珠閒瑠ジニーという占い屋さんが、\nかなり話題になっているんですが、\n私はああいうのはちょっと…\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n見ず知らずの人にいろいろと聞かれるのがいやで、\n敬遠しているんですよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_35
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nエステショップのエテーリアがサービスを\n変えたそうじゃないか。\n差別化ってやつだね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_36
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nロサカンディータのマヌカンが、\n旅先で波にのまれたって聞いたんだ。\n確かパリで…いやバリでだっけ？\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_37
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nロサカンディータのマヌカンが、\n波にのまれたってのは、流行の話だったんだね。\n他人事だけど何だかほっとしたよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_38
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nロサカンディータのマヌカン、\nやっぱりバリで波に飲み込まれてたんだって？\nせっかくの旅行で事故なんて、可哀想だね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_39
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nロサカンディータのマヌカンが、\nパリの流行に圧倒されたんだってね。\nさすがは本場というところかな。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_40
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nロサカンディータのマヌカン、\nバリで波に飲み込まれてたんだって？\nせっかくの旅行で事故なんて、可哀想だね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_41
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nロサカンディータってブティックで、\n護身用に防具を売り始めたって聞いたんだよ。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\nこの時期を逃がさないなんて、\nさすがに商売が上手いね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_42
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nパラベラムのマスターが用心棒を\n雇ったなんて聞きましてね。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\nああ、物騒なんだな。\nと、改めて感じてしまいましたよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_43
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nパラベラムで武器を扱ってるなんて…\nにわかには信じきれませんね。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\nあの店にはちょくちょく行くんですが、\n見た目と違って普通の店だと思っていたんですが。\n意外でした。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_44
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nＣＤショップのギガ・マッチョで、\n店頭で普通に買うことのできない\n特別なマンボのＣＤがあるって聞いたんだ。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\nしかし、マンボと聞くと陽気なリズムを\n連想するのに、暗い印象の隠し売りとは…\n売り方を間違えてるんじゃないかな。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_45
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nＣＤショップのギガ・マッチョで、\n店頭で普通に買うことのできない\n特別なロックのＣＤがあるって聞いたんだ。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n変わった売り方で客を煽ろう、\nというつもりなんだろうけど、どうかなぁ？\n私は普通に売った方がいいと思うね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_46
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nゲームセンターのムー大陸が、\nカジノを始めたらしいね。\nギャンブルは不況に強いって言うし…\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n一度、勉強のために行ってみようと思うんだ。\nポーカーが、かなり儲かるって評判だしね。\n私はポーカーが得意だから嬉しいよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_47
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nゲームセンターのムー大陸が、\nカジノを始めたらしいね。\nギャンブルは不況に強いって言うし…\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n一度、勉強のために行ってみようと思うんだ。\nブラックジャックが狙い目なんだってね。\n早速、ルールを勉強しないといけないかな？\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_48
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nゲームセンターのムー大陸が、\nカジノを始めたらしいね。\nギャンブルは不況に強いって言うし…\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n一度、勉強のために行ってみようと思うんだ。\nでも、スロットがいいって評判なんだよね。\nこいつは苦手なんだよ。まいったなぁ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_49
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n露店のトニーの店で売られている\nアクセサリーには、不思議な効果があるって\n評判になってるよ。君も行ってみたら？\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_50
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n露店のトニーの店で売ってる護身用グッズが\n評判になってるね。\n私も今度買いに行くつもりなんだ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_51
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n東亜ディフェンスが、商品を大幅に\nパワーアップしたらしいね。\nやっぱりこんなご時世だから売れてるのかな。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_52
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n東亜ディフェンスが防具をやめて\n武器の取り扱いを始めたんだってね。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n攻撃は最大の防御って事なのかな。\nちょっと怖いけど。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_53
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n飲み屋の女将が夢を実現したと聞いて、\nなんともいえない気持ちになりましてね。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n私も若いころは野心というか、\nいろいろとあったんですが、\n今じゃ夢という言葉さえ忘れかけるありさま…\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n何か不満があるというわけじゃないんですが、\nちょっと寂しいですね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_54
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n飲み屋で人捜しなんて商売になるんですかねぇ？\nなんかそんな事をしていると聞いたんですが。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\nそれとも、飲み屋で儲かってるから、\n儲からない人捜しという副業もよいのでしょうか？\nずいぶんと余裕ですよねぇ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_55
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nそういえば、ＫＡＯＲＩってお店は\nずいぶん評判なんだね。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\nこの間、閉まってたらしいんだけど、\nそのことが話題になっててね。\nまあ、体調でも崩したんだろう。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_56
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nＫＡＯＲＩが閉まってたのは、\n買い出しのためだったんだってね。\nまあ、病気じゃなくてよかったよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_57
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nやっぱりＫＡＯＲＩの店主は\n風邪だったんだって？\n病気には気をつけないとね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_58
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nＫＡＯＲＩが新商品を売り始めたみたいだね。\nあれだけ評判の店も、いや、評判の店だからこそ、\n商売に油断が無いんだろうなあ。\[wait\]\[clear\]\[color(yellow)\]サラリーマン\[color(white)\]\n私も負けていられないね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_59
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\nＫＡＯＲＩの店主が風邪をひいたそうだね。\nまあ病気の時ぐらいは休まないと。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_60
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n時間城は魔法のカードの複製まで\nしてくれるそうだね。\n変わった商売をしているなぁ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_61
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n時間城では不思議な魔法のカードとやらを\n販売しているそうだね。\n手品でも出来るのかな？\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_62
+
+msgid "\[color(yellow)\]サラリーマン\[color(white)\]\n人から聞いたんだけど、ゾディアックの中は\n広い迷路になっているんだってね。\nアイテムもあるって聞いたよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_63
+
+msgid "\[color(yellow)\]旅行客\[color(white)\]\n散歩中に漁師さんと話したんだが、\n沖に出ていると今の時期は赤が怖い、\nという話になってね。\[wait\]\[clear\]\[color(yellow)\]旅行客\[color(white)\]\n何の事やら解らなかったんだが、\n適当に話をあわせていたら、\nマントのようだとも言っていたんだ。\[wait\]\[clear\]\[color(yellow)\]旅行客\[color(white)\]\nまさか、噂に聞く\[color(orange)\]怪人赤マントが\n沖合いの船にでも出る\[color(white)\]んだろうか。\n一度見てみたいものだね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_64
+
+msgid "\[color(yellow)\]旅行客\[color(white)\]\n怪人赤マントか…\n一度見てみたいものだね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_65
+
+msgid "\[color(yellow)\]旅行客\[color(white)\]\n散歩中に漁師さんと話したんだが、\n沖に出ていると今の時期は青が怖い、\nという話になってね。\[wait\]\[clear\]\[color(yellow)\]旅行客\[color(white)\]\n何の事やら解らなかったんだが、\n適当に話をあわせていたら、\nマントのようだとも言っていたんだ。\[wait\]\[clear\]\[color(yellow)\]旅行客\[color(white)\]\nまさか、噂に聞く\[color(orange)\]怪人青マントが\n沖合いの船にでも出る\[color(white)\]んだろうか。\n一度見てみたいものだね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_66
+
+msgid "\[color(yellow)\]旅行客\[color(white)\]\n怪人青マントか…\n一度見てみたいものだね。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_67
+
+msgid "\[color(yellow)\]旅行客\[color(white)\]\nやあ、マントの件はありがとね。\nいい土産話の種にできるから助かるよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_68
+
+msgid "\[color(yellow)\]旅行客\[color(white)\]\nお！\nこの赤いマントはもしや…\[wait\]\[clear\]\[color(yellow)\]旅行客\[color(white)\]\nやはり、噂の怪人のマントですか！\nぜひ譲ってもらえませんかね。\nいいですか！\[wait\]\[clear\]\[color(yellow)\]旅行客\[color(white)\]\nありがとうございます。\nじゃあお礼にこれを受け取ってください。\[wait\]\[clear\]\[color(green)\]相州正宗を手に入れた。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_69
+
+msgid "\[color(yellow)\]旅行客\[color(white)\]\nお！\nこの青いマントはもしや…\[wait\]\[clear\]\[color(yellow)\]旅行客\[color(white)\]\nやはり、噂の怪人のマントですか！\nぜひ譲ってもらえませんかね。\nいいですか！\[wait\]\[clear\]\[color(yellow)\]旅行客\[color(white)\]\nありがとうございます。\nじゃあお礼にこれを受け取ってください。\[wait\]\[clear\]\[color(green)\]ウーマンパワードを手に入れた。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_70
+
+msgid "\[color(yellow)\]旅行客\[color(white)\]\n数日、事件続きでバタバタしてばかり。\nせっかく旅行できたのに時期が悪かったよ。\n我が家も心配だし、早く帰らないと。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_71
+
+msgid "\[color(yellow)\]探検家\[color(white)\]\n聞いてくれ！\nついに\[color(orange)\]本物のツチノコを発見した\[color(white)\]んだ！！\[wait\]\[clear\]\[color(yellow)\]探検家\[color(white)\]\n…けど、マンホールの中に逃げ込まれてしまった。\n誰か捕まえてくれないかなあ。\[half_tab\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_72
+
+msgid "\[color(yellow)\]探検家\[color(white)\]\n誰かツチノコを捕まえてくれないかなあ。\nせっかく見つけたのに…\[half_tab\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_73
+
+msgid "\[color(yellow)\]探検家\[color(white)\]\n残念な結果に終わったけど、\n探してくれてありがとう。\nまた別のところを探しに行くよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_74
+
+msgid "\[color(yellow)\]探検家\[color(white)\]\n…これがツチノコの死体？\nなんだ、ただのヘビの見間違いか。\[wait\]\[clear\]\[color(yellow)\]探検家\[color(white)\]\nこんなの探させて悪い事したね。\nじゃ、これお礼だから。\[wait\]\[clear\]\[color(green)\]アイテムブリーダーを手に入れた。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_75
+
+msgid "\[color(yellow)\]探検家\[color(white)\]\n街はどこも騒がしくていけないね。\n私の仕事はたいてい自然の中だから、\nたまにこういう所へ来ると疲れるよ。\[wait\]\[clear\]\[color(yellow)\]探検家\[color(white)\]\n特に今はなにかと物騒な事が多いみたいだし、\n早く山へ登って未知の生物を探すとするか。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_76
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n問題の理学研究所は、警備が厳しく地上から潜入\nするのは不可能だ。\nだが、隣接する下水処理施設からならば手がある。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_77
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nまずは、その下水処理施設へ向かいましょう。\n\[sync\]\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_78
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nここは…\[delay(15)\]危険です。\n今後は立ち寄らないようにしたほうが\nいいでしょう。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_79
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\n…新世塾がここまで過激な行動に\n出るとは思いませんでした。\[wait\]\[clear\]\[color(yellow)\]エリー\[color(white)\]\n油断ですね。\n悔しいですわ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_80
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\n用も無いのに立寄らないほうがいいんじゃない？\nああいう事があったわけだしさ。\n他へ行こうよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_81
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n知らない家に勝手に入るのはまずいだろう。\n他へ行こう。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_82
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n………\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_83
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nちょっと、海に出てどうするの？\n今は他に行くとこあんでしょ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_84
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nもう海に出る用はねぇと思うぜ。\n今は先を急ごう。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_85
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nここはＫｅｉに任せて、\n私たちは珠閒瑠テレビへ急ぎましょう。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_86
+
+msgid "\[color(yellow)\]南条\[color(white)\]\nもう、ここには用はありません。\n今はスマイル平坂へ向かいましょう。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_87
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nここには別に用は無いでしょ？\nあんまり気分いいとこじゃないし、\n早くほか行こうよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_88
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n下水処理施設が好きなわけじゃないだろうが…\n特にここにくる必要性は無いと思う。\nほかへ行こう。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_89
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nこの駅、まだ工事中みたいだね。\n地下鉄での移動はあきらめましょ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_90
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n理由無く工事現場に勝手に入るのはまずい。\nほかへ行こう。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_91
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\n今はもうここは用なしだぜ。\nとっとと先に行こう。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_92
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\nここが研究所か…\[delay(15)\]\n門は閉じてて中は見えないな。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_93
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nしっかし高い壁だねぇ。\nまるで刑務所みたいだよ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_94
+
+msgid "\[color(yellow)\]南条\[color(white)\]\n壁が高いだけじゃなく、センサーにカメラ、\n高圧電流も張り巡らせてあります。\n正面からの進入は無理でしょう。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_95
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n確かに。\nやはり下水処理施設から進入するしかないのか。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_96
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nちょっと遠慮したいところだけど、仕方ないね。\nさ、行こう。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_97
+
+msgid "\[color(yellow)\]克哉\[color(white)\]\n正面からの進入は難しい。\n下水処理施設から進入しよう。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_98
+
+msgid "\[color(yellow)\]エリー\[color(white)\]\nこちらはＫｅｉに任せて、\n私たちは青葉区へ向かいましょう。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_99
+
+msgid "\[color(yellow)\]パオフゥ\[color(white)\]\nここはもう用済みだ。\nとっととほかへ行こうぜ。\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_100
+
+msgid "\[color(yellow)\]うらら\[color(white)\]\nしっかし怪しい建物だよね。\nこんなの作るから悪用されるんだよ。\nさて、いこっか。\[wait\]\[clear\]\[end\]"
+msgstr ""
+

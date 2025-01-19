@@ -1,0 +1,113 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 217_0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 04:10\n"
+"PO-Revision-Date: 2025-01-20 04:10\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]女教員\[color(white)\]\n橿原先生…こころざし半ばで…\nさぞ無念だったでしょう…\nううぅぅ…\n\[wait\]\[clear\]\[color(yellow)\]女教員\[color(white)\]\nあなたの研究は、必ずこの私が引き継ぎ、\n完成させてみせますっ！\nうううぅぅ…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]女教員\[color(white)\]\nあ…あら…\nあなたは？\n\[wait\]\[clear\]\[color(yellow)\]女教員\[color(white)\]\nえ？この鉄板？\nああ…この上で事故があって…\n危険だからフタをしてもらったの。\n\[wait\]\[clear\]\[color(yellow)\]女教員\[color(white)\]\n生徒達のために。\nそして、弱い自分に決別するためにね…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]女教員\[color(white)\]\nえ！？この鉄板を外せですって！？\nあなた今の話聞いてなかったの？\nつけたばかりなのよ、冗談じゃない！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_3
+
+msgid "\[color(yellow)\]女教員\[color(white)\]\n……\nあ…でも待って…\nそうねぇ…条件によっちゃ考えないでもないわ…\n\[wait\]\[clear\]\[color(yellow)\]女教員\[color(white)\]\n私はこれから世界の歴史をくつがえす、\n大発見に向け、研究を続けなければならないの。\nだけどそれをする為には資金がいるわ。\n\[wait\]\[clear\]\[color(yellow)\]女教員\[color(white)\]\nあなたが投資してくれると言うなら…\nこの鉄板、外してあげないでもないけど。\nいかがかしら？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_4
+
+msgid "\[color(yellow)\]女教員\[color(white)\]\nあら、気が変わったのかしら。\n快い返事が聞けると嬉しいのだけど。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5
+
+msgid "投資してくださる？\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_5_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_5_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_6
+
+msgid "\[color(yellow)\]女教員\[color(white)\]\nあらそう！！あっそう！！\nなら仕方ないわね。\nこの話は無かった事にしましょう。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_7
+
+msgid "\[color(yellow)\]女教員\[color(white)\]\nあら、本当！だったら話は早いわ。\n取り敢えず、あなたが今持ってるお金は、\n資金の一部として提供していただくわね𝅘𝅥𝅮\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_8
+
+msgid "\[color(yellow)\]舞耶\[color(white)\]\n……！？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_9
+
+msgid "\[color(yellow)\]女教員\[color(white)\]\nそれから…\n当面必要な資金としては…\n鳴羅門石の成分分析と地質調査と…磁場解析で…\n\[wait\]\[clear\]\[color(yellow)\]女教員\[color(white)\]\nざっと、５００万円というところかしら。\nもちろん、あなたならその程度の額、\nなんでもないわよねぇ♥\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_10
+
+msgid "\[color(yellow)\]女教員\[color(white)\]\nお金の準備はできたかしら？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11
+
+msgid "ささ、５００万円払ってちょうだい。\n\[end_choice\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_11_Choice1
+
+msgid "はい"
+msgstr ""
+
+#. msg_11_Choice2
+
+msgid "いいえ"
+msgstr ""
+
+#. msg_12
+
+msgid "\[color(yellow)\]女教員\[color(white)\]\nきゃーーーー！！\nホントに持っているなんて、\nあなた凄いわねぇ！感激だわ。\n\[wait\]\[clear\]\[color(yellow)\]女教員\[color(white)\]\nじゃあ約束通り、この鉄板、外しといてあげる。\nただ、業者も引き上げたばかりだし、\n少し時間がかかると思うの。気長に待っててね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_13
+
+msgid "\[color(yellow)\]女教員\[color(white)\]\nあらちょっと待って…\nひい…ふう…みい…\nお金が足りないわよ！\n\[wait\]\[clear\]\[color(yellow)\]女教員\[color(white)\]\nきっちり５００万円。オマケは無しよ！\nここで待っててあげるから、\nさっさと準備して払ってちょうだい。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_14
+
+msgid "\[color(yellow)\]女教員\[color(white)\]\nあら、まだお金の準備ができてなかったかしら。\nいいわ。ここで待っててあげる。\n早く持ってきてちょうだいね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_15
+
+msgid "\[color(yellow)\]女教員\[color(white)\]\n約束通り、この鉄板、外しといてあげる。\nただ、業者も引き上げたばかりだし、\n少し時間がかかると思うの。気長に待っててね。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

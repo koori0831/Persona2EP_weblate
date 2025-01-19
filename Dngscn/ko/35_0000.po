@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 35_0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 04:10\n"
+"PO-Revision-Date: 2025-01-20 04:10\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]おじいさん\[color(white)\]\nほっほっほっ。いやぁびっくらこいたわい。\nまさか花が口を利くとは…\nあの噂は本当だったんじゃのぉ…\n\[wait\]\[clear\]\[color(yellow)\]おじいさん\[color(white)\]\nだがアンタ、紫色の花には注意した方がええ。\nあの花は、突然訳の分からん質問をしてきて、\n答えられんと、毒を吹きかけてきよるんじゃ。\n\[wait\]\[clear\]\[color(yellow)\]おじいさん\[color(white)\]\n龍だの相性だの、まったく何の話やら…\n他の花達なら何か知っとるかもしれんが…\nアンタなら、分かるかな？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]おじいさん\[color(white)\]\n二月だから、なんとか龍で、相性がどうこうと…\nそう言えば孫が流行りの占いだとかで、\n似たような話をしとったが…その事じゃろうか？\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

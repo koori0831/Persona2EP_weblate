@@ -1,0 +1,28 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 33_0200\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 05:29\n"
+"PO-Revision-Date: 2025-01-20 05:29\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]オーディン\[color(white)\]\nこれは、何とした事！！\n\[var(msg_var_0)\]よ、お前は、妖精の足枷に\n繋がれていた筈…\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]\[var(msg_var_0)\]\[color(white)\]\nガァーー！\nオマエ オレサマ 自由 ウバウ！！\nユルセナイ！！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_2
+
+msgid "\[color(yellow)\]オーディン\[color(white)\]\n予言の日は近いか…\n仕方がない、覚悟しろ呪われしロキの倅よ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

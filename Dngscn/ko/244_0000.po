@@ -1,0 +1,18 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 244_0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 04:10\n"
+"PO-Revision-Date: 2025-01-20 04:10\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]青ざめた男\[color(white)\]\nあ、あんた！悪いことは言わねぇ！\nここに入るのは、やめときな！\n悪魔が出るって噂、聞いたことあるだろ！？\n\[wait\]\[clear\]\[color(yellow)\]青ざめた男\[color(white)\]\n俺、親父が豪傑寺って寺の住職でさ、\n悪魔祓いの経験積めって、ここに出されたんだ…\nだけどまさか噂が本当だったなんて…\n\[wait\]\[clear\]\[color(yellow)\]青ざめた男\[color(white)\]\nこんな所にいたら、命がいくつあっても足りねえ。\n経験を積む前に死んじまうよ！！\n特にあの防空壕なんざ……ヤバすぎだぜ！！\n\[wait\]\[clear\]\[color(yellow)\]青ざめた男\[color(white)\]\n俺は一足先に失礼するぜ！\nあんたも死にたくなけりゃ、すぐ逃げな。\n悪魔と戦えるってんなら別だがな。\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+

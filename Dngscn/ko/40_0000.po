@@ -1,0 +1,23 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 40_0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: ja\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSV-to-PO Converter\n"
+"POT-Creation-Date: 2025-01-20 04:10\n"
+"PO-Revision-Date: 2025-01-20 04:10\n"
+"Last-Translator: CSV-to-PO Converter\n"
+
+#. msg_0
+
+msgid "\[color(yellow)\]黄色い花\[color(white)\]\n……\[wait\]\[clear\]\[end\]"
+msgstr ""
+
+#. msg_1
+
+msgid "\[color(yellow)\]黄色い花\[color(white)\]\nえーそうですとも！私は一月生まれの黄龍です！\nどうせ十月生まれの銀龍とは\n相性最悪ですとも！えーそうでしょうよ！\n\[wait\]\[clear\]\[color(yellow)\]黄色い花\[color(white)\]\nそれなのに一ヶ月年下の妹は\n銀龍と相性良いらしいんです！\n私だって金龍となら相性良いのよ！\n\[wait\]\[clear\]\[end\]"
+msgstr ""
+
