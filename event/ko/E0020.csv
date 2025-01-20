@@ -1,5 +1,5 @@
-location,source,target
-msg_0,"[color(yellow)]克哉[color(white)]
+"location","source","target"
+"msg_0","[color(yellow)]克哉[color(white)]
 天野君、ここには誰もいないようだ。
 次の部屋へ急ごう！
-[wait][clear][end]",
+[wait][clear][end]",""

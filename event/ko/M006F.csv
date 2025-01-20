@@ -31,27 +31,33 @@
 別れメッセージ[wait][clear][end]","[color(yellow)]악마화가[color(white)]
 작별 메시지[wait][clear][end]"
 "msg_7","どの説明を読みますか？
-[end_choice][clear][end]",""
+[end_choice][clear][end]","어떤 설명을 읽으시겠습니까?
+[end_choice][clear][end]"
 "msg_7_Choice1","召喚","소환"
 "msg_7_Choice2","入れ替え・帰還","교체・귀환"
 "msg_7_Choice3","[if_all(VBIT_MUTATION_ON)]変異","[if_all(VBIT_MUTATION_ON)]변이"
-"msg_7_Choice4","やめる",""
+"msg_7_Choice4","やめる","그만둔다"
 "msg_8","作成中です
-[wait][clear][end]",""
+[wait][clear][end]","작성 중입니다
+[wait][clear][end]"
 "msg_9","作成中です
-[wait][clear][end]",""
+[wait][clear][end]","작성 중입니다
+[wait][clear][end]"
 "msg_10","作成中です
-[wait][clear][end]",""
+[wait][clear][end]","작성 중입니다
+[wait][clear][end]"
 "msg_11","どの説明を読みますか？
 [end_choice][clear][end]","어떤 설명을 읽으시겠습니까?
 [end_choice][clear][end]"
 "msg_11_Choice1","依頼","의뢰"
 "msg_11_Choice2","フリータロット","프리 타로"
-"msg_11_Choice3","やめる",""
+"msg_11_Choice3","やめる","그만둔다"
 "msg_12","作成中です
-[wait][clear][end]",""
+[wait][clear][end]","작성 중입니다
+[wait][clear][end]"
 "msg_13","作成中です
-[wait][clear][end]",""
+[wait][clear][end]","작성 중입니다
+[wait][clear][end]"
 "msg_14","作成中です
 [wait][clear][end]","작성 중입니다
 [wait][clear][end]"
@@ -62,7 +68,7 @@
 "msg_15_Choice2","噂、少し聞き","소문 조금 듣기"
 "msg_15_Choice3","尋ね人表示","찾는 사람 표시"
 "msg_15_Choice4","お金沢山","돈 잔뜩"
-"msg_15_Choice5","やめる",""
+"msg_15_Choice5","やめる","그만둔다"
 "msg_16","会話データ
 [wait][clear][end]","대화 데이터
 [wait][clear][end]"

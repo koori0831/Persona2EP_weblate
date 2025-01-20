@@ -72,30 +72,32 @@
 우효효효~
 어서 오세~ 요~
 [end_choice][clear][end]"
-"msg_8_Choice1","消費物を買う",""
-"msg_8_Choice2","アイテムを売る",""
-"msg_8_Choice3","話をする",""
-"msg_8_Choice4","[if_all(EBIT_SINARIOFF)]アイテムの確認",""
-"msg_8_Choice5","やめる",""
-"msg_8_Choice6","店の外に出る",""
+"msg_8_Choice1","消費物を買う","소비품을 산다"
+"msg_8_Choice2","アイテムを売る","아이템을 판다"
+"msg_8_Choice3","話をする","대화한다"
+"msg_8_Choice4","[if_all(EBIT_SINARIOFF)]アイテムの確認","[if_all(EBIT_SINARIOFF)]아이템 확인"
+"msg_8_Choice5","やめる","그만둔다"
+"msg_8_Choice6","店の外に出る","가게 밖으로 나간다"
 "msg_9","[color(yellow)]オバサン？[color(white)]
 さぁ、何を売りたいのかしらぁ？
 [end_choice][clear][end]","[color(yellow)]아줌마？[color(white)]
 자, 무엇을 팔고 싶은 거니?
 [end_choice][clear][end]"
-"msg_9_Choice1","[dbl_tab][if_all(EBIT_SINARIOFF)]非表示項目",""
-"msg_9_Choice2","[dbl_tab]消費物を売る",""
-"msg_9_Choice3","[dbl_tab]武器を売る",""
-"msg_9_Choice4","[dbl_tab][if_all(EBIT_SINARIOFF)]頭防具を売る",""
-"msg_9_Choice5","[dbl_tab]防具を売る",""
-"msg_9_Choice6","[dbl_tab][if_all(EBIT_SINARIOFF)]脚防具を売る",""
-"msg_9_Choice7","[dbl_tab]アクセサリーを売る",""
+"msg_9_Choice1","[dbl_tab][if_all(EBIT_SINARIOFF)]非表示項目","[dbl_tab][if_all(EBIT_SINARIOFF)]비표시 항목"
+"msg_9_Choice2","[dbl_tab]消費物を売る","[dbl_tab]소비품을 판다"
+"msg_9_Choice3","[dbl_tab]武器を売る","[dbl_tab]무기를 판다"
+"msg_9_Choice4","[dbl_tab][if_all(EBIT_SINARIOFF)]頭防具を売る","[dbl_tab][if_all(EBIT_SINARIOFF)]머리 방어구를 판다"
+"msg_9_Choice5","[dbl_tab]防具を売る","[dbl_tab]방어구를 판다"
+"msg_9_Choice6","[dbl_tab][if_all(EBIT_SINARIOFF)]脚防具を売る","[dbl_tab][if_all(EBIT_SINARIOFF)]다리 방어구를 판다"
+"msg_9_Choice7","[dbl_tab]アクセサリーを売る","[dbl_tab]액세서리를 판다"
 "msg_10","[color(yellow)]オバサン？[color(white)]
 何を聞きたいのかしらぁ～？
-[end_choice][clear][end]",""
-"msg_10_Choice1","世間話をする",""
-"msg_10_Choice2","売買の説明を聞く",""
-"msg_10_Choice3","[if_all(EBIT_SINARIOFF)]非表示項目",""
+[end_choice][clear][end]","[color(yellow)]아줌마？[color(white)]
+뭘 묻고 싶은 거니~?
+[end_choice][clear][end]"
+"msg_10_Choice1","世間話をする","잡담을 한다"
+"msg_10_Choice2","売買の説明を聞く","매매의 설명을 듣는다"
+"msg_10_Choice3","[if_all(EBIT_SINARIOFF)]非表示項目","[if_all(EBIT_SINARIOFF)]비표시 항목"
 "msg_11","[color(yellow)]オバサン？[color(white)]
 他に何かあるかしらぁ～？
 [end_choice][clear][end]","[color(yellow)]아줌마？[color(white)]
@@ -190,9 +192,12 @@
 "msg_18","[color(yellow)]オバサン？[color(white)]
 全部で、[var(msg_var_0)]円になるけど
 いいかしらぁ～？
-[end_choice][clear][end]",""
-"msg_18_Choice1","はい",""
-"msg_18_Choice2","いいえ",""
+[end_choice][clear][end]","[color(yellow)]아줌마？[color(white)]
+전부 합쳐서 [var(msg_var_0)]엔인데
+괜찮겠니~?
+[end_choice][clear][end]"
+"msg_18_Choice1","はい","네"
+"msg_18_Choice2","いいえ","아니오"
 "msg_19","[color(yellow)]オバサン？[color(white)]
 全部で、[var(msg_var_0)]円になるけど
 いいかしらぁ～？

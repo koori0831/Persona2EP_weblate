@@ -1,6 +1,6 @@
-location,source,target
-msg_0,"[color(yellow)]パオフゥ[color(white)]
+"location","source","target"
+"msg_0","[color(yellow)]パオフゥ[color(white)]
 おらおら、泣いてるだけじゃ死んじまうぞ？
 早く屋上に逃げな。
 友達とはぐれるんじゃねーぞ。
-[wait][clear][end]",
+[wait][clear][end]",""

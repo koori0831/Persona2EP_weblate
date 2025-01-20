@@ -1,118 +1,118 @@
-location,source,target
-msg_0,"[color(yellow)]杏奈[color(white)]
+"location","source","target"
+"msg_0","[color(yellow)]杏奈[color(white)]
 来たの…
 時計台では…どうも。
-[sync][wait][clear][end]",
-msg_1,"[color(yellow)]杏奈[color(white)]
+[sync][wait][clear][end]",""
+"msg_1","[color(yellow)]杏奈[color(white)]
 え…？[tatsuya]が…？
 [tatsuya]、今どこにいるの？
-[sync][wait][clear][end]",
-msg_2,"[color(yellow)]杏奈[color(white)]
+[sync][wait][clear][end]",""
+"msg_2","[color(yellow)]杏奈[color(white)]
 そう…
 [tatsuya]とは、よくここでツルんでた…
-[sync][wait][clear][end]",
-msg_3,"[color(yellow)]杏奈[color(white)]
+[sync][wait][clear][end]",""
+"msg_3","[color(yellow)]杏奈[color(white)]
 あいつ、凄い悪だけど、凄い優しいよ…
 でも、最近様子がおかしくて、姿見せなくなった…
-[sync][wait][clear][end]",
-msg_4,"[color(yellow)]克哉[color(white)]
+[sync][wait][clear][end]",""
+"msg_4","[color(yellow)]克哉[color(white)]
 [tatsuya]は…
 弟は、姿を消す前に何か言ってなかったかい？
-[sync][wait][clear][end]",
-msg_5,"[color(yellow)]杏奈[color(white)]
+[sync][wait][clear][end]",""
+"msg_5","[color(yellow)]杏奈[color(white)]
 罪を償う…そんなようなこと言ってた。
-[sync][wait][clear][end]",
-msg_6,"[color(yellow)]克哉[color(white)]
+[sync][wait][clear][end]",""
+"msg_6","[color(yellow)]克哉[color(white)]
 罪…
-[sync][wait][clear][end]",
-msg_7,"[color(yellow)]パオフゥ[color(white)]
+[sync][wait][clear][end]",""
+"msg_7","[color(yellow)]パオフゥ[color(white)]
 で、拉致されたやつらはどこにいるんだ？
-[sync][wait][clear][end]",
-msg_8,"[color(yellow)]杏奈[color(white)]
+[sync][wait][clear][end]",""
+"msg_8","[color(yellow)]杏奈[color(white)]
 この奥って噂よ…
 ここ…最近台湾マフィアに買収されたらしいから…
 誘拐犯のグループも、中国語話してた…
-[sync][wait][clear][end]",
-msg_9,"[color(yellow)]パオフゥ[color(white)]
+[sync][wait][clear][end]",""
+"msg_9","[color(yellow)]パオフゥ[color(white)]
 ………
 そうかい…
-[sync][wait][clear][end]",
-msg_10,"[color(yellow)]うらら[color(white)]
+[sync][wait][clear][end]",""
+"msg_10","[color(yellow)]うらら[color(white)]
 じゃあさ、ノリコちゃんと[tatsuya]君のことは私ら
 にまかせときなよ。
-[sync][wait][clear][end]",
-msg_11,"[color(yellow)]杏奈[color(white)]
+[sync][wait][clear][end]",""
+"msg_11","[color(yellow)]杏奈[color(white)]
 …二人をお願い。
 私とまともに話せるの、
 ノリコと[tatsuya]くらいだから…
-[sync][wait][clear][end]",
-msg_12,"[color(yellow)]杏奈[color(white)]
+[sync][wait][clear][end]",""
+"msg_12","[color(yellow)]杏奈[color(white)]
 …二人をお願い。
 私とまともに話せるの、
 ノリコと[tatsuya]くらいだから…
-[sync][wait][clear][end]",
-msg_13,"[color(yellow)]パオフゥ[color(white)]
+[sync][wait][clear][end]",""
+"msg_13","[color(yellow)]パオフゥ[color(white)]
 こんなところをアジトにしてやがったか…
 野郎…なめやがって…
-[sync][wait][clear][end]",
-msg_14,"[color(yellow)]克哉[color(white)]
+[sync][wait][clear][end]",""
+"msg_14","[color(yellow)]克哉[color(white)]
 罪を償う…
 一体何の罪なんだ…[tatsuya]…
-[sync][wait][clear][end]",
-msg_15,"[color(yellow)]うらら[color(white)]
+[sync][wait][clear][end]",""
+"msg_15","[color(yellow)]うらら[color(white)]
 クラブの奥に、マフィアのカジノか…
 ギャンブル好きだから、ちょっと興味あるわ。
 ツキ、占ってみる？
-[sync][wait][clear][end]",
-msg_16,"[color(yellow)]若い男[color(white)]
+[sync][wait][clear][end]",""
+"msg_16","[color(yellow)]若い男[color(white)]
 この奥に、カジノがあるって噂は聞いたことある？
 一般の客は入れない、特別なカジノらしいぜ。
-[sync][wait][clear][end]",
-msg_17,"[color(yellow)]若い女[color(white)]
+[sync][wait][clear][end]",""
+"msg_17","[color(yellow)]若い女[color(white)]
 マフィア…？
 別に踊れればなんでもいいんじゃん？
-[sync][wait][clear][end]",
-msg_18,"[color(yellow)]若い女[color(white)]
+[sync][wait][clear][end]",""
+"msg_18","[color(yellow)]若い女[color(white)]
 この奥って、なんだか[color(orange)]面倒くさい迷路みたいに
 なってる[color(white)]って聞いたよー？
 でも、[color(orange)]いい物拾ったって話[color(white)]。
-[sync][wait][clear][end]",
-msg_19,"[color(yellow)]若い女[color(white)]
+[sync][wait][clear][end]",""
+"msg_19","[color(yellow)]若い女[color(white)]
 この奥って、なんかあんのかなー？
 たまーにコワオモテの人が出入りしてるから、
 変な噂がたってるんだよね。
-[sync][wait][clear][end]",
-msg_20,"[color(yellow)]若い女[color(white)]
+[sync][wait][clear][end]",""
+"msg_20","[color(yellow)]若い女[color(white)]
 この奥って、なんかあんのかなー？
 たまーにコワオモテの人が出入りしてるから、
 変な噂がたってるんだよね。
-[sync][wait][clear][end]",
-msg_21,"[color(yellow)]若い女[color(white)]
+[sync][wait][clear][end]",""
+"msg_21","[color(yellow)]若い女[color(white)]
 でもさぁ、アンタみたいにムカツクやつがいたら、
 やってみようかって気にもなるじゃん？
-[sync][wait][clear][end]",
-msg_22,"[color(yellow)]若い女[color(white)]
+[sync][wait][clear][end]",""
+"msg_22","[color(yellow)]若い女[color(white)]
 あのＤＪ、占い当たってＤＪになったらしいけど、
 私最近、ワンロンでツイてないんだぁ…
 なんで私ばっかってムカつくよぉ～
-[sync][wait][clear][end]",
-msg_23,"[color(yellow)]ＤＪカナダ[color(white)]
+[sync][wait][clear][end]",""
+"msg_23","[color(yellow)]ＤＪカナダ[color(white)]
 ＨＥＹＹＯＨＥＹＹＯ𝅘𝅥𝅮
 聞いていきなよカナダのトーク𝅘𝅥𝅮
 ＫＡＮＡＤＡトーク𝅘𝅥𝅮
-[sync][wait][clear][end]",
-msg_24,"[color(yellow)]ＤＪカナダ[color(white)]
+[sync][wait][clear][end]",""
+"msg_24","[color(yellow)]ＤＪカナダ[color(white)]
 占い最高自分で決めるより楽でいい𝅘𝅥𝅮
 行き当たりばったり人生にゃ占い必要𝅘𝅥𝅮
 あんたに必要俺にも必要ＹＯＹＯＹＯ𝅘𝅥𝅮
-[sync][wait][clear][end]",
-msg_25,"[color(yellow)]若い男[color(white)]
+[sync][wait][clear][end]",""
+"msg_25","[color(yellow)]若い男[color(white)]
 俺のダチもＪＯＫＥＲ呪いしてたらしくてさぁ、
 ＪＯＫＥＲになっちゃったんだよね。
 占いでツイてないからだって。バッカじゃねぇ？
-[sync][wait][clear][end]",
-msg_26,"[color(yellow)]カウンターの男[color(white)]
+[sync][wait][clear][end]",""
+"msg_26","[color(yellow)]カウンターの男[color(white)]
 ああ、オーナーの話？
 確かに最近、中国人だか台湾人だかに代わったね。
 ま、俺たちにゃ関係ないね。
-[sync][wait][clear][end]",
+[sync][wait][clear][end]",""
