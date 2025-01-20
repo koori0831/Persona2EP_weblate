@@ -2,7 +2,7 @@
 "msg_0","某所会議室
 [end]","어느 회의실
 [end]"
-"msg_1","[clear][end]",""
+"msg_1","[clear][end]","[clear][end]"
 "msg_2","[color(yellow)]杖をついた老人[color(white)]
 …では、な。
 [sync][wait][clear][end]",""

@@ -1,7 +1,7 @@
 "location","source","target"
 "msg_0","日輪丸潜水艇ドック
 [end]",""
-"msg_1","[clear][end]",""
+"msg_1","[clear][end]","[clear][end]"
 "msg_2","[color(yellow)]神取[color(white)]
 老人達の様子はどうかね…
 [sync][wait][clear][end]",""

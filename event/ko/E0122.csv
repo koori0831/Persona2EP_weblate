@@ -2,7 +2,7 @@
 "msg_0","南条記念病院
 数日後
 [end]",""
-"msg_1","[clear][end]",""
+"msg_1","[clear][end]","[clear][end]"
 "msg_2","暗闇の中を漂う花の香りに、
 永遠とも思える間昏睡していた詩織は、目を覚ました。
 [sync][wait][clear][end]",""
