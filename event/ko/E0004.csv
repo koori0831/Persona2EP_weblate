@@ -3,42 +3,42 @@
 舞耶さん、芹沢さんって人から電話ありましたよ。
 受付に迎えに来るって言ってたけど…
 来たら内線あるんじゃないかな？
-[sync][wait][clear][end]","[color(yellow)]ゆきの[color(white)]
-舞耶さん、芹沢さんって人から電話ありましたよ。
-受付に迎えに来るって言ってたけど…
-来たら内線あるんじゃないかな？
+[sync][wait][clear][end]","[color(yellow)]유키노[color(white)]
+마야 씨, 세리자와라는 사람한테서 전화가 왔었어요.
+접수처에 마중 나온다고 했었는데...
+와보면 내선으로 연락할 수 있지 않을까?
 [sync][wait][clear][end]"
 "msg_1","[color(yellow)]黛ゆきの（まゆずみゆきの）[color(white)]
 [color(green)]舞耶の相棒だったカメラマン（見習い）。
 本来はキスメット出版の社員ではなく、
 関係者の藤井が雇うバイト助手。[color(white)]
-[sync][wait][clear][end]","[color(yellow)]黛ゆきの（まゆずみゆきの）[color(white)]
-[color(green)]舞耶の相棒だったカメラマン（見習い）。
-本来はキスメット出版の社員ではなく、
-関係者の藤井が雇うバイト助手。[color(white)]
+[sync][wait][clear][end]","[color(yellow)]마유즈미 유키노[color(white)]
+[color(green)]마야의 파트너였던 카메라맨(견습).
+원래는 키스멧 출판의 사원이 아니라,
+관계자인 후지이가 고용한 아르바이트 조수.[color(white)]
 [sync][wait][clear][end]"
 "msg_2","[color(yellow)]ゆきの[color(white)]
 そう言えば、お見合いパーティ行くんでしたっけ？
 アタシら、土日もへったくれもないからねぇ…
 たまには、思い切り羽伸ばしてくるといいよ。
 [sync][wait][clear][end]","[color(yellow)]ゆきの[color(white)]
-そう言えば、お見合いパーティ行くんでしたっけ？
-アタシら、土日もへったくれもないからねぇ…
-たまには、思い切り羽伸ばしてくるといいよ。
+그러고 보니, 맞선 파티에 간다고 하셨던가요?
+우리들, 주말이고 나발이고 없으니까 말이지...
+가끔씩은, 마음껏 쉬어주는 것도 좋아.
 [sync][wait][clear][end]"
 "msg_3","[color(yellow)]ゆきの[color(white)]
 え？仕事で半休取り消しにされたって！？
 そんな横暴なことあるもんか！
 アタシが文句言ってやるよ！！
-[sync][wait][clear][end]","[color(yellow)]ゆきの[color(white)]
-え？仕事で半休取り消しにされたって！？
-そんな横暴なことあるもんか！
-アタシが文句言ってやるよ！！
+[sync][wait][clear][end]","[color(yellow)]유키노[color(white)]
+뭐? 일 때문에 반차를 취소당했다고!?
+그런 횡포가 대체 어디 있어!
+내가 따지고 올게!!
 [sync][wait][clear][end]"
 "msg_4","アタシが文句言ってやるよ！！
-[end_choice][clear][end]","アタシが文句言ってやるよ！！
+[end_choice][clear][end]","내가 따지고 올게!!
 [end_choice][clear][end]"
-"msg_4_Choice1","ありがとうユッキー、私なら大丈夫だから…","ありがとうユッキー、私なら大丈夫だから…"
+"msg_4_Choice1","ありがとうユッキー、私なら大丈夫だから…","유키, 고맙지만 난 괜찮으니까…"
 "msg_4_Choice2","レッツ・ポジティブシンキング！へっちゃらよ","レッツ・ポジティブシンキング！へっちゃらよ"
 "msg_5","[color(yellow)]ゆきの[color(white)]
 アタシとのコンビも解消なんて、
