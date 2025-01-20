@@ -1,25 +1,46 @@
-msg_0,"[color(yellow)]お婆さん[color(white)]
+"location","source","target"
+"msg_0","[color(yellow)]お婆さん[color(white)]
 なんとまぁ、寂しい背中だい…
 あんた、大切なもんでも無くしなさったかね？
-[sync][wait][clear][end]",
-msg_1,"[color(yellow)]少年[color(white)]
+[sync][wait][clear][end]","[color(yellow)]할머니[color(white)]
+쓸쓸해 비는 등짝이고마...
+아가, 소중한 거라도 이라뭇는갑네?
+[sync][wait][clear][end]"
+"msg_1","[color(yellow)]少年[color(white)]
 ………
-[sync][wait][clear][end]",
-msg_2,"[color(yellow)]お婆さん[color(white)]
+[sync][wait][clear][end]","[color(yellow)]소년[color(white)]
+.........
+[sync][wait][clear][end]"
+"msg_2","[color(yellow)]お婆さん[color(white)]
 そうかい…無くしたんじゃあないね。
 見つけちまったのかい…思い出を。
-[sync][wait][clear][end]",
-msg_3,"[color(yellow)]お婆さん[color(white)]
+[sync][wait][clear][end]","[color(yellow)]할머니[color(white)]
+그렇구먼... 잃어버린 게 아니었구먼.
+찾아뿌렸구만… 그 추억이라는 걸.
+[sync][wait][clear][end]"
+"msg_3","[color(yellow)]お婆さん[color(white)]
 人間は、罰当たりな生き物さね。
 ここも昔は、夏祭りで賑わったもんだに…
 時が過ぎれば、大切な事すら忘れちまう。
-[sync][wait][clear][end]",
-msg_4,"[color(yellow)]お婆さん[color(white)]
+[sync][wait][clear][end]","[color(yellow)]할머니[color(white)]
+인간이라는 게 참, 죄 많은 존재여.
+여그도 한때는 여름 축제로 아주 북적였는데 말이여…
+시간이 지나뿌리믄, 소중했던 것까지 다 잊어뿌리더라고.
+[sync][wait][clear][end]"
+"msg_4","[color(yellow)]お婆さん[color(white)]
 忘れちまったままの方が幸せなのか、
 思い出した方が幸せなのか…
 あんた、厄介なもんに囚われちまったねぇ…
-[sync][wait][clear][end]",
-msg_5,"[color(yellow)]少年[color(white)]
+[sync][wait][clear][end]","[color(yellow)]할머니[color(white)]
+잊고 사는 게 더 나은 건지,
+아님 기억하고 사는 게 나은 건지…
+아가, 골치 아픈 거에 얽혀버렸구먼...
+[sync][wait][clear][end]"
+"msg_5","[color(yellow)]少年[color(white)]
 そう…俺は思い出した…
 この世にあってはならない罪を…どう償う…？
-[sync][wait][clear][end]",
+[sync][wait][clear][end]","[color(yellow)]少年[color(white)]
+그래… 난 기억해버렸어…
+이 세상에 있어서는 안 될 죄를…
+이걸 어찌 속죄할 수 있을까…?""
+[sync][wait][clear][end]"
