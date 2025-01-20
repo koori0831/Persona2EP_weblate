@@ -1,8 +1,5 @@
-"location","source","target"
-"msg_0","[color(yellow)]頬に傷のある男[color(white)]
+location,source,target
+msg_0,"[color(yellow)]頬に傷のある男[color(white)]
 ン…？
 あいつは…
-[sync][wait][clear][end]","[color(yellow)]頬に傷のある男[color(white)]
-ン…？
-あいつは…
-[sync][wait][clear][end]"
+[sync][wait][clear][end]",

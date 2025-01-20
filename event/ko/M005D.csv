@@ -1,6 +1,4 @@
-"location","source","target"
-"msg_0","[color(green)][item_with_type(item_ffff)]を手に入れた。
+location,source,target
+msg_0,"[color(green)][item_with_type(item_ffff)]を手に入れた。
 早くカジノまで戻らなくては！[color(white)]
-[wait][clear][end]","[color(green)][item_with_type(item_ffff)]を手に入れた。
-早くカジノまで戻らなくては！[color(white)]
-[wait][clear][end]"
+[wait][clear][end]",

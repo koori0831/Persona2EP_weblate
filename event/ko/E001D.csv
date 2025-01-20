@@ -1,8 +1,5 @@
-"location","source","target"
-"msg_0","[color(yellow)]うらら[color(white)]
+location,source,target
+msg_0,"[color(yellow)]うらら[color(white)]
 ほらほら、
 ピーピー泣いてないで、早く逃げなさいってー！
-[wait][clear][end]","[color(yellow)]うらら[color(white)]
-ほらほら、
-ピーピー泣いてないで、早く逃げなさいってー！
-[wait][clear][end]"
+[wait][clear][end]",

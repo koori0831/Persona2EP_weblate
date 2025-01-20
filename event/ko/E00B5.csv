@@ -1,11 +1,7 @@
-"location","source","target"
-"msg_0","[color(yellow)]パオフゥ[color(white)]
+location,source,target
+msg_0,"[color(yellow)]パオフゥ[color(white)]
 やったか…！？
-[sync][wait][clear][end]","[color(yellow)]パオフゥ[color(white)]
-やったか…！？
-[sync][wait][clear][end]"
-"msg_1","[color(yellow)]克哉[color(white)]
+[sync][wait][clear][end]",
+msg_1,"[color(yellow)]克哉[color(white)]
 バカな…何だあれは…！？
-[sync][wait][clear][end]","[color(yellow)]克哉[color(white)]
-バカな…何だあれは…！？
-[sync][wait][clear][end]"
+[sync][wait][clear][end]",

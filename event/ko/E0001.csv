@@ -2,7 +2,7 @@
 "msg_0","某所会議室
 [end]","어느 회의실
 [end]"
-"msg_1","[clear][end]","[clear][end]"
+"msg_1","[clear][end]",
 "msg_2","[color(yellow)]謎の老人[color(white)]
 これより、定例の「言霊の儀」を執り行う。
 [sync][wait][clear][end]","[color(yellow)]수상한 노인[color(white)]

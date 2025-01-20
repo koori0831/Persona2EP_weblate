@@ -1,10 +1,6 @@
-"location","source","target"
-"msg_0","[color(yellow)]フィレモン[color(white)]
+location,source,target
+msg_0,"[color(yellow)]フィレモン[color(white)]
 よくぞここまで来た。
 諸君は私の認める最強のペルソナ使い。
 さぁ、諸君のもてる全てを見せてくれたまえ。
-[sync][wait][clear][end]","[color(yellow)]フィレモン[color(white)]
-よくぞここまで来た。
-諸君は私の認める最強のペルソナ使い。
-さぁ、諸君のもてる全てを見せてくれたまえ。
-[sync][wait][clear][end]"
+[sync][wait][clear][end]",
