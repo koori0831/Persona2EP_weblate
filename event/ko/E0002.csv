@@ -11,7 +11,7 @@
 "msg_1","差出人とか、書いてないけど…
 [end_choice][clear][end]","보낸 이가 안 써있긴 하지만...
 [end_choice][clear][end]"
-"msg_1_Choice1","サンクス、ユッキー！","땡큐, 유키ー！"
+"msg_1_Choice1","サンクス、ユッキー！","땡큐, 유키ー!"
 "msg_1_Choice2","ありがとう。でも、誰だろう…？","고마워. 근데, 누구지...?"
 "msg_2","[color(yellow)]天野舞耶（あまのまや）[color(white)]
 [color(green)]キスメット出版の高校生向け情報誌、
@@ -40,7 +40,7 @@
 ＪＯＫＥＲ
 [sync][wait][clear][end]","[color(yellow)]편지[color(white)]
 다음은 너다.
-ＪＯＫＥＲ
+JOKER
 [sync][wait][clear][end]"
 "msg_5","[color(yellow)]舞耶[color(white)]
 ………？
