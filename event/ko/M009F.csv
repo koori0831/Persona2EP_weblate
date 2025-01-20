@@ -136,7 +136,8 @@
 매번 고맙구나～
 [wait][clear][end]"
 "msg_16","エラー：どこからの来たのか不明です・・・
-[end]",""
+[end]","에러: 어디서 왔는지 모르겠다...
+[end]"
 "msg_17","[color(yellow)]オバサン？[color(white)]
 うひょひょひょ。
 ”売買”についてねぇ～。
@@ -158,7 +159,28 @@
 [wait][clear][color(yellow)]オバサン？[color(white)]
 こんなとこかしらぁ～。
 うひょひょひょ。
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]아줌마?[color(white)]
+우효효효.
+""매매""에 대해서 말이지~.
+[wait][clear][color(yellow)]아줌마?[color(white)]
+우선 구입의 설명이란다~.
+우리 가게에서 ""소비품을 산다""를 선택하면
+소비 아이템을 살 수 있단다~.
+[wait][clear][color(yellow)]아줌마?[color(white)]
+아, 그렇지. 아이템은 소지수가
+제한되어 있단다~.
+[wait][clear][color(yellow)]아줌마?[color(white)]
+다음으로 매각의 설명이란다~.
+""아이템을 판다""를 선택하고, 일단 종류를 정한 다음,
+팔고 싶은 것을 선택하렴~.
+[wait][clear][color(yellow)]아줌마?[color(white)]
+매입 가격은 원래 가격의 약 절반 정도란다~.
+그리고 장비 중인 물건은 팔 수 없단다~.
+그리고 물품 중에는 매입할 수 없는 물품도 있단다~.
+[wait][clear][color(yellow)]아줌마?[color(white)]
+이 정도면 되겠지~.
+우효효효.
+[wait][clear][end]"
 "msg_18","[color(yellow)]オバサン？[color(white)]
 売れる物、持ってないじゃないの～。[wait][clear][end]","[color(yellow)]아줌마？[color(white)]
 팔 수 있는 물건을 안 가지고 있구나~.[wait][clear][end]"
