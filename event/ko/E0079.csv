@@ -1,7 +1,7 @@
 "location","source","target"
 "msg_0","某所会議室
 [end]",""
-"msg_1","[clear][end]",""
+"msg_1","[clear][end]","[clear][end]"
 "msg_2","[color(yellow)]杖をついた老人[color(white)]
 …では、な。
 [sync][wait][clear][end]","[color(yellow)]杖をついた老人[color(white)]
