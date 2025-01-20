@@ -1,40 +1,65 @@
-msg_0,"[color(yellow)]ゆきの[color(white)]
+"location","source","target"
+"msg_0","[color(yellow)]ゆきの[color(white)]
 取材、お疲れさま。
 舞耶さんに、手紙届いてますよ。
 差出人とか、書いてないけど…
-[sync][wait][clear][end]",
-msg_1,"差出人とか、書いてないけど…
-[end_choice][clear][end]",
-msg_1_Choice1,"サンクス、ユッキー！",
-msg_1_Choice2,"ありがとう。でも、誰だろう…？",
-msg_2,"[color(yellow)]天野舞耶（あまのまや）[color(white)]
+[sync][wait][clear][end]","[color(yellow)]유키노[color(white)]
+취재 수고하셨어요.
+마야씨 앞으로 편지가 왔어요.
+보낸 이가 안 써있긴 하지만...
+[sync][wait][clear][end]"
+"msg_1","差出人とか、書いてないけど…
+[end_choice][clear][end]","보낸 이가 안 써있긴 하지만...
+[end_choice][clear][end]"
+"msg_1_Choice1","サンクス、ユッキー！","땡큐, 유키ー！"
+"msg_1_Choice2","ありがとう。でも、誰だろう…？","고마워. 근데, 누구지...?"
+"msg_2","[color(yellow)]天野舞耶（あまのまや）[color(white)]
 [color(green)]キスメット出版の高校生向け情報誌、
 「クーレスト」編集部に在籍する女性編集者。
 今回の主人公。
 [color(white)]
-[sync][wait][clear][end]",
-msg_3,"[color(yellow)]天野舞耶（あまのまや）[color(white)]
+[sync][wait][clear][end]",""
+"msg_3","[color(yellow)]天野舞耶（あまのまや）[color(white)]
 [color(green)]キスメット出版の高校生向け情報誌、
 「クーレスト」編集部に在籍する女性編集者。
 今回の主人公。
 [color(white)]
-[sync][wait][clear][end]",
-msg_4,"[color(yellow)]手紙[color(white)]
+[sync][wait][clear][end]","[color(yellow)]아마노 마야[color(white)]
+[color(green)]키스멧 출판사의 고교생을 향한 잡지
+「쿨리스트」의 편집부에 재직중인 여성 기자.
+이번 편의 주인공.
+[color(white)]
+[sync][wait][clear][end]"
+"msg_4","[color(yellow)]手紙[color(white)]
 次ハ、オ前ダ。
 ＪＯＫＥＲ
-[sync][wait][clear][end]",
-msg_5,"[color(yellow)]舞耶[color(white)]
+[sync][wait][clear][end]","[color(yellow)]편지[color(white)]
+다음은 너다.
+ＪＯＫＥＲ
+[sync][wait][clear][end]"
+"msg_5","[color(yellow)]舞耶[color(white)]
 ………？
-[sync][wait][clear][end]",
-msg_6,"[color(yellow)]新人[color(white)]
+[sync][wait][clear][end]","[color(yellow)]마야[color(white)]
+.........?
+[sync][wait][clear][end]"
+"msg_6","[color(yellow)]新人[color(white)]
 天野先輩、編集長が呼んでますよ。
-[sync][wait][clear][end]",
-msg_7,"[color(yellow)]新人[color(white)]
+[sync][wait][clear][end]","[color(yellow)]신입[color(white)]
+아마노 선배, 편집장님이 부르셨어요.
+[sync][wait][clear][end]"
+"msg_7","[color(yellow)]新人[color(white)]
 いっつも面倒な仕事ばっか押しつけられて、
 先輩も大変すね…
-[sync][wait][clear][end]",
-msg_8,"[color(yellow)]新人[color(white)]
+[sync][wait][clear][end]","[color(yellow)]신입[color(white)]
+항상 귀찮은 일만 떠맡겨지고,
+선배도 고생이 많네요...
+[sync][wait][clear][end]"
+"msg_8","[color(yellow)]新人[color(white)]
 あくせく働いても、大していい事あるわけじゃなし
 やっぱ夢と現実って、こんなもんなんすかね…
 はぁ…会社辞めよかなぁ…
-[sync][wait][clear][end]",
+[sync][wait][clear][end]","[color(yellow)]신입[color(white)]
+악착같이 일해도 좋은 일이 있는 것도 아니고
+역시 꿈이랑 현실은 다르네요...
+하아... 회사 그만둘까...
+[sync][wait][clear][end]"
