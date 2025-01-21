@@ -25,11 +25,40 @@
 提供させていただいております。[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
 安易な安売りはブランド力を貶めるだけでございます。
 決して高い金額ではございません。
-あきらめて、こちらの提示額をお支払いくださいませ。[wait][clear][end]",""
+あきらめて、こちらの提示額をお支払いくださいませ。[wait][clear][end]","[color(yellow)]????[color(white)]
+액션!
+스마루 클라이맥스 시어터에 어서 오세요☆
+이 시설의 이용은 처음이신가요?[wait][clear][color(yellow)]????[color(white)]
+이 시어터의 안내를 맡고 있는
+미츠기라고 합니다! 앞으로 잘 부탁드립니다.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+여기선 최신예 영상 기술을 사용한
+영상 작품을 관람하실 수 있습니다.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+세간에선 이 영상의 리얼리티를 보고
+마치 [color(pink)]실제로 체험하고 있는 것 같다[color(white)]라는
+소문도 있습니다.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+또한 여기서 영상을 시청을 마치실 때마다
+포인트를 적립하는 시스템을
+채용하고 있습니다.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+랭크는 「스토어 프론트」부터 시작해서
+점점 「상영시설명」이 호화롭게 변합니다.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+랭크가 올라가면 미츠기의 대응도 변화해 가는
+멋진 시스템입니다.
+부디 상위 랭크를 노려주세요![wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+대우는 됐으니까 깎아달라구요?
+무슨 말씀이십니까, 고객님.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+저희는 최신예 영상 기술로 세계에서 유일하게
+이곳에서만 맛볼 수 있는 체험을
+제공해드리고 있습니다.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+안이한 할인은 브랜드 가치를 깎아내릴 뿐입니다.
+절대 높은 금액은 아닙니다.
+포기하시고 이쪽에 제시된 금액을 지불해 주십시오.[wait][clear][end]"
 "msg_1","[color(yellow)]シアターガイド・ミツギ[color(white)]
 それでは、当シアターでクライマックスな体験を
 お楽しみください。
-[end_choice][clear][end]",""
+[end_choice][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+그럼, 저희 시어터에서 클라이맥스한 체험을
+즐겨주세요.
+[end_choice][clear][end]"
 "msg_1_Choice1","作品を選ぶ",""
 "msg_1_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター",""
 "msg_1_Choice3","話を聞く",""
@@ -38,10 +67,16 @@
 アクション！
 珠閒瑠クライマックスシアターへようこそ☆[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
 あら、先日いらっしゃった
-舞耶さん…でよろしかったでしょうか。[wait][clear][end]",""
+舞耶さん…でよろしかったでしょうか。[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+액션!
+스마루 클라이맥스 시어터에 어서 오세요☆[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+어머, 저번에 오셨던
+마야 씨…가 맞으시죠?[wait][clear][end]"
 "msg_3","[color(yellow)]シアターガイド・ミツギ[color(white)]
 本日はどうなさいますか？
-[end_choice][clear][end]",""
+[end_choice][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+오늘은 어떻게 하시겠습니까?
+[end_choice][clear][end]"
 "msg_3_Choice1","作品を選ぶ",""
 "msg_3_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター",""
 "msg_3_Choice3","話を聞く",""
@@ -50,10 +85,16 @@
 アクション！
 珠閒瑠クライマックスシアターへようこそ☆[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
 先日[color(pink)][var(msg_var_0)][color(white)]会員になられた
-舞耶さんですね？[wait][clear][end]",""
+舞耶さんですね？[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+액션!
+스마루 클라이맥스 시어터에 어서 오세요☆[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+저번에 [color(pink)][var(msg_var_0)][color(white)]회원이 되신
+마야 씨죠?[wait][clear][end]"
 "msg_5","[color(yellow)]シアターガイド・ミツギ[color(white)]
 では、本日はどうなさいますか？
-[end_choice][clear][end]",""
+[end_choice][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+그럼, 오늘은 어떻게 하시겠습니까?
+[end_choice][clear][end]"
 "msg_5_Choice1","作品を選ぶ",""
 "msg_5_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター",""
 "msg_5_Choice3","話を聞く",""
@@ -63,10 +104,17 @@
 珠閒瑠クライマックスシアターへようこそ☆[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
 [color(pink)][var(msg_var_0)][color(white)]会員の
 舞耶さんですね、
-いつもありがとうございます。[wait][clear][end]",""
+いつもありがとうございます。[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+액션!
+스마루 클라이맥스 시어터에 어서 오세요☆[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+[color(pink)][var(msg_var_0)][color(white)]회원이신
+마야 님이시군요,
+항상 감사합니다.[wait][clear][end]"
 "msg_7","[color(yellow)]シアターガイド・ミツギ[color(white)]
 さて、本日はいかがなさいますか？
-[end_choice][clear][end]",""
+[end_choice][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+자, 그럼 오늘은 어떻게 하시겠습니까?
+[end_choice][clear][end]"
 "msg_7_Choice1","作品を選ぶ",""
 "msg_7_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター",""
 "msg_7_Choice3","話を聞く",""
@@ -76,10 +124,17 @@
 珠閒瑠クライマックスシアターへようこそ☆[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
 [color(pink)][var(msg_var_0)][color(white)]会員の
 舞耶様でございますね。[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
-手荷物等ございましたら、お預かりいたします。[wait][clear][end]",""
+手荷物等ございましたら、お預かりいたします。[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+액션! 오늘도 감사합니다.
+스마루 클라이맥스 시어터에 어서 오세요☆[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+[color(pink)][var(msg_var_0)][color(white)]회원이신
+마야 님이시군요.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+가지고 오신 짐이 있으면 보관해드리겠습니다.[wait][clear][end]"
 "msg_9","[color(yellow)]シアターガイド・ミツギ[color(white)]
 本日はいかがなさいますか？
-[end_choice][clear][end]",""
+[end_choice][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+오늘은 어떻게 하시겠습니까?
+[end_choice][clear][end]"
 "msg_9_Choice1","作品を選ぶ",""
 "msg_9_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター",""
 "msg_9_Choice3","話を聞く",""
@@ -88,11 +143,18 @@
 ハ！いえ、失礼…アクション！
 珠閒瑠クライマックスシアターへようこそ☆[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
 [color(pink)][var(msg_var_0)][color(white)]会員でおられます、
-舞耶様ですね。[wait][clear][end]",""
+舞耶様ですね。[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+하! 아니, 실례…액션!
+스마루 클라이맥스 시어터에 어서 오세요☆[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+[color(pink)][var(msg_var_0)][color(white)]회원으로 계신
+마야 님이시군요.[wait][clear][end]"
 "msg_11","[color(yellow)]シアターガイド・ミツギ[color(white)]
 ようこそいらっしゃいました。
 本日はどんな映画を御所望でしょうか？
-[end_choice][clear][end]",""
+[end_choice][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+방문을 환영합니다.
+오늘은 어떤 영화를 원하시나요?
+[end_choice][clear][end]"
 "msg_11_Choice1","作品を選ぶ",""
 "msg_11_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター",""
 "msg_11_Choice3","話を聞く",""
@@ -103,10 +165,18 @@
 [color(pink)][var(msg_var_0)][color(white)]会員であらせられます、
 舞耶様ですね。[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
 本日も当シアターをご利用いただき
-ありがとうございます。[wait][clear][end]",""
+ありがとうございます。[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+액션!
+스마루 클라이맥스 시어터에 어서 오세요☆[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+[color(pink)][var(msg_var_0)][color(white)]회원으로 계신
+마야 님이시군요.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+오늘도 저희 시어터를 이용해주셔서
+감사드립니다.[wait][clear][end]"
 "msg_13","[color(yellow)]シアターガイド・ミツギ[color(white)]
 御所望の映画はございますでしょうか？
-[end_choice][clear][end]",""
+[end_choice][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+원하시는 영화가 있으신가요?
+[end_choice][clear][end]"
 "msg_13_Choice1","作品を選ぶ",""
 "msg_13_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター",""
 "msg_13_Choice3","話を聞く",""
@@ -132,11 +202,20 @@
 お待ちしておりました、
 [color(pink)][var(msg_var_0)][color(white)]会員の
 舞耶様。[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
-本日御所望の映画はどのようなものでしょうか？[wait][clear][end]",""
+本日御所望の映画はどのようなものでしょうか？[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+액션!
+스마루 클라이맥스 시어터에 어서 오세요☆[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+기다리고 있었습니다,
+[color(pink)][var(msg_var_0)][color(white)]회원이신
+마야 님.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+오늘은 어떤 영화를 원하시나요?[wait][clear][end]"
 "msg_17","[color(yellow)]シアターガイド・ミツギ[color(white)]
 当シアターが全力を持って
 ご提供させていただきます。
-[end_choice][clear][end]",""
+[end_choice][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+저희 시어터가 전력으로
+제공해드리겠습니다.
+[end_choice][clear][end]"
 "msg_17_Choice1","作品を選ぶ",""
 "msg_17_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター",""
 "msg_17_Choice3","話を聞く",""
@@ -153,7 +232,10 @@
 "msg_19","[color(yellow)]シアターガイド・ミツギ[color(white)]
 資料にフローが存在しないので、
 この項目は無くなるカモです。
-[color(pink)]他に何かありますか？[color(white)]にジャンプします。[wait][clear][end]",""
+[color(pink)]他に何かありますか？[color(white)]にジャンプします。[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+자료에 플로가 존재하지 않기에
+이 항목은 사라지는 카모입니다.
+[color(pink)]다른 용무가 있습니까?[color(white)]로 점프합니다.[wait][clear][end]"
 "msg_20","[color(yellow)]シアターガイド・ミツギ[color(white)]
 何についてお話いたしましょうか？
 [end_choice][clear][end]",""
@@ -164,25 +246,35 @@
 "msg_21","[color(yellow)]シアターガイド・ミツギ[color(white)]
 はい、カットです！映画はいかがでしたか？
 それではポイントを加算させていただきます。[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
-またのお越しをお待ちしております。[wait][clear][end]",""
+またのお越しをお待ちしております。[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+네. 컷입니다! 영화는 어떠셨나요?
+그럼 포인트를 적립해드리겠습니다.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+다음에 또 오시길 기다리고 있겠습니다.[wait][clear][end]"
 "msg_22","[color(yellow)]シアターガイド・ミツギ[color(white)]
 …カット！この映画はイマイチでしたかね…
-またのお越しをお待ちしております。[wait][clear][end]",""
+またのお越しをお待ちしております。[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+…컷! 이 영화는 별로셨나요…
+다음에 또 오시길 기다리고 있겠습니다.[wait][clear][end]"
 "msg_23","[color(yellow)]シアターガイド・ミツギ[color(white)]
 他に御用件はございますか？
-[end_choice][clear][end]",""
-"msg_23_Choice1","作品を選ぶ",""
-"msg_23_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター",""
-"msg_23_Choice3","話を聞く",""
-"msg_23_Choice4","シアターの外に出る",""
+[end_choice][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+다른 용무가 있으신가요?
+[end_choice][clear][end]"
+"msg_23_Choice1","作品を選ぶ","작품을 선택한다"
+"msg_23_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター","[if(EBIT_SINARIOFF)]클라이맥스 시어터"
+"msg_23_Choice3","話を聞く","얘기를 듣는다"
+"msg_23_Choice4","シアターの外に出る","시어터 밖으로 나간다"
 "msg_24","[color(yellow)]シアターガイド・ミツギ[color(white)]
 ご覧になる映画のジャンルは
 どちらになさいますか？
-[end_choice][clear][end]",""
-"msg_24_Choice1","[if(EBIT_SINARIOFF)]上映中映画",""
-"msg_24_Choice2","自主制作映画",""
-"msg_24_Choice3","単館系映画",""
-"msg_24_Choice4","輸入映画",""
+[end_choice][clear][end]","color(yellow)]시어터 가이드 미츠기[color(white)]
+어떤 장르의 영화를
+관람하시겠습니까?
+[end_choice][clear][end]"
+"msg_24_Choice1","[if(EBIT_SINARIOFF)]上映中映画","[if(EBIT_SINARIOFF)]상영 중인 영화"
+"msg_24_Choice2","自主制作映画","독립영화"
+"msg_24_Choice3","単館系映画","미니시어터계 영화"
+"msg_24_Choice4","輸入映画","외국 영화"
 "msg_24_Choice5","[if(EBIT_SINARIOFF)]非表示項目",""
 "msg_25","[color(yellow)]シアターガイド・ミツギ[color(white)]
 資料にフローが存在しないので、
@@ -190,11 +282,13 @@
 [color(green_inv)]＆５他に何かありますか？[color(green_inv)]＆１にジャンプします。[wait][clear][end]",""
 "msg_26","[color(yellow)]シアターガイド・ミツギ[color(white)]
 何についてお話いたしましょうか？
-[end_choice][clear][end]",""
+[end_choice][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+무엇에 대해서 얘기할까요?
+[end_choice][clear][end]"
 "msg_26_Choice1","世間話をする","잡담을 한다"
-"msg_26_Choice2","映画館の説明を聞く",""
-"msg_26_Choice3","会員ランクの説明を聞く",""
-"msg_26_Choice4","[if(EBIT_SINARIOFF)]非表示項目",""
+"msg_26_Choice2","映画館の説明を聞く","영화관의 설명을 듣는다"
+"msg_26_Choice3","会員ランクの説明を聞く","회원 랭크의 설명을 듣는다"
+"msg_26_Choice4","[if(EBIT_SINARIOFF)]非表示項目","[if(EBIT_SINARIOFF)]비표시항목"
 "msg_27","[color(yellow)]シアターガイド・ミツギ[color(white)]
 映画を最後までご覧になりますと、
 会員ポイントが加算されます。[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
