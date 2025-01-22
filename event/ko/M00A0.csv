@@ -17,7 +17,7 @@
 あそこにいるのは何者なんだ？
 [wait][clear][end]","[color(yellow)]카츠야[color(white)]
 어떻게 여기에 사토미 타다시가!? 그리고 그 여점주는?
-전에 그녀들은 ７자매라고 들었는데…
+전에 그녀들은 7자매라고 들었는데…
 저기 있는 건 누구지?
 [wait][clear][end]"
 "msg_3","[color(yellow)]パオフゥ[color(white)]
@@ -43,8 +43,8 @@
 今度はＫｅｉと一緒に来ることにしましょう。
 是非感想を聞きたいですもの。
 [wait][clear][end]","[color(yellow)]에리[color(white)]
-이곳의 ＢＧＭ은 들어본 적이 없는 Ｖｅｒｓｉｏｎ이네요.
-다음엔 Ｋｅｉ도 같이 오도록 하죠.
+이곳의 BGM은 들어본 적이 없는 Version이네요.
+다음엔 Kei도 같이 오도록 하죠.
 꼭 감상을 듣고 싶어요.
 [wait][clear][end]"
 "msg_6","[color(yellow)][tatsuya][color(white)]
@@ -80,7 +80,7 @@
 "msg_8_Choice6","店の外に出る","가게 밖으로 나간다"
 "msg_9","[color(yellow)]オバサン？[color(white)]
 さぁ、何を売りたいのかしらぁ？
-[end_choice][clear][end]","[color(yellow)]아줌마？[color(white)]
+[end_choice][clear][end]","[color(yellow)]아줌마?[color(white)]
 자, 무엇을 팔고 싶은 거니?
 [end_choice][clear][end]"
 "msg_9_Choice1","[dbl_tab][if_all(EBIT_SINARIOFF)]非表示項目","[dbl_tab][if_all(EBIT_SINARIOFF)]비표시 항목"
@@ -100,7 +100,7 @@
 "msg_10_Choice3","[if_all(EBIT_SINARIOFF)]非表示項目","[if_all(EBIT_SINARIOFF)]비표시 항목"
 "msg_11","[color(yellow)]オバサン？[color(white)]
 他に何かあるかしらぁ～？
-[end_choice][clear][end]","[color(yellow)]아줌마？[color(white)]
+[end_choice][clear][end]","[color(yellow)]아줌마?[color(white)]
 다른 용무는 있니~?
 [end_choice][clear][end]"
 "msg_11_Choice1","消費物を買う","소비품을 산다"
@@ -111,7 +111,7 @@
 "msg_11_Choice6","店の外に出る","가게 밖으로 나간다"
 "msg_12","[color(yellow)]オバサン？[color(white)]
 さぁ、何を売りたいのかしら？
-[end_choice][clear][end]","[color(yellow)]아줌마？[color(white)]
+[end_choice][clear][end]","[color(yellow)]아줌마?[color(white)]
 자, 뭘 팔고 싶니？
 [end_choice][clear][end]"
 "msg_12_Choice1","[dbl_tab][if_all(EBIT_SINARIOFF)]非表示項目","[dbl_tab][if_all(EBIT_SINARIOFF)]비표시 항목"
@@ -123,7 +123,7 @@
 "msg_12_Choice7","[dbl_tab]アクセサリーを売る","[dbl_tab]액세서리를 판다"
 "msg_13","[color(yellow)]オバサン？[color(white)]
 何を聞きたいのかしらぁ～？
-[end_choice][clear][end]","[color(yellow)]아줌마？[color(white)]
+[end_choice][clear][end]","[color(yellow)]아줌마?[color(white)]
 뭘 묻고 싶은 거니~?
 [end_choice][clear][end]"
 "msg_13_Choice1","世間話をする","잡담을 한다"
@@ -140,7 +140,7 @@
 [wait][clear][end]"
 "msg_15","[color(yellow)]オバサン？[color(white)]
 毎度どうもなのよぉ～
-[wait][clear][end]","[color(yellow)]아줌마？[color(white)]
+[wait][clear][end]","[color(yellow)]아줌마?[color(white)]
 매번 고맙구나～
 [wait][clear][end]"
 "msg_16","[color(yellow)]オバサン？[color(white)]
@@ -187,7 +187,7 @@
 우효효효.
 [wait][clear][end]"
 "msg_17","[color(yellow)]オバサン？[color(white)]
-売れる物、持ってないじゃないの～。[wait][clear][end]","[color(yellow)]아줌마？[color(white)]
+売れる物、持ってないじゃないの～。[wait][clear][end]","[color(yellow)]아줌마?[color(white)]
 팔 수 있는 물건을 안 가지고 있구나~.[wait][clear][end]"
 "msg_18","[color(yellow)]オバサン？[color(white)]
 全部で、[var(msg_var_0)]円になるけど
@@ -201,7 +201,7 @@
 "msg_19","[color(yellow)]オバサン？[color(white)]
 全部で、[var(msg_var_0)]円になるけど
 いいかしらぁ～？
-[end_choice][clear][end]","[color(yellow)]아줌마？[color(white)]
+[end_choice][clear][end]","[color(yellow)]아줌마?[color(white)]
 전부 합쳐서 [var(msg_var_0)]엔인데
 괜찮겠니~?
 [end_choice][clear][end]"
