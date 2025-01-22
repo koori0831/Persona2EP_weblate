@@ -85,7 +85,7 @@
 [end_choice][clear][end]",""
 "msg_18_Choice1","噂の依頼",""
 "msg_18_Choice2","噂の確認",""
-"msg_18_Choice3","話を聞く",""
+"msg_18_Choice3","話を聞く","얘기를 듣는다"
 "msg_18_Choice4","やめる","그만둔다"
 "msg_18_Choice5","[if_all(EBIT_E0016)]探偵事務所から出る",""
 "msg_19","[color(yellow)]轟所長[color(white)]
@@ -99,7 +99,7 @@
 [end_choice][clear][end]",""
 "msg_20_Choice1","噂の依頼",""
 "msg_20_Choice2","噂の確認",""
-"msg_20_Choice3","話を聞く",""
+"msg_20_Choice3","話を聞く","얘기를 듣는다"
 "msg_20_Choice4","やめる","그만둔다"
 "msg_20_Choice5","[if_all(EBIT_E0016)]探偵事務所から出る",""
 "msg_21","[color(yellow)]轟所長[color(white)]

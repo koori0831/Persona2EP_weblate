@@ -484,7 +484,7 @@
 [end_choice][clear][end]",""
 "msg_110_Choice1","噂の依頼",""
 "msg_110_Choice2","噂の確認",""
-"msg_110_Choice3","話を聞く",""
+"msg_110_Choice3","話を聞く","얘기를 듣는다"
 "msg_110_Choice4","やめる","그만둔다"
 "msg_110_Choice5","探偵事務所から出る",""
 "msg_111","[color(yellow)]轟所長[color(white)]
@@ -498,7 +498,7 @@
 [end_choice][clear][end]",""
 "msg_112_Choice1","噂の依頼",""
 "msg_112_Choice2","噂の確認",""
-"msg_112_Choice3","話を聞く",""
+"msg_112_Choice3","話を聞く","얘기를 듣는다"
 "msg_112_Choice4","やめる","그만둔다"
 "msg_112_Choice5","探偵事務所から出る",""
 "msg_113","[color(yellow)]轟所長[color(white)]

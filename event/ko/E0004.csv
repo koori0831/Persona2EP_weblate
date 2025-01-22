@@ -62,7 +62,11 @@
 やれやれ…水野女史にも困ったもんだな。
 ユッキーと一緒じゃないと君も寂しいだろうが、
 これも給料分さ。頑張れよ、マッキー。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]후지이[color(white)]
+참나... 미즈노 씨도 참 답답한 사람이네.
+유키랑 같이 못 다니면 너도 좀 쓸쓸하겠지만,
+이것도 월급 받는 만큼 해야지. 힘내라, 마키.
+[sync][wait][clear][end]"
 "msg_8","[color(yellow)]藤井俊介（ふじいしゅんすけ）[color(white)]
 [color(green)]クーレストの依頼で出入りするフリーカメラマン。
 ゆきのが敬愛する雇い主でもある。
@@ -171,50 +175,88 @@
 天野さん、ＪＯＫＥＲの噂取材するんでしょ？
 つい昨日も、食い散らかされたみたいな
 死体が見つかったっていうし…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]다사키[color(white)]
+아마노 씨, JOKER 관련 소문 취재 간다면서요?
+어제도 누가 완전히 뜯어먹힌 것처럼
+끔찍한 시체가 발견됐다던데…
+[sync][wait][clear][end]"
 "msg_21","[color(yellow)]田崎[color(white)]
 怖いわよねぇ～
 ＪＯＫＥＲは悪魔使いだって噂本当だったりして…
 あなたの身に、何もなきゃいいけど。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]다사키[color(white)]
+무섭네요~
+JOKER가 악마를 부린다는 소문이 사실이라면…
+몸 조심하세요, 아무 일 없어야 할 텐데.
+[sync][wait][clear][end]"
 "msg_22","[color(yellow)]田崎[color(white)]
 天野さん、ＪＯＫＥＲの噂取材するんでしょ？
 つい昨日も、食い散らかされたみたいな
 死体が見つかったっていうし…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]다사키[color(white)]
+아마노 씨, JOKER 관련 소문 취재 간다면서요?
+어제도 누가 완전히 뜯어먹힌 것처럼
+끔찍한 시체가 발견됐다던데…
+[sync][wait][clear][end]"
 "msg_23","[color(yellow)]田崎[color(white)]
 怖いわよねぇ～
 ＪＯＫＥＲは悪魔使いだって噂本当だったりして…
 あなたの身に、何もなきゃいいけど。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]다사키[color(white)]
+무섭네요~
+JOKER가 악마를 부린다는 소문이 사실이라면…
+몸 조심하세요, 아무 일 없어야 할 텐데.
+[sync][wait][clear][end]"
 "msg_24","[color(yellow)]先輩社員[color(white)]
 猟奇殺人の被害者、もう二桁になっちまったなぁ。
 ったく警察は何してんだか…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]선배 직원[color(white)]
+엽기 살인 피해자가 벌써 두 자릿수라잖아.
+진짜 경찰은 뭐 하는 건지…
+[sync][wait][clear][end]"
 "msg_25","[color(yellow)]先輩社員[color(white)]
 記者クラブに俺の先輩がいてな、
 警察は未だに犯人の目星もつけられんらしいよ。
 色々噂が立っちまうのも、無理ないわな。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]선배 직원[color(white)]
+기자 클럽에 내 선배가 있는데 말이지,
+경찰이 아직도 범인 단서를 전혀 못 잡았다더라.
+이러니 온갖 소문이 도는 것도 무리가 아니지.
+[sync][wait][clear][end]"
 "msg_26","[color(yellow)]先輩社員[color(white)]
 猟奇殺人の被害者、もう二桁になっちまったなぁ。
 ったく警察は何してんだか…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]선배 직원[color(white)]
+엽기 살인 피해자가 벌써 두 자릿수라잖아.
+진짜 경찰은 뭐 하는 건지…
+[sync][wait][clear][end]"
 "msg_27","[color(yellow)]先輩社員[color(white)]
 記者クラブに俺の先輩がいてな、
 警察は未だに犯人の目星もつけられんらしいよ。
 色々噂が立っちまうのも、無理ないわな。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]선배 직원[color(white)]
+기자 클럽에 내 선배가 있는데 말이지,
+경찰이 아직도 범인 단서를 전혀 못 잡았다더라.
+이러니 온갖 소문이 도는 것도 무리가 아니지.
+[sync][wait][clear][end]"
 "msg_28","[color(yellow)]先輩社員[color(white)]
 例の地下鉄工事で、また遺跡が見つかったらしい。
 やっぱこの街の下にゃ、何かあるのかね？
 く～俺も社会部行きてぇなぁ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]선배 직원[color(white)]
+지하철 공사하던 데서 또 유적이 발견됐다더라.
+역시 이 도시 밑엔 뭔가 있는 걸까?
+아, 나도 사회부 가고 싶다.
+[sync][wait][clear][end]"
 "msg_29","[color(yellow)]先輩社員[color(white)]
 例の地下鉄工事で、また遺跡が見つかったらしい。
 やっぱこの街の下にゃ、何かあるのかね？
 く～俺も社会部行きてぇなぁ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]선배 직원[color(white)]
+지하철 공사하던 데서 또 유적이 발견됐다더라.
+역시 이 도시 밑엔 뭔가 있는 걸까?
+아, 나도 사회부 가고 싶다.
+[sync][wait][clear][end]"
 "msg_30","[color(yellow)]ゆきの[color(white)]
 舞耶さん、今さっき内線あったよ。
 芹沢さん、受付に来てるって。

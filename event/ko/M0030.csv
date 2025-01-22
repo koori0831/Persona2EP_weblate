@@ -350,7 +350,7 @@
 して、本日はいかなる用件じゃ？
 [end_choice][clear][end]",""
 "msg_84_Choice1","占い",""
-"msg_84_Choice2","話を聞く",""
+"msg_84_Choice2","話を聞く","얘기를 듣는다"
 "msg_84_Choice3","用は無い",""
 "msg_84_Choice4","店の外に出る","가게 밖으로 나간다"
 "msg_85","[color(yellow)]珠閒瑠ジニー[color(white)]
@@ -364,7 +364,7 @@
 [end_choice][clear][end]",""
 "msg_86_Choice1","占い",""
 "msg_86_Choice2","相性占い",""
-"msg_86_Choice3","話を聞く",""
+"msg_86_Choice3","話を聞く","얘기를 듣는다"
 "msg_86_Choice4","用は無い",""
 "msg_86_Choice5","店の外に出る","가게 밖으로 나간다"
 "msg_87","[color(yellow)]珠閒瑠ジニー[color(white)]
@@ -562,7 +562,7 @@
 何なりと打ち明けるが良い。
 [end_choice][clear][end]",""
 "msg_134_Choice1","占い",""
-"msg_134_Choice2","話を聞く",""
+"msg_134_Choice2","話を聞く","얘기를 듣는다"
 "msg_134_Choice3","用は無い",""
 "msg_134_Choice4","店の外に出る","가게 밖으로 나간다"
 "msg_135","[color(yellow)]珠閒瑠ジニー[color(white)]
@@ -576,7 +576,7 @@
 [end_choice][clear][end]",""
 "msg_136_Choice1","占い",""
 "msg_136_Choice2","相性占い",""
-"msg_136_Choice3","話を聞く",""
+"msg_136_Choice3","話を聞く","얘기를 듣는다"
 "msg_136_Choice4","用は無い",""
 "msg_136_Choice5","店の外に出る","가게 밖으로 나간다"
 "msg_137","[color(yellow)]珠閒瑠ジニー[color(white)]

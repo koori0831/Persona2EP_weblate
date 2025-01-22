@@ -59,10 +59,10 @@
 그럼, 저희 시어터에서 클라이맥스한 체험을
 즐겨주세요.
 [end_choice][clear][end]"
-"msg_1_Choice1","作品を選ぶ",""
-"msg_1_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター",""
-"msg_1_Choice3","話を聞く",""
-"msg_1_Choice4","シアターの外に出る",""
+"msg_1_Choice1","作品を選ぶ","작품을 선택한다"
+"msg_1_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター","[if(EBIT_SINARIOFF)]클라이맥스 시어터"
+"msg_1_Choice3","話を聞く","얘기를 듣는다"
+"msg_1_Choice4","シアターの外に出る","시어터 밖으로 나간다"
 "msg_2","[color(yellow)]シアターガイド・ミツギ[color(white)]
 アクション！
 珠閒瑠クライマックスシアターへようこそ☆[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
@@ -77,10 +77,10 @@
 [end_choice][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
 오늘은 어떻게 하시겠습니까?
 [end_choice][clear][end]"
-"msg_3_Choice1","作品を選ぶ",""
-"msg_3_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター",""
-"msg_3_Choice3","話を聞く",""
-"msg_3_Choice4","シアターの外に出る",""
+"msg_3_Choice1","作品を選ぶ","작품을 선택한다"
+"msg_3_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター","[if(EBIT_SINARIOFF)]클라이맥스 시어터"
+"msg_3_Choice3","話を聞く","얘기를 듣는다"
+"msg_3_Choice4","シアターの外に出る","시어터 밖으로 나간다"
 "msg_4","[color(yellow)]シアターガイド・ミツギ[color(white)]
 アクション！
 珠閒瑠クライマックスシアターへようこそ☆[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
@@ -95,10 +95,10 @@
 [end_choice][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
 그럼, 오늘은 어떻게 하시겠습니까?
 [end_choice][clear][end]"
-"msg_5_Choice1","作品を選ぶ",""
-"msg_5_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター",""
-"msg_5_Choice3","話を聞く",""
-"msg_5_Choice4","シアターの外に出る",""
+"msg_5_Choice1","作品を選ぶ","작품을 선택한다"
+"msg_5_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター","[if(EBIT_SINARIOFF)]클라이맥스 시어터"
+"msg_5_Choice3","話を聞く","얘기를 듣는다"
+"msg_5_Choice4","シアターの外に出る","시어터 밖으로 나간다"
 "msg_6","[color(yellow)]シアターガイド・ミツギ[color(white)]
 アクション！
 珠閒瑠クライマックスシアターへようこそ☆[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
@@ -115,10 +115,10 @@
 [end_choice][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
 자, 그럼 오늘은 어떻게 하시겠습니까?
 [end_choice][clear][end]"
-"msg_7_Choice1","作品を選ぶ",""
-"msg_7_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター",""
-"msg_7_Choice3","話を聞く",""
-"msg_7_Choice4","シアターの外に出る",""
+"msg_7_Choice1","作品を選ぶ","작품을 선택한다"
+"msg_7_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター","[if(EBIT_SINARIOFF)]클라이맥스 시어터"
+"msg_7_Choice3","話を聞く","얘기를 듣는다"
+"msg_7_Choice4","シアターの外に出る","시어터 밖으로 나간다"
 "msg_8","[color(yellow)]シアターガイド・ミツギ[color(white)]
 アクション！本日もありがとうございます。
 珠閒瑠クライマックスシアターへようこそ☆[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
@@ -135,10 +135,10 @@
 [end_choice][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
 오늘은 어떻게 하시겠습니까?
 [end_choice][clear][end]"
-"msg_9_Choice1","作品を選ぶ",""
-"msg_9_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター",""
-"msg_9_Choice3","話を聞く",""
-"msg_9_Choice4","シアターの外に出る",""
+"msg_9_Choice1","作品を選ぶ","작품을 선택한다"
+"msg_9_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター","[if(EBIT_SINARIOFF)]클라이맥스 시어터"
+"msg_9_Choice3","話を聞く","얘기를 듣는다"
+"msg_9_Choice4","シアターの外に出る","시어터 밖으로 나간다"
 "msg_10","[color(yellow)]シアターガイド・ミツギ[color(white)]
 ハ！いえ、失礼…アクション！
 珠閒瑠クライマックスシアターへようこそ☆[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
@@ -155,10 +155,10 @@
 방문을 환영합니다.
 오늘은 어떤 영화를 원하시나요?
 [end_choice][clear][end]"
-"msg_11_Choice1","作品を選ぶ",""
-"msg_11_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター",""
-"msg_11_Choice3","話を聞く",""
-"msg_11_Choice4","シアターの外に出る",""
+"msg_11_Choice1","作品を選ぶ","작품을 선택한다"
+"msg_11_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター","[if(EBIT_SINARIOFF)]클라이맥스 시어터"
+"msg_11_Choice3","話を聞く","얘기를 듣는다"
+"msg_11_Choice4","シアターの外に出る","시어터 밖으로 나간다"
 "msg_12","[color(yellow)]シアターガイド・ミツギ[color(white)]
 アクション！
 珠閒瑠クライマックスシアターへようこそ☆[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
@@ -177,25 +177,34 @@
 [end_choice][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
 원하시는 영화가 있으신가요?
 [end_choice][clear][end]"
-"msg_13_Choice1","作品を選ぶ",""
-"msg_13_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター",""
-"msg_13_Choice3","話を聞く",""
-"msg_13_Choice4","シアターの外に出る",""
+"msg_13_Choice1","作品を選ぶ","작품을 선택한다"
+"msg_13_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター","[if(EBIT_SINARIOFF)]클라이맥스 시어터"
+"msg_13_Choice3","話を聞く","얘기를 듣는다"
+"msg_13_Choice4","シアターの外に出る","시어터 밖으로 나간다"
 "msg_14","[color(yellow)]シアターガイド・ミツギ[color(white)]
 アクション！
 珠閒瑠クライマックスシアターへようこそ☆[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
 お待ちしておりました、
 [color(pink)][var(msg_var_0)][color(white)]会員の
 舞耶様。[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
-本日御所望の映画はどのようなものでしょうか？[wait][clear][end]",""
+本日御所望の映画はどのようなものでしょうか？[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+액션!
+스마루 클라이맥스 시어터에 어서 오세요☆[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+기다리고 있었습니다,
+[color(pink)][var(msg_var_0)][color(white)] 회원이신
+마야 님.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+오늘은 어떤 영화를 원하시나요?[wait][clear][end]"
 "msg_15","[color(yellow)]シアターガイド・ミツギ[color(white)]
 当シアターが全力を持って
 ご提供させていただきます。
-[end_choice][clear][end]",""
-"msg_15_Choice1","作品を選ぶ",""
-"msg_15_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター",""
-"msg_15_Choice3","話を聞く",""
-"msg_15_Choice4","シアターの外に出る",""
+[end_choice][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+저희 시어터가 전력으로
+제공해드리겠습니다.
+[end_choice][clear][end]"
+"msg_15_Choice1","作品を選ぶ","작품을 선택한다"
+"msg_15_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター","[if(EBIT_SINARIOFF)]클라이맥스 시어터"
+"msg_15_Choice3","話を聞く","얘기를 듣는다"
+"msg_15_Choice4","シアターの外に出る","시어터 밖으로 나간다"
 "msg_16","[color(yellow)]シアターガイド・ミツギ[color(white)]
 アクション！
 珠閒瑠クライマックスシアターへようこそ☆[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
@@ -216,19 +225,22 @@
 저희 시어터가 전력으로
 제공해드리겠습니다.
 [end_choice][clear][end]"
-"msg_17_Choice1","作品を選ぶ",""
-"msg_17_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター",""
-"msg_17_Choice3","話を聞く",""
-"msg_17_Choice4","シアターの外に出る",""
+"msg_17_Choice1","作品を選ぶ","작품을 선택한다"
+"msg_17_Choice2","[if(EBIT_SINARIOFF)]クライマックスシアター","[if(EBIT_SINARIOFF)]클라이맥스 시어터"
+"msg_17_Choice3","話を聞く","얘기를 듣는다"
+"msg_17_Choice4","シアターの外に出る","시어터 밖으로 나간다"
 "msg_18","[color(yellow)]シアターガイド・ミツギ[color(white)]
 ご覧になる映画のジャンルは
 どちらになさいますか？
-[end_choice][clear][end]",""
-"msg_18_Choice1","[if(EBIT_SINARIOFF)]上映中映画",""
-"msg_18_Choice2","自主制作映画",""
-"msg_18_Choice3","単館系映画",""
-"msg_18_Choice4","輸入映画",""
-"msg_18_Choice5","[if(EBIT_SINARIOFF)]非表示項目",""
+[end_choice][clear][end]","color(yellow)]시어터 가이드 미츠기[color(white)]
+어떤 장르의 영화를
+관람하시겠습니까?
+[end_choice][clear][end]"
+"msg_18_Choice1","[if(EBIT_SINARIOFF)]上映中映画","[if(EBIT_SINARIOFF)]상영 중인 영화"
+"msg_18_Choice2","自主制作映画","독립 영화"
+"msg_18_Choice3","単館系映画","소극장계 영화"
+"msg_18_Choice4","輸入映画","외국 영화"
+"msg_18_Choice5","[if(EBIT_SINARIOFF)]非表示項目","[if(EBIT_SINARIOFF)]비표시항목"
 "msg_19","[color(yellow)]シアターガイド・ミツギ[color(white)]
 資料にフローが存在しないので、
 この項目は無くなるカモです。
@@ -238,11 +250,13 @@
 [color(pink)]다른 용무가 있습니까?[color(white)]로 점프합니다.[wait][clear][end]"
 "msg_20","[color(yellow)]シアターガイド・ミツギ[color(white)]
 何についてお話いたしましょうか？
-[end_choice][clear][end]",""
+[end_choice][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+무엇에 대해서 얘기할까요?
+[end_choice][clear][end]"
 "msg_20_Choice1","世間話をする","잡담을 한다"
-"msg_20_Choice2","映画館の説明を聞く",""
-"msg_20_Choice3","会員ランクの説明を聞く",""
-"msg_20_Choice4","[if(EBIT_SINARIOFF)]非表示項目",""
+"msg_20_Choice2","映画館の説明を聞く","영화관의 설명을 듣는다"
+"msg_20_Choice3","会員ランクの説明を聞く","회원 랭크의 설명을 듣는다"
+"msg_20_Choice4","[if(EBIT_SINARIOFF)]非表示項目","[if(EBIT_SINARIOFF)]비표시항목"
 "msg_21","[color(yellow)]シアターガイド・ミツギ[color(white)]
 はい、カットです！映画はいかがでしたか？
 それではポイントを加算させていただきます。[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
@@ -275,7 +289,7 @@
 "msg_24_Choice2","自主制作映画","독립 영화"
 "msg_24_Choice3","単館系映画","소극장계 영화"
 "msg_24_Choice4","輸入映画","외국 영화"
-"msg_24_Choice5","[if(EBIT_SINARIOFF)]非表示項目",""
+"msg_24_Choice5","[if(EBIT_SINARIOFF)]非表示項目","[if(EBIT_SINARIOFF)]비표시항목"
 "msg_25","[color(yellow)]シアターガイド・ミツギ[color(white)]
 資料にフローが存在しないので、
 この項目は無くなるカモです。
@@ -295,7 +309,10 @@
 "msg_27","[color(yellow)]シアターガイド・ミツギ[color(white)]
 映画を最後までご覧になりますと、
 会員ポイントが加算されます。[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
-是非一度、ご覧になってください。[wait][clear][end]",""
+是非一度、ご覧になってください。[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+영화를 끝까지 관람하시면
+회원 포인트가 적립됩니다.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+꼭 한 번 관람해 보세요.[wait][clear][end]"
 "msg_28","[color(yellow)]シアターガイド・ミツギ[color(white)]
 映画を最後までご覧になりますと、
 会員ポイントが加算されます。[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]

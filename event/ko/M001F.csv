@@ -574,7 +574,7 @@
 "msg_129","[color(yellow)]店長[color(white)]
 何と交換するんだ？
 [end_choice][clear][end]",""
-"msg_129_Choice1","[if(EBIT_SINARIOFF)]非表示項目",""
+"msg_129_Choice1","[if(EBIT_SINARIOFF)]非表示項目","[if(EBIT_SINARIOFF)]비표시항목"
 "msg_129_Choice2","消費物と交換する",""
 "msg_129_Choice3","[if_all(EBIT_SINARIOFF)]武器と交換する",""
 "msg_129_Choice4","アクセサリーと交換する",""
@@ -584,7 +584,7 @@
 [end_choice][clear][end]",""
 "msg_130_Choice1","世間話をする","잡담을 한다"
 "msg_130_Choice2","コインと景品の説明を聞く",""
-"msg_130_Choice3","[if(EBIT_SINARIOFF)]非表示項目",""
+"msg_130_Choice3","[if(EBIT_SINARIOFF)]非表示項目","[if(EBIT_SINARIOFF)]비표시항목"
 "msg_131","[color(yellow)]店長[color(white)]
 えー、まだなんかあんの？[delay(15)]
 …って、うそうそ。
@@ -598,7 +598,7 @@
 "msg_132","[color(yellow)]店長[color(white)]
 何と交換するんだ？
 [end_choice][clear][end]",""
-"msg_132_Choice1","[if(EBIT_SINARIOFF)]非表示項目",""
+"msg_132_Choice1","[if(EBIT_SINARIOFF)]非表示項目","[if(EBIT_SINARIOFF)]비표시항목"
 "msg_132_Choice2","消費物と交換する",""
 "msg_132_Choice3","[if_all(EBIT_SINARIOFF)]武器と交換する",""
 "msg_132_Choice4","アクセサリーと交換する",""
@@ -608,7 +608,7 @@
 [end_choice][clear][end]",""
 "msg_133_Choice1","世間話をする","잡담을 한다"
 "msg_133_Choice2","コインと景品の説明を聞く",""
-"msg_133_Choice3","[if(EBIT_SINARIOFF)]非表示項目",""
+"msg_133_Choice3","[if(EBIT_SINARIOFF)]非表示項目","[if(EBIT_SINARIOFF)]비표시항목"
 "msg_134","[color(yellow)]店長[color(white)]
 …ナニ？この奥？ムッシー？
 あーあれ、ただのハリボテだよ。

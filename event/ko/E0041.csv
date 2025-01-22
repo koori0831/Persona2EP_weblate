@@ -83,7 +83,7 @@
 "msg_19","[color(yellow)]たまきちゃん[color(white)]
 さて、どうします？
 [end_choice][clear][end]",""
-"msg_19_Choice1","話を聞く",""
+"msg_19_Choice1","話を聞く","얘기를 듣는다"
 "msg_19_Choice2","応募したい",""
 "msg_19_Choice3","懸賞とは？",""
 "msg_19_Choice4","用は無い",""
@@ -247,7 +247,7 @@
 [end_choice][clear][end]",""
 "msg_61_Choice1","噂の依頼",""
 "msg_61_Choice2","噂の確認",""
-"msg_61_Choice3","話を聞く",""
+"msg_61_Choice3","話を聞く","얘기를 듣는다"
 "msg_61_Choice4","やめる","그만둔다"
 "msg_61_Choice5","[if_all(EBIT_E0045)]探偵事務所から出る",""
 "msg_62","[color(yellow)]轟所長[color(white)]
@@ -256,7 +256,7 @@
 [end_choice][clear][end]",""
 "msg_62_Choice1","噂の依頼",""
 "msg_62_Choice2","噂の確認",""
-"msg_62_Choice3","話を聞く",""
+"msg_62_Choice3","話を聞く","얘기를 듣는다"
 "msg_62_Choice4","やめる","그만둔다"
 "msg_62_Choice5","[if_all(EBIT_E0045)]探偵事務所から出る",""
 "msg_63","[color(yellow)]轟所長[color(white)]
@@ -270,7 +270,7 @@
 [end_choice][clear][end]",""
 "msg_64_Choice1","噂の依頼",""
 "msg_64_Choice2","噂の確認",""
-"msg_64_Choice3","話を聞く",""
+"msg_64_Choice3","話を聞く","얘기를 듣는다"
 "msg_64_Choice4","やめる","그만둔다"
 "msg_64_Choice5","[if_all(EBIT_E0045)]探偵事務所から出る",""
 "msg_65","[color(yellow)]轟所長[color(white)]

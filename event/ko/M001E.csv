@@ -478,7 +478,7 @@
 "msg_98","[color(yellow)]店長[color(white)]
 何と交換するんだ？
 [end_choice][clear][end]",""
-"msg_98_Choice1","[if(EBIT_SINARIOFF)]非表示項目",""
+"msg_98_Choice1","[if(EBIT_SINARIOFF)]非表示項目","[if(EBIT_SINARIOFF)]비표시항목"
 "msg_98_Choice2","消費物と交換する",""
 "msg_98_Choice3","[if_all(EBIT_SINARIOFF)]武器と交換する",""
 "msg_98_Choice4","アクセサリーと交換する",""
@@ -488,7 +488,7 @@
 [end_choice][clear][end]",""
 "msg_99_Choice1","世間話をする","잡담을 한다"
 "msg_99_Choice2","コインと景品の説明を聞く",""
-"msg_99_Choice3","[if(EBIT_SINARIOFF)]非表示項目",""
+"msg_99_Choice3","[if(EBIT_SINARIOFF)]非表示項目","[if(EBIT_SINARIOFF)]비표시항목"
 "msg_100","[color(yellow)]店長[color(white)]
 えー、まだなんかあんの？[delay(15)]
 …って、うそうそ。
@@ -502,7 +502,7 @@
 "msg_101","[color(yellow)]店長[color(white)]
 何と交換するんだ？
 [end_choice][clear][end]",""
-"msg_101_Choice1","[if(EBIT_SINARIOFF)]非表示項目",""
+"msg_101_Choice1","[if(EBIT_SINARIOFF)]非表示項目","[if(EBIT_SINARIOFF)]비표시항목"
 "msg_101_Choice2","消費物と交換する",""
 "msg_101_Choice3","[if_all(EBIT_SINARIOFF)]武器と交換する",""
 "msg_101_Choice4","アクセサリーと交換する",""
@@ -512,7 +512,7 @@
 [end_choice][clear][end]",""
 "msg_102_Choice1","世間話をする","잡담을 한다"
 "msg_102_Choice2","コインと景品の説明を聞く",""
-"msg_102_Choice3","[if(EBIT_SINARIOFF)]非表示項目",""
+"msg_102_Choice3","[if(EBIT_SINARIOFF)]非表示項目","[if(EBIT_SINARIOFF)]비표시항목"
 "msg_103","[color(yellow)]店長[color(white)]
 なんでじゃ～、なんで僕ここ立ってんねや～
 でも、ずっと立ってた気もするぅ。
