@@ -4,9 +4,9 @@
 受付に迎えに来るって言ってたけど…
 来たら内線あるんじゃないかな？
 [sync][wait][clear][end]","[color(yellow)]유키노[color(white)]
-마야 씨, 세리자와라는 사람한테서 전화가 왔었어요.
-접수처에 마중 나온다고 했었는데...
-와보면 내선으로 연락할 수 있지 않을까?
+마야 씨, 세리자와라는 분한테서 전화가 왔어요.
+접수대에서 마야 씨를 마중 나가겠다고 했는데…
+오면 내선 전화로 연락하지 않을까요?""
 [sync][wait][clear][end]"
 "msg_1","[color(yellow)]黛ゆきの（まゆずみゆきの）[color(white)]
 [color(green)]舞耶の相棒だったカメラマン（見習い）。
@@ -14,42 +14,50 @@
 関係者の藤井が雇うバイト助手。[color(white)]
 [sync][wait][clear][end]","[color(yellow)]마유즈미 유키노[color(white)]
 [color(green)]마야의 파트너였던 카메라맨(견습).
-원래는 키스멧 출판사의 사원이 아니라,
-관계자인 후지이가 고용한 아르바이트 조수.[color(white)]
+원래는 키스멧 출판사의 직원이 아니라,
+관계자인 후지이가 고용한 아르바이트 보조.[color(white)]
 [sync][wait][clear][end]"
 "msg_2","[color(yellow)]ゆきの[color(white)]
 そう言えば、お見合いパーティ行くんでしたっけ？
 アタシら、土日もへったくれもないからねぇ…
 たまには、思い切り羽伸ばしてくるといいよ。
-[sync][wait][clear][end]","[color(yellow)]ゆきの[color(white)]
-그러고 보니, 맞선 파티에 간다고 하셨던가요?
-우리들, 주말이고 나발이고 없으니까 말이지...
-가끔씩은, 마음껏 쉬어주는 것도 좋아.
+[sync][wait][clear][end]","[color(yellow)]유키노[color(white)]
+아, 맞다. 맞선 파티에 간다면서요?
+저희는 주말이고 뭐고 없으니까…
+가끔은 스트레스 다 날려버리고 좀 즐기고 와요.
 [sync][wait][clear][end]"
 "msg_3","[color(yellow)]ゆきの[color(white)]
 え？仕事で半休取り消しにされたって！？
 そんな横暴なことあるもんか！
 アタシが文句言ってやるよ！！
 [sync][wait][clear][end]","[color(yellow)]유키노[color(white)]
-뭐? 일 때문에 반차를 취소당했다고!?
-그런 횡포가 대체 어디 있어!
-내가 따지고 올게!!
+뭐라고요? 일 때문에 반차도 취소됐다구요!?
+그건 그냥 횡포잖아요!
+제가 가서 따지고 올게요!!
 [sync][wait][clear][end]"
 "msg_4","アタシが文句言ってやるよ！！
-[end_choice][clear][end]","내가 따지고 올게!!
+[end_choice][clear][end]","제가 가서 따지고 올게요!!
 [end_choice][clear][end]"
 "msg_4_Choice1","ありがとうユッキー、私なら大丈夫だから…","유키, 고맙지만 난 괜찮으니까…"
-"msg_4_Choice2","レッツ・ポジティブシンキング！へっちゃらよ","렛츠 포지티브 싱킹! 해버려라"
+"msg_4_Choice2","レッツ・ポジティブシンキング！へっちゃらよ","렛츠 포지티브 싱킹! 괜찮아, 끄떡없어"
 "msg_5","[color(yellow)]ゆきの[color(white)]
 アタシとのコンビも解消なんて、
 なんて見え透いた嫌がらせだい…
 負けちゃダメだよ、舞耶さん！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]유키노[color(white)]
+저랑 콤비를 해체시키겠다니,
+너무 뻔히 보이는 방해 공작이네요…
+포기하면 안 돼요, 마야 씨!
+[sync][wait][clear][end]"
 "msg_6","[color(yellow)]ゆきの[color(white)]
 そうだ。セブンスへの取材なら、
 アタシの恩師がいるから連絡しておいてあげるよ。
 黛の紹介って言えば、悪いようにはしないさ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]유키노[color(white)]
+아, 맞다. 칠자매로 취재 간다고 했죠?
+제가 존경하는 은사가 거기 계시거든요.
+제가 소개했다고 하면, 잘 도와주실 거예요.
+[sync][wait][clear][end]"
 "msg_7","[color(yellow)]藤井[color(white)]
 やれやれ…水野女史にも困ったもんだな。
 ユッキーと一緒じゃないと君も寂しいだろうが、
@@ -59,60 +67,106 @@
 [color(green)]クーレストの依頼で出入りするフリーカメラマン。
 ゆきのが敬愛する雇い主でもある。
 ゆきのをユッキー、舞耶をマッキーと呼ぶ。[color(white)]
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]후지이 슌스케[color(white)]
+[color(green)]쿨리스트의 의뢰로 출입하는 프리랜서 카메라맨.
+유키노가 존경하는 고용주이기도 하다.
+유키노를 ""유키"", 마야를 ""마키""라고 부른다.[color(white)]
+[sync][wait][clear][end]"
 "msg_9","[color(yellow)]藤井[color(white)]
 やれやれ…水野女史にも困ったもんだな。
 ユッキーと一緒じゃないと君も寂しいだろうが、
 これも給料分さ。頑張れよ、マッキー。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]후지이[color(white)]
+참나... 미즈노 씨도 참 답답한 사람이네.
+유키랑 같이 못 다니면 너도 좀 쓸쓸하겠지만,
+이것도 월급 받는 만큼 해야지. 힘내라, 마키.
+[sync][wait][clear][end]"
 "msg_10","[color(yellow)]新人[color(white)]
 先輩、俺、聞いちゃったんすよ…
 田崎先輩と編集長が、天野は生意気だから、
 一人でＪＯＫＥＲの取材させようって話してるの。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]신입[color(white)]
+선배, 저 사실 들어버렸어요...
+다사키 선배랑 편집장이, 아마노는 건방지니까
+혼자서 JOKER 취재하게 하자고 얘기하는 거요.
+[sync][wait][clear][end]"
 "msg_11","[color(yellow)]新人[color(white)]
 そしたら、怖がって大人しくなるだろうって…
 こんな会社、やっぱ辞めよかな…
 仕事は大変なだけだし…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]신입[color(white)]
+그러면 무서워서 얌전해질 거라나 뭐라나…
+진짜 이런 회사, 그만둘까 봐요.
+일은 힘들기만 하고, 재미도 없고…
+[sync][wait][clear][end]"
 "msg_12","[color(yellow)]同期社員[color(white)]
 世紀末だグランドクロスだって騒いだって、
 今年の夏は、結局何もなかったね…
 盛り上げた分、抗議してくる読者がうるさくてさ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]동기 직원[color(white)]
+세기말이니 그랜드 크로스니 떠들더니,
+결국 올여름엔 아무 일도 없었잖아.
+괜히 분위기 띄웠더니 항의 전화만 엄청 오고 말이야.
+[sync][wait][clear][end]"
 "msg_13","[color(yellow)]同期社員[color(white)]
 ワンロン占いの読者投稿まとめるの、手伝ってよ。
 良く当たるってブレイクしちゃったから、
 投稿もハンパじゃないのよねぇ…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]동기 직원[color(white)]
+원롱 점술 독자 투고 정리하는 거, 좀 도와줘.
+잘 맞는다고 소문 나서 완전 대박났거든.
+투고량도 장난 아니게 많아.
+[sync][wait][clear][end]"
 "msg_14","[color(yellow)]同期社員[color(white)]
 ほら、ケータイとかでも配信されて、
 守護龍がどうのって、女子高生とかＯＬとかが
 騒いでるでしょ？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]동기 직원[color(white)]
+봐봐, 휴대폰으로도 서비스되잖아.
+수호룡이 어쩌고 하면서 여고생들이랑
+회사원들까지 난리인 거 안 보여?
+[sync][wait][clear][end]"
 "msg_15","[color(yellow)]同期社員[color(white)]
 元々は、「望龍術」っていう風水の秘術を
 分かりやすくしたものらしいんだけど、
 これが本当によく当たるのよ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]동기 직원[color(white)]
+원래는 '망룡술'이라는 풍수 비술을
+쉽게 풀어서 만든 거래.
+근데 진짜 잘 맞는다니까!
+[sync][wait][clear][end]"
 "msg_16","[color(yellow)]同期社員[color(white)]
 望龍術はね、運命を支配する天帝が地上に遣わした
 １２匹の龍の動きを、星の動きから予測して国運を
 占う呪術なの。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]동기 직원[color(white)]
+망룡술은 말이지, 운명을 지배하는 천제가
+지상에 보낸 열두 마리 용의 움직임을
+별의 위치로 예측해서 국운을 점치는 주술이래.
+[sync][wait][clear][end]"
 "msg_17","[color(yellow)]同期社員[color(white)]
 龍って言ったって、地脈みたいなものなんだけど、
 人が良いことすれば恵みをくれるし、悪いことを
 すれば天変地異とかの災厄をもたらすんですって。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]동기 직원[color(white)]
+용이라 해도 사실, 지맥 같은 거긴 한데
+사람이 좋은 일을 하면 복을 주고,
+나쁜 일을 하면 천재지변 같은 재앙을 준대.
+[sync][wait][clear][end]"
 "msg_18","[color(yellow)]同期社員[color(white)]
 まぁ、誰も運命には逆らえないってことかな。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]동기 직원[color(white)]
+결국 운명은 거스를 수 없다는 얘기겠지 뭐.
+[sync][wait][clear][end]"
 "msg_19","[color(yellow)]先輩社員[color(white)]
 天野は確か、７月生まれだったよな？
 てことは光龍か…俺が２月生まれの青龍だから…
 あんま相性良くないのか…残念。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]선배 직원[color(white)]
+아마노, 네가 7월생 맞지?
+그럼 광룡이네… 난 2월생이라 청룡인데...
+둘이 궁합이 별로 안 좋네. 아쉽다.
+[sync][wait][clear][end]"
 "msg_20","[color(yellow)]田崎[color(white)]
 天野さん、ＪＯＫＥＲの噂取材するんでしょ？
 つい昨日も、食い散らかされたみたいな
@@ -164,35 +218,62 @@
 "msg_30","[color(yellow)]ゆきの[color(white)]
 舞耶さん、今さっき内線あったよ。
 芹沢さん、受付に来てるって。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]유키노[color(white)]
+마야 씨, 방금 내선 전화 왔어요.
+세리자와 씨가 접수대에 와 있다고요.
+[sync][wait][clear][end]"
 "msg_31","[color(yellow)]ゆきの[color(white)]
 舞耶さん、まだ内線無いし、
 もう少しゆっくりしててもいいんじゃないかい？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]유키노[color(white)]
+마야 씨, 아직 내선 없네요.
+좀 더 쉬어도 되지 않을까요?
+[sync][wait][clear][end]"
 "msg_32","[color(yellow)]非常階段[color(green)]
 ここには入れない。[color(white)]
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]비상계단[color(green)]
+여긴 들어갈 수 없다.[color(white)]
+[sync][wait][clear][end]"
 "msg_33","[color(yellow)]田崎[color(white)]
 天野さん、ＪＯＫＥＲの噂取材するんでしょ？
 つい昨日も、食い散らかされたみたいな
 死体が見つかったっていうし…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]다사키[color(white)]
+아마노 씨, JOKER 관련 소문 취재 간다면서요?
+어제도 누가 완전히 뜯어먹힌 것처럼
+끔찍한 시체가 발견됐다던데…
+[sync][wait][clear][end]"
 "msg_34","[color(yellow)]田崎[color(white)]
 怖いわよねぇ～
 ＪＯＫＥＲは悪魔使いだって噂本当だったりして…
 あなたの身に、何もなきゃいいけど。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]다사키[color(white)]
+무섭네요~
+JOKER가 악마를 부린다는 소문이 사실이라면…
+몸 조심하세요, 아무 일 없어야 할 텐데.
+[sync][wait][clear][end]"
 "msg_35","[color(yellow)]先輩社員[color(white)]
 猟奇殺人の被害者、もう二桁になっちまったなぁ。
 ったく警察は何してんだか…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]선배 직원[color(white)]
+엽기 살인 피해자가 벌써 두 자릿수라잖아.
+진짜 경찰은 뭐 하는 건지…
+[sync][wait][clear][end]"
 "msg_36","[color(yellow)]先輩社員[color(white)]
 記者クラブに俺の先輩がいてな、
 警察は未だに犯人の目星もつけられんらしいよ。
 色々噂が立っちまうのも、無理ないわな。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]선배 직원[color(white)]
+기자 클럽에 내 선배가 있는데 말이지,
+경찰이 아직도 범인 단서를 전혀 못 잡았다더라.
+이러니 온갖 소문이 도는 것도 무리가 아니지.
+[sync][wait][clear][end]"
 "msg_37","[color(yellow)]先輩社員[color(white)]
 例の地下鉄工事で、また遺跡が見つかったらしい。
 やっぱこの街の下にゃ、何かあるのかね？
 く～俺も社会部行きてぇなぁ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]선배 직원[color(white)]
+지하철 공사하던 데서 또 유적이 발견됐다더라.
+역시 이 도시 밑엔 뭔가 있는 걸까?
+아, 나도 사회부 가고 싶다.
+[sync][wait][clear][end]"
