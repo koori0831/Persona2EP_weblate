@@ -2,7 +2,7 @@
 "msg_0","[color(yellow)]水野編集長[color(white)]
 来たわね…天野。
 [sync][wait][clear][end]","[color(yellow)]미즈노 편집장[color(white)]
-왔네... 아마노.
+왔네… 아마노.
 [sync][wait][clear][end]"
 "msg_1","[color(yellow)]水野編集長（みずのへんしゅうちょう）[color(white)]
 [color(green)]舞耶と対立の絶えない、「クーレスト」の編集長。
@@ -43,9 +43,9 @@
 まあいいわ。
 あなたには、ＪＯＫＥＲの噂を取材してもらう。
 [sync][wait][clear][end]","[color(yellow)]미즈노 편집장[color(white)]
-마음에도 없는 대답을...
+마음에도 없는 대답을…
 뭐, 됐어.
-당신, ＪＯＫＥＲ의 소문을 취재해줘야겠어.
+당신, JOKER의 소문을 취재해줘야겠어.
 [sync][wait][clear][end]"
 "msg_6","[color(yellow)]水野編集長[color(white)]
 最近の連続猟奇殺人事件、子供の間じゃ、
@@ -53,7 +53,7 @@
 知ってるわよね？
 [sync][wait][clear][end]","[color(yellow)]미즈노 편집장[color(white)]
 최근에 벌어진 연속 엽기 살인사건, 아이들 사이에서는
-ＪＯＫＥＲ님이 한 짓이라는 소문이 돌고 있다는 것쯤은
+JOKER님이 한 짓이라는 소문이 돌고 있다는 것쯤은
 알고 있겠지?
 [sync][wait][clear][end]"
 "msg_7","[color(yellow)]水野編集長[color(white)]
@@ -89,7 +89,7 @@
 これは決定よ！
 [sync][wait][clear][end]","[color(yellow)]미즈노 편집장[color(white)]
 아직도 말대답을 할 셈이야!?
-당신은, ＪＯＫＥＲ의 소문을 취재해 와 줘야겠어.
+당신은, JOKER의 소문을 취재해 와 줘야겠어.
 이건 결정된 사항이야!
 [sync][wait][clear][end]"
 "msg_11","[color(yellow)]水野編集長[color(white)]
@@ -98,7 +98,7 @@
 知ってるわよね！？
 [sync][wait][clear][end]","[color(yellow)]미즈노 편집장[color(white)]
 최근에 벌어진 연속 엽기 살인사건, 아이들 사이에서는
-ＪＯＫＥＲ님이 한 짓이라는 소문이 돌고 있다는 것쯤은,
+JOKER님이 한 짓이라는 소문이 돌고 있다는 것쯤은,
 알고 있는 거지!?
 [sync][wait][clear][end]"
 "msg_12","[color(yellow)]水野編集長[color(white)]
@@ -115,7 +115,7 @@
 当然、今日あなたが出していた
 午後半休届けも却下よ。
 [sync][wait][clear][end]","[color(yellow)]미즈노 편집장[color(white)]
-알고 있을 거라고는 생각하지만...
+알고 있을 거라고는 생각하지만…
 당연히, 오늘 당신이 냈던
 오후 반차도 기각이야.
 [sync][wait][clear][end]"
@@ -132,7 +132,7 @@
 まったく最近の若いのは…仕事も出来ないくせに、
 権利の主張だけは一人前で困るのよね。
 [sync][wait][clear][end]","[color(yellow)]미즈노 편집장[color(white)]
-정말이지 요즘 젊은 녀석들은... 일도 제대로 못 하는 주제에,
+정말이지 요즘 젊은 녀석들은… 일도 제대로 못 하는 주제에,
 권리 주장 만큼은 착실히 하니 곤란하단 말이야.
 [sync][wait][clear][end]"
 "msg_16","[color(yellow)]クーレストの売り上げ表[color(white)]
