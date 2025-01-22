@@ -334,7 +334,19 @@
 会員ランクが上がったのですね、
 おめでとうございます。[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
 …その長い前フリは何、ですか？
-はて、何のことやらミツギにはさっぱり。[wait][clear][end]",""
+はて、何のことやらミツギにはさっぱり。[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+장면xx2.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+어두운 극장 안, 무음 영화에 맞춰 피아노를 연주하는
+여성. 이윽고 영화가 끝나고, 일어서는 그녀의
+곁으로 가 연주를 칭찬하는 당신은…
+[color(yellow)]시어터 가이드 미츠기[color(white)]
+[color(pink)][var(msg_var_0)][color(white)] 회원인
+마야 씨군요.
+오늘도 감사 드립니다.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+회원 랭크가 올라갔네요,
+축하드립니다.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+…그 한참 전의 그건 뭐였냐구요?
+글쎄요, 무슨 소리신지 미츠기는 전혀 모르겠습니다.[wait][clear][end]"
 "msg_31","[color(yellow)]シアターガイド・ミツギ[color(white)]
 シーン××３。[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
 真夏の暑いとある夜、高い塀に囲まれただけの広場。
@@ -347,7 +359,19 @@
 接客以外で話しかけてくださるのは、
 舞耶さんくらいなので、印象深いですよ。[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
 これからもよろしくお願いいたします。
-はて、タオル？何のことでしょうか？[wait][clear][end]",""
+はて、タオル？何のことでしょうか？[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+장면xx3.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+어느 한여름 밤, 높은 담으로 둘러쌓인 광장.
+땀을 흘리며 영사기를 준비하는 그녀가
+무심코 고개를 들자, 수건을 든 여성이 눈앞에…[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+[color(pink)][var(msg_var_0)][color(white)] 회원이 되신
+마야 씨가 아닌가요?[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+오늘도 방문해 주셔서 감사합니다.
+완전히 얼굴을 외우게 됐네요. 기쁘기 그지없습니다.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+접객 말고도 말을 걸어주시는 건
+마야 씨 정도라서 인상이 깊어요.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+앞으로도 잘 부탁드리겠습니다.
+글쎄요, 수건? 무슨 소리를 하시는 건가요?[wait][clear][end]"
 "msg_32","[color(yellow)]シアターガイド・ミツギ[color(white)]
 シーン××４。[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
 大きくはないが、意匠を凝らしたデザインの映画館。
@@ -358,7 +382,17 @@
 そろそろ来る頃かと思っていました。
 ああいえ、その、待っていたわけではないのです。
 何となく、です。何となく。[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
-ミツギはそういう、カンが冴えているのです。[wait][clear][end]",""
+ミツギはそういう、カンが冴えているのです。[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+장면xx4.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+크지는 않지만 설계에 공을 들인 디자인의 영화관.
+영화관 안의 스크린에는 전위적인 영화가 흘러나오고 있다.
+접수원은 다가오고 있는 손님이라 여겨지는 여성을 향해…[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+크흠, 잘 오셨습니다.
+[color(pink)][var(msg_var_0)][color(white)] 회원이 되셨군요.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+슬슬 오실 때가 됐다고 생각하던 참이었습니다.
+아, 아뇨, 그, 기다리고 있었다는 건 아닙니다.
+어쩐지 입니다. 어쩐지.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+미츠기는 그런 데에 감이 좋거든요.[wait][clear][end]"
 "msg_33","[color(yellow)]シアターガイド・ミツギ[color(white)]
 シーン××５。[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
 宮殿の如き豪華絢爛な建物。入口にはドアマンが。
@@ -375,7 +409,23 @@
 もちきりでしたよ。[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
 まあ、ミツギは最初から
 こうなることはわかっていましたよ？[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
-皆人を見る目がナイのですから…ふふっ！[wait][clear][end]",""
+皆人を見る目がナイのですから…ふふっ！[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+장면xx5.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+궁전과도 같은 호화찬란한 건물. 입구에는 도어맨이.
+문을 지나 안으로 들어가자, 안내원에게 이끌려 자신의 자리로.
+앉으려는 순간, 손에 들고 있던 팜플렛을 떨어트리는데…[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+친절하게도 옆자리의 여성이 주워주었다.
+그녀가 내민 팜플렛을 받고, 감사를
+하려던 순간, 오케스트라가 서곡을 시작하고…[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+어서 오세요,
+마야 씨.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+드디어 [color(pink)][var(msg_var_0)][color(white)] 회원이 되셨네요.
+대단하군요, 축하드립니다.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+미츠기 말고 다른 점원한테도 당신의 소문이
+자자하네요.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+뭐, 미츠기는 처음부터
+이렇게 될 줄 알고 있었거든요?[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+다들 사람 보는 눈이 없다니까…후훗![wait][clear][end]"
 "msg_34","[color(yellow)]シアターガイド・ミツギ[color(white)]
 シーン××６。[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
 繁華街の一角にあるビルに入る女性。混雑した
@@ -395,10 +445,31 @@
 話しかけてくれますので、
 今ではミツギもちょっとした有名人ですよ？[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
 これからも当シアターを是非ご贔屓に。
-ミツギはいつもあなたをフォローし続けておりますゆえ。[wait][clear][end]",""
+ミツギはいつもあなたをフォローし続けておりますゆえ。[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+장면xx6.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+번화가의 한 구석에 있는 빌딩에 들어가는 여성. 혼잡한
+엘리베이터를 타고 4층에 내리자, 그곳은
+몇 가지의 영화를 상영하는 커다란 영화관이었다.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+그녀는 사람들로 넘치는 로비를 바라보다가, 이윽고 오늘의 상대를
+발견했다. 보고 싶은 영화의 접수처에 서있는 그 사람에게
+달려가, 그녀는 가방에서 꺼낸 티켓을 건낸다…[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+마야 씨,
+저희 시어터 역사상 최초의 [color(pink)][var(msg_var_0)][color(white)] 회원,
+축하드립니다.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+미츠기의 앞에 프레임 인하신 이후로
+눈 깜짝할 사이였네요.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+이제는 시어터 관계자의 시선을
+계속 팔로우 팬당하는 존재가 되셨습니다.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+뭐, 그래도 항상 당신은 미츠기에게
+말을 걸어 주시기에,
+이제는 미츠기도 조금은 유명하게 되었다구요?[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+앞으로도 저희 시이터를 부디 애용해 주세요.
+미츠기는 항상 당신을 계속해서 팔로우하고 있으니까요.[wait][clear][end]"
 "msg_35","[color(yellow)]シアターガイド・ミツギ[color(white)]
 シーン……[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
-このメッセージは表示されないハズなのですが…[wait][clear][end]",""
+このメッセージは表示されないハズなのですが…[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+장면……[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+이 메시지는 표시되지 않아야 했을 텐데요…[wait][clear][end]"
 "msg_36","[color(yellow)]シアターガイド・ミツギ[color(white)]
 当[color(pink)]シアター[color(white)]の説明ですね、畏まりました。
 当シアターでは、[color(pink)]作品を選ぶ[color(white)]ことで、
@@ -417,7 +488,25 @@
 映画の上映中、途中での退席は可能ですが、
 途中退席された場合は、来店ポイントは
 加算されませんので、ご注意くださいませ。
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+저희 [color(pink)]시어터[color(white)]의 설명이군요, 알겠습니다.
+저희 시어터에서는 [color(pink)]작품을 골라서[color(white)]
+영화를 관람하실 수 있습니다.
+[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+[color(pink)]독립 영화[color(white)]에서는 당신이 만들어낸 영화를
+상영합니다.
+[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+[color(pink)]소극장계 영화[color(white)]에서는 당신이 친구 등으로부터 받은
+영화를 확인, 관람하실 수 있습니다.
+[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+[color(pink)]외국 영화[color(white)]에서는
+그밖의 [color(pink)]수입[color(white)]하신
+영화를 확인하실 수 있습니다.
+[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+영화 상영 중 퇴실은 가능하지만
+도중에 퇴실하실 경우 방문 포인트는
+적립되지 않기에 주의해 주세요.
+[wait][clear][end]"
 "msg_37","[color(yellow)]シアターガイド・ミツギ[color(white)]
 当シアターの会員制度についてですか、畏まりました。
 ではミツギが答えさせていただきます。[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
