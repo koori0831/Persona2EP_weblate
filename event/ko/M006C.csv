@@ -536,25 +536,51 @@
 当シアターの作品を最後まで鑑賞していただく
 必要がございます。[wait][clear][color(yellow)]シアターガイド・ミツギ[color(white)]
 是非とも、上位を目指してくださいませ。
-何かが貰える、というわけではありませんが…[wait][clear][end]",""
+何かが貰える、というわけではありませんが…[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+저희 시어터의 회원제도에 대해서 말이군요, 알겠습니다.
+그럼 미츠기가 대답해 드리겠습니다.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+아래 랭크부터 스토어 프론트 회원,
+니켈로디언 회원, 에어돔 회원.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+아트 하우스 회원, 픽처 팰리스 회원,
+최상위로 시네 플렉스 회원
+이 준비되어 있습니다.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+회원 랭크를 올리기 위해선
+저희 시어터의 작품을 끝까지 관람해 주실
+필요가 있습니다.[wait][clear][color(yellow)]시어터 가이드 미츠기[color(white)]
+부디 상위 랭크를 목표로 해주세요.
+뭔가를 받을 수 있는 건 아니지만요…[wait][clear][end]"
 "msg_38","[color(yellow)]シアターガイド・ミツギ[color(white)]
 では、またのお越しを
 お待ちしております。
-フェードアウト！[wait][clear][end]",""
+フェードアウト！[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+그럼, 다음 방문을
+기다리고 있겠습니다.
+페이드 아웃![wait][clear][end]"
 "msg_39","[color(yellow)]シアターガイド・ミツギ[color(white)]
 チケット料金が[var(msg_var_0)]円となりますが
 こちらでよろしいでしょうか？
-[end_choice][clear][end]",""
+[end_choice][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+티켓 요금은 [var(msg_var_0)]엔입니다만
+괜찮으십니까?
+[end_choice][clear][end]"
 "msg_39_Choice1","はい","네"
 "msg_39_Choice2","いいえ","아니오"
 "msg_40","[color(yellow)]シアターガイド・ミツギ[color(white)]
 残念ながら、こちらのチケットは
 お求めいただけないようですね。
 他のチケットをお選びください。
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+유감이지만 이 티켓은
+구매하실 수 없을 것 같네요.
+다른 티켓을 골라 주세요.
+[wait][clear][end]"
 "msg_41","[color(yellow)]シアターガイド・ミツギ[color(white)]
-それでは、ごゆっくりお楽しみください。[wait][clear][end]",""
+それでは、ごゆっくりお楽しみください。[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+그럼, 천천히 즐겨 주세요.[wait][clear][end]"
 "msg_42","[color(yellow)]シアターガイド・ミツギ[color(white)]
 当シアターには、ネットワークから輸入した映画を
 まだ入荷しておりません。
-入荷し次第、舞耶様をご案内いたします。[wait][clear][end]",""
+入荷し次第、舞耶様をご案内いたします。[wait][clear][end]","[color(yellow)]시어터 가이드 미츠기[color(white)]
+저희 시어터에는 네트워크에서 수입한 영화를
+아직 입고하지 않았습니다.
+입고되는 대로 마야 님께 안내해 드리겠습니다.[wait][clear][end]"
