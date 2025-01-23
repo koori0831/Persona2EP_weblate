@@ -4,10 +4,20 @@
 [wait][clear][color(green)]「ＲＥＳＴＡＲＴ」を選ぶと、アナライズデータや
 タロットカードなどを引き継いだ状態で
 本編を最初からプレイが可能です。[color(white)]
-[half_tab][half_tab][half_tab][half_tab][wait][clear][end]",""
+[half_tab][half_tab][half_tab][half_tab][wait][clear][end]","[color(green)]타이틀 메뉴에 「RESTART」
+가 추가되었습니다.[color(white)]
+[wait][clear][color(green)]「RESTART」를 선택하면 애널라이즈 데이터나
+타로 카드 등을 인계받은 상태로
+본편을 처음부터 플레이하실 수 있습니다.[color(white)]
+[half_tab][half_tab][half_tab][half_tab][wait][clear][end]"
 "msg_1","[color(green)]ＧＡＬＬＥＲＹにサウンド
 が追加されました。[color(white)]
 [wait][clear][color(green)]「サウンド」では、本編中のＢＧＭを再生できます。
 前作「ペルソナ２罪」のＢＧＭの一部も
 収録しています。[color(white)]
-[half_tab][half_tab][half_tab][half_tab][wait][clear][end]",""
+[half_tab][half_tab][half_tab][half_tab][wait][clear][end]","[color(green)]GALLERY에 사운드
+가 추가되었습니다.[color(white)]
+[wait][clear][color(green)]「사운드」에선 본편의 BGM을 재생할 수 있습니다.
+전작 「페르소나 2 죄」의 BGM의 일부도
+수록되어 있습니다.[color(white)]
+[half_tab][half_tab][half_tab][half_tab][wait][clear][end]"
