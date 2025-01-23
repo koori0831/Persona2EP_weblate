@@ -3,27 +3,47 @@
 ここっていつ来ても快適よねー。
 どっかに空調でも付いてんのかしら？
 …って、そもそも電気が来てるのかしら？
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]우라라[color(white)]
+여긴 언제 와도 쾌적하네.
+어디 에어컨이라도 설치되어 있는 걸까?
+…아니, 애초에 전기가 들어오는 걸까?
+[wait][clear][end]"
 "msg_1","[color(yellow)]克哉[color(white)]
 ペルソナ…心の中のもう一人の自分を具現化したもの…
 この力を持つ人間は、この世にどれだけいるんだろうか。
 この力は、どれだけ犯罪に使われているんだろうか…
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]카츠야[color(white)]
+페르소나…마음의 바다의 또 다른 자신을 구현화한 것…
+이 힘을 가진 사람은 이 세상에 얼마나 많이 있는 걸까.
+이 힘은 얼마나 많이 범죄에 사용되고 있는 걸까…
+[wait][clear][end]"
 "msg_2","[color(yellow)]パオフゥ[color(white)]
 芹沢の奴、馴染み過ぎだな…緊張感を無くすと死ぬぜ。
 後でお前からなんか言ってやれ。
 …周防みたいに悩みすぎるのも、良かぁねぇけどな。
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]파오후[color(white)]
+세리자와 녀석, 너무 익숙하게 굴잖아…긴장 풀면 죽을 거라고.
+나중에 너도 한 마디 해줘.
+…스오우처럼 너무 끙끙대는 것도 안 좋지만 말야.
+[wait][clear][end]"
 "msg_3","[color(yellow)]南条[color(white)]
 イここの風景はいつ来ても変わらない…
 そのせいか、ふと昔の苦労を思い出す事があります。
 悪魔に演説し、時には物で釣り…本当に苦労しました。
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]난조[color(white)]
+이곳 풍경은 언제 와도 변하지 않는군요…
+그래서인지 문득 옛날에 고생했던 기억이 납니다.
+악마에게 연설하기도 하고, 때로는 물품으로 꾀어내고…정말 고생이었죠.
+[wait][clear][end]"
 "msg_4","[color(yellow)]エリー[color(white)]
 こちらの方々、お食事はどうなさってるのでしょうか。
 Ｂｉｓｓｉｎｅｓの関係で、お菓子をいただくのですが、
 持ってきたら喜んでいただけるかしら。
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]에리[color(white)]
+여기 계신 분들은 식사는 어떻게 하고 계신 걸까요?
+Business를 하다보면 과자를 받곤 하는데,
+가져오면 좋아하실까요?
+[wait][clear][end]"
 "msg_5","[color(yellow)][tatsuya][color(white)]
 いつかもし、償いを済ませることがあったら、
 俺は、ペルソナを…どうするのか…
