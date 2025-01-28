@@ -23,7 +23,7 @@
 …周防みたいに悩みすぎるのも、良かぁねぇけどな。
 [wait][clear][end]","[color(yellow)]파오후[color(white)]
 세리자와 녀석, 너무 익숙하게 굴잖아…긴장 풀면 죽을 거라고.
-나중에 너도 한 마디 해줘.
+나중에 너도 한마디 해줘.
 …스오우처럼 너무 끙끙대는 것도 안 좋지만 말야.
 [wait][clear][end]"
 "msg_3","[color(yellow)]南条[color(white)]
@@ -48,45 +48,79 @@ Business를 하다보면 과자를 받곤 하는데,
 いつかもし、償いを済ませることがあったら、
 俺は、ペルソナを…どうするのか…
 この部屋を訪れることはあるんだろうか…
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)][tatsuya][color(white)]
+만약 언젠가 속죄를 끝마치게 된다면
+난 페르소나를…어떻게 할까…
+이 방을 다시 찾는 일이 있을까…
+[wait][clear][end]"
 "msg_6","[color(yellow)]イゴール[color(white)]
 おや？
 新しい姿に生まれ変わろうとしている
 ペルソナがいるようですな。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]이고르[color(white)]
+이런?
+새로운 모습으로 거듭나려 하고 있는
+페르소나가 있는 모양이군요.
+[sync][wait][clear][end]"
 "msg_7","[color(yellow)]イゴール[color(white)]
 おっと、説明するのを忘れていましたが…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]이고르[color(white)]
+이거 참, 설명하는 것을 잊고 있었습니다만…
+[sync][wait][clear][end]"
 "msg_8","[color(yellow)]イゴール[color(white)]
 合体スキルというものを、ご存じですかな？
 これを使うと、たまにペルソナが突然変異を
 起こすことがあります。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]이고르[color(white)]
+합체 스킬이라는 것에 대해 알고 계십니까?
+이것을 사용하면 가끔 페르소나가 돌연변이를
+일으킬 때가 있습니다.
+[sync][wait][clear][end]"
 "msg_9","[color(yellow)]イゴール[color(white)]
 それは基本能力の上昇であったり、新しい
 スキルの取得であったりするのですが、中には
 別のペルソナに生まれ変わる場合もあります。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]이고르[color(white)]
+기본 능력이 상승하기도,
+새로운 스킬을 습득하기도 하는데, 그중에는
+다른 페르소나로 다시 태어나는 경우도 있습니다.
+[sync][wait][clear][end]"
 "msg_10","[color(yellow)]イゴール[color(white)]
 ただ、この場合は、私の手助けが
 必要となりますので、ペルソナにこのような変化が
 起こった場合は私の所へおいでください。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]이고르[color(white)]
+단, 이 경우는 제 도움이 필요하니
+페르소나에게 이런 변화가
+일어날 때는 제게 찾아와 주십시오.
+[sync][wait][clear][end]"
 "msg_11","[color(yellow)]イゴール[color(white)]
 もちろん、
 必ず変異させねばならないわけでは
 ありません。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]이고르[color(white)]
+물론, 반드시
+변이를 시켜야 하는 것은
+아닙니다.
+[sync][wait][clear][end]"
 "msg_12","[color(yellow)]イゴール[color(white)]
 変異後のペルソナはランク１に
 戻ってしまいますから、変異させるかどうかは、
 あなた方自身で判断してください。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]이고르[color(white)]
+변이 후의 페르소나는 랭크1로
+돌아가 버리기에, 변이시킬지 여부는
+당신들 스스로 판단해 주십시오.
+[sync][wait][clear][end]"
 "msg_13","[color(yellow)]イゴール[color(white)]
 そうそう、[delay(15)]変異後のペルソナと同じペルソナが
 既にいるような場合、変異させられないことも
 ありますので、注意が必要ですぞ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]이고르[color(white)]
+그렇지, [delay(15)]변이 후의 페르소나와 같은 페르소나가
+이미 있는 경우 변이시키지 못하는 일도
+있으니 주의가 필요합니다.
+[sync][wait][clear][end]"
 "msg_14","[color(yellow)]イゴール[color(white)]
 ようこそ、ベルベットルームへ。
 ここは、人の心の様々なる形を呼び覚ます部屋…
@@ -98,11 +132,25 @@ Business를 하다보면 과자를 받곤 하는데,
 我ら４人、貴方がたの新たな心、
 新たなペルソナの目覚めをお助けするよう、
 仰せつかっております。以後、お見知りおきを…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]이고르[color(white)]
+어서 오십시오, 저의 벨벳 룸에.
+이곳은 인간의 마음의 다양한 형태를 일깨우는 방…
+[wait][clear][color(yellow)]이고르[color(white)]
+저희 주인님, 필레몬 님의 명을 받아
+당신들을 기다리고 있었습니다.
+제 이름은 이고르라고 합니다.
+[wait][clear][color(yellow)]이고르[color(white)]
+저희 넷은 당신들의 새로운 마음,
+새로운 페르소나의 각성을 도우라고
+분부를 받았습니다. 앞으로 잘 부탁드리겠습니다…
+[sync][wait][clear][end]"
 "msg_15","[color(yellow)]イゴール[color(white)]
 ようこそベルベットルームへ。
 今日は、どんな御用ですかな？
-[end_choice][clear][end]",""
+[end_choice][clear][end]","[color(yellow)]이고르[color(white)]
+벨벳 룸에 어서 오십시오.
+오늘은 어떤 용무이십니까?
+[end_choice][clear][end]"
 "msg_15_Choice1","ペルソナを召喚する",""
 "msg_15_Choice2","ペルソナを降魔する",""
 "msg_15_Choice3","ペルソナの帰還",""
@@ -113,57 +161,67 @@ Business를 하다보면 과자를 받곤 하는데,
 "msg_15_Choice8","ベルベットルームから出る",""
 "msg_16","[color(yellow)]イゴール[color(white)]
 他に御用はありますかな？
-[end_choice][clear][end]",""
-"msg_16_Choice1","ペルソナを召喚する",""
-"msg_16_Choice2","ペルソナを降魔する",""
-"msg_16_Choice3","ペルソナの帰還",""
-"msg_16_Choice4","[if_all(VBIT_MUTATION_ON)]ペルソナの変異",""
+[end_choice][clear][end]","[color(yellow)]이고르[color(white)]
+다른 용무는 있으신지요?
+[end_choice][clear][end]"
+"msg_16_Choice1","ペルソナを召喚する","페르소나를 소환한다"
+"msg_16_Choice2","ペルソナを降魔する","페르소나를 강마한다"
+"msg_16_Choice3","ペルソナの帰還","페르소나 귀환"
+"msg_16_Choice4","[if_all(VBIT_MUTATION_ON)]ペルソナの変異","[if_all(VBIT_MUTATION_ON)]페르소나 변이"
 "msg_16_Choice5","話をする","대화한다"
-"msg_16_Choice6","[if_all(EBIT_SINARIOFF)]アディショナルシナリオ",""
+"msg_16_Choice6","[if_all(EBIT_SINARIOFF)]アディショナルシナリオ","[if_all(EBIT_SINARIOFF)]에디셔널 시나리오"
 "msg_16_Choice7","やめる","그만둔다"
 "msg_16_Choice8","ベルベットルームから出る",""
 "msg_17","[color(yellow)]イゴール[color(white)]
 何か、聞きたいことがおありのようですな？
-[end_choice][clear][end]",""
+[end_choice][clear][end]","[color(yellow)]이고르[color(white)]
+뭔가 묻고 싶은 것이 있으신 것 같군요?
+[end_choice][clear][end]"
 "msg_17_Choice1","世間話を聞く",""
-"msg_17_Choice2","説明を聞く",""
+"msg_17_Choice2","説明を聞く","설명을 듣는다"
 "msg_17_Choice3","[if_all(EBIT_SINARIOFF)]非表示項目","[if_all(EBIT_SINARIOFF)]비표시 항목"
 "msg_18","[color(yellow)]イゴール[color(white)]
 ペルソナは、いつでもあなた方の中に存在しております。
 たとえその力を行使する機会を失っても、
 あなた方を導き、護ってくれることでしょう。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]이고르[color(white)]
+페르소나는 항상 당신들의 안에 존재하고 있습니다.
+설령 그 힘을 행사할 기회를 잃더라도,
+당신들을 인도하고, 보호해 줄 것입니다.
+[sync][wait][clear][end]"
 "msg_19","[color(yellow)]イゴール[color(white)]
 何なりと御質問を。
 [end_choice][clear][end]",""
-"msg_19_Choice1","ペルソナについて",""
-"msg_19_Choice2","降魔と発動について",""
-"msg_19_Choice3","アルカナについて",""
-"msg_19_Choice4","ペルソナの成長について",""
-"msg_19_Choice5","ペルソナとの相性について",""
+"msg_19_Choice1","ペルソナについて","페르소나에 대해"
+"msg_19_Choice2","降魔と発動について","강마와 발동에 대해"
+"msg_19_Choice3","アルカナについて","아르카나에 대해"
+"msg_19_Choice4","ペルソナの成長について","페르소나의 성장에 대해"
+"msg_19_Choice5","ペルソナとの相性について","페르소나와의 상성에 대해"
 "msg_19_Choice6","次のページへ",""
 "msg_19_Choice7","[if(EBIT_SINARIOFF)]非表示項目・戻る",""
 "msg_20","[color(yellow)]イゴール[color(white)]
 何なりと御質問を。
 [end_choice][clear][end]",""
-"msg_20_Choice1","タロットカードについて",""
-"msg_20_Choice2","マテリアルカードについて",""
-"msg_20_Choice3","スキルカードについて",""
-"msg_20_Choice4","インセンスカードについて",""
-"msg_20_Choice5","ペルソナカードについて",""
-"msg_20_Choice6","次のページへ",""
+"msg_20_Choice1","タロットカードについて","타로 카드에 대해"
+"msg_20_Choice2","マテリアルカードについて","머티리얼 카드에 대해"
+"msg_20_Choice3","スキルカードについて","스킬 카드에 대해"
+"msg_20_Choice4","インセンスカードについて","인센스 카드에 대해"
+"msg_20_Choice5","ペルソナカードについて","페르소나 카드에 대해"
+"msg_20_Choice6","次のページへ","다음 페이지로"
 "msg_20_Choice7","前のページへ",""
 "msg_20_Choice8","[if(EBIT_SINARIOFF)]非表示項目・戻る",""
 "msg_21","[color(yellow)]イゴール[color(white)]
 何なりと御質問を。
-[end_choice][clear][end]",""
-"msg_21_Choice1","召喚の基本について",""
-"msg_21_Choice2","魔晶変化について",""
-"msg_21_Choice3","ミューテーションについて",""
-"msg_21_Choice4","コンタクトについて",""
-"msg_21_Choice5","悪魔の個性について",""
-"msg_21_Choice6","前のページへ",""
-"msg_21_Choice7","[if(EBIT_SINARIOFF)]非表示項目・戻る",""
+[end_choice][clear][end]","[color(yellow)]이고르[color(white)]
+무엇이든지 질문해 주시지요.
+[end_choice][clear][end]"
+"msg_21_Choice1","召喚の基本について","소환의 기초에 대해"
+"msg_21_Choice2","魔晶変化について","마정 변화에 대해"
+"msg_21_Choice3","ミューテーションについて","뮤테이션에 대해"
+"msg_21_Choice4","コンタクトについて","콘택트에 대해"
+"msg_21_Choice5","悪魔の個性について","악마의 상성에 대해"
+"msg_21_Choice6","前のページへ","이전 페이지로"
+"msg_21_Choice7","[if(EBIT_SINARIOFF)]非表示項目・戻る","[if(EBIT_SINARIOFF)]비표시항목・돌아가기"
 "msg_22","[color(yellow)]イゴール[color(white)]
 神の様に慈愛に満ちた自分…、悪魔の如き残酷な自分…
 人は、様々な仮面を着けて生きております。
@@ -175,7 +233,18 @@ Business를 하다보면 과자를 받곤 하는데,
 そして、「ペルソナ」を形ある姿で召喚し
 その力を行使する者の事を「ペルソナ使い」と
 申します。
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]이고르[color(white)]
+신처럼 자애로움으로 가득찬 자신…악마와 같이 잔혹한 자신…
+인간은 다양한 가면을 쓰고 살아갑니다.
+[wait][clear][color(yellow)]이고르[color(white)]
+지금 당신의 모습도 무수히 많은 가면의 하나에 불과하죠.
+「페르소나」는 마음 깊숙한 곳에 숨어 있는
+당신의 모습 중 하나입니다.
+[wait][clear][color(yellow)]이고르[color(white)]
+그리고 「페르소나」를 형태 있는 모습으로 소환해
+그 힘을 행사하는 자를 「페르소나 구사자」라고
+합니다.
+[wait][clear][end]"
 "msg_23","[color(yellow)]イゴール[color(white)]
 召喚されたペルソナを「発動」…
 すなわち、ペルソナを呼び出しその力を行使するには
@@ -204,7 +273,35 @@ Business를 하다보면 과자를 받곤 하는데,
 それぞれのペルソナの能力を良く理解し、
 状況に応じて使い分けることが、戦闘で生き延び、
 勝利を収める鍵ですな。
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]이고르[color(white)]
+소환된 페르소나를 「발동」…
+즉, 페르소나를 불러내 그 힘을 행사하기 위해선
+「강마」할 필요가 있습니다.
+[wait][clear][color(yellow)]이고르[color(white)]
+「강마」란, 소환한 페르소나를 당신 같은
+페르소나 구사자의 몸에 강림시키는 것입니다.
+「페르소나 카드」를 소지하고 있기만 해서는 안 됩니다.
+[wait][clear][color(yellow)]이고르[color(white)]
+페르소나를 「강마」하면, 페르소나 구사자 자신의
+스테이터스에도 변화가 일어납니다.
+[wait][clear][color(yellow)]이고르[color(white)]
+페르소나는 당신의 숨겨진 일면…
+그것에 상응하는 형태로 변화한다는 것이죠.
+[wait][clear][color(yellow)]이고르[color(white)]
+「강마」는 1번에 1체밖에 할 수 없습니다.
+하지만 「페르소나 카드」가 있으면
+언제든 다른 페르소나를 강마할 수 있습니다.
+[wait][clear][color(yellow)]이고르[color(white)]
+그 경우, 그때까지 강마하고 있던 페르소나는
+「페르소나 카드」의 형태로 돌아갑니다.
+[wait][clear][color(yellow)]이고르[color(white)]
+페르소나는 그 종류에 따라 가지고 있는 능력이 다르기에
+장점만 있는 것이 아니라 단점도 있답니다.
+[wait][clear][color(yellow)]이고르[color(white)]
+각각의 페르소나의 능력을 잘 이해하고
+상황에 맞춰 가려 쓰는 것이 전투에서 살아남아
+승리를 거두는 열쇠입니다.
+[wait][clear][end]"
 "msg_24","[color(yellow)]イゴール[color(white)]
 ペルソナも悪魔と同じように種族がございます。[wait][clear][color(yellow)]イゴール[color(white)]
 種族は「魔術師」や「皇帝」、「戦車」など…
@@ -586,11 +683,11 @@ Business를 하다보면 과자를 받곤 하는데,
 "msg_42_Choice1","タロット作成依頼",""
 "msg_42_Choice2","話す",""
 "msg_42_Choice3","やめる","그만둔다"
-"msg_42_Choice4","ベルベットルームから出る",""
+"msg_42_Choice4","ベルベットルームから出る","벨벳 룸에서 나간다"
 "msg_43","[color(yellow)]悪魔絵師[color(white)]
 さて、何について語ろうか。
 [end_choice][clear][end]",""
-"msg_43_Choice1","世間話を聞く",""
+"msg_43_Choice1","世間話を聞く","잡담을 한다"
 "msg_43_Choice2","カード作成について聞く",""
 "msg_43_Choice3","[if_all(EBIT_SINARIOFF)]非表示項目","[if_all(EBIT_SINARIOFF)]비표시 항목"
 "msg_44","[color(yellow)]悪魔絵師[color(white)]
