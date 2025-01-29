@@ -2,107 +2,187 @@
 "msg_0","[color(yellow)]本庁の刑事[color(white)]
 じゃあ、吉栄杏奈さんは、
 金田にひき逃げされてから素行不良になったと…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]본청 형사[color(white)]
+그러면 요시자카 안나 씨는,
+카나다 씨에게 뺑소니를 당하고 태도가 불량해졌다고...
+[sync][wait][clear][end]"
 "msg_1","[color(yellow)]冴子先生[color(white)]
 そうは言ってません！
 ただ、少しナーバスになってるだけです。
 人殺しなんて、できる子じゃないわ！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]사에코 선생[color(white)]
+그런 말이 아니에요!
+그저, 조금 예민할 뿐이죠.
+살인 같은 거를 할 애는 아니라고요!
+[sync][wait][clear][end]"
 "msg_2","[color(yellow)]所轄の若い刑事[color(white)]
 落ち着いてください、先生。
 我々も、その生徒が被疑者と思っているわけでは
 ありません。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]관할구역의 젊은 형사[color(white)]
+진정하시지요, 선생님.
+저희도 그 학생이 피의자라고 단정짓는 것이
+않습니다.
+[sync][wait][clear][end]"
 "msg_3","[color(yellow)]所轄の若い刑事[color(white)]
 大体、あんな殺し方は、大の男でも…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]관할 구역의 젊은 형사[color(white)]
+보통, 그런 살인 방법은 아무리 큰 남자라도...
+[sync][wait][clear][end]"
 "msg_4","[color(yellow)]本庁の刑事[color(white)]
 [suou]巡査部長。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]본청 형사[color(white)]
+[suou] 경위.
+[sync][wait][clear][end]"
 "msg_5","[color(yellow)]本庁の刑事[color(white)]
 まあ、そういうことなんですわ。
 念のためです。
 じゃあ、ご協力どうも。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]본청 형사[color(white)]
+뭐, 그런 겁니다.
+만약을 위한 거죠.
+그러면, 협력해 주셔서 감사드립니다.
+[sync][wait][clear][end]"
 "msg_6","[color(yellow)]冴子先生[color(white)]
 あの…克哉さん、でしたよね？
 [suou]は…
 [tatsuya]君は、家に戻りました？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]사에코 선생[color(white)]
+저기... 카츠야 씨, 였죠?
+[suou]는...
+[tatsuya] 군은 집에 돌아왔나요?
+[sync][wait][clear][end]"
 "msg_7","[color(yellow)]克哉[color(white)]
 …いえ。まだ帰ってないそうです。
 まったくどこで何をしているやら…
 あのバカ者が…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+...아뇨, 돌아오지 않았습니다.
+도대체 어디서 뭘 하고 있는 건지...
+그 멍청한 녀석이...
+[sync][wait][clear][end]"
 "msg_8","[color(yellow)][suou]克哉（[suou]かつや）[color(white)]
 [color(green)]港南警察署、刑事一課強行犯係の若手刑事。
 階級は巡査部長。
 [tatsuya]という弟がいるらしい。[color(white)]
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)][suou]카츠야[color(white)]
+[color(green)]고남경찰서 제1강력범죄 수사반의 젊은 형사.
+직급은 경사(원문: 순사부장)
+[tatsuya]라고 하는 동생이 있는 듯하다.[color(white)]
+[sync][wait][clear][end]"
 "msg_9","[color(yellow)]克哉[color(white)]
 先生にも、ご心配おかけして申し訳ありません。
 では、失礼します。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+선생님도, 걱정을 끼쳐드려 죄송합니다.
+그럼, 실례했습니다.
+[sync][wait][clear][end]"
 "msg_10","[color(yellow)]うらら[color(white)]
 今の人たち…刑事さん？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+지금 온 사람들... 형사죠?
+[sync][wait][clear][end]"
 "msg_11","[color(yellow)]冴子先生[color(white)]
 ええ…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]사에코 선생[color(white)]
+네...
+[sync][wait][clear][end]"
 "msg_12","[color(yellow)]冴子先生[color(white)]
 えーと、キスメット出版の方？
 黛から話は聞いてます。
 うちの生徒たちに、取材したいんですって？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]사에코 선생[color(white)]
+저~, 키스멧 출판에서 오셨죠?
+마유즈미로부터 많이 들었습니다.
+저희 학교의 학생들을 취재하신다고요?
+[sync][wait][clear][end]"
 "msg_13","[color(yellow)]高見冴子（たかみさえこ）[color(white)]
 [color(green)]七姉妹学園、通称セブンスの３－Ｂ担任。
 男っぽくさっぱりとした性格と、
 生徒の自主性を重んじる教育方針で慕われている。[color(white)]
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]타카미 사에코[color(white)]
+[color(green)]칠자매학원, 통칭 세븐스의 3-B 담임.
+남자같은 시원시원한 성격과,
+학생의 자주성에 무게를 둔 교육 방침으로 인기가 많다.[color(white)]
+[sync][wait][clear][end]"
 "msg_14","[color(yellow)]うらら[color(white)]
 ちゃちゃっと済ませて帰りますから！
 お願いできます？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+후딱 끝내고 가겠습니다!
+부탁 드려도 되나요?
+[sync][wait][clear][end]"
 "msg_15","[color(yellow)]冴子先生[color(white)]
 構わないと思うけど…
 あんまり生徒たちを刺激しないでね。
 例の猟奇殺人で、皆落ち着かないみたいだから…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]사에코 선생[color(white)]
+상관은 없지만...
+너무 학생들을 자극하지는 말아주세요.
+그 엽기살인 때문에 학생들이 진정하지를 않아서...
+[sync][wait][clear][end]"
 "msg_16","[color(yellow)]うらら[color(white)]
 まさか…何かあったとか？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+설마... 무슨 일이 있었던 건가요?
+[sync][wait][clear][end]"
 "msg_17","[color(yellow)]冴子先生[color(white)]
 生徒をひき逃げした男が、殺されたらしいの。
 それが、猟奇殺人と関係あるらしくてね…
 何もなきゃいいんだけど…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]사에코 선생[color(white)]
+학생을 뺑소니친 남자가, 살해되었다고 하더라고요.
+그게 기묘살인 사건과 관계가 있는 것 같다고...
+아무 일도 없으면 좋겠는데...
+[sync][wait][clear][end]"
 "msg_18","[color(yellow)]冴子先生[color(white)]
 ＪＯＫＥＲ様の噂？
 ああ、生徒たちが騒いでるやつね。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]사에코 선생[color(white)]
+JOKER님 소문이요?
+아, 학생들이 떠들고 있던 거군요.
+[sync][wait][clear][end]"
 "msg_19","[color(yellow)]冴子先生[color(white)]
 自分の携帯から自分の携帯に電話して
 ＪＯＫＥＲ様にお願いすると、
 気に入らない人を殺してくれるってアレでしょ？
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]사에코 선생[color(white)]
+자신의 휴대전화로 자기 번호로 전화를 하고
+JOKER님에게 소원을 빌면
+마음에 안 드는 사람을 죽일 수 있다고 하는 거 맞나요?
+[wait][clear][end]"
 "msg_20","[color(yellow)]冴子先生[color(white)]
 誰が言い出したんだか知らないけど、嫌な噂だね。
 まだ、占いで騒いでる方が可愛げあるわ…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]사에코 선생[color(white)]
+누가 먼저 말한 거인지도 모르는 기분 나쁜 소문이네요.
+차라리 점 본 거로 떠들고 있으면 좋겠는데...
+[sync][wait][clear][end]"
 "msg_21","[color(yellow)]冴子先生[color(white)]
 とりあえず生徒達には、
 教室に隠れておくよう伝えました。
 早く警察の応援が来てくれるといいけど…
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]사에코 선생[color(white)]
+일단 학생들에게는,
+교실에 숨어 있으라고 말해 두었습니다.
+빨리 경찰 분들이 도와주셨으면...
+[wait][clear][end]"
 "msg_22","[color(yellow)]うらら[color(white)]
 そう言や、デジャ・ヴュの少年も、
 ここの生徒みたいだって、アンタ言ってたわね。
 ひょっとしたら会えるかもよ？
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]우라라[color(white)]
+그러고 보니, 데자뷰의 소년도.
+여기 학생 같다고 하지 않았어?
+드디어 볼 수 있는 거 아니야?
+[wait][clear][end]"
 "msg_23","[color(yellow)]うらら[color(white)]
 ＪＯＫＥＲなんて、ただの噂だと思ってたから…
 だから…私…
-まさか噂が現実になるなんて…[wait][clear][end]",""
+まさか噂が現実になるなんて…[wait][clear][end]","[color(yellow)]우라라[color(white)]
+JOKER 같은 거, 단순히 소문이라고 생각했는데...
+그러니까... 내가...
+설마 소문이 현실이 된다니...[wait][clear][end]"
 "msg_24","[color(yellow)]橿原先生[color(white)]
 いや～どうも。
 私、貴方の会社のオカルト雑誌のファンなんです。
@@ -125,22 +205,37 @@
 "msg_28","[color(yellow)]橿原明成（かしはらあきなり）[color(white)]
 [color(green)]３年生の学年主任を務める世界史教諭。
 風変わりだが、優しい先生として慕われている。[color(white)]
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]카시하라 아키나리[color(white)]
+[color(green)]3학년 학생주임으로 일하는 세계사 교사.
+바람기가 있지만 다정한 선생으로 인기가 많다.[color(white)]
+[wait][clear][end]"
 "msg_29","[color(yellow)]橿原先生[color(white)]
 いや～どうも。
 私、貴方の会社のオカルト雑誌のファンなんです。
 ほら、月刊「メー」ってあるでしょう？
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]카시하라 선생[color(white)]
+이야~ 어서오세요.
+저 기자님 회사 오컬트 잡지 팬이에요.
+그, 월간 메... 라고 있지 않나요?
+[wait][clear][end]"
 "msg_30","[color(yellow)]橿原先生[color(white)]
 私も昔は、古代文明のＵＦＯが街の地下にある！
 なんて本を書いたりしたもんですが、ああいうのは
 エンターテイメントとして楽しむのが一番ですね。
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]카시하라 선생카시하라 선생[color(white)]
+저도 옛날에 고대 문명의 UFO가 마을 지하에 있다!
+라는 책을 쓴 적이 있는데, 그런 거는
+재미로 즐기는 게 가장 좋죠.
+[wait][clear][end]"
 "msg_31","[color(yellow)]橿原先生[color(white)]
 あの校長先生が殺されてしまうなんて…
 も、もしや、ラストバタリオンが…
 い…いや、そんな訳ありませんよね。
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]카시하라 선생[color(white)]
+그 교장 선생님이 살해당하셨다니...
+호, 혹시 라스트 바탈리온이라건가...
+아, 아니, 그럴 일은 없지만서도.
+[wait][clear][end]"
 "msg_32","[color(yellow)]麻生先生[color(white)]
 あーそう。当校の生徒を取材しに来たと。
 だけどもう下校時間を過ぎてるので、
@@ -181,7 +276,9 @@
 [wait][clear][end]",""
 "msg_38","[color(green)]舞耶達は、
 [item_with_type(item_ffff)]を手に入れた。[color(white)]
-[wait][clear][end]",""
+[wait][clear][end]","[color(green)]마야 일행은
+[item_with_type(item_ffff)]을(를) 손에 넣었다.[color(white)]
+[wait][clear][end]"
 "msg_39","[color(yellow)]草加先生[color(white)]
 まだ犯人がどこかにいるかもしれんー！！
 それはそれで怖いー！
@@ -191,4 +288,8 @@
 ヘリオス…あれがもう一人の僕だと言うのか…
 自分の知らないもう一人の自分…か。
 しかし、よりによってそれが猫とは皮肉な話だ。
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]카츠야[color(white)]
+헬리오스... 저것이 나의 또 다른 자신인가...
+자기도 모르는 또 하나의 나라니...
+하지만, 하필이면 고양이라니 얄궂은 일이군.
+[wait][clear][end]"
