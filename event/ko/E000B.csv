@@ -1,51 +1,84 @@
 "location","source","target"
 "msg_0","[color(yellow)]克哉[color(white)]
 無事か…君達…？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+무사한가... 그쪽은...?
+[sync][wait][clear][end]"
 "msg_1","[color(yellow)]うらら[color(white)]
 取り敢えず…生きちゃいるみたい…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+일단은... 살아 있는 것 같네...
+[sync][wait][clear][end]"
 "msg_2","[color(yellow)]克哉[color(white)]
 [suou]です。島津管理官に連絡を…
 七姉妹学園で５０１号と接触、
 被疑者は同校校長を殺害、逃走中です。至急…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+[suou]입니다. 시마즈 관리관에게 연락을...
+칠자매 학원에서 501호와 접촉,
+피의자의 학교 교장을 살해 후 도주중입니다. 시급히...
+[sync][wait][clear][end]"
 "msg_3","[color(yellow)]うらら[color(white)]
 あの…
 マーヤ…大丈夫…？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+저기…
+마야... 괜찮아...?
+[sync][wait][clear][end]"
 "msg_4","マーヤ…大丈夫…？
-[end_choice][clear][end]",""
-"msg_4_Choice1","うららこそ、だいじょぶ…？",""
-"msg_4_Choice2","なんとか…ね。",""
+[end_choice][clear][end]","마야... 괜찮아...?
+[end_choice][clear][end]"
+"msg_4_Choice1","うららこそ、だいじょぶ…？","우라라는 괜찮아...?"
+"msg_4_Choice2","なんとか…ね。","어찌 되었든... 괜찮아."
 "msg_5","[color(yellow)]うらら[color(white)]
 う、うん…
 私は、大丈夫だけどさ…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+으, 응...
+나는 괜찮은데 말이야...
+[sync][wait][clear][end]"
 "msg_6","[color(yellow)]うらら[color(white)]
 そう…よかった…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+그래... 다행이다...
+[sync][wait][clear][end]"
 "msg_7","[color(yellow)]克哉[color(white)]
 もうすぐ応援が来る。
 僕は先の女生徒を追うから、君達はここで待て…
 というわけにも行かないか…君も狙われてる。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+곧 지원이 올거다.
+나는 여학생을 쫓을 테니, 여기서 기다...
+...리라 할 수는 없지... 그 쪽도 노려지고 있지 않나.
+[sync][wait][clear][end]"
 "msg_8","[color(yellow)]うらら[color(white)]
 なんであの子を？
 犯人は、さっきの紙袋じゃないわけ？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+어째서 그 애를 쫓는거야?
+범인은 빵봉투 녀석이지 않아?
+[sync][wait][clear][end]"
 "msg_9","[color(yellow)]克哉[color(white)]
 奴の言葉通りなら、これは嘱託殺人だ。
 彼女が依頼した可能性は否定できない。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+그 녀석 말대로라면, 이건 청부살인이니까.
+그녀가 의뢰자일 가능성도 배제할 수는 없지.
+[sync][wait][clear][end]"
 "msg_10","[color(yellow)]うらら[color(white)]
 確かにあの子、殺してやるとか言ってたけど…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+확실히 그 애가 죽여버린다고 했지만...
+[sync][wait][clear][end]"
 "msg_11","[color(yellow)]うらら[color(white)]
 これって…さっきの夢と関係あるわけ…？
 「噂が現実になる」とか言ってたけど…
 ＪＯＫＥＲの噂が本当になったってこと…？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+이건... 그 꿈과 관계가 있는 건가...?
+""소문이 현실이 된다""고 하긴 했지만...
+JOKER의 소문이 진짜가 된 건가...?
+[sync][wait][clear][end]"
 "msg_12","[color(yellow)]克哉[color(white)]
 あり得ない…と言いたい所だが、
 あんなものを立て続けに見ては、自信がない。
