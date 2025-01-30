@@ -2,25 +2,42 @@
 "msg_0","[color(yellow)]うらら[color(white)]
 な…何アレ…[delay(30)]
 な…何がどうなっちゃってんのよぅ！？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+뭐... 뭐야 저게...[delay(30)]
+도... 도대체 무슨 일이 벌어지고 있는 거야!?
+[sync][wait][clear][end]"
 "msg_1","[color(yellow)]何者かの声[color(white)]
 見りゃわかんだろ？
 悪魔だよ、悪魔。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]누군가의 목소리[color(white)]
+보면 알잖아?
+악마지, 악마.
+[sync][wait][clear][end]"
 "msg_2","[color(yellow)]克哉[color(white)]
 あ、悪魔…？
 何者だ貴様！？
 それに、この感じは…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+아, 악마...?
+너는 누구냐!?
+게다가, 이 느낌은...
+[sync][wait][clear][end]"
 "msg_3","[color(yellow)]紙袋の男[color(white)]
 手紙、受け取ったろ？
 俺だよ。
 ＪＯＫＥＲだよ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]빵봉투를 쓴 남자[color(white)]
+편지를 받았잖아?
+나야.
+JOKER라고.
+[sync][wait][clear][end]"
 "msg_4","[color(yellow)]ＪＯＫＥＲ[color(white)]
 [color(green)]自分の携帯から自分の携帯へ電話する事で、
 殺人を依頼できると噂される怪人。[color(white)]
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]ＪＯＫＥＲ[color(white)]
+[color(green)]자기 전화로 자기 번호로 전화하면,
+살인 의뢰를 받아준다는 그 이상한 사람.[color(white)]
+[sync][wait][clear][end]"
 "msg_5","[color(yellow)]舞耶[color(white)]
 ………！！
 [sync][wait][clear][end]",""
@@ -28,66 +45,117 @@
 依頼、受けたからなぁ。
 お前を殺しに来たんだよ。
 噂でそう決まってんだ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]ＪＯＫＥＲ[color(white)]
+의뢰를 받았으니,
+너를 죽이러 왔다.
+소문으로 그렇게 결정된 거지.
+[sync][wait][clear][end]"
 "msg_7","[color(yellow)]うらら[color(white)]
 な…！？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+뭐...!?
+[sync][wait][clear][end]"
 "msg_8","[color(yellow)]ＪＯＫＥＲ[color(white)]
 天野舞耶…
 お前のことは、よぉく知ってるぜ…
 お前が「向こう側」で、何をしてきたかもなぁ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]ＪＯＫＥＲ[color(white)]
+아마노 마야...
+너에 대해서는, 아~주 잘 알고 있지...
+너가 ""그 쪽""에서 뭘 하고 왔는지~.
+[sync][wait][clear][end]"
 "msg_9","[color(yellow)]ＪＯＫＥＲ[color(white)]
 ペルソナ、出してみろよ。
 じゃねぇと、こいつらに食われちまうぜ？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]ＪＯＫＥＲ[color(white)]
+페르소나, 꺼내봐.
+안 그러면, 이 녀석들에게 잡아먹힌다고?
+[sync][wait][clear][end]"
 "msg_10","[color(yellow)]ＪＯＫＥＲ[color(white)]
 そのチャカ（拳銃）使ったっていい。
 使えんだろ？
 両手でＢＡＮＧＢＡＮＧ！ってよぉ…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]ＪＯＫＥＲ[color(white)]
+그 챠카(권총)을 쓰든가.
+쓸 수 있잖아?
+양 손으로 빵야! 빵야! 하면서...
+[sync][wait][clear][end]"
 "msg_11","[color(yellow)]克哉[color(white)]
 広域強行犯５０１号！
 銃刀法違反、並びに脅迫の現行犯で逮捕する！！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+강력범죄자 501호!
+총도법 위반과 협박죄 현행범으로 체포한다!!
+[sync][wait][clear][end]"
 "msg_12","[color(yellow)]ＪＯＫＥＲ[color(white)]
 ペルソナだよ、ペルソナぁ！！
 ペルソナ出してみろぉ！！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]ＪＯＫＥＲ[color(white)]
+페르소나라고, 페르소나!!
+페르소나를 꺼내!!
+[sync][wait][clear][end]"
 "msg_13","[color(yellow)]克哉[color(white)]
 何だ…この感じは！？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+뭐지... 이 느낌은!?
+[sync][wait][clear][end]"
 "msg_14","[color(yellow)]ヘリオス[color(white)]
 我はヘリオス…
 古の日輪率いて、世の彼者誰時を破る者！
 我、汝が戦車の忠実なる御者とならん！！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]헬리오스[color(white)]
+나는 헬리오스...
+오래 태양 마차를 끌고 어스름을 깨트리는 자!
+나, 그대의 전차의 충실한 마부가 되리라!!
+[sync][wait][clear][end]"
 "msg_15","[color(yellow)]うらら[color(white)]
 きゃああ！
 もうイヤぁ！！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+꺄악!
+더는 싫어!!
+[sync][wait][clear][end]"
 "msg_16","[color(yellow)]カリスト[color(white)]
 妾はカリスト…
 最も美しき者と謳われしニンフが一人…
 艶事に疲れし現身よ、汝に真の愛を教えましょう。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]칼리스토[color(white)]
+소녀는 칼리스토...
+가장 아름답다고 칭송받는 님프 중 하나...
+정사에 지친 현신이여, 그대에게 사랑을 가르치겠습니다.
+[sync][wait][clear][end]"
 "msg_17","[color(yellow)]舞耶[color(white)]
 ………！？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]마야[color(white)]
+......!?
+[sync][wait][clear][end]"
 "msg_18","[color(yellow)]マイア[color(white)]
 我は汝…汝は我…
 我は汝の心の海より出でし者…
 英明なる母マイアなり…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]마이아[color(white)]
+나는 그대... 그대는 나...
+나는 그대의 마음의 바다에서 태어난 자...
+영명한 어머니 마이아일지니...
+[sync][wait][clear][end]"
 "msg_19","[color(yellow)]ＪＯＫＥＲ[color(white)]
 ヒャハ…！
 いいぞ、その調子だぁ！！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]ＪＯＫＥＲ[color(white)]
+햐하...!
+좋아, 그 모습!!
+[sync][wait][clear][end]"
 "msg_20","[color(yellow)]ＪＯＫＥＲ[color(white)]
 だがよぉ、お前は今は殺さねぇ…
 悪魔どもを差し向けて、ジワジワ嬲殺してやる。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]ＪＯＫＥＲ[color(white)]
+하지만, 너는 지금은 안 죽일거야...
+악마를 시켜 괴롭혀서 서서히 죽여주지.
+[sync][wait][clear][end]"
 "msg_21","[color(yellow)]ＪＯＫＥＲ[color(white)]
 思い出せぇ！
 運命からは逃げられねぇって事をよぉ！！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]ＪＯＫＥＲ[color(white)]
+명심해라!
+운명으로부터 도망칠 수 없다는 사실을!!
+[sync][wait][clear][end]"
