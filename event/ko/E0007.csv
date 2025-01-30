@@ -2,62 +2,107 @@
 "msg_0","[color(yellow)]ハンニャ校長[color(white)]
 吉栄杏奈！
 貴様、なんだその反抗的な態度は！！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]한냐 교장[color(white)]
+요시자카 안나!
+자네, 그런 반항적인 태도는 뭔가!!
+[sync][wait][clear][end]"
 "msg_1","[color(yellow)]反谷校長（はんやこうちょう）[color(white)]
 [color(green)]エルミン学園から転勤してきた新校長。
 前の学校ではハンニャの通称で嫌われていたが、
 七姉妹学園でもやはり嫌われている。[color(white)]
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]한야 교장[color(white)]
+[color(green)]에르민 학원에서 전근한 새로운 교장.
+전에 있던 학교에서도 한냐라는 별명으로 미움받았지만,
+칠자매 학원에서는 더 빨리 미움받고 있다.[color(white)]
+[sync][wait][clear][end]"
 "msg_2","[color(yellow)]ハンニャ校長[color(white)]
 そんな事だから警察沙汰まで起こすのだ！
 どうせ、お前が犯人なんだろう？
 ひき逃げされたのを恨んで殺したか！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]한냐 교장[color(white)]
+그러니까 경찰서까지 불려간 거 아니냐!
+어차피, 자네가 범인이지 않나?
+뺑소니를 쳤어도 그렇지 살인을 하다니!
+[sync][wait][clear][end]"
 "msg_3","[color(yellow)]杏奈[color(white)]
 私は何もしてない…！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]안나[color(white)]
+나는 살인따위 하지 않았어...!
+[sync][wait][clear][end]"
 "msg_4","[color(yellow)]吉栄杏奈（よしざかあんな）[color(white)]
 [color(green)]３－Ｂの生徒。
 今ではすっかり荒んでしまったが、
 事故に遭うまでは、高校陸上界期待の星だった。[color(white)]
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]요시자카 안나[color(white)]
+[color(green)]3-B반 학생.
+지금은 아주 불량해졌지만,
+사고 전에는 촉망받는 고교 육상 기대주였다.[color(white)]
+[sync][wait][clear][end]"
 "msg_5","[color(yellow)]ノリコ[color(white)]
 ひどい…
 お姉様は人殺しなんてしてません！！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]노리코[color(white)]
+너무하세요...
+언니는 살인 같은 거 하지 안 해요!!
+[sync][wait][clear][end]"
 "msg_6","[color(yellow)]片山典子（かたやまのりこ）[color(white)]
 [color(green)]杏奈に憧れ七姉妹学園に入学した２－Ｂの生徒。
 陸上部に所属している。[color(white)]
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카타야마 노리코[color(white)]
+[color(green)]언니를 동경하여 칠자매 학원에 입학한 2-B반 학생.
+육상부에 소속되어 있다.[color(white)]
+[sync][wait][clear][end]"
 "msg_7","[color(yellow)]ハンニャ校長[color(white)]
 ふん、わかるものか。
 インターハイ選手だからと目をつむってきたが、
 お前なぞ、走れなくなればただの役立たずだ！！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]한냐 교장[color(white)]
+흥, 알까 보냐.
+인터하이 선수라고 눈 감아 줬지만,
+자네는 달리지 못 하면 아무 쓸모도 없다!!
+[sync][wait][clear][end]"
 "msg_8","[color(yellow)]ハンニャ校長[color(white)]
 中退届けならいつでも受理してやる。
 仲間の[suou]共々、早く辞めるがよいわ！！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]한냐 교장[color(white)]
+자퇴라면 기꺼이 받아주지.
+친구인 [suou]랑 같이 손 잡고 나가게!!
+[sync][wait][clear][end]"
 "msg_9","[color(yellow)]うらら[color(white)]
 ちょっとアンタ！
 あそこまで言われて黙ってる気！？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+잠깐만, 학생!
+저렇게까지 말 하는데 가만히 있을 거야!?
+[sync][wait][clear][end]"
 "msg_10","[color(yellow)]杏奈[color(white)]
 誰…あんたたち…？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]안나[color(white)]
+누구야... 당신들...?
+[sync][wait][clear][end]"
 "msg_11","[color(yellow)]杏奈[color(white)]
 雑誌の…？そう…どうせあんたたちも、
 私が殺したと思ってるんでしょ…
 好きなように書けばいいわ…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]안나[color(white)]
+잡지라고? 그래, 어차피 당신네들도,
+내가 죽였다고 생각하는 거지...?
+좋을 데로 써...
+[sync][wait][clear][end]"
 "msg_12","[color(yellow)]杏奈[color(white)]
 あいつ…殺してやる…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]안나[color(white)]
+저 자식... 죽여버리겠어...
+[sync][wait][clear][end]"
 "msg_13","[color(yellow)]うらら[color(white)]
 いくら何でも、ありゃヒドイわ。
 あの親父探して、文句言ってやろう。
 マーヤ！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+아무리 그래도 저건 심하지.
+그 아저씨에게 한 마디 해주자고.
+마야!
+[sync][wait][clear][end]"
 "msg_14","[color(yellow)]うらら[color(white)]
 あの親父、きっと校長室でふん反り返ってるって！
 私、あーいうのが一番頭くんのよ。
