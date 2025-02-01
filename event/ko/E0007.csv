@@ -20,36 +20,36 @@
 どうせ、お前が犯人なんだろう？
 ひき逃げされたのを恨んで殺したか！
 [sync][wait][clear][end]","[color(yellow)]한냐 교장[color(white)]
-그러니까 경찰서까지 불려간 거 아니냐!
+그러니까 경찰서까지 불려간 거 아니겠나!
 어차피, 자네가 범인이지 않나?
-뺑소니를 쳤어도 그렇지 살인을 하다니!
+뺑소니를 당한 것에 앙심을 품고 죽인 것 아닌가!
 [sync][wait][clear][end]"
 "msg_3","[color(yellow)]杏奈[color(white)]
 私は何もしてない…！
 [sync][wait][clear][end]","[color(yellow)]안나[color(white)]
-나는 살인따위 하지 않았어...!
+나는 아무 짓도 안 했어요...!
 [sync][wait][clear][end]"
 "msg_4","[color(yellow)]吉栄杏奈（よしざかあんな）[color(white)]
 [color(green)]３－Ｂの生徒。
 今ではすっかり荒んでしまったが、
 事故に遭うまでは、高校陸上界期待の星だった。[color(white)]
 [sync][wait][clear][end]","[color(yellow)]요시자카 안나[color(white)]
-[color(green)]3-B반 학생.
+[color(green)]3학년 B반 학생.
 지금은 아주 불량해졌지만,
-사고 전에는 촉망받는 고교 육상 기대주였다.[color(white)]
+사고를 당하기 전에는 촉망받는 고교 육상 기대주였다.[color(white)]
 [sync][wait][clear][end]"
 "msg_5","[color(yellow)]ノリコ[color(white)]
 ひどい…
 お姉様は人殺しなんてしてません！！
 [sync][wait][clear][end]","[color(yellow)]노리코[color(white)]
 너무하세요...
-언니는 살인 같은 거 하지 안 해요!!
+언니는 살인 같은 건 하지 않았어요!!
 [sync][wait][clear][end]"
 "msg_6","[color(yellow)]片山典子（かたやまのりこ）[color(white)]
 [color(green)]杏奈に憧れ七姉妹学園に入学した２－Ｂの生徒。
 陸上部に所属している。[color(white)]
 [sync][wait][clear][end]","[color(yellow)]카타야마 노리코[color(white)]
-[color(green)]언니를 동경하여 칠자매 학원에 입학한 2-B반 학생.
+[color(green)]언니를 동경하여 칠자매 학원에 입학한 2학년 B반 학생.
 육상부에 소속되어 있다.[color(white)]
 [sync][wait][clear][end]"
 "msg_7","[color(yellow)]ハンニャ校長[color(white)]
@@ -58,8 +58,8 @@
 お前なぞ、走れなくなればただの役立たずだ！！
 [sync][wait][clear][end]","[color(yellow)]한냐 교장[color(white)]
 흥, 알까 보냐.
-인터하이 선수라고 눈 감아 줬지만,
-자네는 달리지 못 하면 아무 쓸모도 없다!!
+인터하이 선수라는 이유로 지금까지 눈감아줬지만,
+자네는 달리지 못 하게 되면 아무 쓸모도 없단 말이다!!
 [sync][wait][clear][end]"
 "msg_8","[color(yellow)]ハンニャ校長[color(white)]
 中退届けならいつでも受理してやる。
@@ -87,7 +87,7 @@
 [sync][wait][clear][end]","[color(yellow)]안나[color(white)]
 잡지라고? 그래, 어차피 당신네들도,
 내가 죽였다고 생각하는 거지...?
-좋을 데로 써...
+좋을 대로 써...
 [sync][wait][clear][end]"
 "msg_12","[color(yellow)]杏奈[color(white)]
 あいつ…殺してやる…
@@ -107,29 +107,50 @@
 あの親父、きっと校長室でふん反り返ってるって！
 私、あーいうのが一番頭くんのよ。
 絶対文句言っちゃる！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+그 아저씨, 분명 거만 떨면서 교장실로 돌아갔을 거라니깐!
+나, 저런 게 가장 열받는단 말이야.
+반드시 한 마디 해 주겠어!
+[sync][wait][clear][end]"
 "msg_15","[color(yellow)]ノリコ[color(white)]
 ひどすぎる…
 出世が叶うって占いが当たって
 校長になっただけなのに、あんな言い草…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]노리코[color(white)]
+너무해...
+출세가 이루어진다는 점괘가 맞아떨어져서
+교장이 되었을 뿐이면서, 저런 식으로 말하다니...
+[sync][wait][clear][end]"
 "msg_16","[color(yellow)]ノリコ[color(white)]
 反面、お姉様はちょうど「女媧（じょか）」の時で
 ツイてなくてあんな事に…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]노리코[color(white)]
+그에 비해서, 언니는 ""여와""의 때에 조금
+운이 없었다는 이유만으로 이런 일이...
+[sync][wait][clear][end]"
 "msg_17","[color(yellow)]男子生徒[color(white)]
 吉栄、今「女媧（じょか）」なんだよな…
 え？ワンロン占いの女媧、知らないの？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]남학생[color(white)]
+에이키치, 지금 ""여와""란 말이지...
+응? 왕롱점의 여와, 모르는 거야?
+[sync][wait][clear][end]"
 "msg_18","[color(yellow)]男子生徒[color(white)]
 守護龍がこの周期に入ると凶運に見舞われるんだ。
 他の占いでも、天中殺とか暗剣殺とかあるでしょ？
 まあ、スランプみたいなもんだね。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]남학생[color(white)]
+수호룡이 이 주기에 들어가면 흉운이 닥쳐오는 거야.
+다른 점술에도 천중살이라든가 암검살이라든가 있잖아?
+뭐어, 슬럼프 비슷한 거지.
+[sync][wait][clear][end]"
 "msg_19","[color(yellow)]女子生徒[color(white)]
 吉栄先輩、やっぱり轢かれた腹いせに
 ＪＯＫＥＲ呪いやっちゃったんですかね？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]여학생[color(white)]
+에이키치 선배, 역시 뺑소니를 당한 분풀이로
+JOKER 놀이를 해버린 걸까요?
+[sync][wait][clear][end]"
 "msg_20","[color(yellow)]岡村真夜先生[color(white)]
 この岩、いかにも曰く有りげでしょう？
 でも、調べても何もなりませんよ。
@@ -138,7 +159,11 @@
 [color(green)]２－Ｃ担任の世界史教諭。
 下の名前が、舞耶と一緒だ。
 何となく、どこかで会った気がする…[color(white)]
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]오카무라 마야[color(white)]
+[color(green)]2학년 C반의 담임인 세계사 교사.
+이름이 마야와 똑같다.
+왠지 모르게, 어딘가에서 만난 적 있다는 느낌이 든다...[color(white)]
+[sync][wait][clear][end]"
 "msg_22","[color(yellow)]岡村真夜先生[color(white)]
 あの…貴方、どこかでお会いしました？
 いえ、何となく…そんな気がしたものですから。
@@ -146,28 +171,50 @@
 "msg_23","[color(yellow)]岡村真夜先生[color(white)]
 この岩、いかにも曰く有りげでしょう？
 でも、調べても何もなりませんよ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]오카무라 마야 선생[color(white)]
+이 바위, 아무리 봐도 뭔가 있어 보이죠?
+하지만, 조사해 봐도 아무것도 없어요.
+[sync][wait][clear][end]"
 "msg_24","[color(yellow)]岡村真夜先生[color(white)]
 あの…貴方、どこかでお会いしました？
 いえ、何となく…そんな気がしたものですから。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]오카무라 마야 선생[color(white)]
+저기... 당신, 어디선가 만났던가요?
+아뇨, 왠지... 그런 느낌이 들어서요.
+[sync][wait][clear][end]"
 "msg_25","[color(yellow)]教師[color(white)]
 吉栄も、昔は真面目な生徒だったんですがね…
 今では、問題児の[suou]とクラブなんぞに
 入り浸ってるという噂です。やれやれ…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]교사[color(white)]
+에이키치도 옛날엔 성실한 학생이었습니다만...
+지금은 문제아 [suou]와 클럽 따위에
+드나든다는 소문이 있습니다. 나 원 참...
+[sync][wait][clear][end]"
 "msg_26","[color(yellow)]偉大なる反谷校長を称える像[color(white)]
 [color(green)]「私を見ろ！！私に従え！！私を頼るな！！」
 と、矛盾した迷言が記されている。
 見ていると、何やら無性に腹が立ってくる…[color(white)]
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]위대한 한야 교장을 기리는 동상[color(white)]
+[color(green)]""나를 보아라!! 나를 따르라!! 나에게 의지하지 마라!!""
+라고, 모순적이고 의미를 모르겠는 말이 쓰여있다.
+보고 있자니, 왠지 괜히 화가 치미는 느낌이다...[color(white)]
+[sync][wait][clear][end]"
 "msg_27","[color(yellow)]鳴羅門石[color(white)]
 [color(green)]学園建設当初に出土した巨岩。
 岩質はサマタイトだが、
 磁気異常が観測されている。[color(white)]
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]나루라토석[color(white)]
+[color(green)]학원 설립 당시에 출토된 거대한 바위.
+암질은 화강암이지만,
+자기 이상이 관측된다.[color(white)]
+[sync][wait][clear][end]"
 "msg_28","[color(yellow)]鳴羅門石[color(white)]
 [color(green)]伝説では、鳴羅門火手怖（なるらとほてふ）
 なる邪鬼を、比麗文上人（ひれもんしょうにん）が
 封じた守護石だと言われている。[color(white)]
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]나루라토석[color(white)]
+[color(green)]전설로 내려오는 바에 따르면, 나루라토호테후
+라는 요괴를, 히레몬쇼닌이
+봉인한 수호석이라고 일컬어지고 있다.[color(white)]
+[sync][wait][clear][end]"
