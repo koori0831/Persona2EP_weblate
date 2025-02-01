@@ -47,16 +47,16 @@
 僕は先の女生徒を追うから、君達はここで待て…
 というわけにも行かないか…君も狙われてる。
 [sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
-곧 지원이 올거다.
+곧 지원이 올 거다.
 나는 여학생을 쫓을 테니, 여기서 기다...
-...리라 할 수는 없지... 그 쪽도 노려지고 있지 않나.
+...리라고 할 수도 없나... 그 쪽도 노려지고 있으니.
 [sync][wait][clear][end]"
 "msg_8","[color(yellow)]うらら[color(white)]
 なんであの子を？
 犯人は、さっきの紙袋じゃないわけ？
 [sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
 어째서 그 애를 쫓는거야?
-범인은 빵봉투 녀석이지 않아?
+범인은 아까 그 빵봉투 녀석이지 않아?
 [sync][wait][clear][end]"
 "msg_9","[color(yellow)]克哉[color(white)]
 奴の言葉通りなら、これは嘱託殺人だ。
@@ -82,39 +82,69 @@ JOKER의 소문이 진짜가 된 건가...?
 "msg_12","[color(yellow)]克哉[color(white)]
 あり得ない…と言いたい所だが、
 あんなものを立て続けに見ては、自信がない。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+말도 안 된다...고 하고 싶지만,
+저런 걸 연이어 보고 나니, 자신이 없어지는군.
+[sync][wait][clear][end]"
 "msg_13","[color(yellow)]克哉[color(white)]
 ただ、我々の無意識が夢の形を借りて、
 啓示や示唆を与える事は心理学でも認められてる。
 今は、それに類する事と捉えるしかない。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+다만, 우리의 무의식이 꿈의 형식을 빌려서
+계시나 암시를 내려주는 것은 심리학에서도 인정된 바다.
+지금은, 그와 비슷한 일이라고 볼 수밖에 없겠지.
+[sync][wait][clear][end]"
 "msg_14","[color(yellow)]うらら[color(white)]
 それで、あんな冷静だったわけ…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+그래서 그렇게나 침착했다, 라는 건가...
+[sync][wait][clear][end]"
 "msg_15","[color(yellow)]克哉[color(white)]
 君は僕と一緒に来てくれ。
 独りにはできない。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+그쪽은 나를 따라와 줘.
+혼자 둘 수는 없으니.
+[sync][wait][clear][end]"
 "msg_16","[color(yellow)]うらら[color(white)]
 わ、私も行くわよ…
 友達だしさ…
 こんな所に置いてかれたら、たまんないわ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+나, 나도 가겠어...
+친구가도 하고...
+이런 곳에 내버려졌다간, 견딜 수도 없을 거야.
+[sync][wait][clear][end]"
 "msg_17","[color(yellow)]克哉[color(white)]
 わかった…超法規的措置だ。
 奴が置いて行った銃を渡しておく。
 身を守る以外、絶対人に向けるな。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+알았다... 초법규적 조치다.
+녀석이 두고 간 총을 주겠다.
+몸을 지킬 때 이외에는 절대로 사람에게 겨누지 마.
+[sync][wait][clear][end]"
 "msg_18","[color(yellow)]うらら[color(white)]
 わ、私はいいわ…こんなもん。
 これでもボクシング習ってるからさ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+나, 난 됐어... 이런 거.
+이래 보여도 복싱 배우고 있으니까.
+[sync][wait][clear][end]"
 "msg_19","[color(yellow)]冴子先生[color(white)]
 どうしたの！？
 凄い音がしたけど…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]사에코 선생[color(white)]
+어떻게 된 거죠!?
+엄청난 소리가 들렸는데...
+[sync][wait][clear][end]"
 "msg_20","[color(yellow)]克哉[color(white)]
 校長が殺害されました。
 すぐ応援が来ますから安心して。
 生徒を教室から出さないよう、指示願います。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]克哉[color(white)]
+교장 선생이 살해당했습니다.
+곧 지원이 올테니 안심하세요.
+학생들을 교실에서 내보내지 않도록 지시해 주셨으면 합니다.
+[sync][wait][clear][end]"
