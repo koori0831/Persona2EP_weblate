@@ -2,35 +2,57 @@
 "msg_0","[color(yellow)]うらら[color(white)]
 ぎゃぁぁぁぁぁぁ！
 ま、また人が死んでるぅ～！！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+꺄아아아아아악!
+또, 또 사람이 죽어있어엇~!!
+[sync][wait][clear][end]"
 "msg_1","[color(yellow)]パオフゥ[color(white)]
 でけぇ声で騒ぐな…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]파오후[color(white)]
+큰 목소리로 소란 피우지 말라고...
+[sync][wait][clear][end]"
 "msg_2","[color(yellow)]克哉[color(white)]
 カタギじゃないな…全員帯銃してる。
 「黒星」…全弾発砲済みか。
 裂傷、刺傷、全身打撲、頭蓋損傷…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+일반인은 아니군... 전부 총을 소지하고 있어.
+""쿠로보시""... 탄은 전부 발사한 상태인가.
+열상, 자상, 전신 타박상, 두개골 손상...
+[sync][wait][clear][end]"
 "msg_3","[color(yellow)]克哉[color(white)]
 襲撃に来たが、悪魔に返り討ちにされた…
 そんなところか。
 日本人じゃない。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+습격할 목적으로 왔지만 악마에게 역으로 당했다...
+라고 봐야 하는 건가.
+일본인이 아니군.
+[sync][wait][clear][end]"
 "msg_4","[color(yellow)]パオフゥ[color(white)]
 天道連（ティエンタオリェン）だ…
 台湾のマフィアだよ。
 知った顔がいる…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]パオフゥ[color(white)]
+천도련(티엔타오롄)이다...
+대만의 마피아지.
+아는 얼굴도 있어...
+[sync][wait][clear][end]"
 "msg_5","[color(yellow)]克哉[color(white)]
 お仲間か…？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+동료인가...?
+[sync][wait][clear][end]"
 "msg_6","[color(yellow)]パオフゥ[color(white)]
 もう一度言ってみな…顔に穴開くぜ…？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]파오후[color(white)]
+한 번만 더 그런 소릴 지껄였다간... 얼굴에 총알구멍이 뚫릴 거라고...?
+[sync][wait][clear][end]"
 "msg_7","もう一度言ってみな…顔に穴開くぜ…？
-[end_choice][clear][end]",""
-"msg_7_Choice1","や、止めてよ克哉さん。",""
-"msg_7_Choice2","や、止めてよパオフゥ…",""
+[end_choice][clear][end]","한 번만 더 그런 소릴 지껄였다간... 얼굴에 총알구멍이 뚫릴 거라고...?
+[end_choice][clear][end]"
+"msg_7_Choice1","や、止めてよ克哉さん。","그, 그만 해요, 카츠야 씨."
+"msg_7_Choice2","や、止めてよパオフゥ…","그, 그만 해요, 파오후…"
 "msg_8","[color(yellow)]パオフゥ[color(white)]
 チッ…こいつらは、竜蔵の犬だ。
 野郎は、５年前、法務大臣だった頃から
@@ -49,34 +71,61 @@
 チッ…こいつらは、竜蔵の犬だ。
 野郎は、５年前、法務大臣だった頃から
 こいつらとねんごろなのさ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]파오후[color(white)]
+칫... 이놈들은 타츠조의 개다.
+그 자식은, 5년 전에 법무부 장관이었을 때부터
+이놈들하고 내통하고 있었지.
+[sync][wait][clear][end]"
 "msg_12","[color(yellow)]克哉[color(white)]
 …ちょっと待て。
 竜蔵とつながってるマフィアが、
 なぜ、奴の息子がいる病院を襲う？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+...잠깐,
+타츠조와 이어져 있는 마피아가
+어째서 놈의 아들이 있는 병원을 습격한 거지?
+[sync][wait][clear][end]"
 "msg_13","[color(yellow)]パオフゥ[color(white)]
 知るか、んなこたぁ。
 そいつを調べに来たんだろうが。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]파오후[color(white)]
+알까 보냐, 그런 걸.
+그걸 조사하러 온 거잖아.
+[sync][wait][clear][end]"
 "msg_14","[color(yellow)]壊れた扉[color(green)]
 ここには入れない。[color(white)]
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]부서진 문[color(green)]
+이곳으로는 들어갈 수 없다.[color(white)]
+[sync][wait][clear][end]"
 "msg_15","[color(yellow)]うらら[color(white)]
 ここんとこ、私腰ぬかしてばっかだわ…
 なんでこんな事に付き合わなきゃなんないわけ？
 なんで噂がほんとになんかなんのよぉ…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+나, 여기에 와선 겁만 내고 제대로 움직이지도 못하고 있네... ここんとこ、私腰ぬかしてばっかだわ…
+왜 이런 일에 휘말려야 하는 거야?
+왜 소문이 진짜로 이루어지는 거냐고오...
+[sync][wait][clear][end]"
 "msg_16","[color(yellow)]パオフゥ[color(white)]
 こんな有り様じゃ、この先何があるかわからねぇ…
 準備はいいか？
 戻るんなら今のうちだぜ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]파오후[color(white)]
+이런 상태라면, 이 앞에 무엇이 있을지는 알 수 없어...
+준비는 됐나?
+돌아갈 생각이라면 지금밖에 없다고.
+[sync][wait][clear][end]"
 "msg_17","[color(yellow)]克哉[color(white)]
 悪魔に殺人鬼、その次はマフィアか…
 まったく、ここは日本だぞ？
 わからん事だらけだよ…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+악마에 살인마, 그 다음은 마피아인가...
+나 원... 여긴 일본이라고?
+이해가 안 되는 일뿐이로군...
+[sync][wait][clear][end]"
 "msg_18","[color(yellow)]台湾マフィアの死体[color(green)]
 凄惨な殺され方をしている…[color(white)]
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]대만 마피아의 시체[color(green)]
+처참하게 살해당한 모양이다...[color(white)]
+[sync][wait][clear][end]"
