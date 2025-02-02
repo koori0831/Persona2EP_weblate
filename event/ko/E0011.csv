@@ -2,113 +2,199 @@
 "msg_0","[color(yellow)]パオフゥ[color(white)]
 …そういうわけかい。
 おもしれぇ…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]파오후[color(white)]
+...그렇게 된 건가.
+재미있는걸...
+[sync][wait][clear][end]"
 "msg_1","[color(yellow)]克哉[color(white)]
 …僕たちが知ってる事は大体話した。
 今度はそっちの番だ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+...우리들이 알고 있는 건 대부분 이야기했어.
+이번엔 그쪽이 얘기할 차례야.
+[sync][wait][clear][end]"
 "msg_2","[color(yellow)]パオフゥ[color(white)]
 俺の調べだと、ＪＯＫＥＲの噂は、
 あるＴＶ番組で取り上げられたことから
 爆発的に広がってる。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]파오후[color(white)]
+내가 조사한 바로는, JOKER의 소문은
+어떤 TV 프로그램에서 다뤄진 것을 계기로
+폭발적으로 퍼져나가고 있어.
+[sync][wait][clear][end]"
 "msg_3","[color(yellow)]パオフゥ[color(white)]
 それより前は、
 ＪＯＫＥＲのＪの字も世間にゃ出てねぇ。
 一つ例外を除いてな…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]파오후[color(white)]
+그 이전에는,
+JOKER의 J조차도 세간에 알려진 적이 없어.
+한 가지 예외를 빼면 말이지...
+[sync][wait][clear][end]"
 "msg_4","[color(yellow)]パオフゥ[color(white)]
 どこだと思う…？
 須藤竜蔵の電話だよ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]파오후[color(white)]
+어디라고 생각해...?
+스도우 타츠조의 전화야.
+[sync][wait][clear][end]"
 "msg_5","[color(yellow)]うらら[color(white)]
 スドウタツゾウって誰よ？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+스도우 타츠조가 누군데?
+[sync][wait][clear][end]"
 "msg_6","[color(yellow)]克哉[color(white)]
 現職の外相だ…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+현직 외무부 장관이다...
+[sync][wait][clear][end]"
 "msg_7","[color(yellow)]克哉[color(white)]
 なぜそんな事をお前が知ってる？
 …盗聴か。犯罪だぞ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+그런 걸 어째서 네가 알고 있지?
+...도청인가. 그건 범죄야.
+[sync][wait][clear][end]"
 "msg_8","[color(yellow)]パオフゥ[color(white)]
 硬い事言いなさんなよ…
 野郎は、裏じゃ相当汚ねぇ事に
 手を出してるって噂だ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]파오후[color(white)]
+꽉 막힌 소리 하지 말라고...
+그 자식, 뒤에선 상당히 너저분한 일에
+손을 대고 있다는 소문이 돌고 있어.
+[sync][wait][clear][end]"
 "msg_9","[color(yellow)]パオフゥ[color(white)]
 それに、１０年前の未解決連続殺人に放火…
 あれも野郎の息子の仕業だってな、
 当時の検察や警察の間じゃ、有名な噂だろうが。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]파오후[color(white)]
+게다가, 10년 전의 미해결 연쇄살인에 방화...
+그것도 그 자식의 아들이 벌인 짓이라더군.
+당시의 검찰이나 경찰 사이에선 유명한 소문이었지.
+[sync][wait][clear][end]"
 "msg_10","[color(yellow)]克哉[color(white)]
 それは…本当か！？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+그 이야기... 정말인가!?
+[sync][wait][clear][end]"
 "msg_11","[color(yellow)]パオフゥ[color(white)]
 なんだ…知らねぇのか？
 まぁ、いずれにしろ、今回の事件と言い、
 偶然とは思えねぇだろ？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]파오후[color(white)]
+뭐야... 모르는 건가?
+뭐어, 어찌 됐든 간에, 이번 사건도
+우연이라곤 생각하기 힘들잖아?
+[sync][wait][clear][end]"
 "msg_12","[color(yellow)]うらら[color(white)]
 じゃあ…その須藤竜蔵って外務大臣が、
 ＪＯＫＥＲの事件に関わってるってわけ！？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+그럼... 그 스도우 타츠조라는 외무부 장관이,
+JOKER의 사건이랑 엮여 있다는 거야!?
+[sync][wait][clear][end]"
 "msg_13","[color(yellow)]パオフゥ[color(white)]
 それをこれから「俺達」が調べるんだよ。
 俺を連れて行きな。
 俺は、須藤の息子の所在を掴んでる。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]파오후[color(white)]
+그걸 지금부터 ""우리들""이 조사하는 거야.
+나도 데려가라고.
+스도우의 아들이 있는 곳을 파악하고 있으니까.
+[sync][wait][clear][end]"
 "msg_14","[color(yellow)]パオフゥ[color(white)]
 お前さん達は、ＪＯＫＥＲの手がかりを得る。
 俺は、狙われてる嬢ちゃんの側にいりゃ、
 それだけ真相に近づける…悪い話じゃねぇ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]파오후[color(white)]
+당신네들은 JOKER의 단서를 얻을 수 있고,
+나는 타겟이 된 아가씨 쪽에 있으면
+그것만으로도 진상에 다가갈 수 있다... 나쁘지 않은 거래라고 보는데.
+[sync][wait][clear][end]"
 "msg_15","[color(yellow)]克哉[color(white)]
 …真相を暴いてどうする気だ？
 恐喝が目的か。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+...진상을 파헤쳐서 어떻게 할 생각이지?
+공갈이 목적인가?
+[sync][wait][clear][end]"
 "msg_16","[color(yellow)]パオフゥ[color(white)]
 ヘヘ…義侠心だよ。
 悪党は放っておけねぇってな…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]파오후[color(white)]
+헤헤... 의협심이다.
+악당을 그냥 내버려 둘 수는 없으니 말이야...
+[sync][wait][clear][end]"
 "msg_17","[color(yellow)]克哉[color(white)]
 …どうする？
 狙われてるのは君だ。君が決めたまえ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+...어떻게 할 건가?
+타겟이 된 건 당신이야. 직접 정하도록 해.
+[sync][wait][clear][end]"
 "msg_18","[color(yellow)]パオフゥ[color(white)]
 話がわかるねぇ。
 それじゃあ、一つ試させてもらおうか…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]파오후[color(white)]
+이야기가 통하는구만.
+그럼, 한 가지 시험해 보도록 할까...
+[sync][wait][clear][end]"
 "msg_19","[color(yellow)]パオフゥ[color(white)]
 轟のおっさんか？
 今、パラベラムにいる。
 ここが武器さばいてるって噂、広げてくれ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]파오후[color(white)]
+토도로키 아저씨?
+지금 파라벨럼에 있어.
+여기가 무기를 취급한다는 소문을 퍼뜨려 줘.
+[sync][wait][clear][end]"
 "msg_20","[color(yellow)]うらら[color(white)]
 ちょっと…どういうつもり？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+잠깐... 뭘 어쩔 생각이야?
+[sync][wait][clear][end]"
 "msg_21","[color(yellow)]パオフゥ[color(white)]
 噂が現実になるなんざ、信じられねぇからな…
 試させてもらうのさ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]파오후[color(white)]
+소문이 현실이 된다는 소리, 믿을 수가 없으니까 말이야...
+시험해 봐 달라고 하는 거야.
+[sync][wait][clear][end]"
 "msg_22","[color(yellow)]パオフゥ[color(white)]
 驚いたね…
 本当になりやがった…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]파오후[color(white)]
+이거 놀라운데...
+진짜로 그렇게 돼 버렸잖아...
+[sync][wait][clear][end]"
 "msg_23","[color(yellow)]マスター[color(white)]
 他にも数々の武器を御用意しております。
 ご用命の際はなんなりと…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]마스터[color(white)]
+이 밖에도 여러 종류의 무기를 준비해 두었습니다.
+필요한 것이 있다면 말씀해 주십시오...
+[sync][wait][clear][end]"
 "msg_24","[color(yellow)]うらら[color(white)]
 じゃ、じゃあさ、
 エンブレムの噂も本当になってんじゃない！？
 なんだ…もう大丈夫じゃん、マーヤ！！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+그, 그럼 말야,
+엠블렘의 소문도 진짜가 되어있는 거 아냐!?
+뭐야... 이제 괜찮은 거잖아, 마야!!
+[sync][wait][clear][end]"
 "msg_25","[color(yellow)]パオフゥ[color(white)]
 …で、そのエンブレム、どうすんだい？
 そいつを持ってちゃＪＯＫＥＲを遠ざける。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]파오후[color(white)]
+...그래서, 그 엠블렘, 어떻게 할 거지? …
+그걸 가지고 있으면 JOKER를 멀리할 수 있을 거다.
+[sync][wait][clear][end]"
 "msg_26","[color(yellow)]パオフゥ[color(white)]
 デジャ・ヴュのガキとやらにも会えんぜ？
 なんでそいつがそれを渡したか、考えてみな…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]パオフゥ[color(white)]
+데자뷰의 꼬맹이라는 녀석하고도 만나지 못하게 될 거라구?
+그 녀석이 왜 그걸 건넸는지, 잘 생각해 봐...
+[sync][wait][clear][end]"
