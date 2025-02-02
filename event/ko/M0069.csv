@@ -311,7 +311,16 @@ Business를 하다보면 과자를 받곤 하는데,
 アルカナによっては、私の召喚では出会えないものも
 ございまして…それらのアルカナに出会う為には、
 ご自身の手で色々と試されるのが宜しいでしょう。
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]이고르[color(white)]
+페르소나도 악마와 마찬가지로 종족이 있습니다.[wait][clear][color(yellow)]이고르[color(white)]
+종족은 「마술사」나 「황제」, 「전차」 등…
+타로의 아르카나로 나타나며, 26 종류로
+분류됩니다.
+[wait][clear][color(yellow)]이고르[color(white)]
+아르카나에 따라선 제 소환으로는 만날 수 없는 것도
+있기에… 그 아르카나들을 만나기 위해선
+스스로 여러 가지를 시도해 보는 것이 좋을 것입니다.
+[wait][clear][end]"
 "msg_25","[color(yellow)]イゴール[color(white)]
 ペルソナが人の隠れた一面であるとはいえ、
 意識していなかった、もう１人の自分に触れるのは、
@@ -345,7 +354,40 @@ Business를 하다보면 과자를 받곤 하는데,
 貴方の能力のどの部分に影響を与えるかは、
 降魔しているペルソナの種類によって異なります。
 その点も考慮すると良いでしょうな。
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]이고르[color(white)]
+페르소나가 인간의 감추어진 일면이라고는 하나,
+의식하지 않았던 또 다른 자신에게 접촉하는 것은
+놀랍기도 할 것입니다.
+[wait][clear][color(yellow)]이고르[color(white)]
+누구든 처음에는 페르소나의 힘을 제대로
+발휘할 수는 없습니다.
+[wait][clear][color(yellow)]이고르[color(white)]
+그건 새롭게 소환한 페르소나일수록
+그러한 경향이 현저하게 나타나죠…
+[wait][clear][color(yellow)]이고르[color(white)]
+그렇기에 처음에는 페르소나가 가진 본래의 능력의
+일부분밖에 발휘할 수 없을 것입니다.
+[wait][clear][color(yellow)]이고르[color(white)]
+하지만 페르소나를 발동시킬수록
+점점 능숙하게 됩니다.
+능력이 늘어나고 더 강력한 공격도 가능하게 되죠.
+[wait][clear][color(yellow)]이고르[color(white)]
+물론 그것은 페르소나를 능숙하게 다루게 된
+결과이기에 발동에 필요한 SP가 바뀌지는 않습니다.
+[wait][clear][color(yellow)]이고르[color(white)]
+조금 뉘앙스가 다르지만, 이렇게 당신이 숙달되는 것을
+「페르소나의 성장」이라고 생각하셔도 될 겁니다.
+[wait][clear][color(yellow)]이고르[color(white)]
+페르소나의 성장에는 8개의 단계가 있습니다.
+매 단계마다 페르소나에 변화가 나타날 것입니다.
+[wait][clear][color(yellow)]이고르[color(white)]
+또한 페르소나는 당신 자신의 성장에도
+조금이나마 영향을 줍니다.
+[wait][clear][color(yellow)]이고르[color(white)]
+당신의 능력의 어느 부분에 영향을 줄지는
+강마하고 있는 페르소나의 종류에 따라 다릅니다.
+그 점도 고려해 주십시오.
+[wait][clear][end]"
 "msg_26","[color(yellow)]イゴール[color(white)]
 ペルソナは貴方の半身…
 全てのペルソナは、貴方と繋がっております…
