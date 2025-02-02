@@ -21,8 +21,8 @@
 ありません。
 [sync][wait][clear][end]","[color(yellow)]관할구역의 젊은 형사[color(white)]
 진정하시지요, 선생님.
-저희도 그 학생이 피의자라고 단정짓는 것이
-않습니다.
+저희도 그 학생이 피의자라고 단정짓고 있는 것은
+아닙니다.
 [sync][wait][clear][end]"
 "msg_3","[color(yellow)]所轄の若い刑事[color(white)]
 大体、あんな殺し方は、大の男でも…
@@ -101,7 +101,7 @@
 男っぽくさっぱりとした性格と、
 生徒の自主性を重んじる教育方針で慕われている。[color(white)]
 [sync][wait][clear][end]","[color(yellow)]타카미 사에코[color(white)]
-[color(green)]칠자매학원, 통칭 세븐스의 3-B 담임.
+[color(green)]칠자매학원, 통칭 세븐스의 3학년 B반 담임.
 남자같은 시원시원한 성격과,
 학생의 자주성에 무게를 둔 교육 방침으로 인기가 많다.[color(white)]
 [sync][wait][clear][end]"
@@ -119,7 +119,7 @@
 [sync][wait][clear][end]","[color(yellow)]사에코 선생[color(white)]
 상관은 없지만...
 너무 학생들을 자극하지는 말아주세요.
-그 엽기살인 때문에 학생들이 진정하지를 않아서...
+그 엽기살인 때문에 학생들이 진정이 되질 않는 모양이니까요...
 [sync][wait][clear][end]"
 "msg_16","[color(yellow)]うらら[color(white)]
 まさか…何かあったとか？
@@ -147,16 +147,16 @@ JOKER님 소문이요?
 ＪＯＫＥＲ様にお願いすると、
 気に入らない人を殺してくれるってアレでしょ？
 [wait][clear][end]","[color(yellow)]사에코 선생[color(white)]
-자신의 휴대전화로 자기 번호로 전화를 하고
+자신의 휴대전화로 자기 번호에 전화를 걸고
 JOKER님에게 소원을 빌면
-마음에 안 드는 사람을 죽일 수 있다고 하는 거 맞나요?
+마음에 안 드는 사람을 죽일 수 있다는 거였죠?
 [wait][clear][end]"
 "msg_20","[color(yellow)]冴子先生[color(white)]
 誰が言い出したんだか知らないけど、嫌な噂だね。
 まだ、占いで騒いでる方が可愛げあるわ…
 [sync][wait][clear][end]","[color(yellow)]사에코 선생[color(white)]
-누가 먼저 말한 거인지도 모르는 기분 나쁜 소문이네요.
-차라리 점 본 거로 떠들고 있으면 좋겠는데...
+누가 먼저 얘기를 꺼냈는지도 모르겠지만, 기분 나쁜 소문이네요.
+차라리 점 본 내용으로 소란 떠는 편이 더 귀염성 있겠어요...
 [sync][wait][clear][end]"
 "msg_21","[color(yellow)]冴子先生[color(white)]
 とりあえず生徒達には、
@@ -215,16 +215,16 @@ JOKER 같은 거, 단순히 소문이라고 생각했는데...
 ほら、月刊「メー」ってあるでしょう？
 [wait][clear][end]","[color(yellow)]카시하라 선생[color(white)]
 이야~ 어서오세요.
-저 기자님 회사 오컬트 잡지 팬이에요.
+저, 기자님 회사에서 내는 오컬트 잡지 팬이에요.
 그, 월간 메... 라고 있지 않나요?
 [wait][clear][end]"
 "msg_30","[color(yellow)]橿原先生[color(white)]
 私も昔は、古代文明のＵＦＯが街の地下にある！
 なんて本を書いたりしたもんですが、ああいうのは
 エンターテイメントとして楽しむのが一番ですね。
-[wait][clear][end]","[color(yellow)]카시하라 선생카시하라 선생[color(white)]
+[wait][clear][end]","[color(yellow)]카시하라 선생[color(white)]
 저도 옛날에 고대 문명의 UFO가 마을 지하에 있다!
-라는 책을 쓴 적이 있는데, 그런 거는
+라는 책을 쓰기도 했습니다만, 그런 거는
 재미로 즐기는 게 가장 좋죠.
 [wait][clear][end]"
 "msg_31","[color(yellow)]橿原先生[color(white)]
@@ -233,29 +233,45 @@ JOKER 같은 거, 단순히 소문이라고 생각했는데...
 い…いや、そんな訳ありませんよね。
 [wait][clear][end]","[color(yellow)]카시하라 선생[color(white)]
 그 교장 선생님이 살해당하셨다니...
-호, 혹시 라스트 바탈리온이라건가...
+호, 혹시 라스트 바탈리온이...
 아, 아니, 그럴 일은 없지만서도.
 [wait][clear][end]"
 "msg_32","[color(yellow)]麻生先生[color(white)]
 あーそう。当校の生徒を取材しに来たと。
 だけどもう下校時間を過ぎてるので、
 あまり生徒は残っておらんよ。
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]마야 선생[color(white)]
+아- 그렇군요. 이 학교의 학생을 취재하러 오셨다고요.
+하지만 이미 하교 시간이 지나서
+학생은 그렇게 많이 남아있지 않아요.
+[wait][clear][end]"
 "msg_33","[color(yellow)]麻生先生[color(white)]
 あーそう、校長先生が殺されたの？あーそう。
 ……ってことはもしかして、殺人鬼がまだ
 校舎の中に居るかもしれないの？あーそう。
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]마야 선생[color(white)]
+아- 그렇군요, 교장 선생님께서 살해당하셨다? 아- 그렇군요.
+......그렇다는 건 혹시, 살인마가 아직
+학교 건물 안에 있을지도 모른단 건가요? 아- 그렇군요.
+[wait][clear][end]"
 "msg_34","[color(yellow)]草加先生[color(white)]
 そうかー、また猟奇殺人が起きたかー、そうかー！
 しかも殺されたのは前に杏奈を轢いた男かー！
 そうかー！それで警察が来てるのかー！
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]쿠사카 선생[color(white)]
+그렇구나-, 또 엽기살인이 일어났구나- 그렇구나-!
+게다가 살해당한 건 전에 안나를 뺑소니한 남자인가-!
+그렇구나-! 그래서 경찰이 와 있는 건가-!
+[wait][clear][end]"
 "msg_35","[color(yellow)]草加先生[color(white)]
 そうかー！
 校長室で殺人事件が起きてしまったかー！
 そうかー！これは一大事だー！
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]쿠사카 선생[color(white)]
+그렇구나-!
+교장실에서 살인사건이 일어나버린 거구나-!
+그렇구나-! 이건 중대사항이다-!
+[wait][clear][end]"
 "msg_36","[color(yellow)]草加先生[color(white)]
 …というわけで手を貸してくれー！
 そうかー！引きうけてくれるかー！
@@ -264,7 +280,15 @@ JOKER 같은 거, 단순히 소문이라고 생각했는데...
 私は各教室を見まわらなくてはならないー！
 そこで君達には四階の時計台をお願いしたいー！
 これが[color(green)][var(msg_var_0)][color(white)]だー！よろしくー！！
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]쿠사카 선생[color(white)]
+...이렇게 된 고로 좀 도와주게-!
+그런가-! 일을 맡아주겠다는 건가-!
+이렇게 고마울 데가-!
+[wait][clear][color(yellow)]쿠사카 선생[color(white)]
+나는 각 교실을 순찰해야 한다네-!
+그래서 자네들에게 4층의 시계탑을 맡기고 싶다네-!
+이게 [color(green)][var(msg_var_0)][color(white)]일세-! 잘 부탁하네-!!
+[wait][clear][end]"
 "msg_37","[color(yellow)]草加先生[color(white)]
 ところでどうかしましたかー？
 えー？校務員室から
@@ -273,7 +297,15 @@ JOKER 같은 거, 단순히 소문이라고 생각했는데...
 むー！？誰かが持ち出したのかー？
 とりあえずこれが予備の[color(green)][var(msg_var_0)][color(white)]ですー！
 使ってくださいー！！
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]쿠사카 선생[color(white)]
+그런데 무슨 일이 있었나요-?
+뭐라고요-? 교무실에서
+시계탑의 열쇠가 없어졌다고요-?
+[wait][clear][color(yellow)]쿠사카 선생[color(white)]
+음-!? 누군가가 가지고 나간 건가-?
+일단 여기 예비용 [color(green)][var(msg_var_0)][color(white)]입니다-!
+사용해 주세요-!!
+[wait][clear][end]"
 "msg_38","[color(green)]舞耶達は、
 [item_with_type(item_ffff)]を手に入れた。[color(white)]
 [wait][clear][end]","[color(green)]마야 일행은
@@ -283,7 +315,11 @@ JOKER 같은 거, 단순히 소문이라고 생각했는데...
 まだ犯人がどこかにいるかもしれんー！！
 それはそれで怖いー！
 生徒達は大丈夫だろうかー！
-[wait][clear][end]",""
+[wait][clear][end]","[color(yellow)]쿠사카 선생[color(white)]
+아직 범인이 어딘가에 있을지도 몰라-!!
+그건 그것대로 무서워-!
+학생들은 괜찮은 건가-!
+[wait][clear][end]"
 "msg_40","[color(yellow)]克哉[color(white)]
 ヘリオス…あれがもう一人の僕だと言うのか…
 自分の知らないもう一人の自分…か。
