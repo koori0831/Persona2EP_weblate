@@ -1,32 +1,52 @@
 "location","source","target"
 "msg_0","[color(yellow)]うらら[color(white)]
 あ、あそこあそこ！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]우라라[color(white)]
+아, 저기다, 저기!
+[sync][wait][clear][end]"
 "msg_1","[color(yellow)]ＪＯＫＥＲ[color(white)]
 レイディ、お前は俺の仲間だ。
-[end]",""
+[end]","[color(yellow)]ＪＯＫＥＲ[color(white)]
+레이디, 너는 내 동료야.
+[end]"
 "msg_2","迎えに来たんだよ。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","널 배웅하러 왔어.
+[sync][wait][clear][end]"
 "msg_3","[color(yellow)]杏奈[color(white)]
 あんたなんか知らない…
-[end]",""
+[end]","[color(yellow)]안나[color(white)]
+난 당신같은 사람 몰라...
+[end]"
 "msg_4","私は、ＪＯＫＥＲ呪いなんかしてない…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","나는, JOKER 놀이 따윈 한 적 없어...
+[sync][wait][clear][end]"
 "msg_5","[color(yellow)]ＪＯＫＥＲ[color(white)]
 心配するこたねぇ。
-[end]",""
+[end]","[color(yellow)]ＪＯＫＥＲ[color(white)]
+걱정할 것 없어.
+[end]"
 "msg_6","俺の事も「向こう側」の事も、すぐにわかる。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","나에 대한 것도 ""건너편""에 대한 것도, 금방 알게 될 거야.
+[sync][wait][clear][end]"
 "msg_7","[color(yellow)]ＪＯＫＥＲ[color(white)]
 そうすりゃお前も、
 「こっち側」が間違いだって気づく。
-[end]",""
+[end]","[color(yellow)]ＪＯＫＥＲ[color(white)]
+그렇게 되면 너도,
+""이쪽""이 잘못되었다는 것을 깨닫게 되겠지.
+[end]"
 "msg_8","悪いようにはしねぇ、一緒に来い。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","나쁜 짓은 하지 않아, 함께 가자.
+[sync][wait][clear][end]"
 "msg_9","[color(yellow)]克哉[color(white)]
 ５０１号、その子から離れろ！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+501호, 그 아이에게서 떨어져라!
+[sync][wait][clear][end]"
 "msg_10","[color(yellow)]ＪＯＫＥＲ[color(white)]
 邪魔すんじゃねぇ！！
 てめぇらはそいつらの相手でもしてろぉ！！
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]ＪＯＫＥＲ[color(white)]
+방해하지 마라!!
+네 녀석들은 그놈들의 상대라도 하고 있으시지!!
+[sync][wait][clear][end]"
