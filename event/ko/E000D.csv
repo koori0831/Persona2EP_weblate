@@ -1,32 +1,54 @@
 "location","source","target"
 "msg_0","[color(yellow)]ＪＯＫＥＲ[color(white)]
 やるじゃねぇか。
-[end]",""
+[end]","[color(yellow)]ＪＯＫＥＲ[color(white)]
+꽤 하는걸.
+[end]"
 "msg_1","しようがねぇ、ちょっと寝てろや。
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","어쩔 수 없군, 잠깐 잠이라도 자고 있으라고.
+[sync][wait][clear][end]"
 "msg_2","[color(yellow)]克哉[color(white)]
 クッ…！？
 しま…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]카츠야[color(white)]
+큭...!?
+이런...
+[sync][wait][clear][end]"
 "msg_3","[color(yellow)]ＪＯＫＥＲの声[color(white)]
 て、てめぇは…！？
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]ＪＯＫＥＲ의 목소리[color(white)]
+네... 네놈은!?
+[sync][wait][clear][end]"
 "msg_4","[color(yellow)]デジャ・ヴュの少年[color(white)]
 ヤツは逃げた…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]데자뷰의 소년[color(white)]
+그 녀석은 도망쳤어...
+[sync][wait][clear][end]"
 "msg_5","[color(yellow)]デジャ・ヴュの少年（デジャ・ヴュのしょうねん）[color(white)]
 [color(green)]以前駅前でぶつかった大人びた少年。
 なぜか、それよりもずっと前から
 知っているような気がする…[color(white)]
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]데자뷰의 소년[color(white)]
+[color(green)]전에 역 앞에서 부딪혔던 어른스러운 소년.
+어째서인지, 그보다도 줄곧 전부터
+알고 있었던 느낌이 든다...[color(white)]
+[sync][wait][clear][end]"
 "msg_6","[color(yellow)]デジャ・ヴュの少年[color(white)]
 青葉区の、葛葉という探偵事務所に行け…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]데자뷰의 소년[color(white)]
+아오바 구에 있는, 쿠즈노하라는 탐정사무소로 가...
+[sync][wait][clear][end]"
 "msg_7","[color(yellow)]デジャ・ヴュの少年[color(white)]
 その紋章を持っていれば、ヤツに狙われても
 安全だという噂を広げてもらうんだ…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]데자뷰의 소년[color(white)]
+그 문장을 가지고 있으면, 녀석의 타겟이 되어도
+안전하다는 소문을 퍼뜨려 달라고 해...
+[sync][wait][clear][end]"
 "msg_8","[color(yellow)]デジャ・ヴュの少年[color(white)]
 それを最後に、もうこの件には関わるな…
 全部…忘れるんだ…
-[sync][wait][clear][end]",""
+[sync][wait][clear][end]","[color(yellow)]데자뷰의 소년[color(white)]
+그걸 끝으로, 이제 이 일과는 엮이지 마...
+전부... 잊어야 해...
+[sync][wait][clear][end]"
